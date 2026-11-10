@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2024-29643",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-29643__From_GARCH_to_Neural_Network_for_Volatility_Forecast.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 502907,
+  "sha256": "dcbe9dcb979688d0f9982e4939f015343aa3abcab8e5b94f92204ad2a0fd2c43",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29643/31092",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29643/31092",
+  "downloaded_at_utc": "2026-11-10T02:15:49.626231+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Pengfei Zhao",
+      "Haoren Zhu",
+      "Wilfred Siu Hung NG",
+      "Dik Lun Lee"
+    ],
+    "identity_verified": true
+  }
+}

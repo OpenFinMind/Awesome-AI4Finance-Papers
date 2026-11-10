@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2024-29069",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-29069__Provably_Powerful_Graph_Neural_Networks_for_Directed_Multigraphs.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 141136,
+  "sha256": "00fd402b5da78be36dfe803b8737bb99fd33270e891f0ddfdce9f1a13735f433",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29069/30025",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29069/30025",
+  "downloaded_at_utc": "2026-11-10T02:15:48.170994+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Béni Egressy",
+      "Luc Von Niederhäusern",
+      "Jovan Blanuša",
+      "Erik Altman",
+      "Roger Wattenhofer",
+      "Kubilay Atasu"
+    ],
+    "identity_verified": true
+  }
+}

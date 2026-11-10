@@ -1,0 +1,29 @@
+{
+  "id": "aaai-2021-16834",
+  "title": "ExGAN: Adversarial Generation of Extreme Samples",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16834",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 64901,
+  "passages": [
+    {
+      "match": "elliptic",
+      "offset": 49839,
+      "excerpt": "conditional wasserstein GAN. Thibaud, E.; and Opitz, T. 2015. Efficient inference and In EMBC. simulation for elliptical Pareto processes. Biometrika . Ma, X.; Li, B.; Wang, Y.; Erfani, S. M.; Wijewickrema, S.; Thomas, A.; Clémençon, S.; Gramfort, A.; and Sabourin, A. Schoenebeck, G.; Song, D.; Houle, M. E.; and Bailey, J. 2018. 2017. Anomaly Detection in Extreme Regions via Empirical Characterizing Adversarial Subspaces Using Local Intrinsic "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Siddharth Bhatia",
+      "Arjit Jain",
+      "Bryan Hooi"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2009.08454",
+    "version": "arxiv_author_version"
+  }
+}

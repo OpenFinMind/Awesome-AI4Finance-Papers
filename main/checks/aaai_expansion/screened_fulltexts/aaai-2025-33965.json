@@ -1,0 +1,35 @@
+{
+  "id": "aaai-2025-33965",
+  "title": "Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33965",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 114025,
+  "passages": [
+    {
+      "match": "stock price",
+      "offset": 62348,
+      "excerpt": ", 459–469. Li, M.; Zhu, Y.; Shen, Y.; and Angelova, M. 2023a. Elliott, G.; Rothenberg, T. J.; and Stock, J. H. 1992. Efficient Clustering-enhanced stock price prediction using deep tests for an autoregressive unit root. learning. World wide web, 26(1): 207–232. Li, S.; Jin, X.; Xuan, Y.; Zhou, X.; Chen, W.; Wang, Y.-X.; Fan, W.; Wang, P.; Wang, D.; Wang, D.; Zhou, Y.; and Fu, Y. and Yan, X. 2019. Enhanc"
+    },
+    {
+      "match": "exchange_rate",
+      "offset": 109358,
+      "excerpt": " 0.24 0.190 0.3 exchange_rate_96 exchange_rate_192 1.6 exchange_rate_336 exchange_rate_720 0.100 0.71 "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "HyunGi Kim",
+      "Siwon Kim",
+      "Jisoo Mok",
+      "Sungroh Yoon"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2501.04970",
+    "version": "arxiv_author_version"
+  }
+}

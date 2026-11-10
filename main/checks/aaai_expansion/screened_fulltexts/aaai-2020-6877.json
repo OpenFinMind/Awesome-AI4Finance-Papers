@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2020-6877",
+  "title": "Efficient Residual Dense Block Search for Image Super-Resolution",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/6877",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 64738,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Dehua Song",
+      "Chang Xu",
+      "Xu Jia",
+      "Yiyi Chen",
+      "Chunjing Xu",
+      "Yunhe Wang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1909.11409",
+    "version": "arxiv_author_version"
+  }
+}

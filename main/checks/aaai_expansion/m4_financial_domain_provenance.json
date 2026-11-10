@@ -1,0 +1,22 @@
+{
+  "url": "https://raw.githubusercontent.com/Mcompetitions/M4-methods/master/Dataset/M4-info.csv",
+  "retrieved_at_utc": "2026-11-10T02:37:31.400244+00:00",
+  "sha256": "26a75cc9b9f65e351b39b0bdbb7e3464ac837df0baf541ab55abdd2ba1a14c88",
+  "rows": 100000,
+  "category_counts": {
+    "Macro": 19402,
+    "Micro": 25121,
+    "Demographic": 8708,
+    "Industry": 18798,
+    "Finance": 24534,
+    "Other": 3437
+  },
+  "finance_by_frequency": {
+    "Yearly": 6519,
+    "Quarterly": 5305,
+    "Monthly": 10987,
+    "Weekly": 164,
+    "Daily": 1559
+  },
+  "note": "M4-Hourly alone is not financial evidence. Admissions based on M4 require non-hourly subsets actually used in the paper."
+}

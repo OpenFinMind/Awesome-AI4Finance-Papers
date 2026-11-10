@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2021-16582",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16582__Towards_Consumer_Loan_Fraud_Detection_Graph_Neural_Networks_with_Role_Constrained_Conditional_Random_Field.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1017002,
+  "sha256": "bf4f749fbadd5d63a34d4505d00ad11c453e734f3a7fb624b3f4008abf6dd878",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16582/16389",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16582/16389",
+  "downloaded_at_utc": "2026-11-10T02:15:43.063194+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Bingbing Xu",
+      "Huawei Shen",
+      "Bingjie Sun",
+      "Rong An",
+      "Qi Cao",
+      "Xueqi Cheng"
+    ],
+    "identity_verified": true
+  }
+}

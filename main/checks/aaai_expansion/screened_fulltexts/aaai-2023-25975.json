@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2023-25975",
+  "title": "Multi-View MOOC Quality Evaluation via Information-Aware Graph Representation Learning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25975",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 60124,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Lu Jiang",
+      "Yibin Wang",
+      "Jianan Wang",
+      "Pengyang Wang",
+      "Minghao Yin"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2301.01593",
+    "version": "arxiv_author_version"
+  }
+}

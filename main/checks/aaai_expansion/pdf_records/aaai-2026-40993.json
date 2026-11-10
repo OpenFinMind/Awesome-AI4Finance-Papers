@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2026-40993",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-40993__Causal_Inference_Under_Threshold_Manipulation_Bayesian_Mixture_Modeling_and_Heterogeneous_Treatment_Effects.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 293175,
+  "sha256": "5dff24cc48717ce9f371a514bc5efaf06bb20de28ae355219fd1339879f82ee1",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40993/44954",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40993/44954",
+  "downloaded_at_utc": "2026-11-10T02:16:02.416177+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Kohsuke Kubota",
+      "Shonosuke Sugasawa"
+    ],
+    "identity_verified": true
+  }
+}

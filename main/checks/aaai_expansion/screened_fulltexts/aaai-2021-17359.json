@@ -1,0 +1,106 @@
+{
+  "id": "aaai-2021-17359",
+  "title": "Is the Most Accurate AI the Best Teammate? Optimizing AI for Teamwork",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17359",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 67711,
+  "passages": [
+    {
+      "match": "Fico",
+      "offset": 19601,
+      "excerpt": " 2 10000 0.50 ure 3). Thus, the gradient was zero and uninformative over German 24 1000 0.30 Fico 39 9861 0.52 these ranges. To overcome this issue, we initialized the clas- Recidivism 13 6172 0.46 sifiers with the (already converged) most accurate classifier. MIMIC 714 21139 "
+    },
+    {
+      "match": "Fico",
+      "offset": 20338,
+      "excerpt": "ility Table 2: Number of features and size of binary classifica- (Equation 5) and empirical team utility, which draws dis- tion datasets used for experiments. The original Fico dataset crete rewards from the pay-off described in Table 1. A key contains 23 features but 39 after preprocessing categorical difference between expected and empirical utilities is that features into binary features. the former incentivizes systems that output a calibrated be- "
+    },
+    {
+      "match": "German credit",
+      "offset": 23080,
+      "excerpt": "mize ex- Datasets We experimented with two synthetic datasets and pected utility (Morgenstern and Von Neumann 1953). Max- four real-world binary classification datasets: German credit imizing expected utility requires the use of calibrated prob- lending dataset (Hofmann 1994), FICO credit risk assess- abilities, which is an aspect that is not reflected in empirical ment (Fico 2018), recidivism prediction (ProPublica 2016), utility. Moreover, expected utility optimization is useful in and MIMIC-3 mortality"
+    },
+    {
+      "match": "Fico",
+      "offset": 26986,
+      "excerpt": " Expected Utility Loss Classifier Dataset Accuracy Expected Util. Emp. Util. ∆ Accuracy ∆ Expected Util. ∆ Emp. Util. Fico 0.729 0.487 0.575 -0.247 0.013 -0.075 German 0.754 0.529 0.594 -0.015 0 -0.019 MIMIC 0.881 0.694 0.8 -0.004 0.066 "
+    },
+    {
+      "match": "Fico",
+      "offset": 27772,
+      "excerpt": " 0.015 -0.02 Scenario1 0.858 0.524 0.593 -0.165 0.102 0.061 Fico 0.725 0.472 0.574 -0.244 0.028 -0.074 German 0.752 0.53 0.618 -0.036 -0.027 -0.056 MIMIC 0.881 0.719 0.799 -0.001 0.049 "
+    },
+    {
+      "match": "Fico",
+      "offset": 29287,
+      "excerpt": " though expected utility increased. Dataset Expected Util LL Emp. Util LL ∆Expected Util (A) ∆ Emp. Util (B) ∆∗ Emp. Util (C) Fico-2d 0.475 0.511 0.025 -0.011 -0.004 German-2d 0.514 0.6 0.076 -0.004 -0.016 MIMIC-2d 0.641 0.772 0.121 -0.009 0.005 "
+    },
+    {
+      "match": "Fico",
+      "offset": 30662,
+      "excerpt": "me time, exhaustive search shows existence of linear classifiers with higher empirical utility (column marked C). Values were averaged over five seeds. Observations in column C on Fico-2d and German-2d were negative on test set due to over-fitting. mismatch. To pursue this conjecture, we developed two- utility) provide a global understanding of the classifier be- dimensional versions of our dataset (by selecting two top havior, here we attempt to understand how these improve- most"
+    },
+    {
+      "match": "Fico",
+      "offset": 34547,
+      "excerpt": " dataset a=0.8 a=0.9 a=1 Fico 0.257 (0.133) 0.337 (0.071) 0.487 (0.013) German 0.397 (0.046) 0.444 (0.035) 0.529 (0) MIMIC 0.625 (0.127) 0.644 (0.111) 0.694 (0.066) "
+    },
+    {
+      "match": "Fico",
+      "offset": 36044,
+      "excerpt": " dataset β=1 β=3 β=5 Fico 0.487 (0.013) 0.474 (0.026) 0.481 (0.019) German 0.529 (0) 0.427 (0.057) 0.367 (0.118) MIMIC 0.694 (0.066) 0.58 (0.008) 0.543 (0) "
+    },
+    {
+      "match": "Fico",
+      "offset": 39588,
+      "excerpt": "ame behavior on the MIMIC in-hospital mortality when humans are less accurate, e.g., Table 5 shows that, on prediction dataset. Fico, improvement in expected utility is 0.133 when the hu- An interesting exception was Fico, where the system man is 80% accurate whereas it is 0.013 when they are per- learned to always be uncertain. This may make sense for fect. One explanation for this behavior is that when humans the Fico domain because, as shown in Table "
+    },
+    {
+      "match": "Fico",
+      "offset": 39903,
+      "excerpt": "% accurate whereas it is 0.013 when they are per- learned to always be uncertain. This may make sense for fect. One explanation for this behavior is that when humans the Fico domain because, as shown in Table 3, even though are less accurate there is greater value from system recom- the most accurate linear classifier is 73% accurate on Fico, mendations, which widens the Accept region and increases it achieves an expected team utility of 0.487. This is less the scope where the AI can provide value to"
+    },
+    {
+      "match": "Fico",
+      "offset": 58990,
+      "excerpt": "In decisions and designs about the role and behavior of AI in KDD. human-AI teamwork in future work. Fico. 2018. Explainable Machine Learning Chal- Finally, we recognize that significant ethical issues are lenge. https://community.fico.com/s/explainable-machine- raised by the nature of human oversight and agency over learning-challenge. AI in our simplified human-AI teaming. Our formulation of user policy assumed that, wh"
+    },
+    {
+      "match": "German Credit",
+      "offset": 62156,
+      "excerpt": "strin, C. 2016. \"Why methodologies. Artificial intelligence review 22(2): 85–126. should I trust you?\": Explaining the predictions of any clas- Hofmann, H. 1994. Statlog (German Credit Data) sifier. In KDD. Data Set. https://archive.ics.uci.edu/ml/datasets/statlog+ Weld, D. S.; and Bansal, G. 2019. The Challenge of Crafting (german+credit+data). Intelligible Intelligence. CACM 62: 70–79. Horvitz, E.; Heckerman, D.; Nathwani, B.; and Fagan, L. Wilder, B.; Horvitz, "
+    },
+    {
+      "match": "Fico",
+      "offset": 66289,
+      "excerpt": "ior of new and old linear classifiers (β = 1, λ = 0.5, a = 1) on rest of the datasets. On Moons and German we observe a similar shift in performance into the the Accept region. On Fico and Recidivism, as mentioned in the primary results before, the classifier learns that the expected utility of the most accurate classifier is less than that of the human performing the task by themselves, and hence, the classifier instead learns to be always uncertain. Note the new classifier still improve expected team utility, although for diff"
+    },
+    {
+      "match": "Fico",
+      "offset": 67243,
+      "excerpt": "y the decrease in utility from the low confidence regions (V4). Figure 8: Differences in behavior of linear classifier when the human is not perfect (β = 1, λ = 0.5, a = 0.8). On Fico and Recidivism, contrary to the case when human is perfect, the retrained classifier did not learn to be uncertain at all times. Instead, like for Mimic when human is perfect, the classifier improved performance on Fico and Recidivism in the Accept region. This is perhaps because as the human becomes less accurate the region in which the AI assist"
+    },
+    {
+      "match": "Fico",
+      "offset": 67463,
+      "excerpt": "e when human is perfect, the retrained classifier did not learn to be uncertain at all times. Instead, like for Mimic when human is perfect, the classifier improved performance on Fico and Recidivism in the Accept region. This is perhaps because as the human becomes less accurate the region in which the AI assistance is useful increases increasing the scope for the classifier to adjust and increase team’s expected utility. "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Gagan Bansal",
+      "Besmira Nushi",
+      "Ece Kamar",
+      "Eric Horvitz",
+      "Daniel S. Weld"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2004.13102",
+    "version": "arxiv_author_version"
+  }
+}

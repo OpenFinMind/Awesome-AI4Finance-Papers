@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2026-39596",
+  "title": "Supervised Dynamic Dimension Reduction with Deep Neural Network",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39596",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 93619,
+  "passages": [
+    {
+      "match": "stock return",
+      "offset": 64485,
+      "excerpt": "sets for each model to obtain its period from July 1963 to December 2019, which consists of cumulative normalized error. The cumulative normalized er- 50 signals measuring stock returns. During preprocessing, rors across datasets are plotted in Figure 2(a) to demonstrate we augment the dataset by adding the return of each stock. each model’s overall forecasting performance. A smaller cu- Subsequently, we construct a long-short portfolio using the mulative error indicates better overall performance. first and"
+    },
+    {
+      "match": "financial data",
+      "offset": 72140,
+      "excerpt": "ware transformation and dataset–where the effect is around 10% due to high dimen- PCA can the SDDP framework extract highly target-relevant sionality (p = 50) and noisy financial data–the sensitivity latent factors and achieve optimal predictive accuracy. remains small. The window length q has minimal effect (Ta- ble S.6), generally within 2%. Proof of Proposition 1 Ablation Study Without loss of generality, "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zhanye Luo",
+      "Yuefeng Han",
+      "Xiufan Yu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2508.03546",
+    "version": "arxiv_author_version"
+  }
+}

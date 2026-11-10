@@ -1,0 +1,72 @@
+{
+  "id": "aaai-2026-39585",
+  "title": "Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39585",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 90381,
+  "passages": [
+    {
+      "match": "NN5",
+      "offset": 38856,
+      "excerpt": "affic), web (Wike2000), environment where Wave ∈ RN ×d/2+1 represents the degree of change (Weather), and banking (NN5). The details of the datasets of each frequency in each patch, and for the first patch, we are shown in Appendix B.1. set it to Freq1 ; The Topk(·) function selects the k most sig- nificantly changing frequency components for every patch, Baselines thus obtaining Picks ∈ RN ×k"
+    },
+    {
+      "match": "NN5",
+      "offset": 41091,
+      "excerpt": "4 1.052 1.819 0.886 1.902 0.879 2.185 1.040 2.389 1.027 Covid-19 1.351 0.040 5.578 0.112 1.488 0.049 3.326 0.086 5.669 0.123 12.941 0.133 1.697 0.056 8.074 0.239 2.658 0.078 NN5 0.643 0.538 1.794 1.018 0.660 0.550 0.698 0.582 0.811 0.653 0.655 0.593 0.688 0.589 0.691 0.580 1.295 0.915 ETTh 0.369 0.398 0.385 0.416 0.404 0.425 0.388 0.410 0.371 0.406 0.388 0.419 0.384 0.415 0.447 0.453 0.521 0.493 ETTm 0.297 0.338 0.327 0.364 0.314 0.358 0.305 0.341 0.305 0.345 0.306 0.349 0.302 0.347 0.307 0.351 0.456 "
+    },
+    {
+      "match": "NN5",
+      "offset": 42083,
+      "excerpt": " 0 0 0 0 0 0 Table 1: Multivariate forecasting results. Results are averaged from all forecasting horizons. The input lengths of ILI, Covid-19, and NN5 are selected from 36, 104, while the remaining datasets are selected from 96, 336, 512. The best results are highlighted in bold, and the second-best results are underlined. ETTh and ETTm represent the average of ETTh1 and ETTh2 and the average of ETTm1 and ETTm2. Due to space limitations, only a part is displayed; the full results are listed in A"
+    },
+    {
+      "match": "NN5",
+      "offset": 42627,
+      "excerpt": ". Settings provements but also maintains stable performance across di- For the forecasting horizon, the ILI, Covid-19, NN5, and verse time series datasets, demonstrating strong adaptability Wike2000 datasets are evaluated using prediction lengths of to varying data distributions and temporal patterns. 24, 36, 48, 60, while the remaining datasets employ predic- tion lengths of 96, 192, 336, 720. DTAF is optimized using Ablation Studies the A"
+    },
+    {
+      "match": "NN5",
+      "offset": 45406,
+      "excerpt": "ght distributions. Both samples 1 datasets such as Covid-19 (reduces MSE by 49.0% and and 3 share similar seasonality and similar trend patterns, MAE by 50.0%) and NN5 (reduces MSE by 50.4% and which indicates that they may have similar non-stationarity, MAE by 41.2%), proving the effectiveness of DTAF in thereby yielding similar weight distributions. In contrast, the modeling non-stationary data. 2) Robust Predictive Ca- patterns of sample 2 diverge from samples "
+    },
+    {
+      "match": "NN5",
+      "offset": 46932,
+      "excerpt": "0.729 0.574 0.725 0.571 As shown in the left figure of Figure 5, it is a sampled NN5 36 0.644 0.537 0.659 0.550 0.659 0.554 0.660 0.554 48 0.621 0.535 0.623 0.540 0.632 0.549 0.635 0.552 time series. We divided it into four patches and aligned 60 0.593 0.522 0.608 0.535 0.597 0.527 0.608 0.536 "
+    },
+    {
+      "match": "NN5",
+      "offset": 69256,
+      "excerpt": "Th2, ETTm1, ETTm2, Electricity), health (ILI, Covid-19), traffic (Traffic), web • FITS: https://github.com/VEWOXIC/FITS (Wike2000), environment (Weather), and banking (NN5). • TimeMixer: https://github.com/kwuking/TimeMixer Detailed statistics of these datasets are provided in the fol- • PatchTST: https://github.com/yuqinie98/PatchTST lowing. • Crossformer:https://github.com/Thinklab-SJTU/ "
+    },
+    {
+      "match": "NN5",
+      "offset": 69740,
+      "excerpt": "hub.com/Thinklab-SJTU/ Crossformer Dataset Domain Frequency Timestamps Channels Split NN5 Banking 1 day 791 111 7:1:2 • TimesNet: https://github.com/thuml/TimesNet ILI Health 1 week 966 7 7:1:2 • DLinear: https://github.com/cure-lab/LTSF-Linear Covid-19 Health 1 day 1,392 948 7:1:2 ETTh1 Electricity 1 hour "
+    },
+    {
+      "match": "NN5",
+      "offset": 82104,
+      "excerpt": "8 0.685 0.727 0.568 0.769 0.602 0.870 0.663 0.723 0.723 0.740 0.596 0.741 0.591 0.739 0.579 0.752 0.594 1.274 0.900 NN5 36 0.644 0.537 1.392 0.897 0.664 0.552 0.701 0.583 0.814 0.655 0.657 0.557 0.694 0.595 0.703 0.589 0.717 0.585 0.690 0.578 1.318 0.930 48 0.621 0.535 2.196 1.170 0.633 0.543 0.668 0.573 0.780 0.644 0.630 "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Junkai Lu",
+      "Peng Chen",
+      "Chenjuan Guo",
+      "Yang Shu",
+      "Meng Wang",
+      "Bin Yang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.08229",
+    "version": "arxiv_author_version"
+  }
+}

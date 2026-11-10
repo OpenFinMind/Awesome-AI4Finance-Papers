@@ -1,0 +1,37 @@
+{
+  "id": "aaai-2024-29443",
+  "title": "Learning Not to Regret",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29443",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 86047,
+  "passages": [
+    {
+      "match": "stock market",
+      "offset": 2029,
+      "excerpt": ", solve dynamical routing problems, or trade correlated assets on the stock market. The literature on game-theoretic equilibrium finding predomi- nantly focuses on single games or their repeated play. Never- These games, while similar, are not identical and can be theless, numerous real-world scen"
+    },
+    {
+      "match": "stock market",
+      "offset": 2896,
+      "excerpt": "er with different public cards or trading few recent exceptions such as (Harris et al. 2022; Zhang et al. correlated assets on the stock market. As these similar games 2022). feature similar equilibra, we investigate a way to accelerate In this work, we shift focus to this distributional setting. equilibrium finding on such a distribution. We present a novel The black-box environment wh"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "David Sychrovský",
+      "Michal Šustr",
+      "Elnaz Davoodi",
+      "Michael Bowling",
+      "Marc Lanctot",
+      "Martin Schmid"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2303.01074",
+    "version": "arxiv_author_version"
+  }
+}

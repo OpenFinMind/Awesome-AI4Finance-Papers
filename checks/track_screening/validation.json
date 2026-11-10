@@ -1,0 +1,13 @@
+{
+  "main_long_papers": 1310,
+  "findings_long_papers": 187,
+  "all_track_ids_disjoint": true,
+  "all_root_and_track_links_resolve": true,
+  "local_markdown_links_checked": 31617,
+  "main_original_financial_fields_preserved": true,
+  "official_findings_inventory_complete": true,
+  "findings_source_records": 13578,
+  "screening_inventory_records": 121272,
+  "long_paper_evidence_validated": true,
+  "explicit_short_paper_records": 0
+}

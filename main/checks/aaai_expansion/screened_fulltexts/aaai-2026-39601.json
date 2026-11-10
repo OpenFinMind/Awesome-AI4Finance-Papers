@@ -1,0 +1,93 @@
+{
+  "id": "aaai-2026-39601",
+  "title": "OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39601",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 176276,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 35658,
+      "excerpt": " ETTm2, Weather, Electricity, Traffic (Zhou et al. 2021; Lai et al. 2018), and M4 (Makridakis et al. 2018). Performance Lfd = λMSE · LMSE + λcos · Lcosine + λKL · LKL , (15) is measured using MAE and MSE for the first seven datasets, where LMSE measures direct feature similarity, Lcosine cap- while M4 uses SMAPE, MASE, and OWA following com- tures semantic relationships through: "
+    },
+    {
+      "match": "M4",
+      "offset": 35921,
+      "excerpt": " · LKL , (15) is measured using MAE and MSE for the first seven datasets, where LMSE measures direct feature similarity, Lcosine cap- while M4 uses SMAPE, MASE, and OWA following com- tures semantic relationships through: petition protocols (Oreshkin et al. 2019). Dataset details and metric specifications are in Appendix A and B. FT"
+    },
+    {
+      "match": "M4",
+      "offset": 64505,
+      "excerpt": " Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2018. Deng, J.; Dong, W.; Socher, R.; Li, L.-J.; Li, K.; and Fei- The M4 Competition: Results, findings, conclusion and way Fei, L. 2009. Imagenet: A large-scale hierarchical image forward. International Journal of Forecasting, 34(4): 802– database. In CVPR. 808. Goerg, G. 2013. Forecastable component analysis. In Inter- Ni, J.; Zhao, Z.; Shen, C.; Tong,"
+    },
+    {
+      "match": "stock market",
+      "offset": 66772,
+      "excerpt": ". A.; and Agarwal, P. 2019. A pre- 2023. Image-based time series forecasting: A deep convo- diction approach for stock market volatility based on time lutional neural network approach. Neural Networks, 157: series data. IEEE Access, 7: 17287–17298. 39–53. Ismail Fawaz, H.; Forestier, G.; Weber, J.; Idoumghar, L.; Sezer, O. B.; and "
+    },
+    {
+      "match": "M4",
+      "offset": 72559,
+      "excerpt": "5-minute intervals to coarse yearly observations, and demonstrate various periodic patterns that reflect real-world phenomena. For short-term forecasting evaluation, we employ the M4 competition benchmark, which encompasses six temporal granularities (yearly, quarterly, monthly, weekly, daily, and hourly) across multiple domains including demograph- ics, finance, industry, macroeconomics, microeconomics, and other specialized fields. This comprehensive dataset collection provides a rigorous testbed for evaluating forecasting m"
+    },
+    {
+      "match": "M4",
+      "offset": 74539,
+      "excerpt": " 21 {96, 192, 336, 720} (36792, 5271, 10540) 10 min Weather 0.75 144 M4-Yearly 1 6 (23000, 0, 23000) Yearly Demographic 0.43 1 M4-Quarterly 1 8 (24000, 0, 24000) Quarterly Finance 0.47 4 "
+    },
+    {
+      "match": "M4",
+      "offset": 74911,
+      "excerpt": "rterly 1 8 (24000, 0, 24000) Quarterly Finance 0.47 4 Short-term M4-Monthly 1 18 (48000, 0, 48000) Monthly Industry 0.44 12 Forecasting M4-Weekly 1 13 (359, 0, 359) Weekly Macro 0.43 5"
+    },
+    {
+      "match": "M4",
+      "offset": 75285,
+      "excerpt": "ly 1 13 (359, 0, 359) Weekly Macro 0.43 52 M4-Daily 1 14 (4227, 0, 4227) Daily Micro 0.44 7 M4-Hourly 1 48 (414, 0, 414) Hourly Other 0.46 24"
+    },
+    {
+      "match": "M4",
+      "offset": 77247,
+      "excerpt": "rs, including both residential and commercial enti- ties. The dataset exhibits complex daily, weekly, and seasonal consumption patterns reflecting diverse user behaviors. • M4: A comprehensive collection from the Makridakis Forecasting Competition, comprising six subsets with different tem- poral frequencies: Yearly (23,000 series), Quarterly (24,000 series), Monthly (48,000 series), Weekly (359 series), Daily (4,227 series), and Hourly (414 series). Each subset spans different domains including finance, industr"
+    },
+    {
+      "match": "M4",
+      "offset": 78451,
+      "excerpt": "periodicity. The Weather dataset, with its 10-minute sampling resolution, utilizes P = 144, thereby capturing the full 24-hour cycle (24 hours × 6 samples per hour). Regarding the M4 benchmark datasets, the periodicity values are systematically determined according to their respective temporal granularities: P = 1 for yearly data (reflecting annual cycles), P = 4 for quarterly data, P = 3 for monthly data, P = 4 for weekly data, and P = 24 for hourly data (capturing diurnal patterns). These carefully calibrated values are inco"
+    },
+    {
+      "match": "M4",
+      "offset": 79883,
+      "excerpt": "ation purposes, we employ mean squared error (MSE) and mean absolute error (MAE) as metrics for long-term forecasting tasks. In contrast, short-term forecasting performance on the M4 benchmark is assessed using symmetric mean absolute percentage error (SMAPE), mean absolute scaled error (MASE), and overall weighted average (OWA), adhering to the evaluation framework established by N-BEATS (Oreshkin et al. 2019). Note that OWA represents a specialized metric designed for the M4 competition. The computation of these metrics foll"
+    },
+    {
+      "match": "M4",
+      "offset": 80182,
+      "excerpt": " overall weighted average (OWA), adhering to the evaluation framework established by N-BEATS (Oreshkin et al. 2019). Note that OWA represents a specialized metric designed for the M4 competition. The computation of these metrics follows the formulations below: T H 1 X 1 X MSE = (Yh − Ŷh )2 , MAE = |Yh − Ŷh |, "
+    },
+    {
+      "match": "M4",
+      "offset": 115223,
+      "excerpt": "ementing our long-term forecasting results, Table 4 demonstrates our method’s versatility across different temporal scales with forecasting horizons from 6 to 48 time steps on the M4 benchmark. Despite the metric misalignment where our Feature Distillation component (Lf d in Eq. 15) incorporates an MSE loss (LM SE ) while short-term forecasting is evaluated using SMAPE/MASE/OWA metrics, our cross-modal knowledge distillation mechanism still effectively transfers temporal patterns from the teacher model. Our approach achieves c"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Sisuo Lyu",
+      "Siru Zhong",
+      "Weilin Ruan",
+      "Qingxiang Liu",
+      "Qingsong Wen",
+      "Hui Xiong",
+      "Yuxuan Liang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2508.01727",
+    "version": "arxiv_author_version"
+  }
+}

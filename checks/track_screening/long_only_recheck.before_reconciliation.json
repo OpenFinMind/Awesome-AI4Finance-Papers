@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-10",
+  "scope": "Long papers only. Short papers and unverified lengths are outside admitted catalogs.",
+  "admitted_main": 1308,
+  "admitted_findings": 186,
+  "explicit_short_paper_records": 0,
+  "content_boundary_records_reinspected": 355,
+  "late_boundary_cases_visually_checked": 6,
+  "known_short_records_already_excluded": 13,
+  "unverified_main_excluded": 16,
+  "unverified_findings_excluded": 21,
+  "visual_checks": {
+    "2026.emnlp-main.2120": {
+      "track": "main",
+      "title": "HuggingR^4: A Progressive Reasoning Framework for Discovering Optimal Model Companions",
+      "pdf_sha256": "968ad525711d18e4d084b87b418cf968a4ac2272df0025bfbf15ef4570c4c0aa",
+      "paper_url": "https://aclanthology.org/2026.emnlp-main.2120/",
+      "inspected_pdf_page": 6,
+      "main_body_confirmed": true,
+      "method": "Rendered publisher PDF page inspected visually.",
+      "observation": "Section 4.2 Experimental setup and Section 4.4 Results and Analysis."
+    },
+    "2026.emnlp-main.1125": {
+      "track": "main",
+      "title": "Jasper-Flash: Elastic Token Compression and Progressive Distillation for Inference-Scalable Text Embedding Models",
+      "pdf_sha256": "bb40106069c9de27e29cadd1ef356edff8d3bc4578685c1bb3a45271ee496107",
+      "paper_url": "https://aclanthology.org/2026.emnlp-main.1125/",
+      "inspected_pdf_page": 6,
+      "main_body_confirmed": true,
+      "method": "Rendered publisher PDF page inspected visually.",
+      "observation": "Section 4.2 Ablation on Token Compression Module and main result tables."
+    },
+    "2024.findings-acl.467": {
+      "track": "findings",
+      "title": "Mitigating Boundary Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models",
+      "pdf_sha256": "6abf21db4e87f54a59e0f879f21bc0bd5a6054797dad67377652326fcdefcd58",
+      "paper_url": "https://aclanthology.org/2024.findings-acl.467/",
+      "inspected_pdf_page": 6,
+      "main_body_confirmed": true,
+      "method": "Rendered publisher PDF page inspected visually.",
+      "observation": "Section 4.1 Evaluation for the Reduction Stage and Section 4.2 Evaluation for Overall Framework."
+    },
+    "2026.findings-acl.430": {
+      "track": "findings",
+      "title": "Cogito: A Cognitive Agentic Framework Driven by Dynamic Graph of Thoughts for Financial Report Generation",
+      "pdf_sha256": "f8ad74134f36b11f47a7244117f243f1c7848b68894e55a76ad22dea16877237",
+      "paper_url": "https://aclanthology.org/2026.findings-acl.430/",
+      "inspected_pdf_page": 6,
+      "main_body_confirmed": true,
+      "method": "Rendered publisher PDF page inspected visually.",
+      "observation": "Main evaluation tables and discussion of report-generation results."
+    },
+    "2026.findings-acl.1799": {
+      "track": "findings",
+      "title": "Do LLM Agents Really Mimic Humans? Diagnosing and Aligning Microeconomic Behaviors in Macro-ABMs",
+      "pdf_sha256": "2a44215dd1fd23ecadf5ea659fddd59f7ac8ae63c8d41ab9876a27feebf78797",
+      "paper_url": "https://aclanthology.org/2026.findings-acl.1799/",
+      "inspected_pdf_page": 6,
+      "main_body_confirmed": true,
+      "method": "Rendered publisher PDF page inspected visually.",
+      "observation": "Main method description and Section 5 Intervention Experiments."
+    },
+    "2026.findings-acl.694": {
+      "track": "findings",
+      "title": "FinSafetyBench: Evaluating LLM Safety in Real-World Financial Scenarios",
+      "pdf_sha256": "84a76df001b820d6c538aaae25bfae196b51fd68e1499be8d00508fa02367936",
+      "paper_url": "https://aclanthology.org/2026.findings-acl.694/",
+      "inspected_pdf_page": 6,
+      "main_body_confirmed": true,
+      "method": "Rendered publisher PDF page inspected visually.",
+      "observation": "Section 4.2 Main Results and financial safety attack comparisons."
+    }
+  },
+  "note": "Rechecked 355 historical content-boundary records, including six rendered page-six checks. Removed one misclassified Student Research Workshop paper; retained 354 content-boundary admissions.",
+  "excluded_auxiliary_papers": [
+    {
+      "id": "P19-2046",
+      "title": "Convolutional Neural Networks for Financial Text Regression",
+      "reason": "ACL 2019 Student Research Workshop, not Main.",
+      "official_source": "https://aclanthology.org/P19-2046/"
+    }
+  ],
+  "official_acl2019_long_papers_confirmed": [
+    "P19-1497",
+    "P19-1034",
+    "P19-1430",
+    "P19-1047",
+    "P19-1068",
+    "P19-1105",
+    "P19-1536",
+    "P19-1038"
+  ],
+  "official_acl2019_program_url": "https://raw.githubusercontent.com/acl-org/acl-2019/master/EN/program.xhtml.html",
+  "current_content_boundary_admissions": 346
+}

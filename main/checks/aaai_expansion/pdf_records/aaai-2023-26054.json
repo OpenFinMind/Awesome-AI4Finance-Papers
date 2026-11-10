@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2023-26054",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2023/aaai-2023-26054__Social_Bias_Meets_Data_Bias_The_Impacts_of_Labeling_and_Measurement_Errors_on_Fairness_Criteria.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 654851,
+  "sha256": "bab60b37401512e065c6e098d0dbf7f12d31a6dd0dc0dc7b7bbf0dbf3684dda8",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26054/25826",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26054/25826",
+  "downloaded_at_utc": "2026-11-10T02:15:47.505600+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yiqiao Liao",
+      "Parinaz Naghizadeh"
+    ],
+    "identity_verified": true
+  }
+}

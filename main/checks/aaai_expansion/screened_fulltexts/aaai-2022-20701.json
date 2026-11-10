@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2022-20701",
+  "title": "Fast and Robust Online Inference with Stochastic Gradient Descent via Random Scaling",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20701",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 79061,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Sokbae Lee",
+      "Yuan Liao",
+      "Myung Hwan Seo",
+      "Youngki Shin"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2106.03156",
+    "version": "arxiv_author_version"
+  }
+}

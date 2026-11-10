@@ -1,0 +1,4324 @@
+[
+  {
+    "id": "aaai-2017-10505",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2017/aaai-2017-10505__Gated_Neural_Networks_for_Option_Pricing_Rationality_by_Design.pdf",
+    "attempts": [],
+    "pages": 7,
+    "bytes": 1865640,
+    "sha256": "de079db9bf5e9686b1c22700cda49f0cca3b363279f1258f361eac59865cf596",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://cdn.aaai.org/ojs/10505/10505-13-14033-1-2-20201228.pdf",
+    "final_url": "https://cdn.aaai.org/ojs/10505/10505-13-14033-1-2-20201228.pdf",
+    "downloaded_at_utc": "2026-11-10T02:15:32.302816+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yongxin Yang",
+        "Yu Zheng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2017-10728",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2017/aaai-2017-10728__Portfolio_Selection_via_Subset_Resampling.pdf",
+    "attempts": [],
+    "pages": 7,
+    "bytes": 755383,
+    "sha256": "83b80b4e35fbd4b9503e8ed04c00c8744d0c33228025e42d2a44978b84bfb4b2",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10728/10587",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10728/10587",
+    "downloaded_at_utc": "2026-11-10T02:15:32.565672+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Weiwei Shen",
+        "Jun Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2017-10767",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2017/aaai-2017-10767__Explicit_Defense_Actions_Against_Test_Set_Attacks.pdf",
+    "attempts": [],
+    "pages": 7,
+    "bytes": 704676,
+    "sha256": "5fbb9a63308f93e5d419d7ae9040f5e5c62bd8be309d21986ecf7ccce8067685",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10767/10626",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10767/10626",
+    "downloaded_at_utc": "2026-11-10T02:15:33.228891+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Scott Alfeld",
+        "Xiaojin Zhu",
+        "Paul Barford"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2018-11257",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2018/aaai-2018-11257__Dynamic_Network_Embedding_by_Modeling_Triadic_Closure_Process.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 692182,
+    "sha256": "fa16c6595d8d6568f40cac97428f57ff1ca5097279a1b6b7142147d697911c30",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11257/11116",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11257/11116",
+    "downloaded_at_utc": "2026-11-10T02:15:33.247121+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Lekui Zhou",
+        "Yang Yang",
+        "Xiang Ren",
+        "Fei Wu",
+        "Yueting Zhuang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2018-11452",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2018/aaai-2018-11452__Reinforcement_Mechanism_Design_for_Fraudulent_Behaviour_in_e_Commerce.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1265775,
+    "sha256": "1193ce054fe7905ba841513188e015939b5e2f1fe52eb36ccff90c19e41661f4",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11452/11311",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11452/11311",
+    "downloaded_at_utc": "2026-11-10T02:15:33.765595+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Qingpeng Cai",
+        "Aris Filos-Ratsikas",
+        "Pingzhong Tang",
+        "Yiwei Zhang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2018-11795",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2018/aaai-2018-11795__Accelerated_Method_for_Stochastic_Composition_Optimization_With_Nonsmooth_Regularization.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 645503,
+    "sha256": "18f2589ba5070bb188cc5be36998d101e56c535445c72686716b075ac43c2724",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11795/11654",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11795/11654",
+    "downloaded_at_utc": "2026-11-10T02:15:33.991275+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zhouyuan Huo",
+        "Bin Gu",
+        "Ji Liu",
+        "Heng Huang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2018-12124",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2018/aaai-2018-12124__A_Neural_Stochastic_Volatility_Model.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 648084,
+    "sha256": "ba1077ea0767274e31501d83f918a318d416288d1c8848731cb7c9475257afce",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/12124/11983",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/12124/11983",
+    "downloaded_at_utc": "2026-11-10T02:15:34.360932+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rui Luo",
+        "Weinan Zhang",
+        "Xiaojun Xu",
+        "Jun Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-3906",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-3906__The_Kelly_Growth_Optimal_Portfolio_with_Ensemble_Learning.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 481420,
+    "sha256": "2a5ba7be779318f062b92ad210cbb5dcec798d28f93c71e3b957aa805c05d971",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3906/3784",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3906/3784",
+    "downloaded_at_utc": "2026-11-10T02:15:34.580882+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Weiwei Shen",
+        "Bin Wang",
+        "Jian Pu",
+        "Jun Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-3994",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-3994__The_Pure_Price_of_Anarchy_of_Pool_Block_Withholding_Attacks_in_Bitcoin_Mining.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 557910,
+    "sha256": "5ba09ff4f286a6ab1d13747896b6ab04698376d9a9d037a8ac176ff42bba2c1a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3994/3872",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3994/3872",
+    "downloaded_at_utc": "2026-11-10T02:15:34.587423+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Colleen Alkalay-Houlihan",
+        "Nisarg Shah"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-4023",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-4023__An_Equivalence_between_Wagering_and_Fair_Division_Mechanisms.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 487757,
+    "sha256": "78ee518b123d3e4f62266638162dfc6bb71b7fa7fc1c838fcc195c6bc8cbfbb9",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4023/3901",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4023/3901",
+    "downloaded_at_utc": "2026-11-10T02:15:34.885220+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rupert Freeman",
+        "David M. Pennock",
+        "Jennifer Wortman Vaughan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-4027",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-4027__Pareto_Efficient_Auctions_with_Interest_Rates.pdf",
+    "attempts": [],
+    "pages": 7,
+    "bytes": 288307,
+    "sha256": "8f6fc757f68dfc061b6a4f7f17b79b746be6062dad1ecf3d56b59a7f196e80cf",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4027/3905",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4027/3905",
+    "downloaded_at_utc": "2026-11-10T02:15:35.082609+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Gagan Goel",
+        "Vahab Mirrokni",
+        "Renato Paes Leme"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-4784",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-4784__MFBO_SSM_Multi_Fidelity_Bayesian_Optimization_for_Fast_Inference_in_State_Space_Models.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1360209,
+    "sha256": "0111be504c561e0bd9aea4e1839e159fb1fa29dacc95964898cf9b66f4c0cc8a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4784/4662",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4784/4662",
+    "downloaded_at_utc": "2026-11-10T02:15:35.676448+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Mahdi Imani",
+        "Seyede Fatemeh Ghoreishi",
+        "Douglas Allaire",
+        "Ulisses M. Braga-Neto"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-3880",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-3880__VidyutVanika_A_Reinforcement_Learning_Based_Broker_Agent_for_a_Power_Trading_Competition.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 604669,
+    "sha256": "975028af305e65c611a509bfda00dbc660fe324a0a637e7ff46e583b03fc1e55",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3880/3758",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3880/3758",
+    "downloaded_at_utc": "2026-11-10T02:15:35.665174+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Susobhan Ghosh",
+        "Easwar Subramanian",
+        "Sanjay P. Bhat",
+        "Sujit Gujar",
+        "Praveen Paruchuri"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-3884",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-3884__Cash_Out_User_Detection_Based_on_Attributed_Heterogeneous_Information_Network_with_a_Hierarchical_Attention_Mechanism.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 841901,
+    "sha256": "39e80be36b44dc810887e8707fa614e7019dbe8eba6715317e2f02ce3af34aac",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3884/3762",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3884/3762",
+    "downloaded_at_utc": "2026-11-10T02:15:36.449655+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Binbin Hu",
+        "Zhiqiang Zhang",
+        "Chuan Shi",
+        "Jun Zhou",
+        "Xiaolong Li",
+        "Yuan Qi"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5371",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5371__Spatio_Temporal_Attention_Based_Neural_Network_for_Credit_Card_Fraud_Detection.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1691257,
+    "sha256": "2c4d621076a69a01b0d26ecf0d37ec49622857c1bf0586735dc83ef8218a7357",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5371/5227",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5371/5227",
+    "downloaded_at_utc": "2026-11-10T02:15:36.412758+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Dawei Cheng",
+        "Sheng Xiang",
+        "Chencheng Shang",
+        "Yiyi Zhang",
+        "Fangzhou Yang",
+        "Liqing Zhang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5415",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5415__Generating_Realistic_Stock_Market_Order_Streams.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 3262616,
+    "sha256": "26265c49eed260fdad077b8a12b516d75c7e1c07d765b56a5052c5bd176dcbf5",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5415/5271",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5415/5271",
+    "downloaded_at_utc": "2026-11-10T02:15:36.945275+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Junyi Li",
+        "Xintong Wang",
+        "Yaoyang Lin",
+        "Arunesh Sinha"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5445",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5445__Incorporating_Expert_Based_Investment_Opinion_Signals_in_Stock_Prediction_A_Deep_Learning_Framework.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1308842,
+    "sha256": "e523e2e904be0948cdc678c2926bb4134a77bd98b1fbdf93c75603a72df6e715",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5445/5301",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5445/5301",
+    "downloaded_at_utc": "2026-11-10T02:15:37.255197+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Heyuan Wang",
+        "Tengjiao Wang",
+        "Yi Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5462",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5462__Reinforcement_Learning_Based_Portfolio_Management_with_Augmented_Asset_Movement_Prediction_States.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1785279,
+    "sha256": "34f2e1b12d237c97200f60b9a64d4c3528ae1d7e1b6ad9586bc63a59995dbf8c",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5462/5318",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5462/5318",
+    "downloaded_at_utc": "2026-11-10T02:15:37.612416+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yunan Ye",
+        "Hengzhi Pei",
+        "Boxin Wang",
+        "Pin-Yu Chen",
+        "Yada Zhu",
+        "Bo Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5472",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5472__Shoreline_Data_Driven_Threshold_Estimation_of_Online_Reserves_of_Cryptocurrency_Trading_Platforms.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 800712,
+    "sha256": "e42cd38081810e78fa321b93648a86c177b16cd2263fa80fb28295f8eb2aea24",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5472/5328",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5472/5328",
+    "downloaded_at_utc": "2026-11-10T02:15:37.489388+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Xitong Zhang",
+        "He Zhu",
+        "Jiayu Zhou"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5478",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5478__Index_Tracking_with_Cardinality_Constraints_A_Stochastic_Neural_Networks_Approach.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1323518,
+    "sha256": "3c4d15e57794e8679654b8fd54de6d67c67f35661e790a479264aadb079291d4",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5478/5334",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5478/5334",
+    "downloaded_at_utc": "2026-11-10T02:15:38.118328+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yu Zheng",
+        "Bowei Chen",
+        "Timothy M. Hospedales",
+        "Yongxin Yang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5587",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5587__Adaptive_Quantitative_Trading_An_Imitative_Deep_Reinforcement_Learning_Approach.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1224103,
+    "sha256": "0e0201c8a362653a2734410742b74521b56c0fb3d09ad44d23d948e5cfa74755",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5587/5443",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5587/5443",
+    "downloaded_at_utc": "2026-11-10T02:15:38.360577+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yang Liu",
+        "Qi Liu",
+        "Hongke Zhao",
+        "Zhen Pan",
+        "Chuanren Liu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5681",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5681__K_BERT_Enabling_Language_Representation_with_Knowledge_Graph.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 560014,
+    "sha256": "95dbb3835cab126f4cbc1dcf31cba93f5f2d54423236fbc9d167d89da45fbb84",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5681/5537",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5681/5537",
+    "downloaded_at_utc": "2026-11-10T02:15:38.360485+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Weijie Liu",
+        "Peng Zhou",
+        "Zhe Zhao",
+        "Zhiruo Wang",
+        "Qi Ju",
+        "Haotang Deng",
+        "Ping Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5906",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5906__FlowScope_Spotting_Money_Laundering_Based_on_Graphs.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 670353,
+    "sha256": "c0b453ae594745e8e588ff338eba4ac86c203658e072e85fc43fc160efadb8ac",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762",
+    "downloaded_at_utc": "2026-11-10T02:15:38.712603+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Xiangfeng Li",
+        "Shenghua Liu",
+        "Zifeng Li",
+        "Xiaotian Han",
+        "Chuan Shi",
+        "Bryan Hooi",
+        "He Huang",
+        "Xueqi Cheng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5952",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5952__Particle_Filter_Recurrent_Neural_Networks.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1061329,
+    "sha256": "8458892ac5f5cd7d7419cd97f0d81d49e78a75070789e6f6fc8e15326dd06b96",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5952/5808",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5952/5808",
+    "downloaded_at_utc": "2026-11-10T02:15:38.730522+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Xiao Ma",
+        "Peter Karkus",
+        "David Hsu",
+        "Wee Sun Lee"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-6005",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-6005__Actionable_Ethics_through_Neural_Learning.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1176284,
+    "sha256": "3e5a5f353762fa95e3c3dcdbb1208ef6f06312faf9ac90ce0a7a829074028e42",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6005/5861",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6005/5861",
+    "downloaded_at_utc": "2026-11-10T02:15:39.381545+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Daniele Rossini",
+        "Danilo Croce",
+        "Sara Mancini",
+        "Massimo Pellegrino",
+        "Roberto Basili"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-6087",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-6087__Crowdfunding_Dynamics_Tracking_A_Reinforcement_Learning_Approach.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 757986,
+    "sha256": "c287acaf8d3e61f2ba7a0b317f5c95fc7a1fa2cc7f39da97ebacf3a8c7b8874c",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6087/5943",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6087/5943",
+    "downloaded_at_utc": "2026-11-10T02:15:39.030693+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jun Wang",
+        "Hefu Zhang",
+        "Qi Liu",
+        "Zhen Pan",
+        "Hanqing Tao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16077",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16077__Modeling_the_Momentum_Spillover_Effect_for_Stock_Prediction_via_Attribute_Driven_Graph_Attention_Networks.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 327554,
+    "sha256": "10aedbf8a205c746a6a77eb6d455027054e2e838d7a188424d8229189fdda69b",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16077/15884",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16077/15884",
+    "downloaded_at_utc": "2026-11-10T02:15:39.566703+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rui Cheng",
+        "Qing Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16083",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16083__Universal_Trading_for_Order_Execution_with_Oracle_Policy_Distillation.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 400801,
+    "sha256": "27a4cfc320d3be311f2514e1fbeec039e82eb4f1b2bf956008610cf4f44259ba",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16083/15890",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16083/15890",
+    "downloaded_at_utc": "2026-11-10T02:15:39.920023+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yuchen Fang",
+        "Kan Ren",
+        "Weiqing Liu",
+        "Dong Zhou",
+        "Weinan Zhang",
+        "Jiang Bian",
+        "Yong Yu",
+        "Tie-Yan Liu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16094",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16094__The_Causal_Learning_of_Retail_Delinquency.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 309970,
+    "sha256": "e67d123b1aa0c547fa4471fa83a569dc91606f6cc7c52a10dc80338b3dead7f0",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16094/15901",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16094/15901",
+    "downloaded_at_utc": "2026-11-10T02:15:39.872334+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yiyan Huang",
+        "Cheuk Hang Leung",
+        "Xing Yan",
+        "Qi Wu",
+        "Nanbo Peng",
+        "Dongdong Wang",
+        "Zhixiang Huang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16095",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16095__Deep_Portfolio_Optimization_via_Distributional_Prediction_of_Residual_Factors.pdf",
+    "attempts": [],
+    "pages": 10,
+    "bytes": 1004184,
+    "sha256": "640329efe84d90d7f485cf9bed64ec44ef8bb87da7db75c43f0c0f3c0dc95d53",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16095/15902",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16095/15902",
+    "downloaded_at_utc": "2026-11-10T02:15:40.388451+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Kentaro Imajo",
+        "Kentaro Minami",
+        "Katsuya Ito",
+        "Kei Nakagawa"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16099",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16099__Deep_Contextual_Clinical_Prediction_with_Reverse_Distillation.pdf",
+    "attempts": [],
+    "pages": 10,
+    "bytes": 448630,
+    "sha256": "a0501e4532e05e386c9d9ee4cba9a9819236c3cda9d3e9ce5b7fa68e55385dee",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16099/15906",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16099/15906",
+    "downloaded_at_utc": "2026-11-10T02:15:40.264931+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rohan Kodialam",
+        "Rebecca Boiarsky",
+        "Justin Lim",
+        "Aditya Sai",
+        "Neil Dixit",
+        "David Sontag"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16105",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16105__RevMan_Revenue_aware_Multi_task_Online_Insurance_Recommendation.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 999649,
+    "sha256": "babab31ee8140e9725eddd90ae80b409a61ddcebe9b44760e1a259f358da6f4d",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16105/15912",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16105/15912",
+    "downloaded_at_utc": "2026-11-10T02:15:40.675174+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yu Li",
+        "Yi Zhang",
+        "Lu Gan",
+        "Gengwei Hong",
+        "Zimu Zhou",
+        "Qiang Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16127",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16127__Stock_Selection_via_Spatiotemporal_Hypergraph_Attention_Network_A_Learning_to_Rank_Approach.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 6746221,
+    "sha256": "78eba0ac19426efb1e36d91adbf982d84aaf6f032c0a4e09d6941084bf9d9684",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16127/15934",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16127/15934",
+    "downloaded_at_utc": "2026-11-10T02:15:41.080350+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Ramit Sawhney",
+        "Shivam Agarwal",
+        "Arnav Wadhwa",
+        "Tyler Derr",
+        "Rajiv Ratn Shah"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16133",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16133__The_LOB_Recreation_Model_Predicting_the_Limit_Order_Book_from_TAQ_History_Using_an_Ordinary_Differential_Equation_Recurrent_Neural.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1075733,
+    "sha256": "233ed06bd8d3dece12623cb558ea97d7f624c32079f73f84fded8275de5cbd86",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16133/15940",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16133/15940",
+    "downloaded_at_utc": "2026-11-10T02:15:41.360099+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zijian Shi",
+        "Yu Chen",
+        "John Cartlidge"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16142",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16142__Commission_Fee_is_not_Enough_A_Hierarchical_Reinforced_Framework_for_Portfolio_Management.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 3678851,
+    "sha256": "b3ff5a9afcd4f634293b5a4426d8767dac8d93f192a277f7515c0a18ad5ce784",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16142/15949",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16142/15949",
+    "downloaded_at_utc": "2026-11-10T02:15:41.910383+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rundong Wang",
+        "Hongxin Wei",
+        "Bo An",
+        "Zhouyan Feng",
+        "Jun Yao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16144",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16144__DeepTrader_A_Deep_Reinforcement_Learning_Approach_for_Risk_Return_Balanced_Portfolio_Management_with_Market_Conditions_Embedding.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 423307,
+    "sha256": "a6a3cd85829fc45be94628c598c5895021b302196687b93176bb4d4ccdeeb5c1",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16144/15951",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16144/15951",
+    "downloaded_at_utc": "2026-11-10T02:15:41.877647+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zhicheng Wang",
+        "Biwei Huang",
+        "Shikui Tu",
+        "Kun Zhang",
+        "Lei Xu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-17328",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-17328__Fairness_in_Forecasting_and_Learning_Linear_Dynamical_Systems.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1741403,
+    "sha256": "1e3c5f29906d2e5f9a0b5354b4674cd446bea79e7102b73ca4687f7e23fdeac5",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/17328/17135",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/17328/17135",
+    "downloaded_at_utc": "2026-11-10T02:15:42.610891+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Quan Zhou",
+        "Jakub Marecek"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16484",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16484__Combining_Reinforcement_Learning_and_Constraint_Programming_for_Combinatorial_Optimization.pdf",
+    "attempts": [],
+    "pages": 11,
+    "bytes": 247027,
+    "sha256": "c49a5f530cc5f5b3f0e35eb2c734f160dc02dd3ed0a61f9c222a8f0b646bffc9",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16484/16291",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16484/16291",
+    "downloaded_at_utc": "2026-11-10T02:15:42.426932+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Quentin Cappart",
+        "Thierry Moisan",
+        "Louis-Martin Rousseau",
+        "Isabeau Prémont-Schwarz",
+        "Andre A. Cire"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16568",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16568__Coupling_Macro_Sector_Micro_Financial_Indicators_for_Learning_Stock_Representations_with_Less_Uncertainty.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 879311,
+    "sha256": "a5cc126101f34e8e249f29629725f266411305a8df15d5c38b36cd7d3522148c",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16568/16375",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16568/16375",
+    "downloaded_at_utc": "2026-11-10T02:15:43.016073+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Guifeng Wang",
+        "Longbing Cao",
+        "Hongke Zhao",
+        "Qi Liu",
+        "Enhong Chen"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16582",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16582__Towards_Consumer_Loan_Fraud_Detection_Graph_Neural_Networks_with_Role_Constrained_Conditional_Random_Field.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1017002,
+    "sha256": "bf4f749fbadd5d63a34d4505d00ad11c453e734f3a7fb624b3f4008abf6dd878",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16582/16389",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16582/16389",
+    "downloaded_at_utc": "2026-11-10T02:15:43.063194+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Bingbing Xu",
+        "Huawei Shen",
+        "Bingjie Sun",
+        "Rong An",
+        "Qi Cao",
+        "Xueqi Cheng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16594",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16594__Self_Supervised_Prototype_Representation_Learning_for_Event_Based_Corporate_Profiling.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1500266,
+    "sha256": "df6d7a7e9b3cada342323a43ebbb52478e3a9e1b6a07341ad04b52d12bb3a63b",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16594/16401",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16594/16401",
+    "downloaded_at_utc": "2026-11-10T02:15:43.689142+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zixuan Yuan",
+        "Hao Liu",
+        "Renjun Hu",
+        "Denghui Zhang",
+        "Hui Xiong"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16739",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16739__Wasserstein_Distributionally_Robust_Inverse_Multiobjective_Optimization.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 258351,
+    "sha256": "4e1f657074b8a9cd75196b5481c76d607f751706b99872f5ae59ee1508271bc1",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16739/16546",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16739/16546",
+    "downloaded_at_utc": "2026-11-10T02:15:43.566287+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Chaosheng Dong",
+        "Bo Zeng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-21305",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-21305__Fortunately_Discourse_Markers_Can_Enhance_Language_Models_for_Sentiment_Analysis.pdf",
+    "attempts": [],
+    "pages": 10,
+    "bytes": 602625,
+    "sha256": "4afe3545a6a8c958868754e0c1e784f0b1d773f69abf4bd22baf68c38242a846",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21305/21054",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21305/21054",
+    "downloaded_at_utc": "2026-11-10T02:15:44.069161+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Liat Ein-Dor",
+        "Ilya Shnayderman",
+        "Artem Spector",
+        "Lena Dankin",
+        "Ranit Aharonov",
+        "Noam Slonim"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-21327",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-21327__Towards_Building_ASR_Systems_for_the_Next_Billion_Users.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 133239,
+    "sha256": "43ddceab26bda50cd5267a50190d3f7b86946ec076d110e4591b56d204f509ce",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21327/21076",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21327/21076",
+    "downloaded_at_utc": "2026-11-10T02:15:44.108068+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Tahir Javed",
+        "Sumanth Doddapaneni",
+        "Abhigyan Raman",
+        "Kaushal Santosh Bhogale",
+        "Gowtham Ramesh",
+        "Anoop Kunchukuttan",
+        "Pratyush Kumar",
+        "Mitesh M. Khapra"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-21414",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-21414__NumHTML_Numeric_Oriented_Hierarchical_Transformer_Model_for_Multi_Task_Financial_Forecasting.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 220008,
+    "sha256": "31c3270ce1d6e8c704bebfcbeb858334e065af6b2bcad003c7656b242bdb7918",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21414/21163",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21414/21163",
+    "downloaded_at_utc": "2026-11-10T02:15:44.590921+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Linyi Yang",
+        "Jiazheng Li",
+        "Ruihai Dong",
+        "Yue Zhang",
+        "Barry Smyth"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-20327",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-20327__DDG_DA_Data_Distribution_Generation_for_Predictable_Concept_Drift_Adaptation.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1304610,
+    "sha256": "a54ed3790e8a522e9e505ba1c6ab526663b2d5f3c7fd04a412022989accf684a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20327/20086",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20327/20086",
+    "downloaded_at_utc": "2026-11-10T02:15:44.630722+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Wendi Li",
+        "Xiao Yang",
+        "Weiqing Liu",
+        "Yingce Xia",
+        "Jiang Bian"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-20361",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-20361__Forecasting_Asset_Dependencies_to_Reduce_Portfolio_Risk.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1665589,
+    "sha256": "7ad90030d0047f0fbb7efac29b379e32b62bd86c028f1d36ba366a622820e3c2",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20361/20120",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20361/20120",
+    "downloaded_at_utc": "2026-11-10T02:15:45.253004+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Haoren Zhu",
+        "Shih-Yang Liu",
+        "Pengfei Zhao",
+        "Yingying Chen",
+        "Dik Lun Lee"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-20369",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-20369__FactorVAE_A_Probabilistic_Dynamic_Factor_Model_Based_on_Variational_Autoencoder_for_Predicting_Cross_Sectional_Stock_Returns.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 354010,
+    "sha256": "7fb6f995848b6b7db5edd4fccb4e42f5e333109de12d364aef88bd5f95811f75",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20369/20128",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20369/20128",
+    "downloaded_at_utc": "2026-11-10T02:15:45.141682+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yitong Duan",
+        "Lei Wang",
+        "Qizhong Zhang",
+        "Jian Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-20400",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-20400__An_Algorithmic_Introduction_to_Savings_Circles.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 137567,
+    "sha256": "c03905e5e98c840846d5dd08411fb02e8f909b9534e57313541f94015ba3a407",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20400/20159",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20400/20159",
+    "downloaded_at_utc": "2026-11-10T02:15:45.564702+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rediet Abebe",
+        "Adam Eck",
+        "Christian Ikeokwu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-20717",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-20717__Lifelong_Hyper_Policy_Optimization_with_Multiple_Importance_Sampling_Regularization.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 525259,
+    "sha256": "6ffe69ea58ec3feabafc2083de97bbddf3029779dd0f621c8edfd23b6238b183",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20717/20476",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20717/20476",
+    "downloaded_at_utc": "2026-11-10T02:15:46.002219+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Pierre Liotet",
+        "Francesco Vidaich",
+        "Alberto Maria Metelli",
+        "Marcello Restelli"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-20888",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-20888__Co_promotion_Predictions_of_Financing_Market_and_Sales_Market_A_Cooperative_Competitive_Attention_Approach.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 510699,
+    "sha256": "0e8212cb54eb2ae9a8b098026c92e1f6daec2b1f4b243c652748924e56e44811",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20888/20647",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20888/20647",
+    "downloaded_at_utc": "2026-11-10T02:15:46.164736+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Lei Zhang",
+        "Wang Xiang",
+        "Chuang Zhao",
+        "Hongke Zhao",
+        "Rui Li",
+        "Runze Wu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-21229",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-21229__Optimal_Admission_Control_for_Multiclass_Queues_with_Time_Varying_Arrival_Rates_via_State_Abstraction.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 936230,
+    "sha256": "1f9499dfb2e4d66604f1b46d0eb37f06f2d7219a42c13daf44bd27968195ce8a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21229/20978",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21229/20978",
+    "downloaded_at_utc": "2026-11-10T02:15:46.339066+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Marc Rigter",
+        "Danial Dervovic",
+        "Parisa Hassanzadeh",
+        "Jason Long",
+        "Parisa Zehtabi",
+        "Daniele Magazzeni"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2023-25648",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2023/aaai-2023-25648__PEN_Prediction_Explanation_Network_to_Forecast_Stock_Price_Movement_with_Better_Explainability.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 2204563,
+    "sha256": "5e6d14be0f18be8b949dddcd251b4de27a14932941f4081807a2c96e78e9e02e",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25648/25420",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25648/25420",
+    "downloaded_at_utc": "2026-11-10T02:15:46.629519+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Shuqi Li",
+        "Weiheng Liao",
+        "Yuhan Chen",
+        "Rui Yan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2023-25666",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2023/aaai-2023-25666__Tighter_Robust_Upper_Bounds_for_Options_via_No_Regret_Learning.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 9228382,
+    "sha256": "2d8f68437fcddf578f5b03e4d5324397f972d1fdcbe17adf53e5833b51b244aa",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25666/25438",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25666/25438",
+    "downloaded_at_utc": "2026-11-10T02:15:46.931280+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Shan Xue",
+        "Ye Du",
+        "Liang Xu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2023-25675",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2023/aaai-2023-25675__Loan_Fraud_Users_Detection_in_Online_Lending_Leveraging_Multiple_Data_Views.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 294760,
+    "sha256": "e6e29dbc70c82d6794aae663620a58ecc45831f8bafe8aaf07c69ca8b5352b74",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25675/25447",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25675/25447",
+    "downloaded_at_utc": "2026-11-10T02:15:47.148747+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Sha Zhao",
+        "Yongrui Huang",
+        "Ling Chen",
+        "Chunping Wang",
+        "Shijian Li",
+        "Lei Chen",
+        "Gang Pan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2023-26054",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2023/aaai-2023-26054__Social_Bias_Meets_Data_Bias_The_Impacts_of_Labeling_and_Measurement_Errors_on_Fairness_Criteria.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 654851,
+    "sha256": "bab60b37401512e065c6e098d0dbf7f12d31a6dd0dc0dc7b7bbf0dbf3684dda8",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26054/25826",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26054/25826",
+    "downloaded_at_utc": "2026-11-10T02:15:47.505600+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yiqiao Liao",
+        "Parinaz Naghizadeh"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2023-26233",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2023/aaai-2023-26233__Symphony_in_the_Latent_Space_Provably_Integrating_High_Dimensional_Techniques_with_Non_linear_Machine_Learning_Models.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 628238,
+    "sha256": "9490eb50079705c21c456e8890a94b8b539c1fb4224a557ceec4603d6bef5858",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26233/26005",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26233/26005",
+    "downloaded_at_utc": "2026-11-10T02:15:47.739566+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Qiong Wu",
+        "Jian Li",
+        "Zhenming Liu",
+        "Yanhua Li",
+        "Mihai Cucuringu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-27767",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-27767__MASTER_Market_Guided_Stock_Transformer_for_Stock_Price_Forecasting.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 307691,
+    "sha256": "5215526785c8df9fd237a669e7e90c6565831d456d07efdd71aac121b1f1220e",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/27767/27575",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/27767/27575",
+    "downloaded_at_utc": "2026-11-10T02:15:48.021699+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Tong Li",
+        "Zhaoyang Liu",
+        "Yanyan Shen",
+        "Xue Wang",
+        "Haokun Chen",
+        "Sen Huang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29069",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29069__Provably_Powerful_Graph_Neural_Networks_for_Directed_Multigraphs.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 141136,
+    "sha256": "00fd402b5da78be36dfe803b8737bb99fd33270e891f0ddfdce9f1a13735f433",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29069/30025",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29069/30025",
+    "downloaded_at_utc": "2026-11-10T02:15:48.170994+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Béni Egressy",
+        "Luc Von Niederhäusern",
+        "Jovan Blanuša",
+        "Erik Altman",
+        "Roger Wattenhofer",
+        "Kubilay Atasu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29305",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29305__ECHO_GL_Earnings_Calls_Driven_Heterogeneous_Graph_Learning_for_Stock_Movement_Prediction.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1619587,
+    "sha256": "3b8b6bc48c9b047f63fc38bbb4e0906f9b5620e1e24817db530702d909f58be9",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29305/30462",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29305/30462",
+    "downloaded_at_utc": "2026-11-10T02:15:48.712782+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Mengpu Liu",
+        "Mengying Zhu",
+        "Xiuyuan Wang",
+        "Guofang Ma",
+        "Jianwei Yin",
+        "Xiaolin Zheng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29381",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29381__MDGNN_Multi_Relational_Dynamic_Graph_Neural_Network_for_Comprehensive_and_Dynamic_Stock_Investment_Prediction.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 788659,
+    "sha256": "d8170184b885bf414a682b97b46882c5f87ce0ea8f69b5ceee1761a1db319b57",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29381/30608",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29381/30608",
+    "downloaded_at_utc": "2026-11-10T02:15:48.475038+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Hao Qian",
+        "Hongting Zhou",
+        "Qian Zhao",
+        "Hao Chen",
+        "Hongxiang Yao",
+        "Jingwei Wang",
+        "Ziqi Liu",
+        "Fei Yu",
+        "Zhiqiang Zhang",
+        "Jun Zhou"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29384",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29384__EarnHFT_Efficient_Hierarchical_Reinforcement_Learning_for_High_Frequency_Trading.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 907124,
+    "sha256": "27945e1362f5428d7ce2e75d6ab59ac024d9e9bcbb092cb27c30bd34e4e1035e",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29384/30614",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29384/30614",
+    "downloaded_at_utc": "2026-11-10T02:15:48.738566+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Molei Qin",
+        "Shuo Sun",
+        "Wentao Zhang",
+        "Haochong Xia",
+        "Xinrun Wang",
+        "Bo An"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29531",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29531__Market_GAN_Adding_Control_to_Financial_Market_Data_Generation_with_Semantic_Context.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 7713665,
+    "sha256": "5b47b8e1c657429ccd12321067f27c371f6650f6f7103520cf57cf2465a9b60c",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29531/30883",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29531/30883",
+    "downloaded_at_utc": "2026-11-10T02:15:49.642907+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Haochong Xia",
+        "Shuo Sun",
+        "Xinrun Wang",
+        "Bo An"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29589",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29589__Risk_Conditioned_Reinforcement_Learning_A_Generalized_Approach_for_Adapting_to_Varying_Risk_Measures.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 763511,
+    "sha256": "804c7563c4480a60ef4998e95c601f0178601ca748909e32168006d93acb6442",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29589/30992",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29589/30992",
+    "downloaded_at_utc": "2026-11-10T02:15:49.313177+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Gwangpyo Yoo",
+        "Jinwoo Park",
+        "Honguk Woo"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29643",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29643__From_GARCH_to_Neural_Network_for_Volatility_Forecast.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 502907,
+    "sha256": "dcbe9dcb979688d0f9982e4939f015343aa3abcab8e5b94f92204ad2a0fd2c43",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29643/31092",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29643/31092",
+    "downloaded_at_utc": "2026-11-10T02:15:49.626231+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Pengfei Zhao",
+        "Haoren Zhu",
+        "Wilfred Siu Hung NG",
+        "Dik Lun Lee"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29661",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29661__Adaptive_Meta_Learning_Probabilistic_Inference_Framework_for_Long_Sequence_Prediction.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 615174,
+    "sha256": "29f9eba558761b62e69205a88827ef4d0631b54bafee18e4ee6dafdf3ae4c508",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29661/31127",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29661/31127",
+    "downloaded_at_utc": "2026-11-10T02:15:50.201666+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jianping Zhu",
+        "Xin Guo",
+        "Yang Chen",
+        "Yao Yang",
+        "Wenbo Li",
+        "Bo Jin",
+        "Fei Wu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-28681",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-28681__StockMixer_A_Simple_Yet_Strong_MLP_Based_Architecture_for_Stock_Price_Forecasting.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1360932,
+    "sha256": "20466ba8f016cccf1f2a337d29824cf686426551ee89cabc0f4042df6f9a154f",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28681/29322",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28681/29322",
+    "downloaded_at_utc": "2026-11-10T02:15:50.288683+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jinyong Fan",
+        "Yanyan Shen"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-28770",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-28770__CI_STHPAN_Pre_trained_Attention_Network_for_Stock_Selection_with_Channel_Independent_Spatio_Temporal_Hypergraph.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 2052434,
+    "sha256": "6c3e4b5e1da9e44478890ff7110f89adda3f17d333ceb62b261e694a1712b930",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28770/29478",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28770/29478",
+    "downloaded_at_utc": "2026-11-10T02:15:50.956208+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Hongjie Xia",
+        "Huijie Ao",
+        "Long Li",
+        "Yu Liu",
+        "Sen Liu",
+        "Guangnan Ye",
+        "Hongfeng Chai"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-31993",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-31993__FactorGCL_A_Hypergraph_Based_Factor_Model_with_Temporal_Residual_Contrastive_Learning_for_Stock_Returns_Prediction.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 826054,
+    "sha256": "7f4dff626d880e026d281fc1875c3291d53fae62f5d2fe3e52b0f1ce289a8a99",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/31993/34148",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/31993/34148",
+    "downloaded_at_utc": "2026-11-10T02:15:50.865592+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yitong Duan",
+        "Weiran Wang",
+        "Jian Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-32026",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-32026__SCALM_Detecting_Bad_Practices_in_Smart_Contracts_Through_LLMs.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1001350,
+    "sha256": "3a9a47a726f0340470c0590850a44f18ae5149e608c6724f01f83e133e31b74e",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181",
+    "downloaded_at_utc": "2026-11-10T02:15:51.513053+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zongwei Li",
+        "Xiaoqi Li",
+        "Wenkai Li",
+        "Xin Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33220",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33220__Langevin_Multiplicative_Weights_Update_with_Applications_in_Polynomial_Portfolio_Management.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 412665,
+    "sha256": "35de21337e9b6ec9b1ed02203f615effeac839bd2f0da34c155a8b9a5f441f7b",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33220/35375",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33220/35375",
+    "downloaded_at_utc": "2026-11-10T02:15:51.466376+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yi Feng",
+        "Xiao Wang",
+        "Tian Xie"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33225",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33225__DCC_Differentiable_Cardinality_Constraints_for_Partial_Index_Tracking.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1215163,
+    "sha256": "8a5c3d63060f3331e2add0ae6808284f1c7881a7bec6f73b6dcb55c187d2e543",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33225/35380",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33225/35380",
+    "downloaded_at_utc": "2026-11-10T02:15:52.112586+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Wooyeon Jo",
+        "Hyunsouk Cho"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33250",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33250__DHMoE_Diffusion_Generated_Hierarchical_Multi_Granular_Expertise_for_Stock_Prediction.pdf",
+    "attempts": [],
+    "pages": 10,
+    "bytes": 3563686,
+    "sha256": "3499e5624ff2e2e570b18813bcde6871e91945eba3947bde41891aa9fceb2a37",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33250/35405",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33250/35405",
+    "downloaded_at_utc": "2026-11-10T02:15:52.155002+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Weijun Chen",
+        "Yanze Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33365",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33365__AlphaForge_A_Framework_to_Mine_and_Dynamically_Combine_Formulaic_Alpha_Factors.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 3055531,
+    "sha256": "8b7ea3ea0f5b981536b8273db02ac8501987ac616039cf707f1a799b33e9bd36",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33365/35520",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33365/35520",
+    "downloaded_at_utc": "2026-11-10T02:15:52.457799+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Hao Shi",
+        "Weili Song",
+        "Xinting Zhang",
+        "Jiahe Shi",
+        "Cuicui Luo",
+        "Xiang Ao",
+        "Hamid Arian",
+        "Luis Angel Seco"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33433",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33433__Dynamic_Graph_Learning_with_Static_Relations_for_Credit_Risk_Assessment.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 664319,
+    "sha256": "1348215f0f1fc109391942897c24a734d88dc2e6e405fe5ad2c96ea874a81d30",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33433/35588",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33433/35588",
+    "downloaded_at_utc": "2026-11-10T02:15:52.754452+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Qi Yuan",
+        "Yang Liu",
+        "Yateng Tang",
+        "Xinhuan Chen",
+        "Xuehao Zheng",
+        "Qing He",
+        "Xiang Ao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33664",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33664__MTVHunter_Smart_Contracts_Vulnerability_Detection_Based_on_Multi_Teacher_Knowledge_Translation.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 17044480,
+    "sha256": "cc903170d9bd6a1d9dfdfad0cd472faba235e10fbc565aa545229728d397381a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33664/35819",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33664/35819",
+    "downloaded_at_utc": "2026-11-10T02:15:54.301930+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Guokai Sun",
+        "Yuan Zhuang",
+        "Shuo Zhang",
+        "Xiaoyu Feng",
+        "Zhenguang Liu",
+        "Liguo Zhang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33760",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33760__Unveiling_the_Threat_of_Fraud_Gangs_to_Graph_Neural_Networks_Multi_Target_Graph_Injection_Attacks_Against_GNN_Based_Fraud_Detector.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 756533,
+    "sha256": "2fd63662c7364db3bcc5f69d37da6c032979bd1815adf5363730d2582d95805d",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33760/35915",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33760/35915",
+    "downloaded_at_utc": "2026-11-10T02:15:53.361485+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jinhyeok Choi",
+        "Heehyeon Kim",
+        "Joyce Jiyoung Whang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33806",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33806__Linking_Industry_Sectors_and_Financial_Statements_A_Hybrid_Approach_for_Company_Classification.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 672630,
+    "sha256": "c2958af0db8c6ef95c9860b23f9be95294a73430988d4b54cda247147643b8c3",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33806/35961",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33806/35961",
+    "downloaded_at_utc": "2026-11-10T02:15:53.936918+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Guy Stephane Waffo Dzuyo",
+        "Gaël Guibon",
+        "Christophe Cerisara",
+        "Luis Belmar-Letelier"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34045",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34045__Logic_Q_Improving_Deep_Reinforcement_Learning_based_Quantitative_Trading_via_Program_Sketch_based_Tuning.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1837871,
+    "sha256": "4fc13a48909446a876d27b9d70225c4d67ef1e4f0f4c17c20a22bab19d8e5c05",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34045/36200",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34045/36200",
+    "downloaded_at_utc": "2026-11-10T02:15:54.664141+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zhiming Li",
+        "Junzhe Jiang",
+        "Yushi Cao",
+        "Aixin Cui",
+        "Bozhi Wu",
+        "Bo Li",
+        "Yang Liu",
+        "Danny Dongning Sun"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-35492",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-35492__Adaptive_Market_Making_with_Inventory_Constraints_via_Online_Learning.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 153346,
+    "sha256": "8a3de50996c5750ef6d868695bea306b5d4a2265f936fe7c212b6ec61514bb25",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35492/37647",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35492/37647",
+    "downloaded_at_utc": "2026-11-10T02:15:54.760426+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Shan Xue",
+        "Ye Du",
+        "Liang Xu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34734",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34734__RETQA_A_Large_Scale_Open_Domain_Tabular_Question_Answering_Dataset_for_Real_Estate_Sector.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 12394181,
+    "sha256": "ff0a4f52338457c7783ab6c1ccb6b720e83db16809ebe6948636d1f6fbc90e5c",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34734/36889",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34734/36889",
+    "downloaded_at_utc": "2026-11-10T02:15:55.683465+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zhensheng Wang",
+        "Wenmian Yang",
+        "Kun Zhou",
+        "Yiquan Zhang",
+        "Weijia Jia"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-37009",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-37009__Controllable_Financial_Market_Generation_with_Diffusion_Guided_Meta_Agent.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 950889,
+    "sha256": "46e40335b1bb861f18c15f772269c452594bc85d0f584adf8072e58533fe3d89",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37009/40971",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37009/40971",
+    "downloaded_at_utc": "2026-11-10T02:15:55.403675+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yu-Hao Huang",
+        "Chang Xu",
+        "Yang Liu",
+        "Weiqing Liu",
+        "Wu-Jun Li",
+        "Jiang Bian"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-37014",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-37014__FinRpt_Dataset_Evaluation_System_and_LLM_based_Multi_agent_Framework_for_Equity_Research_Report_Generation.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 2100978,
+    "sha256": "d87bfe7f7d1e9fb1d813a4cff4222d06d73380013b62dd54969e4e8899bc18fd",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37014/40976",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37014/40976",
+    "downloaded_at_utc": "2026-11-10T02:15:56.137121+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Song Jin",
+        "Shuqi Li",
+        "Shukun Zhang",
+        "Rui Yan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-37021",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-37021__BugSweeper_Function_Level_Detection_of_Smart_Contract_Vulnerabilities_Using_Graph_Neural_Networks.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 587594,
+    "sha256": "d3bae432fb1c175c7a3f138ece9c4c739ea1ca7b9fc19380d9569463375b6348",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37021/40983",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37021/40983",
+    "downloaded_at_utc": "2026-11-10T02:15:56.178754+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Uisang Lee",
+        "Changhoon Chung",
+        "Junmo Lee",
+        "Soo-Mook Moon"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-38499",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-38499__Beyond_Single_Transactions_D_EMAML_Dual_Edge_Motif_Neural_Networks_for_Enhanced_Anti_Money_Laundering_Detection.pdf",
+    "attempts": [],
+    "pages": 10,
+    "bytes": 780537,
+    "sha256": "689ff8c7b775ece5db119335cc77eb0e7d39ced5d0a83aec9b9cf9a9b2c26ed2",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38499/42461",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38499/42461",
+    "downloaded_at_utc": "2026-11-10T02:15:56.442976+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Dongmei Han",
+        "Min Min",
+        "Yuchen Wang",
+        "Guoming Xu",
+        "Xiaofeng Zhou"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-38588",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-38588__Targeting_Borderline_Fraudsters_Multi_View_Hypergraph_Fraud_Detection_with_LLM_Guided_Contrastive_Learning.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1911076,
+    "sha256": "47192a49fb2d7efa92ab9abff392d61188bd028997ac1c9217fe251d8f1d0511",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38588/42550",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38588/42550",
+    "downloaded_at_utc": "2026-11-10T02:15:56.934101+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rui Ou",
+        "Kun Zhu",
+        "Nana Zhang",
+        "Jiangtong Li",
+        "Chaochao Chen",
+        "Yuhua Xu",
+        "Changjun Jiang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-37069",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-37069__Navigating_the_Alpha_Jungle_An_LLM_Powered_MCTS_Framework_for_Formulaic_Alpha_Factor_Mining.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 5006973,
+    "sha256": "439e6749988619d49e9e156ab040ebc5c6b48371ae8dce8e6db831bbbd3ca12a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37069/41031",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37069/41031",
+    "downloaded_at_utc": "2026-11-10T02:15:57.269335+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yu Shi",
+        "Yitong Duan",
+        "Jian Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-37075",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-37075__TermGPT_Multi_Level_Contrastive_Fine_Tuning_for_Terminology_Adaptation_in_Legal_and_Financial_Domains.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 989971,
+    "sha256": "372f1bb8cd60de9858cf8d3084132da9d124f7890639526030357dc6f2d736f4",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37075/41037",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37075/41037",
+    "downloaded_at_utc": "2026-11-10T02:15:57.282019+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yidan Sun",
+        "Mengying Zhu",
+        "Feiyue Chen",
+        "Yangyang Wu",
+        "Xiaolei Dan",
+        "Mengyuan Yang",
+        "Xiaolin Zheng",
+        "Shenglin Ben"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-38822",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-38822__Inferring_Heterogeneous_Private_Valuations_from_Offline_Market_Data_via_Entropic_Risk_Sensitive_Utility_Maximization.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1397891,
+    "sha256": "1500cd5cc290007c37ceafe4a9b45a5141abc8a448f61524fa4e49c7a81ac0ff",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38822/42784",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38822/42784",
+    "downloaded_at_utc": "2026-11-10T02:15:57.712768+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Xingyu Qian",
+        "Haoran Yu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-38981",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-38981__Two_Heads_Are_Better_than_One_Distilling_Large_Language_Model_Features_into_Small_Models_with_Feature_Decomposition_and_Mixture.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 6914800,
+    "sha256": "e725bd26cec7e8260472c0c253eb1a11aa280321125e1abafb6b7108b243c49f",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38981/42943",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38981/42943",
+    "downloaded_at_utc": "2026-11-10T02:15:58.166406+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Tianhao Fu",
+        "Xinxin Xu",
+        "Weichen Xu",
+        "Jue Chen",
+        "Ruilong Ren",
+        "Bowen Deng",
+        "Xinyu Zhao",
+        "Jian Cao",
+        "Xixin Cao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39015",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39015__HierSearch_A_Hierarchical_Enterprise_Deep_Search_Framework_Integrating_Local_and_Web_Searches.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 552368,
+    "sha256": "5999226fb820760b80d1745d44ac95de6ab4dce450c058de1fd30faef35fe23a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39015/42977",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39015/42977",
+    "downloaded_at_utc": "2026-11-10T02:15:58.267845+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jiejun Tan",
+        "Zhicheng Dou",
+        "Yan Yu",
+        "Jiehan Cheng",
+        "Lifeng Liu",
+        "Jian Xie",
+        "Jirong Wen"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39095",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39095__MARS_A_Meta_Adaptive_Reinforcement_Learning_Framework_for_Risk_Aware_Multi_Agent_Portfolio_Management.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 2135783,
+    "sha256": "573d4aaca1ed78a5320e3dda48d6a81029637fe89cefdbb470fbaa944540a0e3",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39095/43057",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39095/43057",
+    "downloaded_at_utc": "2026-11-10T02:15:58.875404+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jiayi Chen",
+        "Jing Li",
+        "Guiling Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39536",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39536__IGT4ETH_An_Isotropic_Pre_trained_Graph_Transformer_for_Ethereum_Account_Classification.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 3124084,
+    "sha256": "d31548e2c74fe01e3ae692ea0dcee5374b6987f5a0b26cd038b0bace483a8a00",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39536/43497",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39536/43497",
+    "downloaded_at_utc": "2026-11-10T02:15:59.049768+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Ao Liu",
+        "Yanmei Zhang",
+        "Youwei Wang",
+        "Qiang Duan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39730",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39730__Kronos_A_Foundation_Model_for_the_Language_of_Financial_Markets.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 3401096,
+    "sha256": "3758294c7fc1373b4dbf10aefddb6e0dcaf53b6e5a2094422ccf47970e3574cd",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39730/43691",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39730/43691",
+    "downloaded_at_utc": "2026-11-10T02:15:59.224613+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yu Shi",
+        "Zongliang Fu",
+        "Shuo Chen",
+        "Bohan Zhao",
+        "Wei Xu",
+        "Changshui Zhang",
+        "Jian Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39785",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39785__FinMMDocR_Benchmarking_Financial_Multimodal_Reasoning_with_Scenario_Awareness_Document_Understanding_and_Multi_Step_Computation.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 7278240,
+    "sha256": "6332501be19075d5162ad966e59202bd877c447ab7b725500ec86b355d74afeb",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39785/43746",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39785/43746",
+    "downloaded_at_utc": "2026-11-10T02:15:59.421500+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zichen Tang",
+        "Haihong E",
+        "Rongjin Li",
+        "Jiacheng Liu",
+        "Linwei Jia",
+        "Zhuodi Hao",
+        "Zhongjun Yang",
+        "Yuanze Li",
+        "Haolin Tian",
+        "Xinyi Hu",
+        "Peizhi Zhao",
+        "Yuan Liu",
+        "Zhengyu Wang",
+        "Xianghe Wang",
+        "Yiling Huang",
+        "Xueyuan Lin",
+        "Ruofei Bai",
+        "Zijian Xie",
+        "Qian Huang",
+        "Ruining Cao",
+        "Haocheng Gao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40027",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40027__MetaTrader_Learning_to_Generalize_RL_Trading_Policies_Beyond_Offline_Data.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1060672,
+    "sha256": "ca6c36d23a1eebb8bdd7ffd4f3f45d19006961d8ad4d203bc7f38047770894c8",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40027/43988",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40027/43988",
+    "downloaded_at_utc": "2026-11-10T02:15:59.920128+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Haochen Yuan",
+        "Minting Pan",
+        "Yunbo Wang",
+        "Siyu Gao",
+        "Xiaokang Yang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40152",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40152__Physics_Informed_Koopman_Neural_Estimation_of_the_Heston_Model_from_High_Frequency_Observations.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 1170348,
+    "sha256": "6d2380ed95d89fd7413ca8915e2d503baafbc310a67bdd16fdd63b5067b31bc9",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40152/44113",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40152/44113",
+    "downloaded_at_utc": "2026-11-10T02:16:00.089372+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Qiuming Zhu",
+        "Haoran Kou",
+        "Linyi Qian",
+        "Chunqi Shi",
+        "Xianyi Wu",
+        "Ziwei Zhou"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40166",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40166__ArchetypeTrader_Reinforcement_Learning_for_Selecting_and_Refining_Learnable_Strategic_Archetypes_in_Quantitative_Trading.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 490874,
+    "sha256": "a2cd26d70af39f08235fec6bd07a7fc78aa2bcf7c8c27b3b1b72eab9d2d82a62",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40166/44127",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40166/44127",
+    "downloaded_at_utc": "2026-11-10T02:16:00.517454+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Chuqiao Zong",
+        "Molei Qin",
+        "Haochong Xia",
+        "Bo An"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40222",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40222__HiveMind_Contribution_Guided_Online_Prompt_Optimization_of_LLM_Multi_Agent_Systems.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 635527,
+    "sha256": "c94e7b53df14126c750c34069c8dc813b0d93e1b4989d06bb88d0fa498fa5538",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40222/44183",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40222/44183",
+    "downloaded_at_utc": "2026-11-10T02:16:00.667623+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yihan Xia",
+        "Taotao Wang",
+        "Shengli Zhang",
+        "Zhangyuhua Weng",
+        "Bin Cao",
+        "Soung Chang Liew"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40303",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40303__CLER_Improving_Multimodal_Financial_Reasoning_by_Cross_MLLM_Error_Reflection.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 843381,
+    "sha256": "e7b90d717361e94bef579150afb7468ddc32e967ec1743c0f6fa625a96f369b1",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40303/44264",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40303/44264",
+    "downloaded_at_utc": "2026-11-10T02:16:01.355539+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Shuangyan Deng",
+        "Zhongsheng Wang",
+        "Rui Mao",
+        "Ciprian Doru Giurcăneanu",
+        "Jiamou Liu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40358",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40358__FinMathBench_A_Formula_Driven_Benchmark_for_Evaluating_LLMs_Math_Reasoning_Capabilities_in_Finance.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 1456540,
+    "sha256": "294ef57536b779a092dc851d012645f2194e8cce0afd9d8dc07b764975302591",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40358/44319",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40358/44319",
+    "downloaded_at_utc": "2026-11-10T02:16:01.440981+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yi He",
+        "Ping Wang",
+        "Shiqiang Xiong",
+        "Chao Chen",
+        "Haixiang Hu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40456",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40456__Query_Efficient_Domain_Knowledge_Stealing_Against_Large_Language_Models.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 385638,
+    "sha256": "b4a5582675e38f15a5d0f7fff39e5483d8f5b42d4669e05fe93392f10136cc31",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40456/44417",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40456/44417",
+    "downloaded_at_utc": "2026-11-10T02:16:01.946931+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zhengao Li",
+        "Xiaopeng Yuan",
+        "Bolin Shen",
+        "Kien Le",
+        "Haohan Wang",
+        "Xugui Zhou",
+        "Shangqian Gao",
+        "Yushun Dong"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40722",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40722__RCP_Merging_Merging_Long_Chain_of_Thought_Models_with_Domain_Specific_Models_by_Considering_Reasoning_Capability_as_Prior.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 2503752,
+    "sha256": "68d691b7b17b51008695b131ced21b116f6ff860d0b58b33290b70da4d79a82a",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40722/44683",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40722/44683",
+    "downloaded_at_utc": "2026-11-10T02:16:02.189350+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Junyao Yang",
+        "Jianwei Wang",
+        "Huiping Zhuang",
+        "Cen Chen",
+        "Ziqian Zeng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40739",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40739__Interpreting_Fedspeak_with_Confidence_A_LLM_Based_Uncertainty_Aware_Framework_Guided_by_Monetary_Policy_Transmission_Paths.pdf",
+    "attempts": [],
+    "pages": 9,
+    "bytes": 576561,
+    "sha256": "7d468a18159a2a236c64c598042b65f0f914e0fe47870a0e048d4cdab20b021f",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40739/44700",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40739/44700",
+    "downloaded_at_utc": "2026-11-10T02:16:02.465706+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Rui Yao",
+        "Qi Chai",
+        "Jinhai Yao",
+        "Siyuan Li",
+        "Junhao Chen",
+        "Qi Zhang",
+        "Hao Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40993",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40993__Causal_Inference_Under_Threshold_Manipulation_Bayesian_Mixture_Modeling_and_Heterogeneous_Treatment_Effects.pdf",
+    "attempts": [],
+    "pages": 8,
+    "bytes": 293175,
+    "sha256": "5dff24cc48717ce9f371a514bc5efaf06bb20de28ae355219fd1339879f82ee1",
+    "pdf_version": "publisher_version",
+    "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40993/44954",
+    "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40993/44954",
+    "downloaded_at_utc": "2026-11-10T02:16:02.416177+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Kohsuke Kubota",
+        "Shonosuke Sugasawa"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2019-3924",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2019/aaai-2019-3924__One_Class_Adversarial_Nets_for_Fraud_Detection.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/3924/3802",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 10,
+    "bytes": 1019141,
+    "sha256": "67391b48a9eb21e3ec94ec2f3fe598af7d2d45647738ce01ff6c717a9108c381",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/1803.01798",
+    "final_url": "https://arxiv.org/pdf/1803.01798",
+    "downloaded_at_utc": "2026-11-10T02:32:39.235537+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Panpan Zheng",
+        "Shuhan Yuan",
+        "Xintao Wu",
+        "Jun Li",
+        "Aidong Lu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5442",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5442__Finding_Needles_in_a_Moving_Haystack_Prioritizing_Alerts_with_Adversarial_Reinforcement_Learning.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/5442/5298",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 16,
+    "bytes": 809478,
+    "sha256": "d87c825e4d1f85adf118cb93e9fe089d393694c2dfa1ecec5214c97e2e610518",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/1906.08805",
+    "final_url": "https://arxiv.org/pdf/1906.08805",
+    "downloaded_at_utc": "2026-11-10T02:32:39.231192+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Liang Tong",
+        "Aron Laszka",
+        "Chao Yan",
+        "Ning Zhang",
+        "Yevgeniy Vorobeychik"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5766",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5766__Towards_Better_Forecasting_by_Fusing_Near_and_Distant_Future_Visions.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/5766/5622",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 9,
+    "bytes": 1149620,
+    "sha256": "f6e8e43777edb64faba01103ff94034d0eea063807758f5a64b22e7cae39aabd",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/1912.05122",
+    "final_url": "https://arxiv.org/pdf/1912.05122",
+    "downloaded_at_utc": "2026-11-10T02:32:39.403760+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jiezhu Cheng",
+        "Kaizhu Huang",
+        "Zibin Zheng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2020-5996",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2020/aaai-2020-5996__Synthesizing_Action_Sequences_for_Modifying_Model_Decisions.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/5996/5852",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 20,
+    "bytes": 1044389,
+    "sha256": "ad1ab722432dff3da920e1d4cb0379062841aa40a5a71a5573fd1f2e45b17ad7",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/1910.00057",
+    "final_url": "https://arxiv.org/pdf/1910.00057",
+    "downloaded_at_utc": "2026-11-10T02:32:39.395534+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Goutham Ramakrishnan",
+        "Yun Chan Lee",
+        "Aws Albarghouthi"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-16851",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-16851__Counterfactual_Explanations_for_Oblique_Decision_Trees_Exact_Efficient_Algorithms.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/16851/16658",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 18,
+    "bytes": 323442,
+    "sha256": "88f3b570ae5db39e5c69919d680280672af1a5df06122688e0f9dd42cc3f5440",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2103.01096",
+    "final_url": "https://arxiv.org/pdf/2103.01096",
+    "downloaded_at_utc": "2026-11-10T02:32:39.553701+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Miguel  Á. Carreira-Perpiñán",
+        "Suryabhan Singh Hada"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-17115",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-17115__Meta_Learning_Framework_with_Applications_to_Zero_Shot_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/17115/16922",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 20,
+    "bytes": 641170,
+    "sha256": "b22f69370d77cc142829858d3b147dd977924e0c6749e7332d428d04220d674a",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2002.02887",
+    "final_url": "https://arxiv.org/pdf/2002.02887",
+    "downloaded_at_utc": "2026-11-10T02:32:39.707366+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Boris  N. Oreshkin",
+        "Dmitri Carpov",
+        "Nicolas Chapados",
+        "Yoshua Bengio"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2021-17359",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2021/aaai-2021-17359__Is_the_Most_Accurate_AI_the_Best_Teammate_Optimizing_AI_for_Teamwork.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/17359/17166",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 13,
+    "bytes": 1354312,
+    "sha256": "0c4b94d02961f42bd42c106064e51bbb14b3cec09d0978680184d769b238c975",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2004.13102",
+    "final_url": "https://arxiv.org/pdf/2004.13102",
+    "downloaded_at_utc": "2026-11-10T02:32:39.722481+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Gagan Bansal",
+        "Besmira Nushi",
+        "Ece Kamar",
+        "Eric Horvitz",
+        "Daniel S. Weld"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-21192",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-21192__On_the_Fairness_of_Causal_Algorithmic_Recourse.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/21192/20941",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 17,
+    "bytes": 890192,
+    "sha256": "bd5fff54913612ec006830d9ba01f11ca76cd279a5ae9d1e15e8feb72acece56",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2010.06529",
+    "final_url": "https://arxiv.org/pdf/2010.06529",
+    "downloaded_at_utc": "2026-11-10T02:32:39.884589+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Julius von Kügelgen",
+        "Amir-Hossein Karimi",
+        "Umang Bhatt",
+        "Isabel Valera",
+        "Adrian Weller",
+        "Bernhard Schölkopf"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2022-21199",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2022/aaai-2022-21199__Online_Search_with_Best_Price_and_Query_Based_Predictions.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/21199/20948",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 22,
+    "bytes": 2795169,
+    "sha256": "7da19bb8714b450a6e8ad165282372921a0d0cc51d87e00c4b93e32f7e347c5f",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2112.01592",
+    "final_url": "https://arxiv.org/pdf/2112.01592",
+    "downloaded_at_utc": "2026-11-10T02:32:39.894126+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Spyros Angelopoulos",
+        "Shahin Kamali",
+        "Dehou Zhang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2023-25854",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2023/aaai-2023-25854__NHITS_Neural_Hierarchical_Interpolation_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/25854/25626",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 18,
+    "bytes": 2260584,
+    "sha256": "d8450c02ec3026fca6064769904ff4faa59808ac2daf9d226565ec0a57acec5b",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2201.12886",
+    "final_url": "https://arxiv.org/pdf/2201.12886",
+    "downloaded_at_utc": "2026-11-10T02:32:40.076224+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Cristian Challu",
+        "Kin G. Olivares",
+        "Boris N. Oreshkin",
+        "Max Mergenthaler Canseco",
+        "Artur Dubrawski"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2023-26317",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2023/aaai-2023-26317__Are_Transformers_Effective_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/26317/26089",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 15,
+    "bytes": 1584902,
+    "sha256": "97abddd1821cc72942c8d7ddde7e99466bb91f1bddc37c2b54e0e97be7b5be1b",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2205.13504",
+    "final_url": "https://arxiv.org/pdf/2205.13504",
+    "downloaded_at_utc": "2026-11-10T02:32:40.048680+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Ailing Zeng",
+        "Muxi Chen",
+        "Lei Zhang",
+        "Qiang Xu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-28773",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-28773__Revisiting_Graph_Based_Fraud_Detection_in_Sight_of_Heterophily_and_Spectrum.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/28773/29483",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 10,
+    "bytes": 2097412,
+    "sha256": "9125f6dbc488e4880c2abec7973cf17a1776ce66024ac31872771ef29cb950f3",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2312.06441",
+    "final_url": "https://arxiv.org/pdf/2312.06441",
+    "downloaded_at_utc": "2026-11-10T02:32:40.222876+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Fan Xu",
+        "Nan Wang",
+        "Hao Wu",
+        "Xuezhi Wen",
+        "Xibin Zhao",
+        "Hai Wan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-28795",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-28795__GMP_AR_Granularity_Message_Passing_and_Adaptive_Reconciliation_for_Temporal_Hierarchy_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/28795/29523",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 14,
+    "bytes": 1232634,
+    "sha256": "59160ed5d4b6b7f381d4e43c58e7a65f215e249074b2136a8f6e9b021832476e",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2406.12242",
+    "final_url": "https://arxiv.org/pdf/2406.12242",
+    "downloaded_at_utc": "2026-11-10T02:32:40.259344+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Fan Zhou",
+        "Chen Pan",
+        "Lintao Ma",
+        "Yu Liu",
+        "Siqiao Xue",
+        "James Zhang",
+        "Jun Zhou",
+        "Hongyuan Mei",
+        "Weitao Lin",
+        "Zi Zhuang",
+        "Wenxin Ning",
+        "Yunhua Hu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-28991",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-28991__MSGNet_Learning_Multi_Scale_Inter_series_Correlations_for_Multivariate_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/28991/29883",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 14,
+    "bytes": 1116445,
+    "sha256": "7990dd94fbc476c7f126b83950b91426a80e38047ad74c1d9eeecda2588a5e13",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2401.00423",
+    "final_url": "https://arxiv.org/pdf/2401.00423",
+    "downloaded_at_utc": "2026-11-10T02:32:40.411603+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Wanlin Cai",
+        "Yuxuan Liang",
+        "Xianggen Liu",
+        "Jianshuai Feng",
+        "Yuankai Wu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29051",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29051__Time_Aware_Knowledge_Representations_of_Dynamic_Objects_with_Multidimensional_Persistence.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/29051/29991",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 16,
+    "bytes": 1834290,
+    "sha256": "cff287fd23dee42942d3961398ce54cee62057a59a1967fe2660dcc2c6b76044",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2401.13157",
+    "final_url": "https://arxiv.org/pdf/2401.13157",
+    "downloaded_at_utc": "2026-11-10T02:32:40.440306+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Baris Coskunuzer",
+        "Ignacio Segovia-Dominguez",
+        "Yuzhou Chen",
+        "Yulia R. Gel"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29205",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29205__SHAP_k_Efficient_and_Probably_Approximately_Correct_PAC_Identification_of_Top_K_Features.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/29205/30274",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 11,
+    "bytes": 398523,
+    "sha256": "1e5c1c4cb464f5d0783fa2c702b71f7d407a58514aa6be8d35c253e5dda87d23",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2307.04850",
+    "final_url": "https://arxiv.org/pdf/2307.04850",
+    "downloaded_at_utc": "2026-11-10T02:32:40.581473+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Sanjay Kariyappa",
+        "Leonidas Tsepenekas",
+        "Freddy Lécué",
+        "Daniele Magazzeni"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29210",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29210__When_Model_Meets_New_Normals_Test_Time_Adaptation_for_Unsupervised_Time_Series_Anomaly_Detection.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/29210/30283",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 17,
+    "bytes": 7449416,
+    "sha256": "b5837732e0abd4f53a29457e8a7365fb271eae364575d476b29915f5455cf2fe",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2312.11976",
+    "final_url": "https://arxiv.org/pdf/2312.11976",
+    "downloaded_at_utc": "2026-11-10T02:32:40.625870+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Dongmin Kim",
+        "Sunghyun Park",
+        "Jaegul Choo"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29239",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29239__Spear_and_Shield_Adversarial_Attacks_and_Defense_Methods_for_Model_Based_Link_Prediction_on_Continuous_Time_Dynamic_Graphs.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/29239/30339",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 14,
+    "bytes": 473901,
+    "sha256": "c6d435f12b3e4bf506c606a0506bb5847c7ba03f2541eb406952eca150f2e93b",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2308.10779",
+    "final_url": "https://arxiv.org/pdf/2308.10779",
+    "downloaded_at_utc": "2026-11-10T02:32:40.895320+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Dongjin Lee",
+        "Juho Lee",
+        "Kijung Shin"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29337",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29337__U_Mixer_An_Unet_Mixer_Architecture_with_Stationarity_Correction_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/29337/30523",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 8,
+    "bytes": 1267580,
+    "sha256": "15dbdee15c9a5d772e39922b69c60cc58dbcc16ef944987b5c468e2ef25d6c5b",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2401.02236",
+    "final_url": "https://arxiv.org/pdf/2401.02236",
+    "downloaded_at_utc": "2026-11-10T02:32:40.935307+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Xiang Ma",
+        "Xuemei Li",
+        "Lexin Fang",
+        "Tianlong Zhao",
+        "Caiming Zhang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29522",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29522__SafeAR_Safe_Algorithmic_Recourse_by_Risk_Aware_Policies.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/29522/30867",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 19,
+    "bytes": 6336703,
+    "sha256": "5191c1f70368cf694c1d26eb23179253ddfc224ce02740b20a66cfbe7b08f640",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2308.12367",
+    "final_url": "https://arxiv.org/pdf/2308.12367",
+    "downloaded_at_utc": "2026-11-10T02:32:41.097484+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Haochen Wu",
+        "Shubham Sharma",
+        "Sunandita Patra",
+        "Sriram Gopalakrishnan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2024-29628",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2024/aaai-2024-29628__Gaussian_Process_Neural_Additive_Models.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/29628/31066",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 14,
+    "bytes": 872801,
+    "sha256": "6cb73fd4861ce05ca933f0ff21b39336847a3fd49ee62d94dde3480ec53a1cd8",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2402.12518",
+    "final_url": "https://arxiv.org/pdf/2402.12518",
+    "downloaded_at_utc": "2026-11-10T02:32:41.094471+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Wei Zhang",
+        "Brian Barr",
+        "John Paisley"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33267",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33267__Amplifier_Bringing_Attention_to_Neglected_Low_Energy_Components_in_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33267/35422",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 13,
+    "bytes": 2529302,
+    "sha256": "c9b9c12d14b27c8a2b4d976ef865a21870e06c198afeaa0b8dd3d110cdd6ed91",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2501.17216",
+    "final_url": "https://arxiv.org/pdf/2501.17216",
+    "downloaded_at_utc": "2026-11-10T02:32:41.323838+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jingru Fei",
+        "Kun Yi",
+        "Wei Fan",
+        "Qi Zhang",
+        "Zhendong Niu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33384",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33384__ChatTime_A_Unified_Multimodal_Time_Series_Foundation_Model_Bridging_Numerical_and_Textual_Data.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33384/35539",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 15,
+    "bytes": 1058744,
+    "sha256": "8f1fbfc9fe6bbf01a6a27617e90796aeb848b1d899da1426790787f173dc26b7",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2412.11376",
+    "final_url": "https://arxiv.org/pdf/2412.11376",
+    "downloaded_at_utc": "2026-11-10T02:32:41.327886+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Chengsen Wang",
+        "Qi Qi",
+        "Jingyu Wang",
+        "Haifeng Sun",
+        "Zirui Zhuang",
+        "Jinming Wu",
+        "Lei Zhang",
+        "Jianxin Liao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33626",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33626__A_Practical_Approach_to_Causal_Inference_over_Time.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33626/35781",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 20,
+    "bytes": 1104282,
+    "sha256": "22c75f5bbaeb538c4e1f4009958a046a8bfbd4328e62f43ea2941fb538c33d1d",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2410.10502",
+    "final_url": "https://arxiv.org/pdf/2410.10502",
+    "downloaded_at_utc": "2026-11-10T02:32:41.529492+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Martina Cinquini",
+        "Isacco Beretta",
+        "Salvatore Ruggieri",
+        "Isabel Valera"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33717",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33717__Disentangling_Long_Short_Term_State_Under_Unknown_Interventions_for_Online_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33717/35872",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 20,
+    "bytes": 1009017,
+    "sha256": "4c73fdb585369328c1f13374519f5a84d7838c386dc8e86f1dd73a94a23101a3",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2502.12603",
+    "final_url": "https://arxiv.org/pdf/2502.12603",
+    "downloaded_at_utc": "2026-11-10T02:32:41.506292+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Ruichu Cai",
+        "Haiqin Huang",
+        "Zhifan Jiang",
+        "Zijian Li",
+        "Changze Zhou",
+        "Yuequn Liu",
+        "Yuming Liu",
+        "Zhifeng Hao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33747",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33747__Sequence_Complementor_Complementing_Transformers_for_Time_Series_Forecasting_with_Learnable_Sequences.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33747/35902",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 18,
+    "bytes": 1735147,
+    "sha256": "2f1a3377b28678ace29c0b3aa724cd2af25525808b7731d08ce24bd0fddb8190",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2501.02735",
+    "final_url": "https://arxiv.org/pdf/2501.02735",
+    "downloaded_at_utc": "2026-11-10T02:32:41.675296+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Xiwen Chen",
+        "Peijie Qiu",
+        "Wenhui Zhu",
+        "Huayu Li",
+        "Hao Wang",
+        "Aristeidis Sotiras",
+        "Yalin Wang",
+        "Abolfazl Razi"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33838",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33838__Auto_Regressive_Moving_Diffusion_Models_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33838/35993",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 12,
+    "bytes": 1532519,
+    "sha256": "fe0aad3193b29c36e2c5c9d099fbbcfa0f5e90638c81da477072fec28748c46d",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2412.09328",
+    "final_url": "https://arxiv.org/pdf/2412.09328",
+    "downloaded_at_utc": "2026-11-10T02:32:41.705916+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jiaxin Gao",
+        "Qinglong Cao",
+        "Yuntian Chen"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33926",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33926__TimeDP_Learning_to_Generate_Multi_Domain_Time_Series_with_Domain_Prompts.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33926/36081",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 17,
+    "bytes": 1113811,
+    "sha256": "18007a875bcb50e637d1e78cd42c4deb289badf7b9629864baa29820ce55b789",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2501.05403",
+    "final_url": "https://arxiv.org/pdf/2501.05403",
+    "downloaded_at_utc": "2026-11-10T02:32:41.848660+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yu-Hao Huang",
+        "Chang Xu",
+        "Yueying Wu",
+        "Wu-Jun Li",
+        "Jiang Bian"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33965",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33965__Battling_the_Non_stationarity_in_Time_Series_Forecasting_via_Test_time_Adaptation.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33965/36120",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 15,
+    "bytes": 1255458,
+    "sha256": "8a7389b118a918c7bf40d5cc5d514f5db2e4679a2997af7ed6586bf1f33ff743",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2501.04970",
+    "final_url": "https://arxiv.org/pdf/2501.04970",
+    "downloaded_at_utc": "2026-11-10T02:32:41.860648+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "HyunGi Kim",
+        "Siwon Kim",
+        "Jisoo Mok",
+        "Sungroh Yoon"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-33989",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-33989__TimeCAP_Learning_to_Contextualize_Augment_and_Predict_Time_Series_Events_with_Large_Language_Model_Agents.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33989/36144",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 9,
+    "bytes": 970429,
+    "sha256": "5ad11617b813766af1bfe5b1fff2bcb39b15531433e8a8c1df610ba362a49ba2",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2502.11418",
+    "final_url": "https://arxiv.org/pdf/2502.11418",
+    "downloaded_at_utc": "2026-11-10T02:32:42.040918+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Geon Lee",
+        "Wenchao Yu",
+        "Kijung Shin",
+        "Wei Cheng",
+        "Haifeng Chen"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34067",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34067__TimeCMA_Towards_LLM_Empowered_Multivariate_Time_Series_Forecasting_via_Cross_Modality_Alignment.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34067/36222",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 9,
+    "bytes": 2468866,
+    "sha256": "2b286589af4f8d592b9f88452bf2685c861b975361d971b8e0a0f40b9723dcb8",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2406.01638",
+    "final_url": "https://arxiv.org/pdf/2406.01638",
+    "downloaded_at_utc": "2026-11-10T02:32:42.078151+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Chenxi Liu",
+        "Qianxiong Xu",
+        "Hao Miao",
+        "Sun Yang",
+        "Lingzheng Zhang",
+        "Cheng Long",
+        "Ziyue Li",
+        "Rui Zhao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34082",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34082__CALF_Aligning_LLMs_for_Time_Series_Forecasting_via_Cross_modal_Fine_Tuning.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34082/36237",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 9,
+    "bytes": 4346457,
+    "sha256": "3df2af6a5afc9126e4856366710a8594e1b138d6121b08feb02343a68f5d4e3d",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2403.07300",
+    "final_url": "https://arxiv.org/pdf/2403.07300",
+    "downloaded_at_utc": "2026-11-10T02:32:42.253070+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Peiyuan Liu",
+        "Hang Guo",
+        "Tao Dai",
+        "Naiqi Li",
+        "Jigang Bao",
+        "Xudong Ren",
+        "Yong Jiang",
+        "Shu-Tao Xia"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34164",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34164__Times2D_Multi_Period_Decomposition_and_Derivative_Mapping_for_General_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34164/36319",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 8,
+    "bytes": 418223,
+    "sha256": "b7a31eeb53283d9e2c5db48f6b2a2b0799197a7a823315ef051514543e024b81",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2504.00118",
+    "final_url": "https://arxiv.org/pdf/2504.00118",
+    "downloaded_at_utc": "2026-11-10T02:32:42.257276+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Reza Nematirad",
+        "Anil Pahwa",
+        "Balasubramaniam Natarajan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34211",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34211__Enhancing_Masked_Time_Series_Modeling_via_Dropping_Patches.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34211/36366",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 18,
+    "bytes": 2762981,
+    "sha256": "69578dbcd6104644a3aba44c1e25d1155fafe3c3e8ff81bd652dd6c278d55ffc",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2412.15315",
+    "final_url": "https://arxiv.org/pdf/2412.15315",
+    "downloaded_at_utc": "2026-11-10T02:32:42.440194+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Tianyu Qiu",
+        "Yi Xie",
+        "Hao Niu",
+        "Yun Xiong",
+        "Xiaofeng Gao"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34224",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34224__Cherry_Picking_in_Time_Series_Forecasting_How_to_Select_Datasets_to_Make_Your_Model_Shine.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34224/36379",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 8,
+    "bytes": 326802,
+    "sha256": "c6a0dab07dd33c193d2c4047d424d43354cc6aa3009b71328d32254f54a752e1",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2412.14435",
+    "final_url": "https://arxiv.org/pdf/2412.14435",
+    "downloaded_at_utc": "2026-11-10T02:32:42.426715+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Luis Roque",
+        "Vítor Cerqueira",
+        "Carlos Soares",
+        "Luís Torgo"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34270",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34270__xPatch_Dual_Stream_Time_Series_Forecasting_with_Exponential_Seasonal_Trend_Decomposition.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34270/36425",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 25,
+    "bytes": 1225302,
+    "sha256": "032d723a6df6df4d66df52ada8ce695594a21b49493374439f0890fc030c1765",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2412.17323",
+    "final_url": "https://arxiv.org/pdf/2412.17323",
+    "downloaded_at_utc": "2026-11-10T02:32:42.602040+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Artyom Stitsyuk",
+        "Jaesik Choi"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-34286",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-34286__Hierarchical_Classification_Auxiliary_Network_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34286/36441",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 15,
+    "bytes": 9978917,
+    "sha256": "1b8f12d277d4338cef4058526f9f1e1cee1824a2d77c65048619b50171de11a1",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2405.18975",
+    "final_url": "https://arxiv.org/pdf/2405.18975",
+    "downloaded_at_utc": "2026-11-10T02:32:42.662909+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yanru Sun",
+        "Zongxia Xie",
+        "Dongyue Chen",
+        "Emadeldeen Eldele",
+        "Qinghua Hu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-35424",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-35424__Text2Data_Low_Resource_Data_Generation_with_Textual_Control.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/35424/37579",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 18,
+    "bytes": 4562036,
+    "sha256": "817e07674b48844a707294a5a09298464484a5cdb87ca4f037e2f9f8ddab0b7d",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2402.10941",
+    "final_url": "https://arxiv.org/pdf/2402.10941",
+    "downloaded_at_utc": "2026-11-10T02:32:42.777214+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Shiyu Wang",
+        "Yihao Feng",
+        "Tian Lan",
+        "Ning Yu",
+        "Yu Bai",
+        "Ran Xu",
+        "Huan Wang",
+        "Caiming Xiong",
+        "Silvio Savarese"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-35438",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-35438__FilterTS_Comprehensive_Frequency_Filtering_for_Multivariate_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/35438/37593",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 14,
+    "bytes": 2065421,
+    "sha256": "64a8c0d9761f8b7e0c8aede9ba57be04c672be85b6188b416d7a358ea03e172b",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2505.04158",
+    "final_url": "https://arxiv.org/pdf/2505.04158",
+    "downloaded_at_utc": "2026-11-10T02:32:42.843724+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yulong Wang",
+        "Yushuo Liu",
+        "Xiaoyi Duan",
+        "Kai Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2025-35468",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2025/aaai-2025-35468__MCGAN_Enhancing_GAN_Training_with_Regression_Based_Generator_Loss.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/35468/37623",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 19,
+    "bytes": 47715303,
+    "sha256": "279ea9784d90d7a0e7e319b51f08c8d604e02e37b4899a71a16b2cd5c5c45de5",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2405.17191",
+    "final_url": "https://arxiv.org/pdf/2405.17191",
+    "downloaded_at_utc": "2026-11-10T02:32:43.118745+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Baoren Xiao",
+        "Hao Ni",
+        "Weixin Yang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-38542",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-38542__APT_Affine_Prototype_Timestamp_for_Time_Series_Forecasting_Under_Distribution_Shift.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/38542/42504",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 24,
+    "bytes": 2428007,
+    "sha256": "60012939e3cdb4d3b662f228ff49ba41ebba810c56ccabc53060c4a935801617",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.12945",
+    "final_url": "https://arxiv.org/pdf/2511.12945",
+    "downloaded_at_utc": "2026-11-10T02:32:43.041261+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Yujie Li",
+        "Zezhi Shao",
+        "Chengqing Yu",
+        "Yisong Fu",
+        "Tao Sun",
+        "Yongjun Xu",
+        "Fei Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39196",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39196__T3Time_Tri_Modal_Time_Series_Forecasting_via_Adaptive_Multi_Head_Alignment_and_Residual_Fusion.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39196/43157",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 18,
+    "bytes": 4874663,
+    "sha256": "3ea4e488ad066504fd7437ef1a9fc80f0359395152f98ebc4fc1162777b1683b",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2508.04251",
+    "final_url": "https://arxiv.org/pdf/2508.04251",
+    "downloaded_at_utc": "2026-11-10T02:32:43.225380+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Abdul Monaf Chowdhury",
+        "Rabeya Akter",
+        "Safaeid Hossain Arib"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39218",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39218__TimeMosaic_Temporal_Heterogeneity_Guided_Time_Series_Forecasting_via_Adaptive_Granularity_Patch_and_Segment_wise_Decoding.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39218/43179",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 27,
+    "bytes": 6925341,
+    "sha256": "0db80d679d4252008ee92109dacf12433fb5a4c68f71f5d2babe7f5bbe2d4e22",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2509.19406",
+    "final_url": "https://arxiv.org/pdf/2509.19406",
+    "downloaded_at_utc": "2026-11-10T02:32:43.349944+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Kuiye Ding",
+        "Fanda Fan",
+        "Chunyi Hou",
+        "Zheya Wang",
+        "Lei Wang",
+        "Zhengxin Yang",
+        "Jianfeng Zhan"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39330",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39330__A_Theoretical_Analysis_of_Detecting_Large_Model_Generated_Time_Series.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39330/43291",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 23,
+    "bytes": 12810666,
+    "sha256": "7931aae138f26bd53b9a81ca51eb2c6621e837537c74d72f56be365c25f975d2",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.07104",
+    "final_url": "https://arxiv.org/pdf/2511.07104",
+    "downloaded_at_utc": "2026-11-10T02:32:43.454020+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Junji Hou",
+        "Junzhou Zhao",
+        "Shuo Zhang",
+        "Pinghui Wang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39414",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39414__GLANCE_Global_Actions_in_a_Nutshell_for_Counterfactual_Explainability.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39414/43375",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 47,
+    "bytes": 1112442,
+    "sha256": "ea964d1e18ecf8e094ead7f7ce5c07111498b6eb50cad824c0a1c26fb46777f3",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2405.18921",
+    "final_url": "https://arxiv.org/pdf/2405.18921",
+    "downloaded_at_utc": "2026-11-10T02:32:43.532235+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Loukas Kavouras",
+        "Eleni Psaroudaki",
+        "Konstantinos Tsopelas",
+        "Dimitrios Rontogiannis",
+        "Nikolaos Theologitis",
+        "Dimitris Sacharidis",
+        "Giorgos Giannopoulos",
+        "Dimitrios Tomaras",
+        "Kleopatra Markou",
+        "Dimitrios Gunopulos",
+        "Dimitris Fotakis",
+        "Ioannis Emiris"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39426",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39426__Time_Series_Forecasting_via_Direct_Per_Step_Probability_Distribution_Modeling.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39426/43387",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 16,
+    "bytes": 2287241,
+    "sha256": "0906bb01596293a6de817b134334c27bb3e27383d859a050259d03de1fefa16b",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.23260",
+    "final_url": "https://arxiv.org/pdf/2511.23260",
+    "downloaded_at_utc": "2026-11-10T02:32:43.624994+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Linghao Kong",
+        "Xiaopeng Hong"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39509",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39509__DeepBooTS_Dual_Stream_Residual_Boosting_for_Drift_Resilient_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39509/43470",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 28,
+    "bytes": 2680771,
+    "sha256": "2f90d5e7e8570ca932b125d89c3787fcbd269576bdc79e3cf66849db24b0bad9",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.06893",
+    "final_url": "https://arxiv.org/pdf/2511.06893",
+    "downloaded_at_utc": "2026-11-10T02:32:43.697875+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Daojun Liang",
+        "Jing Chen",
+        "Xiao Wang",
+        "Yinglong Wang",
+        "Shuo Li"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39596",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39596__Supervised_Dynamic_Dimension_Reduction_with_Deep_Neural_Network.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39596/43557",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 15,
+    "bytes": 3648683,
+    "sha256": "8a19996302719e44b3f9516dad4392204a07b9ce52df4e871ac7e3ad4cab6285",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2508.03546",
+    "final_url": "https://arxiv.org/pdf/2508.03546",
+    "downloaded_at_utc": "2026-11-10T02:32:43.825831+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Zhanye Luo",
+        "Yuefeng Han",
+        "Xiufan Yu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39601",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39601__OccamVTS_Distilling_Vision_Models_to_1_Parameters_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39601/43562",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 25,
+    "bytes": 11436837,
+    "sha256": "f9ecbaab9e05613bcd63d21582fa6d16f6e3b2e2446fd4b0bffd0cdaf6d1c5de",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2508.01727",
+    "final_url": "https://arxiv.org/pdf/2508.01727",
+    "downloaded_at_utc": "2026-11-10T02:32:43.909812+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Sisuo Lyu",
+        "Siru Zhong",
+        "Weilin Ruan",
+        "Qingxiang Liu",
+        "Qingsong Wen",
+        "Hui Xiong",
+        "Yuxuan Liang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39723",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39723__TSGDiff_Rethinking_Synthetic_Time_Series_Generation_from_a_Pure_Graph_Perspective.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39723/43684",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 13,
+    "bytes": 24689651,
+    "sha256": "b37f481f885501e92cba2bc07291a63e1ad13f8397f157f510b07d0e0e04a57c",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.12174",
+    "final_url": "https://arxiv.org/pdf/2511.12174",
+    "downloaded_at_utc": "2026-11-10T02:32:44.080505+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Lifeng Shen",
+        "Xuyang Li",
+        "Lele Long"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39826",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39826__IdealTSF_Can_Non_Ideal_Data_Contribute_to_Enhancing_the_Performance_of_Time_Series_Forecasting_Models.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39826/43787",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 15,
+    "bytes": 1992622,
+    "sha256": "a2d00cf44796cfd059a10f35f590bd8e38370b5c895bcb89e1dc70bed56eb247",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2512.05442",
+    "final_url": "https://arxiv.org/pdf/2512.05442",
+    "downloaded_at_utc": "2026-11-10T02:32:44.137387+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Hua Wang",
+        "Jinghao Lu",
+        "Fan Zhang"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39832",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39832__RI_Loss_A_Learnable_Residual_Informed_Loss_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39832/43793",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 21,
+    "bytes": 2173606,
+    "sha256": "0efd6d8a7bd04e3cb5cfece0e876bfd76e5ea40014c323d78e2e4955c8b01fcf",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.10130",
+    "final_url": "https://arxiv.org/pdf/2511.10130",
+    "downloaded_at_utc": "2026-11-10T02:32:44.483970+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Jieting Wang",
+        "Xiaolei Shang",
+        "Feijiang Li",
+        "Furong Peng"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39855",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39855__CometNet_Contextual_Motif_guided_Long_term_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39855/43816",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 23,
+    "bytes": 15456553,
+    "sha256": "eeda0799e876392825d9bdf05ee0081d218822ab97b27da16fe94756c452d14f",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.08049",
+    "final_url": "https://arxiv.org/pdf/2511.08049",
+    "downloaded_at_utc": "2026-11-10T02:32:44.356806+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Weixu Wang",
+        "Xiaobo Zhou",
+        "Xin Qiao",
+        "Lei Wang",
+        "Tie Qiu"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-40049",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-40049__MDMLP_EIA_Multi_domain_Dynamic_MLPs_with_Energy_Invariant_Attention_for_Time_Series_Forecasting.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/40049/44010",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 28,
+    "bytes": 1334495,
+    "sha256": "acca6dbdba66afaeeddfdef4123cc0841af37d6a4719b3fd6b9da54e2202e5b1",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.09924",
+    "final_url": "https://arxiv.org/pdf/2511.09924",
+    "downloaded_at_utc": "2026-11-10T02:32:44.514465+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Hu Zhang",
+        "Zhien Dai",
+        "Zhaohui Tang",
+        "Yongfang Xie"
+      ],
+      "identity_verified": true
+    }
+  },
+  {
+    "id": "aaai-2026-39585",
+    "status": "downloaded",
+    "local_path": "pdfs/AAAI/2026/aaai-2026-39585__Towards_Non_Stationary_Time_Series_Forecasting_with_Temporal_Stabilization_and_Frequency_Differencing.pdf",
+    "attempts": [
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39585/43546",
+        "http_status": 403,
+        "error": "No valid PDF response"
+      }
+    ],
+    "pages": 12,
+    "bytes": 5007887,
+    "sha256": "01d0f1659452262480aeb1a30064b28a50a71eb272ab372fc220a34e0db12249",
+    "pdf_version": "arxiv_author_version",
+    "requested_url": "https://arxiv.org/pdf/2511.08229",
+    "final_url": "https://arxiv.org/pdf/2511.08229",
+    "downloaded_at_utc": "2026-11-10T02:35:29.458823+00:00",
+    "identity": {
+      "title_exact": true,
+      "title_similarity": 1.0,
+      "matched_authors": [
+        "Junkai Lu",
+        "Peng Chen",
+        "Chenjuan Guo",
+        "Yang Shu",
+        "Meng Wang",
+        "Bin Yang"
+      ],
+      "identity_verified": true
+    }
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "literature_snapshot_date": "2026-11-02",
+  "literature_snapshot_time_zone": "Asia/Shanghai",
+  "imported_at_utc": "2026-11-10T01:41:05.779274+00:00",
+  "source_repository": "https://github.com/uwFengyuan/paper_writing",
+  "source_revision": "84a8da4a1543221063f74a0367253c4fbe40540c",
+  "source_directory_at_revision": "topconf_papers_2017_present",
+  "scope": {
+    "years": [
+      2017,
+      2026
+    ],
+    "venues": [
+      "ACL",
+      "EMNLP",
+      "ICLR",
+      "ICML",
+      "NeurIPS"
+    ],
+    "tracks": [
+      "main"
+    ]
+  },
+  "paper_count": 1178,
+  "pdf_count": 1128,
+  "metadata_export_sha256": {
+    "finance_catalog.csv": "3a1e075990db42d6f9d6da4a3bc6731531c3fc8cc4d929f54d018a24fa03f325",
+    "finance_catalog.xlsx": "0bed0d51d959b1001dd2b3ecb64d8d67ee2f9fe691e02f0ba8eb3e07287dd343",
+    "finance_references.bib": "696a992adb6d9d4b7f150277902b1f55bcb23d9401116039f0ca5d3b7f643e69"
+  },
+  "notes": "Finance catalog, notes, classifications, and PDFs extracted from the source snapshot. The general catalog JSONL was filtered by finance paper ID. No papers were newly admitted during migration."
+}

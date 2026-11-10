@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2026-36986",
+  "title": "Multi-Horizon Time Series Forecasting of Non-Parametric CDFs with Deep Lattice Networks",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/36986",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 81944,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Niklas Erdmann",
+      "Lars Bentsen",
+      "Roy Stenbro",
+      "Heine Nygard Riise",
+      "Narada Dilp Warakagoda",
+      "Paal E. Engelstad"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.13756",
+    "version": "arxiv_author_version"
+  }
+}

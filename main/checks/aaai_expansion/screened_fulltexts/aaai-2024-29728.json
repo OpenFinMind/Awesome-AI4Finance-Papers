@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2024-29728",
+  "title": "Benchmarking Large Language Models in Retrieval-Augmented Generation",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29728",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 80473,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jiawei Chen",
+      "Hongyu Lin",
+      "Xianpei Han",
+      "Le Sun"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2309.01431",
+    "version": "arxiv_author_version"
+  }
+}

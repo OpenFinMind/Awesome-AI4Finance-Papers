@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2025-33806",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33806__Linking_Industry_Sectors_and_Financial_Statements_A_Hybrid_Approach_for_Company_Classification.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 672630,
+  "sha256": "c2958af0db8c6ef95c9860b23f9be95294a73430988d4b54cda247147643b8c3",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33806/35961",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33806/35961",
+  "downloaded_at_utc": "2026-11-10T02:15:53.936918+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Guy Stephane Waffo Dzuyo",
+      "Gaël Guibon",
+      "Christophe Cerisara",
+      "Luis Belmar-Letelier"
+    ],
+    "identity_verified": true
+  }
+}

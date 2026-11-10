@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2025-32057",
+  "title": "HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/32057",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 109949,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Peilin Zhao",
+      "Liu Liu",
+      "Pengcheng Wu",
+      "Zhiqi Shen"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2502.08302",
+    "version": "arxiv_author_version"
+  }
+}

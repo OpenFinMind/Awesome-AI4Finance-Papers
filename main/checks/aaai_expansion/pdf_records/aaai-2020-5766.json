@@ -1,0 +1,29 @@
+{
+  "id": "aaai-2020-5766",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5766__Towards_Better_Forecasting_by_Fusing_Near_and_Distant_Future_Visions.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/5766/5622",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 9,
+  "bytes": 1149620,
+  "sha256": "f6e8e43777edb64faba01103ff94034d0eea063807758f5a64b22e7cae39aabd",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/1912.05122",
+  "final_url": "https://arxiv.org/pdf/1912.05122",
+  "downloaded_at_utc": "2026-11-10T02:32:39.403760+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jiezhu Cheng",
+      "Kaizhu Huang",
+      "Zibin Zheng"
+    ],
+    "identity_verified": true
+  }
+}

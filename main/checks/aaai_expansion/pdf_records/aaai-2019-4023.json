@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2019-4023",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2019/aaai-2019-4023__An_Equivalence_between_Wagering_and_Fair_Division_Mechanisms.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 487757,
+  "sha256": "78ee518b123d3e4f62266638162dfc6bb71b7fa7fc1c838fcc195c6bc8cbfbb9",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4023/3901",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4023/3901",
+  "downloaded_at_utc": "2026-11-10T02:15:34.885220+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Rupert Freeman",
+      "David M. Pennock",
+      "Jennifer Wortman Vaughan"
+    ],
+    "identity_verified": true
+  }
+}

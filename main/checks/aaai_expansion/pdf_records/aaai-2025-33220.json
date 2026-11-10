@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2025-33220",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33220__Langevin_Multiplicative_Weights_Update_with_Applications_in_Polynomial_Portfolio_Management.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 412665,
+  "sha256": "35de21337e9b6ec9b1ed02203f615effeac839bd2f0da34c155a8b9a5f441f7b",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33220/35375",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33220/35375",
+  "downloaded_at_utc": "2026-11-10T02:15:51.466376+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yi Feng",
+      "Xiao Wang",
+      "Tian Xie"
+    ],
+    "identity_verified": true
+  }
+}

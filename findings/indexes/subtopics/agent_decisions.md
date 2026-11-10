@@ -1,0 +1,24 @@
+# Investment & Financial Research Agents / 投研与金融决策Agent
+
+16 Findings long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | ACL | [AlphaQuanter: An End-to-End Tool-Augmented Agentic Reinforcement Learning Framework for Stock Trading](../finance_notes/2026.findings-acl.456.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.456/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.456.pdf) |
+| 2026 | ACL | [Cogito: A Cognitive Agentic Framework Driven by Dynamic Graph of Thoughts for Financial Report Generation](../finance_notes/2026.findings-acl.430.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.430/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.430.pdf) |
+| 2026 | ACL | [From Tasks to Teams: A Risk-First Evaluation Framework for Multi-Agent LLM Systems in Finance](../finance_notes/2026.findings-acl.1934.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.1934/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.1934.pdf) |
+| 2026 | EMNLP | [BizSage: A Self-Evolving Multi-Agent Framework for Business Research with Efficient Knowledge Retrieval](../finance_notes/2026.findings-emnlp.354.md) | application | [Paper](https://aclanthology.org/2026.findings-emnlp.354/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.354.pdf) |
+| 2026 | EMNLP | [EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making](../finance_notes/2026.findings-emnlp.932.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.932/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.932.pdf) |
+| 2026 | EMNLP | [FaVOR: LLM-Based Agentic Framework for Factor Mining via Empirical Validation](../finance_notes/2026.findings-emnlp.1514.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.1514/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.1514.pdf) |
+| 2026 | EMNLP | [FinHopper: A Progressive Multi-Hop Benchmark for Complex Financial Agents with Step-wise Evaluation](../finance_notes/2026.findings-emnlp.2384.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.2384/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.2384.pdf) |
+| 2026 | EMNLP | [OpenFinGym: A Verifiable, Multi-Task Gym Environment for Evaluating Quant Agents](../finance_notes/2026.findings-emnlp.2258.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.2258/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.2258.pdf) |
+| 2026 | EMNLP | [RealFin: Benchmarking Agent Workflow Orchestration Beyond MCP-Style Tool Connectivity](../finance_notes/2026.findings-emnlp.341.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.341/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.341.pdf) |
+| 2025 | ACL | [DeFine: Decision-Making with Analogical Reasoning over Factor Profiles](../finance_notes/2025.findings-acl.238.md) | application | [Paper](https://aclanthology.org/2025.findings-acl.238/) · [PDF](../../pdfs/ACL/2025/2025.findings-acl.238.pdf) |
+| 2025 | ACL | [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](../finance_notes/2025.findings-acl.716.md) | core | [Paper](https://aclanthology.org/2025.findings-acl.716/) · [PDF](../../pdfs/ACL/2025/2025.findings-acl.716.pdf) |
+| 2025 | EMNLP | [DecisionFlow: Advancing Large Language Model as Principled Decision Maker](../finance_notes/2025.findings-emnlp.905.md) | application | [Paper](https://aclanthology.org/2025.findings-emnlp.905/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.905.pdf) |
+| 2025 | EMNLP | [Large Language Model Agents in Finance: A Survey Bridging Research, Practice, and Real-World Deployment](../finance_notes/2025.findings-emnlp.972.md) | core | [Paper](https://aclanthology.org/2025.findings-emnlp.972/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.972.pdf) |
+| 2025 | EMNLP | [QuantAgents: Towards Multi-agent Financial System via Simulated Trading](../finance_notes/2025.findings-emnlp.945.md) | core | [Paper](https://aclanthology.org/2025.findings-emnlp.945/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.945.pdf) |
+| 2024 | ACL | [Can Large Language Models Mine Interpretable Financial Factors More Effectively? A Neural-Symbolic Factor Mining Agent Model](../finance_notes/2024.findings-acl.233.md) | core | [Paper](https://aclanthology.org/2024.findings-acl.233/) · [PDF](../../pdfs/ACL/2024/2024.findings-acl.233.pdf) |
+| 2024 | EMNLP | [How Personality Traits Influence Negotiation Outcomes? A Simulation based on Large Language Models](../finance_notes/2024.findings-emnlp.605.md) | application | [Paper](https://aclanthology.org/2024.findings-emnlp.605/) · [PDF](../../pdfs/EMNLP/2024/2024.findings-emnlp.605.pdf) |

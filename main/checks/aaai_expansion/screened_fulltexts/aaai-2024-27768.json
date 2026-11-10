@@ -1,0 +1,38 @@
+{
+  "id": "aaai-2024-27768",
+  "title": "Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/27768",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 86137,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 41328,
+      "excerpt": "the best results as “EDEDRR”, “EDR”, “ED- method that outperformed all competitors on the standard EDRR”, and “EDEDR” for Ross, Saratoga, UpperPen, and M3 (43), M4 (44), and TOURISM (45) time series datasets, SFC, respectively. was also used in the comparison. J.2. Effects of the Oversampling Policy. Fig. 6 displays the Multivariate and Univariate ResultsTable 2 shows the test distribution of the "
+    },
+    {
+      "match": "Credit card",
+      "offset": 76515,
+      "excerpt": "2419–22430, 2021. and methods for addressing challenges in probabilistic hydrological post-processing and 35. Amit Singh, Ranjeet Kumar Ranjan, and Abhishek Tiwari. Credit card fraud detection under forecasting. Frontiers in Water, 4:961954, 2022. extreme imbalanced data: a comparative study of data-level algorithms. Journal of Experi- 12. M Cheng, F Fang, T Kinouchi, IM Navon, and CC Pain. Long lead-time daily and monthly mental & Theoretical Ar"
+    },
+    {
+      "match": "m4",
+      "offset": 80701,
+      "excerpt": " Yan. Enhancing the locality and breaking the memory bottleneck of transformer on time 44. Spyros Makridakis, Evangelos Spiliotis, and Vassilios Assimakopoulos. The m4 competition: series forecasting. Advances in neural information processing systems, 32, 2019. Results, findings, conclusion and way forward. International Journal of Forecasting, 34(4): 19. Yao Qin, Dongjin Song, Haifeng Chen, Wei Cheng, Guofei Jiang, and Garrison Cottrell. A 802–808, 2018. dual-stage "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yanhong Li",
+      "Jack Xu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2312.08763",
+    "version": "arxiv_author_version"
+  }
+}

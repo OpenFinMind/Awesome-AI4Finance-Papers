@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2024-29305",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-29305__ECHO_GL_Earnings_Calls_Driven_Heterogeneous_Graph_Learning_for_Stock_Movement_Prediction.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1619587,
+  "sha256": "3b8b6bc48c9b047f63fc38bbb4e0906f9b5620e1e24817db530702d909f58be9",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29305/30462",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29305/30462",
+  "downloaded_at_utc": "2026-11-10T02:15:48.712782+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Mengpu Liu",
+      "Mengying Zhu",
+      "Xiuyuan Wang",
+      "Guofang Ma",
+      "Jianwei Yin",
+      "Xiaolin Zheng"
+    ],
+    "identity_verified": true
+  }
+}

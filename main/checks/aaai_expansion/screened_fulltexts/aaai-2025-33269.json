@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2025-33269",
+  "title": "Modeling Latent Non-Linear Dynamical System over Time Series",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33269",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 146236,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Ren Fujiwara",
+      "Yasuko Matsubara",
+      "Yasushi Sakurai"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.08114",
+    "version": "arxiv_author_version"
+  }
+}

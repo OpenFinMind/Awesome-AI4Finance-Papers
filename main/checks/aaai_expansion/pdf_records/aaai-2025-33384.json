@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2025-33384",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33384__ChatTime_A_Unified_Multimodal_Time_Series_Foundation_Model_Bridging_Numerical_and_Textual_Data.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33384/35539",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 15,
+  "bytes": 1058744,
+  "sha256": "8f1fbfc9fe6bbf01a6a27617e90796aeb848b1d899da1426790787f173dc26b7",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2412.11376",
+  "final_url": "https://arxiv.org/pdf/2412.11376",
+  "downloaded_at_utc": "2026-11-10T02:32:41.327886+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Chengsen Wang",
+      "Qi Qi",
+      "Jingyu Wang",
+      "Haifeng Sun",
+      "Zirui Zhuang",
+      "Jinming Wu",
+      "Lei Zhang",
+      "Jianxin Liao"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "aaai-2026-39785",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-39785__FinMMDocR_Benchmarking_Financial_Multimodal_Reasoning_with_Scenario_Awareness_Document_Understanding_and_Multi_Step_Computation.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 7278240,
+  "sha256": "6332501be19075d5162ad966e59202bd877c447ab7b725500ec86b355d74afeb",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39785/43746",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39785/43746",
+  "downloaded_at_utc": "2026-11-10T02:15:59.421500+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zichen Tang",
+      "Haihong E",
+      "Rongjin Li",
+      "Jiacheng Liu",
+      "Linwei Jia",
+      "Zhuodi Hao",
+      "Zhongjun Yang",
+      "Yuanze Li",
+      "Haolin Tian",
+      "Xinyi Hu",
+      "Peizhi Zhao",
+      "Yuan Liu",
+      "Zhengyu Wang",
+      "Xianghe Wang",
+      "Yiling Huang",
+      "Xueyuan Lin",
+      "Ruofei Bai",
+      "Zijian Xie",
+      "Qian Huang",
+      "Ruining Cao",
+      "Haocheng Gao"
+    ],
+    "identity_verified": true
+  }
+}

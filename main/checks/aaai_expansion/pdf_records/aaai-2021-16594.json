@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2021-16594",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16594__Self_Supervised_Prototype_Representation_Learning_for_Event_Based_Corporate_Profiling.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1500266,
+  "sha256": "df6d7a7e9b3cada342323a43ebbb52478e3a9e1b6a07341ad04b52d12bb3a63b",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16594/16401",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16594/16401",
+  "downloaded_at_utc": "2026-11-10T02:15:43.689142+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zixuan Yuan",
+      "Hao Liu",
+      "Renjun Hu",
+      "Denghui Zhang",
+      "Hui Xiong"
+    ],
+    "identity_verified": true
+  }
+}

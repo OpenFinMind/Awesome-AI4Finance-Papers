@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2018-11501",
+  "title": "Beyond Sparsity: Tree Regularization of Deep Models for Interpretability",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11501",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 533927,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Mike Wu",
+      "Sonali Parbhoo",
+      "Maurizio Zazzi",
+      "Volker Roth",
+      "Finale Doshi-Velez"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1711.06178",
+    "version": "arxiv_author_version"
+  }
+}

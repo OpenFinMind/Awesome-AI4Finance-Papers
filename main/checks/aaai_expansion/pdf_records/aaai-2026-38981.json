@@ -1,0 +1,29 @@
+{
+  "id": "aaai-2026-38981",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-38981__Two_Heads_Are_Better_than_One_Distilling_Large_Language_Model_Features_into_Small_Models_with_Feature_Decomposition_and_Mixture.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 6914800,
+  "sha256": "e725bd26cec7e8260472c0c253eb1a11aa280321125e1abafb6b7108b243c49f",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38981/42943",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38981/42943",
+  "downloaded_at_utc": "2026-11-10T02:15:58.166406+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Tianhao Fu",
+      "Xinxin Xu",
+      "Weichen Xu",
+      "Jue Chen",
+      "Ruilong Ren",
+      "Bowen Deng",
+      "Xinyu Zhao",
+      "Jian Cao",
+      "Xixin Cao"
+    ],
+    "identity_verified": true
+  }
+}

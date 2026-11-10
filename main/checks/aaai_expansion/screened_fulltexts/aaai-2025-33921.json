@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2025-33921",
+  "title": "Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33921",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 59858,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xiaoyu Huang",
+      "Weidong Chen",
+      "Bo Hu",
+      "Zhendong Mao"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.19108",
+    "version": "arxiv_author_version"
+  }
+}

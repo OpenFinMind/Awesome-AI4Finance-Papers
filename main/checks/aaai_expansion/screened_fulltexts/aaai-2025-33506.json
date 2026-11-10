@@ -1,0 +1,39 @@
+{
+  "id": "aaai-2025-33506",
+  "title": "Last-iterate Convergence in Regularized Graphon Mean Field Game",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33506",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 142377,
+  "passages": [
+    {
+      "match": "stock market",
+      "offset": 1333,
+      "excerpt": " Abstract To model complex real-world systems, such as traders in stock markets, or the dis- semination of contagious diseases, graphon mean-field games (GMFG) have been proposed to model many agents. Despite the empirical success, our understanding of GMFG is limited. Popular "
+    },
+    {
+      "match": "stock market",
+      "offset": 3484,
+      "excerpt": "eurons within human brains (Bullmore and Sporns, 2009, 2012; Avena- Koenigsberger et al., 2018), to the dynamic interactions of traders in stock markets (Bakker et al., 2010; Bian et al., 2016), and to the dissemination of contagious diseases throughout societies (Newman, 2002; Pastor-Satorras et al., 2015). Due to the large number of interacting individuals or components, th"
+    },
+    {
+      "match": "elliptic",
+      "offset": 45045,
+      "excerpt": " k,h k,h k,h Λt,h dν(α). )∥ −1 Lastly, we bound the summation of this term using an elliptical potential lemma and recursively apply the relationship of D(πt ) to obtain the final bound. 6 Experiments To verify the effectiveness of our algorithm, we analyze it empirically on four environments, Predator Prey, Crowd Avoidance, Crowd modeling, and Periodic Aversion. To assess theR performance of our algorithm, we use exploitability, whi"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jing Dong",
+      "Baoxiang Wang",
+      "Yaoliang Yu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2410.08746",
+    "version": "arxiv_author_version"
+  }
+}

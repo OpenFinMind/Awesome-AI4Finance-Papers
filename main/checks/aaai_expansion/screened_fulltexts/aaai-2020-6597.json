@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2020-6597",
+  "title": "Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/6597",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 84480,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Tan Zhi-Xuan",
+      "Harold Soh"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1905.13570",
+    "version": "arxiv_author_version"
+  }
+}

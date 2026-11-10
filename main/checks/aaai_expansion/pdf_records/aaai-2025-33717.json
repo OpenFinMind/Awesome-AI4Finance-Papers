@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2025-33717",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33717__Disentangling_Long_Short_Term_State_Under_Unknown_Interventions_for_Online_Time_Series_Forecasting.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33717/35872",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 20,
+  "bytes": 1009017,
+  "sha256": "4c73fdb585369328c1f13374519f5a84d7838c386dc8e86f1dd73a94a23101a3",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2502.12603",
+  "final_url": "https://arxiv.org/pdf/2502.12603",
+  "downloaded_at_utc": "2026-11-10T02:32:41.506292+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Ruichu Cai",
+      "Haiqin Huang",
+      "Zhifan Jiang",
+      "Zijian Li",
+      "Changze Zhou",
+      "Yuequn Liu",
+      "Yuming Liu",
+      "Zhifeng Hao"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2026-40152",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-40152__Physics_Informed_Koopman_Neural_Estimation_of_the_Heston_Model_from_High_Frequency_Observations.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1170348,
+  "sha256": "6d2380ed95d89fd7413ca8915e2d503baafbc310a67bdd16fdd63b5067b31bc9",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40152/44113",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40152/44113",
+  "downloaded_at_utc": "2026-11-10T02:16:00.089372+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Qiuming Zhu",
+      "Haoran Kou",
+      "Linyi Qian",
+      "Chunqi Shi",
+      "Xianyi Wu",
+      "Ziwei Zhou"
+    ],
+    "identity_verified": true
+  }
+}

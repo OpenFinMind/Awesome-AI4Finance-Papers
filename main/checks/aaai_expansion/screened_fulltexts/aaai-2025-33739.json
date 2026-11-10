@@ -1,0 +1,30 @@
+{
+  "id": "aaai-2025-33739",
+  "title": "Federated Foundation Models on Heterogeneous Time Series",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33739",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 97057,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 71920,
+      "excerpt": "luate the effectiveness of FFTS (Ours, FT) 0.023 0.018 0.058 0.044 0.029 0.034 our FFTS using the M4 dataset. Table 7 shows that our FFTS outperforms advanced time series models, including Table 8: Imputation results. Time points are randomly masked at LLM-based Time-LLM and GPT4TS, further demonstrating ratios of {12.5%, 25%, "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Shengchao Chen",
+      "Guodong Long",
+      "Jing Jiang",
+      "Chengqi Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.08906",
+    "version": "arxiv_author_version"
+  }
+}

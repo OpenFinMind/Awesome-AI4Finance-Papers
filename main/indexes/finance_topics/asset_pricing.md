@@ -1,0 +1,25 @@
+# Asset Pricing / 资产定价
+
+收益横截面、风险溢价、随机折现因子与资产定价模型。
+
+10 Main long papers. Topic memberships can overlap.
+
+[All topics](../ai_for_finance.md) · [Classification definitions](../finance_taxonomy.md) · [CSV](asset_pricing.csv) · [Excel](../../finance_catalog.xlsx)
+
+| Subtopic | Papers |
+|---|---:|
+| Pricing Models & Risk Premia / 定价模型与风险溢价 | 5 |
+| Risk Factor Models / 市场风险因子建模 | 7 |
+
+| Year | Venue | Paper | Scope | Primary topic | Subtopics | Methods | Resources |
+|---|---|---|---|---|---|---|---|
+| 2026 | EMNLP | [Temporal Leakage in Financial News NLP: A Multi-Architecture Audit with a Regime-Specific M&A Signal](../finance_notes/2026.emnlp-main.2386.md) | core | Corporate Finance & Accounting / 公司金融与会计 | Pricing Models & Risk Premia / 定价模型与风险溢价; Mergers & Acquisitions / 并购与公司事件; Trust, Compliance & Bias / 可信、合规与偏差审计; Financial Pretraining & Adaptation / 金融预训练与领域适配; Financial Language Tasks & Corpora / 金融语言任务与语料 | Language Models & LLM / 语言模型与LLM | [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.2386__Temporal_Leakage_in_Financial_News_NLP_A_Multi_Architecture_Audit_with_a_Regime_Specific_M_A_Signal.pdf) |
+| 2026 | ICML | [Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../finance_notes/icml-2026-BZfkxSasd3.md) | core | Time Series / 时间序列 | Representation & Foundation Models / 表征与基础模型; Risk Factor Models / 市场风险因子建模 | Representation Learning / 表征学习 | [Online](https://openreview.net/forum?id=BZfkxSasd3) |
+| 2026 | NeurIPS | [Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios](../finance_notes/neurips-2026-Dk8yYYJtw0.md) | core | Asset Pricing / 资产定价 | Pricing Models & Risk Premia / 定价模型与风险溢价; Portfolio Selection & Optimization / 组合选择与优化; Retrieval, Embedding & Reranking / 检索、嵌入与重排; Financial RAG & Long Documents / 金融RAG与长文档 | Diffusion & Flow / 扩散与流模型; Uncertainty & Robustness / 不确定性与鲁棒性; Retrieval & RAG / 检索与RAG; Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/NeurIPS/2026/neurips-2026-Dk8yYYJtw0__Retrieval_Augmented_Diffusion_Modeling_for_Stochastic_Discount_Factor_Portfolios.pdf) |
+| 2026 | NeurIPS | [Stable Alpha: Adversarial Invariant Representation Learning for Nonlinear Asset Pricing  under Temporal Distribution Shifts](../finance_notes/neurips-2026-NZHuWIlAUx.md) | core | Asset Pricing / 资产定价 | Pricing Models & Risk Premia / 定价模型与风险溢价 | Causal Learning / 因果学习; Uncertainty & Robustness / 不确定性与鲁棒性; Representation Learning / 表征学习 | [Online](https://openreview.net/forum?id=NZHuWIlAUx) |
+| 2025 | AAAI | [FactorGCL: A Hypergraph-Based Factor Model with Temporal Residual Contrastive Learning for Stock Returns Prediction](../finance_notes/aaai-2025-31993.md) | core | Asset Pricing / 资产定价 | Risk Factor Models / 市场风险因子建模; Stock Movement & Returns / 股价方向与收益预测 | Graph Learning / 图学习; Representation Learning / 表征学习 | [PDF](../../pdfs/AAAI/2025/aaai-2025-31993__FactorGCL_A_Hypergraph_Based_Factor_Model_with_Temporal_Residual_Contrastive_Learning_for_Stock_Returns_Prediction.pdf) |
+| 2022 | AAAI | [FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns](../finance_notes/aaai-2022-20369.md) | core | Asset Pricing / 资产定价 | Pricing Models & Risk Premia / 定价模型与风险溢价; Risk Factor Models / 市场风险因子建模; Stock Movement & Returns / 股价方向与收益预测 | Generative Modeling / 生成建模 | [PDF](../../pdfs/AAAI/2022/aaai-2022-20369__FactorVAE_A_Probabilistic_Dynamic_Factor_Model_Based_on_Variational_Autoencoder_for_Predicting_Cross_Sectional_Stock_Returns.pdf) |
+| 2021 | AAAI | [Deep Portfolio Optimization via Distributional Prediction of Residual Factors](../finance_notes/aaai-2021-16095.md) | core | Portfolio & Investment / 投资组合与投资管理 | Asset Allocation / 资产配置; Portfolio Selection & Optimization / 组合选择与优化; Risk Factor Models / 市场风险因子建模 | Uncertainty & Robustness / 不确定性与鲁棒性; Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/AAAI/2021/aaai-2021-16095__Deep_Portfolio_Optimization_via_Distributional_Prediction_of_Residual_Factors.pdf) |
+| 2021 | NeurIPS | [Graphical Models in Heavy-Tailed Markets](../finance_notes/neurips-2021-w1FvEPcwTnI.md) | core | Asset Pricing / 资产定价 | Risk Factor Models / 市场风险因子建模; Crypto & Blockchain Transactions / 加密资产与链上交易 | Graph Learning / 图学习; Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/NeurIPS/2021/neurips-2021-w1FvEPcwTnI__Graphical_Models_in_Heavy_Tailed_Markets.pdf) |
+| 2020 | ICML | [Uncertainty-Aware Lookahead Factor Models for Quantitative Investing](../finance_notes/icml-2020-5869.md) | core | Asset Pricing / 资产定价 | Pricing Models & Risk Premia / 定价模型与风险溢价; Portfolio Selection & Optimization / 组合选择与优化; Risk Factor Models / 市场风险因子建模 | Uncertainty & Robustness / 不确定性与鲁棒性 | [PDF](../../pdfs/ICML/2020/icml-2020-5869__Uncertainty_Aware_Lookahead_Factor_Models_for_Quantitative_Investing.pdf) |
+| 2019 | ICML | [Dirichlet Simplex Nest and Geometric Inference](../finance_notes/icml-2019-3943.md) | application | Asset Pricing / 资产定价 | Risk Factor Models / 市场风险因子建模 | Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/ICML/2019/icml-2019-3943__Dirichlet_Simplex_Nest_and_Geometric_Inference.pdf) |

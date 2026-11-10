@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2021-17473",
+  "title": "Bayes DistNet - A Robust Neural Network for Algorithm Runtime Distribution Predictions",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17473",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 65833,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jake Tuero",
+      "Michael Buro"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2012.07197",
+    "version": "arxiv_author_version"
+  }
+}

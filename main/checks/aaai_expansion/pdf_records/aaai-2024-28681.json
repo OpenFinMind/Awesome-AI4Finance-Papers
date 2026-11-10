@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2024-28681",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-28681__StockMixer_A_Simple_Yet_Strong_MLP_Based_Architecture_for_Stock_Price_Forecasting.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1360932,
+  "sha256": "20466ba8f016cccf1f2a337d29824cf686426551ee89cabc0f4042df6f9a154f",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28681/29322",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28681/29322",
+  "downloaded_at_utc": "2026-11-10T02:15:50.288683+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jinyong Fan",
+      "Yanyan Shen"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "aaai-2026-39855",
+  "title": "CometNet: Contextual Motif-guided Long-term Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39855",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 107802,
+  "passages": [
+    {
+      "match": "Stock Price",
+      "offset": 54715,
+      "excerpt": " the 31st ACM SIGKDD Conference on Knowledge Discov- Ariyo, A. A.; Adewumi, A. O.; and Ayo, C. K. 2014. ery and Data Mining, V.1, KDD 2025, Toronto, ON, Canada, Stock Price Prediction Using the ARIMA Model. In Al- August 3-7, 2025, 307–317. ACM. Dabass, D.; Orsoni, A.; Cant, R. J.; Yunus, J.; Ibrahim, Z.; and Saad, I., eds., UKSim-AMSS 16th International Confer- Han, L.; Ye, H.; and Zhan, D. 2024. The Capacity and ence on Computer Modelling and Simulation, UKSim 2014, Robustness Trade-Off: R"
+    },
+    {
+      "match": "exchange rate",
+      "offset": 64147,
+      "excerpt": "ICLR 2023, Ki- series analysis, the Exchange dataset (Chen et al. 2021) of- gali, Rwanda, May 1-5, 2023. OpenReview.net. fers comprehensive daily exchange rate records spanning 26 years (1990-2016) across eight countries. The Electric- Yi, K.; Zhang, Q.; Fan, W.; Wang, S.; Wang, P.; He, H.; An, ity dataset (Chen et al. 2021) documents hourly power con- N.; Lian, D.; Cao, L.; and Niu, Z. 2023. Frequency-domain sumption patt"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Weixu Wang",
+      "Xiaobo Zhou",
+      "Xin Qiao",
+      "Lei Wang",
+      "Tie Qiu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.08049",
+    "version": "arxiv_author_version"
+  }
+}

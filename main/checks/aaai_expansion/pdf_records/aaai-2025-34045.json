@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2025-34045",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-34045__Logic_Q_Improving_Deep_Reinforcement_Learning_based_Quantitative_Trading_via_Program_Sketch_based_Tuning.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1837871,
+  "sha256": "4fc13a48909446a876d27b9d70225c4d67ef1e4f0f4c17c20a22bab19d8e5c05",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34045/36200",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34045/36200",
+  "downloaded_at_utc": "2026-11-10T02:15:54.664141+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zhiming Li",
+      "Junzhe Jiang",
+      "Yushi Cao",
+      "Aixin Cui",
+      "Bozhi Wu",
+      "Bo Li",
+      "Yang Liu",
+      "Danny Dongning Sun"
+    ],
+    "identity_verified": true
+  }
+}

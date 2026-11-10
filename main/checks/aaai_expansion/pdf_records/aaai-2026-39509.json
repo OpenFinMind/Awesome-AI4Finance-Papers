@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2026-39509",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-39509__DeepBooTS_Dual_Stream_Residual_Boosting_for_Drift_Resilient_Time_Series_Forecasting.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39509/43470",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 28,
+  "bytes": 2680771,
+  "sha256": "2f90d5e7e8570ca932b125d89c3787fcbd269576bdc79e3cf66849db24b0bad9",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2511.06893",
+  "final_url": "https://arxiv.org/pdf/2511.06893",
+  "downloaded_at_utc": "2026-11-10T02:32:43.697875+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Daojun Liang",
+      "Jing Chen",
+      "Xiao Wang",
+      "Yinglong Wang",
+      "Shuo Li"
+    ],
+    "identity_verified": true
+  }
+}

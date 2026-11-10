@@ -1,0 +1,49 @@
+{
+  "validated_at_utc": "2026-11-10T04:36:47.495263+00:00",
+  "papers": 1310,
+  "tracks": {
+    "main": 1310
+  },
+  "scope": {
+    "application": 1044,
+    "core": 266
+  },
+  "venues": {
+    "AAAI": 160,
+    "ACL": 169,
+    "EMNLP": 216,
+    "ICLR": 194,
+    "ICML": 273,
+    "NeurIPS": 298
+  },
+  "years": {
+    "2017": 21,
+    "2018": 30,
+    "2019": 51,
+    "2020": 57,
+    "2021": 88,
+    "2022": 87,
+    "2023": 114,
+    "2024": 164,
+    "2025": 271,
+    "2026": 427
+  },
+  "topics": 23,
+  "paper_notes": 1310,
+  "pdfs": 1260,
+  "pdf_bytes": 3907302177,
+  "missing_pdfs": 50,
+  "local_markdown_links_checked": 27201,
+  "title_abstract_reviews_without_separate_inclusion_excerpt": [
+    "2026.emnlp-main.621",
+    "iclr-2026-Etu7q4KcZ7",
+    "neurips-2026-NZHuWIlAUx"
+  ],
+  "csv_jsonl_excel_classifications_consistent": true,
+  "topic_memberships_consistent": true,
+  "bibtex_identities_consistent": true,
+  "all_local_links_resolve": true,
+  "all_pdf_hashes_match": true,
+  "separate_track_validated": "main",
+  "explicit_short_paper_records": 0
+}

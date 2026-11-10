@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2020-5415",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5415__Generating_Realistic_Stock_Market_Order_Streams.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 3262616,
+  "sha256": "26265c49eed260fdad077b8a12b516d75c7e1c07d765b56a5052c5bd176dcbf5",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5415/5271",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5415/5271",
+  "downloaded_at_utc": "2026-11-10T02:15:36.945275+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Junyi Li",
+      "Xintong Wang",
+      "Yaoyang Lin",
+      "Arunesh Sinha"
+    ],
+    "identity_verified": true
+  }
+}

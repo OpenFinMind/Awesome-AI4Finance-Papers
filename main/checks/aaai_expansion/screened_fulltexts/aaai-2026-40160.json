@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2026-40160",
+  "title": "RoS-Guard: Robust and Scalable Online Change Detection with Delay-Optimal Guarantees",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40160",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 116786,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zelin Zhu",
+      "Yancheng Huang",
+      "Kai Yang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.12846",
+    "version": "arxiv_author_version"
+  }
+}

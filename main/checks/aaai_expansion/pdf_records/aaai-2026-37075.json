@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2026-37075",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-37075__TermGPT_Multi_Level_Contrastive_Fine_Tuning_for_Terminology_Adaptation_in_Legal_and_Financial_Domains.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 989971,
+  "sha256": "372f1bb8cd60de9858cf8d3084132da9d124f7890639526030357dc6f2d736f4",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37075/41037",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37075/41037",
+  "downloaded_at_utc": "2026-11-10T02:15:57.282019+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yidan Sun",
+      "Mengying Zhu",
+      "Feiyue Chen",
+      "Yangyang Wu",
+      "Xiaolei Dan",
+      "Mengyuan Yang",
+      "Xiaolin Zheng",
+      "Shenglin Ben"
+    ],
+    "identity_verified": true
+  }
+}

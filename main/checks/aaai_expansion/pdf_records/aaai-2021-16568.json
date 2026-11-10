@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2021-16568",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16568__Coupling_Macro_Sector_Micro_Financial_Indicators_for_Learning_Stock_Representations_with_Less_Uncertainty.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 879311,
+  "sha256": "a5cc126101f34e8e249f29629725f266411305a8df15d5c38b36cd7d3522148c",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16568/16375",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16568/16375",
+  "downloaded_at_utc": "2026-11-10T02:15:43.016073+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Guifeng Wang",
+      "Longbing Cao",
+      "Hongke Zhao",
+      "Qi Liu",
+      "Enhong Chen"
+    ],
+    "identity_verified": true
+  }
+}

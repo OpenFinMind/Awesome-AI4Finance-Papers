@@ -1,0 +1,51 @@
+{
+  "id": "aaai-2024-29337",
+  "title": "U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29337",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 56520,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 39542,
+      "excerpt": " OWA 0.845±1e−4 0.851 0.861 0.855 1.172 1.051 0.918 0.930 1.480 1.230 1.378 1.775 12.642 1.023 Table 2: Comparing U-Mixer with SOTA benchmarks on M4 datasets in short-term forecasting. cisco highway. (4) Exchange (Lai et al. 2018) data collects Models U-Mixer w/o UE w/o SC the panel data of daily exchange rates from 8 countries rang- MSE 0.381 0.405 0.400 "
+    },
+    {
+      "match": "M4",
+      "offset": 40423,
+      "excerpt": " Weather minutes from the Weather Station of the Max Planck Bio- MAE 0.260 0.285 0.287 geochemistry Institute in 2020. (6) M4 (Wu et al. 2023) is a SMAPE 11.740 11.817 11.808 M4 MASE 1.575 1.582 1.587 dataset for the short-term forecasting, which involve 6 sub- "
+    },
+    {
+      "match": "M4",
+      "offset": 40838,
+      "excerpt": " short-term forecasting, which involve 6 sub- OWA 0.845 0.857 0.853 sets: M4-Yearly, M4-Quarterly, M4-Monthly, M4-Weakly, M4-Daily, and M4-Hourly. We divide all datasets into train- Table 3: Results of ablation study on ETTh2, Weather and ing, validation and testing sets according to the chronologi- M4 datasets. cal order by the ratio of 6:2:2 for ETT dataset and 7:1:2 for the other datasets. "
+    },
+    {
+      "match": "M4",
+      "offset": 41087,
+      "excerpt": "ly. We divide all datasets into train- Table 3: Results of ablation study on ETTh2, Weather and ing, validation and testing sets according to the chronologi- M4 datasets. cal order by the ratio of 6:2:2 for ETT dataset and 7:1:2 for the other datasets. Pyraformer (Liu et al. 2021), Autoformer (Wu et al. 2021), Model Configuration and Metrics FEDformer (Zhou et al. 2022), Non-stationary Transform"
+    },
+    {
+      "match": "M4",
+      "offset": 43197,
+      "excerpt": " also employ the sym- MAE to the existing best results. For short-term forecast- metric mean absolute percentage error (SMAPE), mean ab- ing on the M4 dataset, we achieve nearly all optimal out- solute scaled error (MASE) and overall weighted average comes. Specially, we found that RNN-based methods exhib- (OWA) for short-term forecasting. ites significantly poorer performance. For long-term fore- "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xiang Ma",
+      "Xuemei Li",
+      "Lexin Fang",
+      "Tianlong Zhao",
+      "Caiming Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2401.02236",
+    "version": "arxiv_author_version"
+  }
+}

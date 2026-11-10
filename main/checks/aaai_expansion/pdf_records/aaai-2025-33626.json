@@ -1,0 +1,30 @@
+{
+  "id": "aaai-2025-33626",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33626__A_Practical_Approach_to_Causal_Inference_over_Time.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33626/35781",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 20,
+  "bytes": 1104282,
+  "sha256": "22c75f5bbaeb538c4e1f4009958a046a8bfbd4328e62f43ea2941fb538c33d1d",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2410.10502",
+  "final_url": "https://arxiv.org/pdf/2410.10502",
+  "downloaded_at_utc": "2026-11-10T02:32:41.529492+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Martina Cinquini",
+      "Isacco Beretta",
+      "Salvatore Ruggieri",
+      "Isabel Valera"
+    ],
+    "identity_verified": true
+  }
+}

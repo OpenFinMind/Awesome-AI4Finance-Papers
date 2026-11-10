@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-40027",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-40027__MetaTrader_Learning_to_Generalize_RL_Trading_Policies_Beyond_Offline_Data.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1060672,
+  "sha256": "ca6c36d23a1eebb8bdd7ffd4f3f45d19006961d8ad4d203bc7f38047770894c8",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40027/43988",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40027/43988",
+  "downloaded_at_utc": "2026-11-10T02:15:59.920128+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Haochen Yuan",
+      "Minting Pan",
+      "Yunbo Wang",
+      "Siyu Gao",
+      "Xiaokang Yang"
+    ],
+    "identity_verified": true
+  }
+}

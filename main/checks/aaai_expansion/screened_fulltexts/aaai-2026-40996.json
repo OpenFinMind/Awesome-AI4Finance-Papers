@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-40996",
+  "title": "Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40996",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 113561,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xueqi Ma",
+      "Xingjun Ma",
+      "Sarah Monazam Erfani",
+      "Danilo Mandic",
+      "James Bailey"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2512.16244",
+    "version": "arxiv_author_version"
+  }
+}

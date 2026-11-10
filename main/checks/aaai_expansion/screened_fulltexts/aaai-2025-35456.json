@@ -1,0 +1,30 @@
+{
+  "id": "aaai-2025-35456",
+  "title": "APAR: Modeling Irregular Target Functions in Tabular Regression via Arithmetic-Aware Pre-Training and Adaptive-Regularized Fine-Tuning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35456",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 69326,
+  "passages": [
+    {
+      "match": "stock price",
+      "offset": 3136,
+      "excerpt": "gative impact of overfitting. In the pre-training phase, APAR introduces an arithmetic- responding health status. In addition, the stock price is de- aware pretext objective to capture intricate sample-wise re- graded significantly due to only the sentiment change (e.g., lationships from the perspective of continuous labels. In by wars). This phenomenon is less common in other data "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hong-Wei Wu",
+      "Wei-Yao Wang",
+      "Kuang-Da Wang",
+      "Wen-Chih Peng"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.10941",
+    "version": "arxiv_author_version"
+  }
+}

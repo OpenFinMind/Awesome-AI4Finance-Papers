@@ -1,0 +1,32 @@
+{
+  "id": "aaai-2024-28773",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-28773__Revisiting_Graph_Based_Fraud_Detection_in_Sight_of_Heterophily_and_Spectrum.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/28773/29483",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 10,
+  "bytes": 2097412,
+  "sha256": "9125f6dbc488e4880c2abec7973cf17a1776ce66024ac31872771ef29cb950f3",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2312.06441",
+  "final_url": "https://arxiv.org/pdf/2312.06441",
+  "downloaded_at_utc": "2026-11-10T02:32:40.222876+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Fan Xu",
+      "Nan Wang",
+      "Hao Wu",
+      "Xuezhi Wen",
+      "Xibin Zhao",
+      "Hai Wan"
+    ],
+    "identity_verified": true
+  }
+}

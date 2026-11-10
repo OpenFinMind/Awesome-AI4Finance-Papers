@@ -1,0 +1,21 @@
+{
+  "id": "aaai-2022-20589",
+  "title": "Learning by Competition of Self-Interested Reinforcement Learning Agents",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20589",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 87566,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Stephen Chung"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2010.09770",
+    "version": "arxiv_author_version"
+  }
+}

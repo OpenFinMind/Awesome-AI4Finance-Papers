@@ -1,0 +1,29 @@
+{
+  "id": "aaai-2026-38792",
+  "title": "Counterfactual eXplainable AI (XAI) Method for Deep Learning-Based Multivariate Time Series Classification",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38792",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 84444,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 42194,
+      "excerpt": " the original class: TSInterpret 0.4.7. Experiments ran on a MacBook Pro 1 X X (Apple M4 Max, macOS Sequoia 15.5, 36GB RAM). We (1 − P (f (Cj ) = f (Xi ))) used the official UEA train/test splits from sktime. Minor |Xi | edits were made to TSInterpret to fix a CoMTE thread- Xi ∈X Cj ∈C(Xi ) "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Kaouther Benguessoum",
+      "Raoni Lourenco",
+      "Sylvain Kubler"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.13237",
+    "version": "arxiv_author_version"
+  }
+}

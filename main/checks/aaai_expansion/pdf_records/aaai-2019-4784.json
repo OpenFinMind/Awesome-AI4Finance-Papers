@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2019-4784",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2019/aaai-2019-4784__MFBO_SSM_Multi_Fidelity_Bayesian_Optimization_for_Fast_Inference_in_State_Space_Models.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1360209,
+  "sha256": "0111be504c561e0bd9aea4e1839e159fb1fa29dacc95964898cf9b66f4c0cc8a",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4784/4662",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4784/4662",
+  "downloaded_at_utc": "2026-11-10T02:15:35.676448+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Mahdi Imani",
+      "Seyede Fatemeh Ghoreishi",
+      "Douglas Allaire",
+      "Ulisses M. Braga-Neto"
+    ],
+    "identity_verified": true
+  }
+}

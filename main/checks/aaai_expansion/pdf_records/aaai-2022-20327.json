@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2022-20327",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-20327__DDG_DA_Data_Distribution_Generation_for_Predictable_Concept_Drift_Adaptation.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1304610,
+  "sha256": "a54ed3790e8a522e9e505ba1c6ab526663b2d5f3c7fd04a412022989accf684a",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20327/20086",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20327/20086",
+  "downloaded_at_utc": "2026-11-10T02:15:44.630722+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Wendi Li",
+      "Xiao Yang",
+      "Weiqing Liu",
+      "Yingce Xia",
+      "Jiang Bian"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "ai-conferences/AAAI2017",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "3c34dbe74080cab5d1833f5d90a3a4d23345f0069f0a0af7fcbd3527b5819b93",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2018",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "e33257811f4b79dafa8f84b3c19c44e1c8ef5b13d1f354ec823d9551f55fa395",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2019",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "9a106f626f389c3cdb73252862ff5a7d29f1d7b4caed59119bea078577ea410a",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2020",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "9f40d95a180018af74463fe8775c46173702939954418dc8792a120f058f47a2",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2021",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "078ba7c574d9621124cbf2e10e7c2c6cf4b8b3057237f33a5c4ea6f2d4d9d981",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2022",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "845cea0649afdd0cb0b9e3c647b64528b222cdd04b15425e1691f9d353401288",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2023",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "57b7cc32468aae4260027e2b1e3255b3bf9ccee865e2c1acf05eab34116177e7",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2024",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "ca318e3bf0d9ed73aec3330ff6d7f311a9c2186cca3a58db696f8f6520061a96",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2025",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "99afd4255d4c59f2edf5679d6130faf1661894dd20085a8eb7dc847360d59b37",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  },
+  {
+    "dataset": "ai-conferences/AAAI2026",
+    "file": "train-00000-of-00001.parquet",
+    "sha256": "b2317efdc856dd2f53942883de9de597c9864ca78700f0d08d12e807de40cd73",
+    "purpose": "Legacy section corroboration and author-version discovery only."
+  }
+]

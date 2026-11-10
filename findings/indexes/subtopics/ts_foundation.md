@@ -1,0 +1,8 @@
+# Representation & Foundation Models / 表征与基础模型
+
+0 Findings long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|

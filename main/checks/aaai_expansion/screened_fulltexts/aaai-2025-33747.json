@@ -1,0 +1,74 @@
+{
+  "id": "aaai-2025-33747",
+  "title": "Sequence Complementor: Complementing Transformers for Time Series Forecasting with Learnable Sequences",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33747",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 129633,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 32055,
+      "excerpt": "com- setting only contains one continuous time series, and the plementary sequence to enforce them to inject more infor- samples are obtained by sliding window, while M4 involves mation. Although it is easy to initialize the Sequence Com- 100,000 different time series collected in different frequen- plementors from a set of orthogonal bases, they may not cies, which makes the forecasting on M4 become challenging necessarily be orthogonal during network optimization. As a (Wu et al. 2023). For"
+    },
+    {
+      "match": "M4",
+      "offset": 32298,
+      "excerpt": "nce Com- 100,000 different time series collected in different frequen- plementors from a set of orthogonal bases, they may not cies, which makes the forecasting on M4 become challenging necessarily be orthogonal during network optimization. As a (Wu et al. 2023). For the metrics, we adopt the mean square consequence, they are likely to converge to a trivial solution error (MSE) and mean absolute error (MAE) for long-term where all complementary sequences are highly similar or forecasting, and"
+    },
+    {
+      "match": "M4",
+      "offset": 50541,
+      "excerpt": "er, Exchange M4 Yearly/Quarterly/Monthly/ (OWA) as the metrics for the short-term forecasting, where Short-term "
+    },
+    {
+      "match": "M4",
+      "offset": 51217,
+      "excerpt": " SMAPE, MASE, OWA 1 6∼ 48 OWA is a special metric used in M4 competition. The lower value implies a better performance for all metrics. A sum- mary of the setup is shown in the right table. Please refer to look-back window length to 96, and the forecast horizons Appendix B for details of the datasets and metrics. "
+    },
+    {
+      "match": "M4",
+      "offset": 87659,
+      "excerpt": "1, the proof is completed. (OWA) as the metrics. It is worth mentioning that OWA is a special metric used in M4 competition. They are presented as follow: Proof of Theorem 1 Tout 200 X |Y i − Yb i | Theorem 3. The integration of the proposed co"
+    },
+    {
+      "match": "Exchange rate",
+      "offset": 90745,
+      "excerpt": " 21 {96, 192, 336, 720} (36792, 5271, 10540) Weather (10 mins) Exchange 8 {96, 192, 336, 720} (5120, 665, 1422) Exchange rate (Daily) ILI 7 {24, 36, 48, 60} (617, 74, 170) Illness (Weekly) M4-Yearly 1 6 (23000, 0, 23000) Demographic M4-Quarterly 1 8 (24000, 0, 24000"
+    },
+    {
+      "match": "M4",
+      "offset": 91042,
+      "excerpt": "0) Illness (Weekly) M4-Yearly 1 6 (23000, 0, 23000) Demographic M4-Quarterly 1 8 (24000, 0, 24000) Finance Forecasting M4-Monthly 1 18 (48000, 0, 48000) Industry (short-term) M4-Weakly 1 13 (359, 0, 359) Macro "
+    },
+    {
+      "match": "M4",
+      "offset": 91278,
+      "excerpt": ", 0, 24000) Finance Forecasting M4-Monthly 1 18 (48000, 0, 48000) Industry (short-term) M4-Weakly 1 13 (359, 0, 359) Macro M4-Daily 1 14 (4227, 0, 4227) Micro M4-Hourly 1 48 (414, 0, 414) Other where m is the periodicity o"
+    },
+    {
+      "match": "M4",
+      "offset": 91513,
+      "excerpt": "59, 0, 359) Macro M4-Daily 1 14 (4227, 0, 4227) Micro M4-Hourly 1 48 (414, 0, 414) Other where m is the periodicity of the data. Y , Yb ∈ RTout ×N are the representations of 640 samples from each model after the ground truth and prediction results of the future with Tout training the network well. In section D, we present an"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xiwen Chen",
+      "Peijie Qiu",
+      "Wenhui Zhu",
+      "Huayu Li",
+      "Hao Wang",
+      "Aristeidis Sotiras",
+      "Yalin Wang",
+      "Abolfazl Razi"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2501.02735",
+    "version": "arxiv_author_version"
+  }
+}

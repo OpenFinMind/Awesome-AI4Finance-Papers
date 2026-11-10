@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2026-40271",
+  "title": "Skill Path: Unveiling Language Skills from Circuit Graphs",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40271",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 134171,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hang Chen",
+      "Xinyu Yang",
+      "Jiaying Zhu",
+      "Wenya Wang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2410.01334",
+    "version": "arxiv_author_version"
+  }
+}

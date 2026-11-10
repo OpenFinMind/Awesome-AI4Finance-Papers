@@ -1,0 +1,73 @@
+{
+  "id": "aaai-2024-28795",
+  "title": "GMP-AR: Granularity Message Passing and Adaptive Reconciliation for Temporal Hierarchy Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28795",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 78398,
+  "passages": [
+    {
+      "match": "Exchange Rate",
+      "offset": 37951,
+      "excerpt": " section shows the results of the traditional statistic method, Dataset Electricity Traffic Exchange Rate Metrics b-MAPE MAPE b-MAPE MAPE b-MAPE MAPE THIEF-ARIMA-BU 0.1895 0.1319 0.7501 0.5518 0.0095 0.0092 THIEF-ETS-BU 0.3712 0.3111 0.8815 0.8600 0.010"
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 42585,
+      "excerpt": " b-MAPE among all models on all three datasets, and it also sults of our forecasting approach (GMP) and the combina- performs the best on MAPE on Traffic and Exchange Rate tion of our forecasting mechanism with popular reconcilia- datasets. In addition to adaptive reconciliation, we also com- tion methods (BU, Proj, TDProb), as well as our adaptive bine our forecasting mechanism (GMP) with the aforemen- reconciliation with weighted projection (AR) method. tioned popular reconcil"
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 43501,
+      "excerpt": "econciliation performs the els (Appendix D) and running time (Appendix E), and the best on the Electricity and Exchange Rate datasets, and ablation study for each component in the GMP forecasting NBeats with BU reconciliation performs the best on the framework (Appendix F). Traffic datasets. In general, the performance of statistical "
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 58254,
+      "excerpt": "y, we extract the electricity consumption of 321 Electricity 3 28 1, 4, 24 1H 1D clients from 2012 to 2014 and we convert the data to Exchange Rate 2 6 1, 5 1D 5D reflect hourly consumption. We construct a 3-level tem- poral hierarchical structure, with details shown in Table Table 2: Dataset statistics. The ‘structure’ column shows the 2. number of nodes at each "
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 64075,
+      "excerpt": " al. 2022). ture is shown in Table 2. • Four popular multivariate hierarchical time series fore- • Exchange Rate: the daily exchange rates of eight foreign casting methods: countries including Australia, British, Canada, Switzer- land, China, Japan, New Zealand and Singapore rang- – HierE2E: an end-to-end framework for multivariate ing from 1990 to 2016. It is worth noting that the ex- "
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 71388,
+      "excerpt": "age directly. And the implementation and other details Dataset Electricity Traffic Exchange Rate Level Number 1 2 3 1 2 3 1 2 THIEF-ARIMA-BU 0.0821 0.1240 0.1895 0.3316 0.5737 0.7501 0.0088 0.0095 THIEF-ETS-BU 0.0723 0.1382 0.2208 "
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 75560,
+      "excerpt": "eep learning methods, and popular multivariate HTS methods, as well as our approach. The values in brackets is the variances over five runs. Deep Model Electricity Traffic Exchange Rate DeepAR-BU 3045.12 6548.93 311.18 Nbeats-BU 1434.85 2710.14 502.01 Autoformer-BU 3306.81 6442.07 602.87 DeepAR-Proj 3103.58 6666.99 323.17 Nbeats-Proj 1492.18 2460.88 588.58 Autoformer-Proj 3325.0 6763.61 656.39 DeepAR-TDProb 845.14 1531.86 236.09 Nbeats-TDPro"
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 77168,
+      "excerpt": "t al. 2023). We can also do a sys- tem benchmark of temporal hts(Xue et al. 2023). Dataset Electricity Traffic Exchange Rate Metrics b-MAPE MAPE b-MAPE MAPE b-MAPE MAPE GMP-Proj 0.1937(0.0143) 0.2305(0.0068) 0.4868(0.0243) 0.4140(0.0145) 0.0089(0.0024) 0.0089(0.0018) GMP-Proj-C1 0.1781(0.0065) 0.2438(0.0125) 0.4940(0.0309) 0.4079(0.0183) - - GMP-Proj-"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Fan Zhou",
+      "Chen Pan",
+      "Lintao Ma",
+      "Yu Liu",
+      "Siqiao Xue",
+      "James Zhang",
+      "Jun Zhou",
+      "Hongyuan Mei",
+      "Weitao Lin",
+      "Zi Zhuang",
+      "Wenxin Ning",
+      "Yunhua Hu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2406.12242",
+    "version": "arxiv_author_version"
+  }
+}

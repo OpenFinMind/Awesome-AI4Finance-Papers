@@ -1,0 +1,44 @@
+{
+  "id": "aaai-2026-39826",
+  "title": "IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39826",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 110895,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 66549,
+      "excerpt": " cludes the MAE coefficient, mean absolute percentage error gence between a student model and a pessimistic teacher. (MAPE), and root mean squared error (RMSE). For the M4 Although these approaches commonly treat negative sam- dataset, we follow the N-BEATS methodology and employ ples as a source of corrective supervision, they often over- symmetric mean absolute percentage error (SMAPE), mean look the potentially informative signals embedded within absolute scaled error (MASE), and overall "
+    },
+    {
+      "match": "M4",
+      "offset": 67140,
+      "excerpt": "not only signals (OWA) as evaluation metrics. It is worth noting that OWA is for suppression but also latent, beneficial information. This a specific metric used in the M4 competition. Table 3: Long-Term Time Series Forecasting Performance of IdealTSF Ours 2025 2023-2024 Models H IdealTSF Twins* -Mixer++ -KAN SAM* iTrans* PatchTST DLin"
+    },
+    {
+      "match": "M4",
+      "offset": 74846,
+      "excerpt": " 3 0.1 0.5 MSE 32 50 PEMS 0.03 4-300 0.3 3 1e−3 0.1 3 0.1 0.5 MSE 32 10 M4 0.03 4-300 0.3 3 1e−3 0.1 3 0.1 0.5 SMAPE 16 50 Short-Term Time Series Forecasting removes both negative sample pre-training and ECOS. From IdealTS also performs remarkably well in both multivariate the MSE and MAE metrics across mult"
+    },
+    {
+      "match": "M4",
+      "offset": 75762,
+      "excerpt": "ting accuracy advanced models such as PatchTST and DLinear, demon- and stability. These results confirm the contribution of each strating strong adaptability. In the M4 univariate dataset, module to the overall performance and robustness of the which includes a wide range of sampling frequencies, Ide- model. alTS consistently achieves the best performance across all frequencies, confirming its capability to model complex Mathematical Derivation and Feasibility Proof temporal dynamics an"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hua Wang",
+      "Jinghao Lu",
+      "Fan Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2512.05442",
+    "version": "arxiv_author_version"
+  }
+}

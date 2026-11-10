@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2026-40149",
+  "title": "Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40149",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 69022,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Ziyu Zhou",
+      "Yiming Huang",
+      "Yanyun Wang",
+      "Yuankai Wu",
+      "James Kwok",
+      "Yuxuan Liang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2508.01971",
+    "version": "arxiv_author_version"
+  }
+}

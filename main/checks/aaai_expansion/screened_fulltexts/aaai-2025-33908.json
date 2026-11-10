@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2025-33908",
+  "title": "Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33908",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 111621,
+  "passages": [
+    {
+      "match": "stock price",
+      "offset": 21324,
+      "excerpt": "We observed potential dynamic interactions across different Theorem 1. Let multi-scale mixing representation g(x), scales in various time series. Intuitively, in a stock price se- where g(x) ∈ R1×L (for simplicity, we consider univari- ries, daily fluctuations are influenced by monthly economic ate sequences) and the original sequence f (x) is Lipschitz trends, which in turn are shaped by annual market cycles. As smooth with constant K (i.e. f (a)−f (b) "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yifan Hu",
+      "Peiyuan Liu",
+      "Peng Zhu",
+      "Dawei Cheng",
+      "Tao Dai"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2406.03751",
+    "version": "arxiv_author_version"
+  }
+}

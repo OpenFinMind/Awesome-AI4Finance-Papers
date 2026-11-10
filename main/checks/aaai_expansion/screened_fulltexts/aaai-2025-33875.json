@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2025-33875",
+  "title": "Content-aware Balanced Spectrum Encoding in Masked Modeling for Time Series Classification",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33875",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 84575,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yudong Han",
+      "Haocong Wang",
+      "Yupeng Hu",
+      "Yongshun Gong",
+      "Xuemeng Song",
+      "Weili Guan"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.13232",
+    "version": "arxiv_author_version"
+  }
+}

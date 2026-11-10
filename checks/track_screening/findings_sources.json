@@ -1,0 +1,37 @@
+[
+  {
+    "file": "findings/sources/findings-2020-anthology.gz",
+    "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2020.findings.xml",
+    "uncompressed_sha256": "6b73ddb1035c211224aa3ff236f708575a3ad7b1d5b76adcbaaa8db4e3de0779"
+  },
+  {
+    "file": "findings/sources/findings-2021-anthology.gz",
+    "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2021.findings.xml",
+    "uncompressed_sha256": "2a5a3c9f8585147a47c44eef37f938bc0f3ba0a4380116c42ab0f5092d4632cb"
+  },
+  {
+    "file": "findings/sources/findings-2022-anthology.gz",
+    "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2022.findings.xml",
+    "uncompressed_sha256": "4a2d394e2a93c269eca17e1fbf565382aa4eb6c4b703189585530da15ac7617b"
+  },
+  {
+    "file": "findings/sources/findings-2023-anthology.gz",
+    "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2023.findings.xml",
+    "uncompressed_sha256": "481b176b3cdf1a8c673dba37bdcabd84920c66ac3d5785a34e6230608009ffe6"
+  },
+  {
+    "file": "findings/sources/findings-2024-anthology.gz",
+    "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2024.findings.xml",
+    "uncompressed_sha256": "49ab53f0fc319e4a74a562b1b38bd839d71a2fcf33bb06248143263bbec1e388"
+  },
+  {
+    "file": "findings/sources/findings-2025-anthology.gz",
+    "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2025.findings.xml",
+    "uncompressed_sha256": "4c39d2364a8791b465bf4ec6d026c6f054e10a247b1d597d026ce647003ab0d4"
+  },
+  {
+    "file": "findings/sources/findings-2026-anthology.gz",
+    "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2026.findings.xml",
+    "uncompressed_sha256": "94723617953fece703ec507d81e3366cef6e9ddadae108290e636307dc673c7c"
+  }
+]

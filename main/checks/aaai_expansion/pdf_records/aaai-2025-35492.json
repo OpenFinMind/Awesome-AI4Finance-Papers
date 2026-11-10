@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2025-35492",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-35492__Adaptive_Market_Making_with_Inventory_Constraints_via_Online_Learning.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 153346,
+  "sha256": "8a3de50996c5750ef6d868695bea306b5d4a2265f936fe7c212b6ec61514bb25",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35492/37647",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35492/37647",
+  "downloaded_at_utc": "2026-11-10T02:15:54.760426+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Shan Xue",
+      "Ye Du",
+      "Liang Xu"
+    ],
+    "identity_verified": true
+  }
+}

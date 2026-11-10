@@ -1,0 +1,46 @@
+{
+  "id": "aaai-2025-34286",
+  "title": "Hierarchical Classification Auxiliary Network for Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34286",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 102281,
+  "passages": [
+    {
+      "match": "Exchange-Rate",
+      "offset": 34023,
+      "excerpt": "nstrates a substantial impact on the performance real-world multivariate time series datasets, namely: ETT, of the baselines, as it boosts their forecasting results by a Exchange-Rate, Weather, ILI, Electricity, Traffic, and Solar noticeable margin. This is evident in 66 out of 70 cases. For Wind. We followed the standard protocol in the data prepro- instance, HCAN achieves average performance gains of 9.1%, cessing, where we split all datasets into training, validation, 35.5%, 10.2%, and 22.3% on the ETT "
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 60054,
+      "excerpt": " Weather 21 {96, 192, 336, 720} 52696 10 min Exchange-Rate 8 {96, 192, 336, 720} 7588 1 day • ETT 1 (Zhou et al. 2021) (Electricity Transformer Tem- ILI Electricity 7 "
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 62307,
+      "excerpt": "e target series. of each interval Ik = (ρleft k , ρk ) as follows: • Exchange-Rate 3 (Lai et al. 2018) the exchange-rate (k − 1) dataset contains the daily exchange rates of eight foreign ρleft k = ŷ(⌊(Q − 1) × ⌋), "
+    },
+    {
+      "match": "exchange rate",
+      "offset": 99668,
+      "excerpt": " consistent state-of-the-art performance in six real-world ap- architecture of HCAN, it naturally exhibits a modest increase plications: electricity, weather, exchange rate, illness, traffic, in the number of parameters and inference runtime for each and space weather. Researchers in these fields stand to ben- model. This can be viewed as a necessary trade-off for the efit significantly from the enhanced forecasting capabilities potential gains in forecasting accuracy and complexit"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yanru Sun",
+      "Zongxia Xie",
+      "Dongyue Chen",
+      "Emadeldeen Eldele",
+      "Qinghua Hu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2405.18975",
+    "version": "arxiv_author_version"
+  }
+}

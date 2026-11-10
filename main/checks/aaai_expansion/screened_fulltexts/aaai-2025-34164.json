@@ -1,0 +1,49 @@
+{
+  "id": "aaai-2025-34164",
+  "title": "Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34164",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 56712,
+  "passages": [
+    {
+      "match": "stock market",
+      "offset": 5531,
+      "excerpt": " industrial machinery, traffic real-world data often manifest as sharp fluctuations, abrupt planning, weather prediction, and the stock market [1]. Due rises and falls, and overlapping patterns. Additionally, most to their critical relevance and wide application, there has been real-world datasets exhibit multi-periodicity, which further considerable interest in time series forecasting in r"
+    },
+    {
+      "match": "stock market",
+      "offset": 6540,
+      "excerpt": "dicators like unemployment rates, and daily measurements existing deep learning models and the complex characteristics such as stock market indices. However, advancements in observed in real-world time series data, this study introduces data collection technologies have significantly increased the a novel framework for general time series forecasting. The frequency of data record"
+    },
+    {
+      "match": "M4",
+      "offset": 30128,
+      "excerpt": "rt- representation and the desired prediction length by applying a term forecasting, we employed sub-sets of the M4 dataset, learned set of weights and performing a weighted summation which include time series from finance, economics, demo- across the derivative dimension as: graphics, and industry, with frequencies ranging from "
+    },
+    {
+      "match": "M4",
+      "offset": 30846,
+      "excerpt": " 5 TABLE I S HORT- TERM FORECASTING RESULTS ON THE M4 DATASET WITH PREDICTION LENGTHS OF 6 FOR YEARLY, 8 FOR QUARTERLY, AND 18 FOR MONTHLY. B OLD AND UNDERLINED VALUES INDICATE THE BEST AND SECOND - BEST PERFORMANCE , RESPECTIVELY. Times2D N-HITS PatchTST DLinear TimesNet MICN SCINet FEDformer Stationary FiLM LightTS Autoformer Informer Data Metr"
+    },
+    {
+      "match": "M4",
+      "offset": 35202,
+      "excerpt": " i i forecasting performance of Times2D across the M4 datasets. 1 PH For the yearly data, Times2D achieved the lowest SMAPE H i=1 Ŷi − Yi MASE = (20) at 13.418, surp"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Reza Nematirad",
+      "Anil Pahwa",
+      "Balasubramaniam Natarajan"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2504.00118",
+    "version": "arxiv_author_version"
+  }
+}

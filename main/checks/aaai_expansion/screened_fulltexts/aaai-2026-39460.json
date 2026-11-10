@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2026-39460",
+  "title": "Cross-Sample Augmented Test-Time Adaptation for Personalized Intraoperative Hypotension Prediction",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39460",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 145932,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Kanxue Li",
+      "Yibing Zhan",
+      "Hua Jin",
+      "Chongchong Qi",
+      "Xu Lin",
+      "Baosheng Yu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2512.15762",
+    "version": "arxiv_author_version"
+  }
+}

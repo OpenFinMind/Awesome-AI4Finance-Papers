@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2025-33737",
+  "title": "Integrating Sequence and Image Modeling in Irregular Medical Time Series Through Self-Supervised Learning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33737",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 58720,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Liuqing Chen",
+      "Shuhong Xiao",
+      "Shixian Ding",
+      "Shanhai Hu",
+      "Lingyun Sun"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2502.06134",
+    "version": "arxiv_author_version"
+  }
+}

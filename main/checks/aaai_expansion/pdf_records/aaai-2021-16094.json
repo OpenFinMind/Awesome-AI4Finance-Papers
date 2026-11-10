@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2021-16094",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16094__The_Causal_Learning_of_Retail_Delinquency.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 309970,
+  "sha256": "e67d123b1aa0c547fa4471fa83a569dc91606f6cc7c52a10dc80338b3dead7f0",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16094/15901",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16094/15901",
+  "downloaded_at_utc": "2026-11-10T02:15:39.872334+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yiyan Huang",
+      "Cheuk Hang Leung",
+      "Xing Yan",
+      "Qi Wu",
+      "Nanbo Peng",
+      "Dongdong Wang",
+      "Zhixiang Huang"
+    ],
+    "identity_verified": true
+  }
+}

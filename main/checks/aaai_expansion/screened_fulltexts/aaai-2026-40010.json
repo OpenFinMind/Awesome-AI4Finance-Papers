@@ -1,0 +1,30 @@
+{
+  "id": "aaai-2026-40010",
+  "title": "R-Tuning: Wavelet-Decomposed Replay and Semantic Alignment for Continual Adaptation of Pretrained Time-Series Models",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40010",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 61756,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Tianyi Yin",
+      "Jingwei Wang",
+      "Chenze Wang",
+      "Han Wang",
+      "Jiexuan Cai",
+      "Min Liu",
+      "Yunlong Ma",
+      "Kun Gao",
+      "Yuting Song",
+      "Weiming Shen"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.11685",
+    "version": "arxiv_author_version"
+  }
+}

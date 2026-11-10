@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2022-20400",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-20400__An_Algorithmic_Introduction_to_Savings_Circles.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 137567,
+  "sha256": "c03905e5e98c840846d5dd08411fb02e8f909b9534e57313541f94015ba3a407",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20400/20159",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20400/20159",
+  "downloaded_at_utc": "2026-11-10T02:15:45.564702+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Rediet Abebe",
+      "Adam Eck",
+      "Christian Ikeokwu"
+    ],
+    "identity_verified": true
+  }
+}

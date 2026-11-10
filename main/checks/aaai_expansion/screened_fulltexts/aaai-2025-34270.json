@@ -1,0 +1,38 @@
+{
+  "id": "aaai-2025-34270",
+  "title": "xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34270",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 191074,
+  "passages": [
+    {
+      "match": "Exchange-rate",
+      "offset": 71607,
+      "excerpt": "mption smoothed trend features and discernible seasonal variations. data of 321 clients from 2012 to 2014. • Exchange-rate5 : collects the panel data of daily exchange Simple Moving Average (SMA) Exponential Moving Average (EMA) rates from 8 countries from 1990 to 2016. 0.5 Data 0.5 Data "
+    },
+    {
+      "match": "Exchange-rate",
+      "offset": 74248,
+      "excerpt": "easonal-trend decomposition is to split data into Electricity 321 (18317,2633,5261) Hourly simpler components with distinct features: a stationary sea- Exchange-rate 8 (5120,665,1422) Daily sonality and a non-stationary trend. To analyze the impact of Solar-energy 137 (36792,5271,10540) 10 min decomposition on the stationarity of specific segments, we ILI 7 (617,74,170) Weekly conduct experiments using the Augmented Dic"
+    },
+    {
+      "match": "Exchange-rate",
+      "offset": 137816,
+      "excerpt": "yperparameter search based on their pub- licly available official implementations. Additionally, we re- produced experiments for models that omit experiments on specific datasets (Exchange-rate, Solar-energy, and ILI). Table 15 demonstrates the fair multivariate LTSF results without using the “drop-last” trick averaged over three ran- dom seeds following the unified long-term forecasting pro- tocol proposed by TFB (Qiu et al. 2024) with the best look- back length in L = {36, 104, 148} for ILI dataset, and L = {96, 192, 336, 512, 720} "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Artyom Stitsyuk",
+      "Jaesik Choi"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.17323",
+    "version": "arxiv_author_version"
+  }
+}

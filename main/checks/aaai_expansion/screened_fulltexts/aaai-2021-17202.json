@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2021-17202",
+  "title": "Gated Linear Networks",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17202",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 69828,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Joel Veness",
+      "Tor Lattimore",
+      "David Budden",
+      "Avishkar Bhoopchand",
+      "Christopher Mattern",
+      "Agnieszka Grabska-Barwinska",
+      "Eren Sezener",
+      "Jianan Wang",
+      "Peter Toth",
+      "Simon Schmitt",
+      "Marcus Hutter"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1910.01526",
+    "version": "arxiv_author_version"
+  }
+}

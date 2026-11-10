@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-40826",
+  "title": "In-Token Rationality Optimization: Towards Accurate and Concise LLM Reasoning via Self-Feedback",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40826",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 126783,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Mingye Zhu",
+      "Yi Liu",
+      "Zheren Fu",
+      "Quan Wang",
+      "Yongdong Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.09865",
+    "version": "arxiv_author_version"
+  }
+}

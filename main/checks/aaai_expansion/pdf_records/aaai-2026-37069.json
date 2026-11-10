@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2026-37069",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-37069__Navigating_the_Alpha_Jungle_An_LLM_Powered_MCTS_Framework_for_Formulaic_Alpha_Factor_Mining.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 5006973,
+  "sha256": "439e6749988619d49e9e156ab040ebc5c6b48371ae8dce8e6db831bbbd3ca12a",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37069/41031",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37069/41031",
+  "downloaded_at_utc": "2026-11-10T02:15:57.269335+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yu Shi",
+      "Yitong Duan",
+      "Jian Li"
+    ],
+    "identity_verified": true
+  }
+}

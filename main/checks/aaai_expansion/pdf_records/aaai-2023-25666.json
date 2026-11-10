@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2023-25666",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2023/aaai-2023-25666__Tighter_Robust_Upper_Bounds_for_Options_via_No_Regret_Learning.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 9228382,
+  "sha256": "2d8f68437fcddf578f5b03e4d5324397f972d1fdcbe17adf53e5833b51b244aa",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25666/25438",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25666/25438",
+  "downloaded_at_utc": "2026-11-10T02:15:46.931280+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Shan Xue",
+      "Ye Du",
+      "Liang Xu"
+    ],
+    "identity_verified": true
+  }
+}

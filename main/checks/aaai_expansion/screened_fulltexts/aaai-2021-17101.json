@@ -1,0 +1,38 @@
+{
+  "id": "aaai-2021-17101",
+  "title": "Temporal Latent Auto-Encoder: A Method for Probabilistic Multivariate Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17101",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 222858,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 5654,
+      "excerpt": " se- gapuram et al. 2018; Chen et al. 2018). E.g., the winner of ries forecasting, as opposed to univariate (single time series) the M4 forecasting competition (Makridakis, Spiliotis, and forecasting. For example, retailers may require sales/demand Assimakopoulos 2020) was a hybrid ES-RNN model (Smyl forecasts for millions of different products at thousands of 2020), in which a single s"
+    },
+    {
+      "match": "stock price",
+      "offset": 8023,
+      "excerpt": " vasan, Ramakrishnan, and Grasman 2005). In financial time * Nam Nguyen and Brian Quanz contributed equally to this work series one stock price may depend on relative prices of other Copyright © 2021, Association for the Advancement of Artificial stocks; and energy time series may have spatial correlations Intelligence (www.aaai.org). All rights reserved. and dependencies. Furthermore, "
+    },
+    {
+      "match": "M4",
+      "offset": 65348,
+      "excerpt": "rayanaswamy, B.; and Madeka, D. 2017. Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2020. The A multi-horizon quantile recurrent forecaster. In Advances in neural M4 Competition: 100,000 time series and 61 forecasting methods. information processing systems - Time Series Workshop. International Journal of Forecasting 36(1): 54–74. Yu, H.-F.; Rao, N.; and Dhillon, I. 2016. Temporal Regularized Matheson, J. E.; and Winkler, R. L. 1"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Nam Nguyen",
+      "Brian Quanz"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2101.10460",
+    "version": "arxiv_author_version"
+  }
+}

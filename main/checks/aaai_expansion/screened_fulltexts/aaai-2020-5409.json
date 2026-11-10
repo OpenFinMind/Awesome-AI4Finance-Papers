@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2020-5409",
+  "title": "Multi-Scale Anomaly Detection on Attributed Networks",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5409",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 67602,
+  "passages": [
+    {
+      "match": "credit card",
+      "offset": 3199,
+      "excerpt": " O1 ing anomalies in these systems is crucial for detecting abuses (metadata) such as credit card frauds, web spams or network intrusions. O3 O3 O3 Intuitively, anomalous nodes are defined as nodes whose at- "
+    },
+    {
+      "match": "credit card",
+      "offset": 7119,
+      "excerpt": " ing with multiple applications in diverse domains (Aggar- an anomaly. wal 2013). Examples include credit card fraud detection, in- So far, the issue of finding anomalous nodes, or outliers trusion detection for network systems, identifying anoma- (we consider these words as synonyms in this paper) on net- lous users in communication networks, web spam det"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Leonardo Gutiérrez-Gómez",
+      "Alexandre Bovet",
+      "Jean-Charles Delvenne"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1912.04144",
+    "version": "arxiv_author_version"
+  }
+}

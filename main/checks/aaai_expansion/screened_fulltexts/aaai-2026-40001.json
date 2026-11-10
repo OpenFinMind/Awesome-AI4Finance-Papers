@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-40001",
+  "title": "MedSpaformer: A Transferable Transformer with Multi-Granularity Token Sparsification for Medical Time Series Classification",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40001",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 72169,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jiexia Ye",
+      "Weiqi Zhang",
+      "Ziyue Li",
+      "Jia Li",
+      "Fugee Tsung"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2503.15578",
+    "version": "arxiv_author_version"
+  }
+}

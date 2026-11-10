@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2024-29661",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-29661__Adaptive_Meta_Learning_Probabilistic_Inference_Framework_for_Long_Sequence_Prediction.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 615174,
+  "sha256": "29f9eba558761b62e69205a88827ef4d0631b54bafee18e4ee6dafdf3ae4c508",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29661/31127",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29661/31127",
+  "downloaded_at_utc": "2026-11-10T02:15:50.201666+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jianping Zhu",
+      "Xin Guo",
+      "Yang Chen",
+      "Yao Yang",
+      "Wenbo Li",
+      "Bo Jin",
+      "Fei Wu"
+    ],
+    "identity_verified": true
+  }
+}

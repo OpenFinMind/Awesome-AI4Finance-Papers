@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2020-5445",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5445__Incorporating_Expert_Based_Investment_Opinion_Signals_in_Stock_Prediction_A_Deep_Learning_Framework.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1308842,
+  "sha256": "e523e2e904be0948cdc678c2926bb4134a77bd98b1fbdf93c75603a72df6e715",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5445/5301",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5445/5301",
+  "downloaded_at_utc": "2026-11-10T02:15:37.255197+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Heyuan Wang",
+      "Tengjiao Wang",
+      "Yi Li"
+    ],
+    "identity_verified": true
+  }
+}

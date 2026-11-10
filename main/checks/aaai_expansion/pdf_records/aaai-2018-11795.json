@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2018-11795",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2018/aaai-2018-11795__Accelerated_Method_for_Stochastic_Composition_Optimization_With_Nonsmooth_Regularization.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 645503,
+  "sha256": "18f2589ba5070bb188cc5be36998d101e56c535445c72686716b075ac43c2724",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11795/11654",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11795/11654",
+  "downloaded_at_utc": "2026-11-10T02:15:33.991275+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zhouyuan Huo",
+      "Bin Gu",
+      "Ji Liu",
+      "Heng Huang"
+    ],
+    "identity_verified": true
+  }
+}

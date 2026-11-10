@@ -1,0 +1,79 @@
+{
+  "id": "aaai-2020-5766",
+  "title": "Towards Better Forecasting by Fusing Near and Distant Future Visions",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5766",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 66116,
+  "passages": [
+    {
+      "match": "stock price",
+      "offset": 6899,
+      "excerpt": "y life, from the energy con- 1998) revealing that people use different levels of abstract sumption, the traffic flow, to the stock prices. In such fields, construals to predict future events, we propose a novel multi- effective decision often requires accurate prediction on rel- task deep learning framework called Multi-Level Construal evant time series data. For example, knowing demand"
+    },
+    {
+      "match": "stock market",
+      "offset": 7581,
+      "excerpt": "hours could help us devise a better series forecasting. It first leverages a Convolution Neural energy use plan, and forecasting of stock market in the near Network (CNN) (Lecun et al. 1998) to extract multi-level or distant future could produce more profit. feature abstractions from the raw time series and engages Multivariate time series forecasting focuses on predicti"
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 35679,
+      "excerpt": " Table 1: Dataset statistics Dataset Traffic Energy NASDAQ Ŷk = rkD + rkL , (8) #Instances 17544 19735 40560 where k ∈ {t + h − 2, ..., t + h + 2} and Ŷk ∈ R is the final n #Attributes 862 "
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 42247,
+      "excerpt": " 4.5 months. We select 26 relevant attributes for our exper- patterns of the time series data. iments. • NASDAQ (Qin et al. 2017): This dataset includes the Training Details stock prices of 81 major corporations and the index value We conduct a grid search over all hyperparameters for each of NASDAQ 100, collected minute-by-minute for 105 "
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 42526,
+      "excerpt": " of 81 major corporations and the index value We conduct a grid search over all hyperparameters for each of NASDAQ 100, collected minute-by-minute for 105 method and dataset. Specifically, for the length of input days. window size T , we set T ∈ {1, 6, 12, 24, 24 × 7}-hour Table 2: Forecasting results of"
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 43087,
+      "excerpt": "ee datasets (best results displayed in boldface) Dataset Traffic Energy NASDAQ Future Future Future Metrics Models t+3 t+6 t+12 t+3 t+6 t+12 t+3 t+6 t+12 VAR 0.0370±9E-04 0.0373±4E-04 0."
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 46140,
+      "excerpt": "size is 128 and the learning rate is 0.001. We test different hyperparameters and find the best settings for each method. much worse than other models on the NASDAQ dataset. This is mainly because the three models are not sensitive Main Results to the scale of the input data due to their lack of the AR Table 2 summaries the experimental results of all the meth-"
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 46953,
+      "excerpt": "ach model mance. In Figure 5, we also show the failure of MLCNN and to predict the future value of the time series at the future mo- LSTNet on NASDAQ dataset without the AR component. ment {t + 3, t + 6, t + 12}, respectively, which means the Furthermore, we conduct the two-sample t-test (Cressie and future moment is set from 3 to 12 hours for the forecasting Whitford 1986) at 5% significance level on the forecasting over the Traffic data, from 30 to"
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 47452,
+      "excerpt": "ing over the Traffic data, from 30 to 120 minutes over the Energy results of MLCNN and LSTNet models. Overall, the small data and from 3 to 12 minutes over the NASDAQ data. To be p-value of the test shows that our model achieves statistically fair, we train each model under different parameter settings significant improvements beyond the LSTNet model. for 10 times and report their best average performance and In summary, the evaluation resul"
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 49810,
+      "excerpt": "re the behavior of all models as a function 2 We first use the validation set to select hyper-parameters that of the sample size and show the result over the NASDAQ obtain similar good predictive results. And then we simply split the dataset in Figure 4. The training and predicting time of our dataset into training and testing sets to retrain the model and show MLCNN model is close to that of other baselines. Signif- the best testing performance of those good hyper-parameters. "
+    },
+    {
+      "match": "NASDAQ",
+      "offset": 51101,
+      "excerpt": "3 t+6 t+12 t+3 t+6 t+12 Future Future 0.9 NASDAQ 1 20 NASDAQ 2 18 0.8 16 Figure 6: Results o"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jiezhu Cheng",
+      "Kaizhu Huang",
+      "Zibin Zheng"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1912.05122",
+    "version": "arxiv_author_version"
+  }
+}

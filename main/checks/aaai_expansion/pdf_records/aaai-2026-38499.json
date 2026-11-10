@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-38499",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-38499__Beyond_Single_Transactions_D_EMAML_Dual_Edge_Motif_Neural_Networks_for_Enhanced_Anti_Money_Laundering_Detection.pdf",
+  "attempts": [],
+  "pages": 10,
+  "bytes": 780537,
+  "sha256": "689ff8c7b775ece5db119335cc77eb0e7d39ced5d0a83aec9b9cf9a9b2c26ed2",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38499/42461",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38499/42461",
+  "downloaded_at_utc": "2026-11-10T02:15:56.442976+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Dongmei Han",
+      "Min Min",
+      "Yuchen Wang",
+      "Guoming Xu",
+      "Xiaofeng Zhou"
+    ],
+    "identity_verified": true
+  }
+}

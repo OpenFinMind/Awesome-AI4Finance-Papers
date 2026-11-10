@@ -1,0 +1,30 @@
+{
+  "id": "aaai-2024-29381",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-29381__MDGNN_Multi_Relational_Dynamic_Graph_Neural_Network_for_Comprehensive_and_Dynamic_Stock_Investment_Prediction.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 788659,
+  "sha256": "d8170184b885bf414a682b97b46882c5f87ce0ea8f69b5ceee1761a1db319b57",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29381/30608",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29381/30608",
+  "downloaded_at_utc": "2026-11-10T02:15:48.475038+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hao Qian",
+      "Hongting Zhou",
+      "Qian Zhao",
+      "Hao Chen",
+      "Hongxiang Yao",
+      "Jingwei Wang",
+      "Ziqi Liu",
+      "Fei Yu",
+      "Zhiqiang Zhang",
+      "Jun Zhou"
+    ],
+    "identity_verified": true
+  }
+}

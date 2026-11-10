@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2023-25601",
+  "title": "Temporal Knowledge Graph Reasoning with Historical Contrastive Learning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25601",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 83206,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yi Xu",
+      "Junjie Ou",
+      "Hui Xu",
+      "Luoyi Fu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2211.10904",
+    "version": "arxiv_author_version"
+  }
+}

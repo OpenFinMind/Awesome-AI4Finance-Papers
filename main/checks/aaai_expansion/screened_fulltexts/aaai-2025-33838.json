@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2025-33838",
+  "title": "Auto-Regressive Moving Diffusion Models for Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33838",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 75766,
+  "passages": [
+    {
+      "match": "Stock Price",
+      "offset": 53921,
+      "excerpt": "iffusion model for object detection. In Proceedings of Lopez-Lira, A.; and Tang, Y. 2023. Can ChatGPT Forecast the IEEE/CVF international conference on computer vision, Stock Price Movements? Return Predictability and Large 19830–19843. Language Models. arXiv preprint arXiv:2304.07619. Croitoru, F.-A.; Hondru, V.; Ionescu, R. T.; and Shah, M. Lovelace, J.; Kishore, V.; Wan, C.; Shekhtman, E.; and 2023. Diffusion models in vision: A survey. IEEE Transac- Weinbe"
+    },
+    {
+      "match": "exchange rates",
+      "offset": 71927,
+      "excerpt": "tribution at each time step by estimating its gradient. Exchange (Lai et al. 2018): This dataset includes daily By optimizing a variational bound on the data likelihood, exchange rates of eight countries from 1990 to 2016, with TimeGrad learns these gradients and uses Langevin sam- 8 variables and 7,588 timesteps per variable, displaying sig- pling during inference to convert white Gaussian noise into nificant volatility. samples of the desired distribution. Their publicly"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jiaxin Gao",
+      "Qinglong Cao",
+      "Yuntian Chen"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.09328",
+    "version": "arxiv_author_version"
+  }
+}

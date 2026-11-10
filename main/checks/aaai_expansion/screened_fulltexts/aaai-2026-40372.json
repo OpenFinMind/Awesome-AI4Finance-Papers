@@ -1,0 +1,29 @@
+{
+  "id": "aaai-2026-40372",
+  "title": "Model Editing as a Double-Edged Sword: Steering Agent Behavior Toward Beneficence or Harm",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40372",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 89269,
+  "passages": [],
+  "identity": {
+    "title_exact": false,
+    "title_similarity": 0.9274,
+    "matched_authors": [
+      "Baixiang Huang",
+      "Zhen Tan",
+      "Haoran Wang",
+      "Zijie Liu",
+      "Dawei Li",
+      "Ali Payani",
+      "Huan Liu",
+      "Tianlong Chen",
+      "Kai Shu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2506.20606",
+    "version": "arxiv_author_version"
+  }
+}

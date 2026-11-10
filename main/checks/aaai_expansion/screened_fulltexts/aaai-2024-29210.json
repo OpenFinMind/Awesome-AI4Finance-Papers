@@ -1,0 +1,134 @@
+{
+  "id": "aaai-2024-29210",
+  "title": "When Model Meets New Normals: Test-Time Adaptation for Unsupervised Time-Series Anomaly Detection",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29210",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 115935,
+  "passages": [
+    {
+      "match": "CreditCard",
+      "offset": 24611,
+      "excerpt": "MAP (T-3), are selected model deployment. Consequently, the inclusion of anomaly for our experiments. (4) The CreditCard dataset 2 consists samples for model updates during test time can potentially of transactional logs spanning two days. It contains 28 PCA- have a detrimental impact on the model’s performance. In anonymized fe"
+    },
+    {
+      "match": "CreditCard",
+      "offset": 26893,
+      "excerpt": "cription of each paper. Of- tribution shifts (WADI, Yahoo), (iv) datasets with minimal ficial implementation of anomaly transformer4 is utilized in distribution shifts (CreditCard). our experiments. We use hyperparameters and default settings Descriptions for the real-world datasets we utilized are of THOC, USAD, and AT described in their papers. MLP and as follows. (1) The SWaT (Mathur and Tippenhauer 2016) LSTM use the latent dimension of 128 as default. As a"
+    },
+    {
+      "match": "creditcard",
+      "offset": 27711,
+      "excerpt": "t from 51 sensors, while WADI dataset covers 2 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 1 3 iTrust, Centre for Research in Cyber Security, Singapore Uni- https://webscope.sandbox.yahoo.com/ 4 versity of Technology and Design https://"
+    },
+    {
+      "match": "CreditCard",
+      "offset": 34308,
+      "excerpt": " in terms of the F1 score. In con- trast to most of the datasets, our method shows only marginal Moreover, we compared our method to the anomaly trans- improvement in the CreditCard dataset. former (AT), one of the state-of-the-art methods. While AT It is due to the fact that the dataset has a minimal distribu- shows comparable performance in terms of F1-PA, it falls tion shift problem, resulting in a limited performance gain. short regarding the F1 score, AUROC, and AUPRC. This The da"
+    },
+    {
+      "match": "CreditCard",
+      "offset": 62520,
+      "excerpt": "aptures time- It is worth noting that all datasets exhibit a \"new normal series data from 51 sensors and actuators deployed in in- problem\", except for the CreditCard dataset. These visualiza- dustrial water treatment systems. This dataset spans a total tions highlight distinct behavior between the training (red) of 11 days, consisting of 7 days of normal operation and 4 and test (blue) datasets. This discrepancy implies that off-the- days for attack simulations. On the other hand, the WADI "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 66130,
+      "excerpt": " selected two ISA entities, namely MSL (P-15) and SMAP (T-3), to in- vestigate and evaluate their anomaly detection performance. Pseudocode for the proposed framework CreditCard. The CreditCard8 dataset consists of transac- In the method section, we suggest a simple algorithm for the tion logs of European cardholders spanning two days. For model to adapt to new normals. In practice, our proposed confidentiality reasons, the dataset only provides 28 princi- methodology can be easily implement"
+    },
+    {
+      "match": "creditcard",
+      "offset": 68664,
+      "excerpt": " 5: L(·) ← (1 − Ŷw,t )⊤ L(Xw,t ) ▷ Filter normals 8 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 6: θ ← θ − η∇θ L(·) ▷ Update model parameters 9 7: end for https://webscope.sandbox.yahoo.com/ SMD SMD MSL SMAP "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 69126,
+      "excerpt": " SMD SMD MSL SMAP Yahoo Yahoo Dataset SWaT WADI CreditCard (M-1-4) (M-2-1) (P-15) (T-3) (A1-R20) (A1-R55) |Dtrain | 496800 784571 23706 23693 3682 2876 142403 400 400 |Dtest | 449919 172803 23707 23694 2856 8579 142404 1022 1027 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 74424,
+      "excerpt": "update speed (γ) are favored for SWaT, WADI, and truth anomaly labels, and the gray shade represents the mod- CreditCard datasets, where longer sequences of instances are els’ predictions of anomalies. To facilitate visualization, all available in the test data. Conversely, for other datasets with anomaly scores, including thres"
+    },
+    {
+      "match": "CreditCard",
+      "offset": 77513,
+      "excerpt": "ble 5: Computational Cost of Baselines. SMD SMD MSL SMAP Yahoo Yahoo Datasets SWaT WADI CreditCard (M-1-4) (M-2-1) (P-15) (T-3) (A1-R20) (A1-R55) W 12 12 5 5 5 5 12 5 5 Strain 12 12 5 5 5 5 12 1 1 Stest 12 12 5 5 5 5 12 5 5 d 128 1"
+    },
+    {
+      "match": "CreditCard",
+      "offset": 78304,
+      "excerpt": "Table 6: Hyperparameters for MLP model. SMD SMD MSL SMAP Yahoo Yahoo Datasets SWaT WADI CreditCard (M-1-4) (M-2-1) (P-15) (T-3) (A1-R20) (A1-R55) W 12 12 5 5 5 5 12 5 5 Strain 12 12 5 5 5 5 12 5 5 Stest 12 12 5 5 5 5 12 5 5 d 128 128 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 78927,
+      "excerpt": "able 7: Hyperparameters for LSTM model. SMD SMD MSL SMAP Yahoo Yahoo Datasets SWaT WADI CreditCard (M-1-4) (M-2-1) (P-15) (T-3) (A1-R20) (A1-R55) W 12 10 5 5 5 5 12 5 5 Strain 12 10 5 5 5 5 12 1 1 Stest 12 10 5 5 5 5 12 5 5 d 40 40 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 79550,
+      "excerpt": "able 8: Hyperparameters for USAD model. SMD SMD MSL SMAP Yahoo Yahoo Datasets SWaT WADI CreditCard (M-1-4) (M-2-1) (P-15) (T-3) (A1-R20) (A1-R55) W 100 100 100 100 100 100 100 100 100 Strain 1 1 1 1 1 1 1 1 1 Stest 1 1 1 1 1 1 1 1 1 d 64 64 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 80174,
+      "excerpt": "able 9: Hyperparameters for THOC model. SMD SMD MSL SMAP Yahoo Yahoo Datasets SWaT WADI CreditCard (M-1-4) (M-2-1) (P-15) (T-3) (A1-R20) (A1-R55) W 100 100 100 100 100 100 100 100 100 Strain 100 100 100 100 100 100 100 100 100 Stest 100 100 100 100 100 100 100 100 100 r 0.5 0.5"
+    },
+    {
+      "match": "CreditCard",
+      "offset": 83472,
+      "excerpt": " 31647.510 0.978 0.222 0.011 0.021 0.525 8390 7 180 2 0.999 0.963 1 0.981 8390 7 0 182 CreditCard Q∗ 10681.869 0.998 0.308 0.197 0.240 0.930 142082 99 179 44 0.998 0.336 0.224 0.269 142082 99 173 50 Q∗ 10681.869 0.998 0.308 0.197 0.240 0.930 142082 99 179 44 0.998 0.336 0.224 0.269 142082 99 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 87059,
+      "excerpt": " 0.121 0.976 0.071 0.011 0.019 0.520 8371 26 180 2 0.997 0.875 1 0.933 8371 26 0 182 CreditCard Q∗ 0.017 0.998 0.292 0.359 0.322 0.931 141987 194 143 80 0.998 0.292 0.359 0.322 141987 194 143 80 Q∗ 0.017 0.998 0.292 0.359 0.322 0.931 141987 194 143 80 0.998 0.292 0.359 0.322 141987 194 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 90644,
+      "excerpt": " 0.102 0.972 0.191 0.099 0.130 0.611 8321 76 164 18 0.991 0.705 1 0.827 8321 76 0 182 CreditCard Q∗ 0.104 0.998 0.192 0.184 0.188 0.864 142008 173 182 41 0.998 0.195 0.188 0.192 142008 173 181 42 Q∗ 0.104 0.998 0.192 0.184 0.188 0.864 142008 173 182 41 0.998 0.195 0.188 0.192 142008 173 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 94243,
+      "excerpt": "0.022 0.011 0.015 0.460 8309 88 180 2 0.990 0.674 1 0.805 8309 88 0 182 Anomaly Transformer CreditCard Q∗ 3.800 0.998 0.155 0.067 0.094 0.549 142099 82 208 15 0.998 0.241 0.117 0.157 142099 82 197 26 Q∗ 3.800 0.998 0.155 0.067 0.094 0.549 142099 82 208 15 0.998 0.241 0.117 0.157 142099 82 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 98193,
+      "excerpt": " 0.286 0.011 0.021 0.523 8392 5 180 2 0.999 0.973 1 0.986 8392 5 0 182 Off-the-shelf MLP CreditCard Q∗ 22.099 0.997 0.150 0.143 0.146 0.946 141999 182 191 32 0.997 0.173 0.170 0.172 141999 182 185 38 Q∗ 22.099 0.997 0.150 0.143 0.146 0.946 141999 182 191 32 0.997 0.173 0.170 0.172 141999 182 185 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 101751,
+      "excerpt": "100 46.906 0.979 0.333 0.011 0.021 0.581 8393 4 180 2 1.000 0.978 1 0.989 8393 4 0 182 CreditCard Q99.93 20.458 0.997 0.139 0.143 0.141 0.939 141982 199 191 32 0.997 0.160 0.170 0.165 141982 199 185 38 Q99.93 20.458 0.997 0.139 0.143 0.141 0.939 141982 199 191 32 0.997 0.160 0.170 0.165 141982 199 185 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 105310,
+      "excerpt": "∗ 15.779 0.976 0.217 0.055 0.088 0.491 8361 36 172 10 0.996 0.835 1 0.910 8361 36 0 182 CreditCard Q99.93 20.458 0.997 0.148 0.161 0.154 0.947 141973 208 187 36 0.997 0.161 0.179 0.170 141973 208 183 40 Q99.93 20.458 0.997 0.148 0.161 0.154 0.947 141973 208 187 36 0.997 0.161 0.179 0.170 141973 208 183 "
+    },
+    {
+      "match": "CreditCard",
+      "offset": 108853,
+      "excerpt": "98 0.971 0.973 0.152 0.055 0.081 0.625 8341 56 172 10 0.993 0.765 1 0.867 8341 56 0 182 CreditCard Q99.93 20.458 0.997 0.154 0.170 0.162 0.946 141972 209 185 38 0.997 0.164 0.184 0.173 141972 209 182 41 MLP + DT + TTA (Ours) Q99.93 20.458 0.997 0.154 0.170 0.162 0.946 141972 209 185 38 0.997 0.164 0.184 0.173 "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Dongmin Kim",
+      "Sunghyun Park",
+      "Jaegul Choo"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2312.11976",
+    "version": "arxiv_author_version"
+  }
+}

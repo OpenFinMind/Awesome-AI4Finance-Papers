@@ -1,0 +1,43 @@
+{
+  "id": "aaai-2026-39218",
+  "title": "TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39218",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 198713,
+  "passages": [
+    {
+      "match": "ExchangeRate",
+      "offset": 34499,
+      "excerpt": "(Zhou et al. 2021), Weather, Traffic, Electricity, cast segment corresponds to an individual prediction sub- ExchangeRate (Wu et al. 2023), Solar-Energy (Lai et al. task. To achieve parameter-efficient segment adaptation, we 2018), and Wind (Location1–4) (Xie et al. 2025). For short- draw inspiration from Prompt Tuning (Lester, Al-Rfou, and "
+    },
+    {
+      "match": "Exchange-rate",
+      "offset": 79518,
+      "excerpt": " Electricity 321 (18317,2633,5261) Hourly • Electricity Transformer Temperature (ETT)1 : Con- sists of four subsets. ETTh1 and ETTh2 are recorded Exchange-rate 8 (5120,665,1422) Daily hourly, while ETTm1 and ETTm2 are recorded every 15 Solar-energy 137 (36792,5271,10540) 10 min minutes. The data is collected from two different electric Wind 9 (30468,4286,8665) Hourly transformers. PEMS03 358 (15"
+    },
+    {
+      "match": "Exchange-rate",
+      "offset": 81078,
+      "excerpt": "Frequency denotes the sampling interval • Electricity4 : Hourly electricity consumption data from of time points. 321 clients spanning the period from 2012 to 2014. • Exchange-rate5 : Daily exchange rates of 8 countries from 1990 to 2016. Raw Time Seires Break temporal consistency due to "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Kuiye Ding",
+      "Fanda Fan",
+      "Chunyi Hou",
+      "Zheya Wang",
+      "Lei Wang",
+      "Zhengxin Yang",
+      "Jianfeng Zhan"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2509.19406",
+    "version": "arxiv_author_version"
+  }
+}

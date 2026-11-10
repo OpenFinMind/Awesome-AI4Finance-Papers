@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2021-17200",
+  "title": "Expected Eligibility Traces",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17200",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 95265,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hado Van Hasselt",
+      "Sephora Madjiheurem",
+      "Matteo Hessel",
+      "David Silver",
+      "André Barreto",
+      "Diana Borsa"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2007.01839",
+    "version": "arxiv_author_version"
+  }
+}

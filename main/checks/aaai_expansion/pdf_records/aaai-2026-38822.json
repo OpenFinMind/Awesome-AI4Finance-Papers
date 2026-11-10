@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2026-38822",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-38822__Inferring_Heterogeneous_Private_Valuations_from_Offline_Market_Data_via_Entropic_Risk_Sensitive_Utility_Maximization.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1397891,
+  "sha256": "1500cd5cc290007c37ceafe4a9b45a5141abc8a448f61524fa4e49c7a81ac0ff",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38822/42784",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38822/42784",
+  "downloaded_at_utc": "2026-11-10T02:15:57.712768+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xingyu Qian",
+      "Haoran Yu"
+    ],
+    "identity_verified": true
+  }
+}

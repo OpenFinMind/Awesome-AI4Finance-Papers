@@ -1,0 +1,46 @@
+{
+  "id": "aaai-2025-33989",
+  "title": "TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33989",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 73893,
+  "passages": [
+    {
+      "match": "S&P 500",
+      "offset": 35997,
+      "excerpt": "%) / Not rain (75.42%) Houston (HS) Hourly 5 45,216 1,884 2012.10 - 2017.11 Rain (30.94%) / Not rain (69.06%) S&P 500 (SP) Daily 9 1,258 1,238 2019.01 - 2023.12 Inc. (13.78%) / Dec. (17.04%) / Etc. (69.18%) Finance Nikkei 225 (NK) Daily 9 1,258 1,238 2019.01 - 2023.12 Inc. (15.02%) / Dec. (17.12%) / Etc. (67.86%) Mortality (MT) Weekly 4 "
+    },
+    {
+      "match": "S&P 500",
+      "offset": 38220,
+      "excerpt": "nance: Datasets in this domain contain daily time series data for nine financial indicators (e.g., S&P 500, VIX, and (ŷLLM , r) = AIP (sx , S) = Mθ pIP (sx , S) , \u0001 exchange rates). The task is to predict whether the price of S&P 500"
+    },
+    {
+      "match": "S&P 500",
+      "offset": 38570,
+      "excerpt": " exchange rates). The task is to predict whether the price of S&P 500 (SP) or Nikkei 225 (NK) will (1) increase where pIP is a prompt function that instructs Mθ to predict by more than 1%, (2) decrease by more than 1%, or (3) the event (ŷLLM ) and also provide the rationale (r) behind "
+    },
+    {
+      "match": "S&P 500",
+      "offset": 43892,
+      "excerpt": " Weather Finance Healthcare Datasets → New York San Fran. Houston S&P 500 Nikkei 225 Mortality Test-Positive Avg. Rank Methods ↓ F1 AUC F1 AUC F1 AUC F1 AUC F1 AUC F1 AUC F1 AUC F1 AUC Autoformer (Wu et al. 2021) 0.546 0.590 0.475 0.539 0.542 0.592 0.330 0.471 0.358 0.568 0.683 0.825 0.7"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Geon Lee",
+      "Wenchao Yu",
+      "Kijung Shin",
+      "Wei Cheng",
+      "Haifeng Chen"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2502.11418",
+    "version": "arxiv_author_version"
+  }
+}

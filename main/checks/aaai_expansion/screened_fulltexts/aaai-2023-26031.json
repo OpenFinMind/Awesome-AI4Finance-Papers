@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2023-26031",
+  "title": "Causal Recurrent Variational Autoencoder for Medical Time Series Generation",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26031",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 103665,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hongming Li",
+      "Shujian Yu",
+      "Jose Principe"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2301.06574",
+    "version": "arxiv_author_version"
+  }
+}

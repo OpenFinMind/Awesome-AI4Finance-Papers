@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2023-26233",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2023/aaai-2023-26233__Symphony_in_the_Latent_Space_Provably_Integrating_High_Dimensional_Techniques_with_Non_linear_Machine_Learning_Models.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 628238,
+  "sha256": "9490eb50079705c21c456e8890a94b8b539c1fb4224a557ceec4603d6bef5858",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26233/26005",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26233/26005",
+  "downloaded_at_utc": "2026-11-10T02:15:47.739566+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Qiong Wu",
+      "Jian Li",
+      "Zhenming Liu",
+      "Yanhua Li",
+      "Mihai Cucuringu"
+    ],
+    "identity_verified": true
+  }
+}

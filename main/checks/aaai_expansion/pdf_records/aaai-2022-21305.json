@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2022-21305",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-21305__Fortunately_Discourse_Markers_Can_Enhance_Language_Models_for_Sentiment_Analysis.pdf",
+  "attempts": [],
+  "pages": 10,
+  "bytes": 602625,
+  "sha256": "4afe3545a6a8c958868754e0c1e784f0b1d773f69abf4bd22baf68c38242a846",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21305/21054",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21305/21054",
+  "downloaded_at_utc": "2026-11-10T02:15:44.069161+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Liat Ein-Dor",
+      "Ilya Shnayderman",
+      "Artem Spector",
+      "Lena Dankin",
+      "Ranit Aharonov",
+      "Noam Slonim"
+    ],
+    "identity_verified": true
+  }
+}

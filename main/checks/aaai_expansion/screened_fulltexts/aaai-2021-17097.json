@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2021-17097",
+  "title": "Clinical Risk Prediction with Temporal Probabilistic Asymmetric Multi-Task Learning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17097",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 134096,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "A. Tuan Nguyen",
+      "Hyewon Jeong",
+      "Eunho Yang",
+      "Sung Ju Hwang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2006.12777",
+    "version": "arxiv_author_version"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2023-26184",
+  "title": "Neural Spline Search for Quantile Probabilistic Modeling",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26184",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 77868,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Ruoxi Sun",
+      "Chun-Liang Li",
+      "Michael W. Dusenberry",
+      "Chen-Yu Lee",
+      "Tomas Pfister"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2301.04857",
+    "version": "arxiv_author_version"
+  }
+}

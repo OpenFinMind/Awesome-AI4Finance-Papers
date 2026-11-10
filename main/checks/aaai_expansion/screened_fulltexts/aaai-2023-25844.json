@@ -1,0 +1,38 @@
+{
+  "id": "aaai-2023-25844",
+  "title": "Estimating Treatment Effects from Irregular Time Series Observations with Hidden Confounders",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25844",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 106453,
+  "passages": [
+    {
+      "match": "stock return",
+      "offset": 1747,
+      "excerpt": " xiangchensong@cmu.edu, ha-niu@kddi.com Abstract both interventions and stock returns. The reason is that even a small number of existing factors (such as Small Minus Big Causal analysis for time series data, in particular estimating individu"
+    },
+    {
+      "match": "stock return",
+      "offset": 2345,
+      "excerpt": " and High Minus Low) could significantly explain the cross- real-world applications, such as finance, retail, healthcare, section of stock returns (D’Acunto et al. 2021). If we can etc. Real-world time series can include large-scale, irregular, simulate such hidden confounders within a reasonable range, and intermittent time series observations, raising significant we are able to obtain treatment estima"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Defu Cao",
+      "James Enouen",
+      "Yujing Wang",
+      "Xiangchen Song",
+      "Chuizheng Meng",
+      "Hao Niu",
+      "Yan Liu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2303.02320",
+    "version": "arxiv_author_version"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "aaai-2026-38542",
+  "title": "APT: Affine Prototype-Timestamp for Time Series Forecasting Under Distribution Shift",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38542",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 136393,
+  "passages": [
+    {
+      "match": "ExchangeRate",
+      "offset": 62462,
+      "excerpt": "tion. fic, and Weather are low-noise datasets with stable patterns and low distribution drift, while ETT and ExchangeRate are C Experiments the opposite. Missing values often occur in real-world scenarios due C.1 Experimental details to sensor failures. Even benchmarks often conta"
+    },
+    {
+      "match": "ExchangeRate",
+      "offset": 65163,
+      "excerpt": "e two types of missing rates for differ- 2014 (unit: kilowatt-hours). ent datasets, as well as the maximum and minimum missing Exchange3 : The ExchangeRate datasets includes daily ex- rates and their channels. The missing rate for ECL, Traffic, change rates for eight countries: Australia, the United King- and Weather is one level lower than that of other datasets, dom, Canada, Switzerland, China, Japan, New Zealand, and and its main missing rate is often affected by only a few S"
+    },
+    {
+      "match": "ExchangeRate",
+      "offset": 131769,
+      "excerpt": "0 Table 13: Part II of the detailed results of the main experiment Figure 8: The ablation study results of APT components in ETTh1, ExchangeRate and Weather, L = 336, H = 336 Figure 9: Visualization of APT’s embeddings on ECL dataset and iTransformer Figure 10: Visualization of APT’s embeddings on ETTh1 dataset and iTransformer Figure 11: Visualization of APT’s embeddings on ETTh2 dataset and iTransformer Figure 12: Visualization of APT’s embeddings on Exchange dataset an"
+    },
+    {
+      "match": "ExchangeRate",
+      "offset": 133041,
+      "excerpt": " CATS Informer iTransformer SparseTSF Figure 17: Visualization of forecasting results for different models on the ExchangeRate dataset without normalization strategy Figure 18: 3D visualization of temporal distribution and ratio of forecasting pipeline at different stages on ELC, ETTh1 & ETTh2. Figure 19: 3D visualization of temporal distribution and ratio of forecasting pipeline at different stages on Exchange, Traffic & Weather. \u0000\u0014\u0000\u0011\u0000\u0013 \u0000\u0013\u0000\u0011\u0000\u0018 "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yujie Li",
+      "Zezhi Shao",
+      "Chengqing Yu",
+      "Yisong Fu",
+      "Tao Sun",
+      "Yongjun Xu",
+      "Fei Wang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.12945",
+    "version": "arxiv_author_version"
+  }
+}

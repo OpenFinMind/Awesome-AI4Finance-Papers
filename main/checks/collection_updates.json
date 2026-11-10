@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-11-10",
+    "venue": "AAAI",
+    "track": "main",
+    "years": [
+      2017,
+      2026
+    ],
+    "added_papers": 160,
+    "audit": "checks/aaai_expansion/README.md"
+  }
+]

@@ -1,0 +1,30 @@
+# Derivatives & Hedging / 衍生品定价与对冲
+
+期权、隐含波动率曲面、衍生品定价与对冲。
+
+14 Main long papers. Topic memberships can overlap.
+
+[All topics](../ai_for_finance.md) · [Classification definitions](../finance_taxonomy.md) · [CSV](derivatives.csv) · [Excel](../../finance_catalog.xlsx)
+
+| Subtopic | Papers |
+|---|---:|
+| Option Pricing & PDEs / 期权定价与PDE | 9 |
+| Hedging / 对冲 | 3 |
+| Implied Volatility / 隐含波动率曲面 | 5 |
+
+| Year | Venue | Paper | Scope | Primary topic | Subtopics | Methods | Resources |
+|---|---|---|---|---|---|---|---|
+| 2026 | ICML | [Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing](../finance_notes/icml-2026-FB5LYFzu33.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE | Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/ICML/2026/icml-2026-FB5LYFzu33__Error_Propagation_in_Dynamic_Programming_From_Stochastic_Control_to_American_Option_Pricing.pdf) |
+| 2026 | NeurIPS | [Neural Slack Variables for Shape Constraints](../finance_notes/neurips-2026-hWUODLVAFM.md) | application | Derivatives & Hedging / 衍生品定价与对冲 | Implied Volatility / 隐含波动率曲面; Trading & Execution / 交易策略与执行 | Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/NeurIPS/2026/neurips-2026-hWUODLVAFM__Neural_Slack_Variables_for_Shape_Constraints.pdf) |
+| 2025 | ICLR | [Operator Deep Smoothing for Implied Volatility](../finance_notes/iclr-2025-DPlUWG4WMw.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE; Implied Volatility / 隐含波动率曲面; Trading & Execution / 交易策略与执行 | Graph Learning / 图学习; Uncertainty & Robustness / 不确定性与鲁棒性 | [PDF](../../pdfs/ICLR/2025/iclr-2025-DPlUWG4WMw__Operator_Deep_Smoothing_for_Implied_Volatility.pdf) |
+| 2025 | ICML | [HyperIV: Real-time Implied Volatility Smoothing](../finance_notes/icml-2025-o9jtS7HupI.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Implied Volatility / 隐含波动率曲面; Trading & Execution / 交易策略与执行 | Uncertainty & Robustness / 不确定性与鲁棒性 | [PDF](../../pdfs/ICML/2025/icml-2025-o9jtS7HupI__HyperIV_Real_time_Implied_Volatility_Smoothing.pdf) |
+| 2025 | ICML | [Nested Expectations with Kernel Quadrature](../finance_notes/icml-2025-OKbECHtO4S.md) | application | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE | Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/ICML/2025/icml-2025-OKbECHtO4S__Nested_Expectations_with_Kernel_Quadrature.pdf) |
+| 2025 | NeurIPS | [Distributional Adversarial Attacks and Training in Deep Hedging](../finance_notes/neurips-2025-vBtfIafffU.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Hedging / 对冲 | Uncertainty & Robustness / 不确定性与鲁棒性; Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/NeurIPS/2025/neurips-2025-vBtfIafffU__Distributional_Adversarial_Attacks_and_Training_in_Deep_Hedging.pdf) |
+| 2025 | NeurIPS | [OPHR: Mastering Volatility Trading with Multi-Agent Deep Reinforcement Learning](../finance_notes/neurips-2025-2p4AtivyZz.md) | core | Trading & Microstructure / 交易与市场微观结构 | Hedging / 对冲; Implied Volatility / 隐含波动率曲面; Trading & Execution / 交易策略与执行; Investment & Financial Research Agents / 投研与金融决策Agent; Crypto & Blockchain Transactions / 加密资产与链上交易 | Reinforcement Learning / 强化学习; Uncertainty & Robustness / 不确定性与鲁棒性 | [Online](https://openreview.net/forum?id=2p4AtivyZz) |
+| 2023 | AAAI | [Tighter Robust Upper Bounds for Options via No-Regret Learning](../finance_notes/aaai-2023-25666.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE | Uncertainty & Robustness / 不确定性与鲁棒性 | [PDF](../../pdfs/AAAI/2023/aaai-2023-25666__Tighter_Robust_Upper_Bounds_for_Options_via_No_Regret_Learning.pdf) |
+| 2022 | NeurIPS | [Hedging as Reward Augmentation in Probabilistic Graphical Models](../finance_notes/neurips-2022-MbBTrAvee-N.md) | application | Derivatives & Hedging / 衍生品定价与对冲 | Hedging / 对冲; Earnings & Corporate Disclosures / 盈利与公司披露 |  | [PDF](../../pdfs/NeurIPS/2022/neurips-2022-MbBTrAvee-N__Hedging_as_Reward_Augmentation_in_Probabilistic_Graphical_Models.pdf) |
+| 2021 | NeurIPS | [Higher Order Kernel Mean Embeddings to Capture Filtrations of Stochastic Processes](../finance_notes/neurips-2021-CtugaUzfYw.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE | Causal Learning / 因果学习; Uncertainty & Robustness / 不确定性与鲁棒性; Representation Learning / 表征学习 | [PDF](../../pdfs/NeurIPS/2021/neurips-2021-CtugaUzfYw__Higher_Order_Kernel_Mean_Embeddings_to_Capture_Filtrations_of_Stochastic_Processes.pdf) |
+| 2020 | NeurIPS | [Deep Smoothing of the Implied Volatility Surface](../finance_notes/neurips-2020-19076.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE; Implied Volatility / 隐含波动率曲面; Trading & Execution / 交易策略与执行; Volatility & Tail Forecasts / 波动率与尾部预测 | Uncertainty & Robustness / 不确定性与鲁棒性 | [PDF](../../pdfs/NeurIPS/2020/neurips-2020-19076__Deep_Smoothing_of_the_Implied_Volatility_Surface.pdf) |
+| 2020 | NeurIPS | [Numerically Solving Parametric Families of High-Dimensional Kolmogorov Partial Differential Equations via Deep Learning](../finance_notes/neurips-2020-19072.md) | application | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE | Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/NeurIPS/2020/neurips-2020-19072__Numerically_Solving_Parametric_Families_of_High_Dimensional_Kolmogorov_Partial_Differential_Equations_via.pdf) |
+| 2017 | AAAI | [Gated Neural Networks for Option Pricing: Rationality by Design](../finance_notes/aaai-2017-10505.md) | core | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE | Uncertainty & Robustness / 不确定性与鲁棒性 | [PDF](../../pdfs/AAAI/2017/aaai-2017-10505__Gated_Neural_Networks_for_Option_Pricing_Rationality_by_Design.pdf) |
+| 2017 | ICLR | [Maximum Entropy Flow Networks](../finance_notes/iclr-2017-H1acq85gx.md) | application | Derivatives & Hedging / 衍生品定价与对冲 | Option Pricing & PDEs / 期权定价与PDE | Diffusion & Flow / 扩散与流模型; Optimization & Numerical Methods / 优化与数值方法 | [PDF](../../pdfs/ICLR/2017/iclr-2017-H1acq85gx__Maximum_Entropy_Flow_Networks.pdf) |

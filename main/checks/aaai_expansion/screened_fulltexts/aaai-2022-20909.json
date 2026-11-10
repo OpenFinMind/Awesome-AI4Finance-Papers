@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2022-20909",
+  "title": "Adaptive Pairwise Weights for Temporal Credit Assignment",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20909",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 157694,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zeyu Zheng",
+      "Risto Vuorio",
+      "Richard Lewis",
+      "Satinder Singh"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2102.04999",
+    "version": "arxiv_author_version"
+  }
+}

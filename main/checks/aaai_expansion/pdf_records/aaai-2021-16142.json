@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2021-16142",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16142__Commission_Fee_is_not_Enough_A_Hierarchical_Reinforced_Framework_for_Portfolio_Management.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 3678851,
+  "sha256": "b3ff5a9afcd4f634293b5a4426d8767dac8d93f192a277f7515c0a18ad5ce784",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16142/15949",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16142/15949",
+  "downloaded_at_utc": "2026-11-10T02:15:41.910383+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Rundong Wang",
+      "Hongxin Wei",
+      "Bo An",
+      "Zhouyan Feng",
+      "Jun Yao"
+    ],
+    "identity_verified": true
+  }
+}

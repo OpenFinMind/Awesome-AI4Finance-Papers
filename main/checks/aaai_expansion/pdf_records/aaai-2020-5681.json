@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2020-5681",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5681__K_BERT_Enabling_Language_Representation_with_Knowledge_Graph.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 560014,
+  "sha256": "95dbb3835cab126f4cbc1dcf31cba93f5f2d54423236fbc9d167d89da45fbb84",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5681/5537",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5681/5537",
+  "downloaded_at_utc": "2026-11-10T02:15:38.360485+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Weijie Liu",
+      "Peng Zhou",
+      "Zhe Zhao",
+      "Zhiruo Wang",
+      "Qi Ju",
+      "Haotang Deng",
+      "Ping Wang"
+    ],
+    "identity_verified": true
+  }
+}

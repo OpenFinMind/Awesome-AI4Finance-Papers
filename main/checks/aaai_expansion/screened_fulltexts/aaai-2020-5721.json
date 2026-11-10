@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2020-5721",
+  "title": "Learning to Optimize Computational Resources: Frugal Training with Generalization Guarantees",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5721",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 108642,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Maria-Florina Balcan",
+      "Tuomas Sandholm",
+      "Ellen Vitercik"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1905.10819",
+    "version": "arxiv_author_version"
+  }
+}

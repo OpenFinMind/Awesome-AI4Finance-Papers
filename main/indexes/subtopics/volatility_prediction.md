@@ -1,0 +1,19 @@
+# Volatility & Tail Forecasts / 波动率与尾部预测
+
+11 Main long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | NeurIPS | [Towards Financial World Modeling](../finance_notes/neurips-2026-OEokq7iASc.md) | core | [Paper](https://openreview.net/forum?id=OEokq7iASc) · [Online PDF](https://openreview.net/pdf?id=OEokq7iASc) |
+| 2024 | AAAI | [From GARCH to Neural Network for Volatility Forecast](../finance_notes/aaai-2024-29643.md) | core | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29643) · [PDF](../../pdfs/AAAI/2024/aaai-2024-29643__From_GARCH_to_Neural_Network_for_Volatility_Forecast.pdf) |
+| 2021 | NeurIPS | [Adaptive Conformal Inference Under Distribution Shift](../finance_notes/neurips-2021-6vaActvpcp3.md) | application | [Paper](https://openreview.net/forum?id=6vaActvpcp3) · [PDF](../../pdfs/NeurIPS/2021/neurips-2021-6vaActvpcp3__Adaptive_Conformal_Inference_Under_Distribution_Shift.pdf) |
+| 2020 | EMNLP | [VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls](../finance_notes/2020.emnlp-main.643.md) | core | [Paper](https://aclanthology.org/2020.emnlp-main.643/) · [PDF](../../pdfs/EMNLP/2020/2020.emnlp-main.643__VolTAGE_Volatility_Forecasting_via_Text_Audio_Fusion_with_Graph_Convolution_Networks_for_Earnings_Calls.pdf) |
+| 2020 | NeurIPS | [Deep Smoothing of the Implied Volatility Surface](../finance_notes/neurips-2020-19076.md) | core | [Paper](https://proceedings.neurips.cc//paper_files/paper/2020/hash/858e47701162578e5e627cd93ab0938a-Abstract.html) · [PDF](../../pdfs/NeurIPS/2020/neurips-2020-19076__Deep_Smoothing_of_the_Implied_Volatility_Surface.pdf) |
+| 2019 | ACL | [Automatic Domain Adaptation Outperforms Manual Domain Adaptation for Predicting Financial Outcomes](../finance_notes/P19-1034.md) | core | [Paper](https://aclanthology.org/P19-1034/) · [PDF](../../pdfs/ACL/2019/P19-1034__Automatic_Domain_Adaptation_Outperforms_Manual_Domain_Adaptation_for_Predicting_Financial_Outcomes.pdf) |
+| 2019 | ACL | [What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues](../finance_notes/P19-1038.md) | core | [Paper](https://aclanthology.org/P19-1038/) · [PDF](../../pdfs/ACL/2019/P19-1038__What_You_Say_and_How_You_Say_It_Matters_Predicting_Stock_Volatility_Using_Verbal_and_Vocal_Cues.pdf) |
+| 2019 | NeurIPS | [Cross-sectional Learning of Extremal Dependence among Financial Assets](../finance_notes/neurips-2019-13550.md) | core | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/abdbeb4d8dbe30df8430a8394b7218ef-Abstract.html) · [PDF](../../pdfs/NeurIPS/2019/neurips-2019-13550__Cross_sectional_Learning_of_Extremal_Dependence_among_Financial_Assets.pdf) |
+| 2018 | AAAI | [A Neural Stochastic Volatility Model](../finance_notes/aaai-2018-12124.md) | core | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12124) · [PDF](../../pdfs/AAAI/2018/aaai-2018-12124__A_Neural_Stochastic_Volatility_Model.pdf) |
+| 2018 | NeurIPS | [Parsimonious Quantile Regression of Financial Asset Tail Dynamics via Sequential Learning](../finance_notes/neurips-2018-11172.md) | core | [Paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/9e3cfc48eccf81a0d57663e129aef3cb-Abstract.html) · [PDF](../../pdfs/NeurIPS/2018/neurips-2018-11172__Parsimonious_Quantile_Regression_of_Financial_Asset_Tail_Dynamics_via_Sequential_Learning.pdf) |
+| 2017 | ACL | [Volatility Prediction using Financial Disclosures Sentiments with Word Embedding-based IR Models](../finance_notes/P17-1157.md) | core | [Paper](https://aclanthology.org/P17-1157/) · [PDF](../../pdfs/ACL/2017/P17-1157__Volatility_Prediction_using_Financial_Disclosures_Sentiments_with_Word_Embedding_based_IR_Models.pdf) |

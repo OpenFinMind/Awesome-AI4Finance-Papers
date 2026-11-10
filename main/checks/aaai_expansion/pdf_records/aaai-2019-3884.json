@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2019-3884",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2019/aaai-2019-3884__Cash_Out_User_Detection_Based_on_Attributed_Heterogeneous_Information_Network_with_a_Hierarchical_Attention_Mechanism.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 841901,
+  "sha256": "39e80be36b44dc810887e8707fa614e7019dbe8eba6715317e2f02ce3af34aac",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3884/3762",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3884/3762",
+  "downloaded_at_utc": "2026-11-10T02:15:36.449655+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Binbin Hu",
+      "Zhiqiang Zhang",
+      "Chuan Shi",
+      "Jun Zhou",
+      "Xiaolong Li",
+      "Yuan Qi"
+    ],
+    "identity_verified": true
+  }
+}

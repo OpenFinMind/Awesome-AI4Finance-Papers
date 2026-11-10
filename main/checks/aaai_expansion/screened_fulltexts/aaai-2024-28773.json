@@ -1,0 +1,67 @@
+{
+  "id": "aaai-2024-28773",
+  "title": "Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28773",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 68178,
+  "passages": [
+    {
+      "match": "T-Finance",
+      "offset": 31942,
+      "excerpt": " \u0011 YelpChi 45,954 3,846,979 14.53 32 (l+1) (l) T-Finance 39,357 21,222,543 4.58 10 ht = UPDATE ht , AGG {h(l) v : v ∈ Nt } , (11) T-Social 5,781,065 73,105,508 3.01 10 Htneigh = AGG(h1t , h2t , ..., hL t ), (12) "
+    },
+    {
+      "match": "T-Finance",
+      "offset": 34425,
+      "excerpt": " YelpChi (Rayana and Akoglu 2015), and two recently 1 X published transaction datasets, i.e., T-Finance and T- Htknn = fmean ({xu |∀u ∈ Kt }) = xu . (13) |Kt | Social (Tang et al. 2022). The YelpChi dataset consists of u∈Kt "
+    },
+    {
+      "match": "T-Finance",
+      "offset": 35083,
+      "excerpt": " Yelp. The Amazon dataset includes product reviews in the tion of the target nodes and their k-nearest neighbor envi- music instrument category. The T-Finance dataset and T- ronmental feature information. In order to realize the local Social dataset detect anomalous accounts in transaction net- environmental constraints, this paper judges based on com- works and social networks respectively, and they share the mon senses that, the multi-hop neighbor features learned by "
+    },
+    {
+      "match": "T-Finance",
+      "offset": 39150,
+      "excerpt": " Settings. In our proposed method SEC-GFD, for the Ama- L = αLhybrid + (1 − α)Lenv . (15) zon, YelpChi, and T-Finance datasets, the hidden layer di- In order to better combine the two loss functions, a hyperpa- mension is set to 64, and the high-frequency signal neighbor rameter α ∈ [0, 1] is added to balance their influences. order C is set to 2. For the T-Social dataset, the hidden layer "
+    },
+    {
+      "match": "T-Finance",
+      "offset": 39649,
+      "excerpt": " Datasets Methods YelpChi Amazon T-Finance T-Social F1-macro AUC F1-macro AUC F1-macro AUC F1-macro AUC GCN 53.21 56.80 63.52 80.14 71.47 66.31 61.73 87.84 GraphSAGE 64.34 73.61 75.25"
+    },
+    {
+      "match": "T-Finance",
+      "offset": 43306,
+      "excerpt": " provements of 2.47% and 1.71% in terms of F1-macro and We conduct a comprehensive comparison of our approach AUC on T-Finance. As to T-Social, SEC-GFD achieves with vanilla homophily GNN models, state-of-the-art graph- gains of 3.78% and 0.84% in terms of F1-macro and AUC. based fraud detection models and novel GNNs targeted at Among these models, ACM studies heterophily in terms of heterophily. The corresponding results are shown in Table 2. "
+    },
+    {
+      "match": "T-Finance",
+      "offset": 46542,
+      "excerpt": "x- edges, in many cases only some heterophily edges con- Amazon T-Finance F1-macro AUC F1-macro AUC SEC-GFD 92.27 98.19 89.74 96.34 w/o high-pass 91.48 "
+    },
+    {
+      "match": "Credit Card",
+      "offset": 53336,
+      "excerpt": "of China. Zeng, D. D. 2021. A GNN-based Few-shot learning model on the Credit Card Fraud detection. In 2021 IEEE 1st In- References ternational Conference on Digital Twins and Parallel Intel- Akoglu, L.; Tong, H.; and Koutra, D. 2015. Graph based ligence (DTPI), 320–323. IEEE. anomaly detection and description: a survey. Data mining Kim, T.; Wang, Y.; Sahino"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Fan Xu",
+      "Nan Wang",
+      "Hao Wu",
+      "Xuezhi Wen",
+      "Xibin Zhao",
+      "Hai Wan"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2312.06441",
+    "version": "arxiv_author_version"
+  }
+}
