@@ -1,0 +1,26 @@
+# Numerical Calculation and Program Reasoning / 数值计算与程序推理
+
+18 Findings long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | ACL | [Fin-STAR: Structure-as-Semantics to Resolve Implicitness in Financial Retrieval](../finance_notes/2026.findings-acl.2151.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.2151/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.2151.pdf) |
+| 2026 | ACL | [FinCARDS: Card-Based Analyst Reranking for Financial Document Question Answering](../finance_notes/2026.findings-acl.1244.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.1244/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.1244.pdf) |
+| 2026 | ACL | [FIND: Toward Multimodal Financial Reasoning and Question Answering for Indic Languages](../finance_notes/2026.findings-acl.1639.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.1639/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.1639.pdf) |
+| 2026 | ACL | [FinMRAGBench: A Realistic and Complex Benchmark for Multi-Modal RAG in Financial Document Analysis](../finance_notes/2026.findings-acl.187.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.187/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.187.pdf) |
+| 2026 | ACL | [Navigating Large-Scale Document Collections: MuDABench for Multi-Document Analytical QA](../finance_notes/2026.findings-acl.341.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.341/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.341.pdf) |
+| 2026 | ACL | [RealFin: How Well Do LLMs Reason About Finance When Users Leave Things Unsaid?](../finance_notes/2026.findings-acl.1255.md) | core | [Paper](https://aclanthology.org/2026.findings-acl.1255/) · [PDF](../../pdfs/ACL/2026/2026.findings-acl.1255.pdf) |
+| 2026 | EMNLP | [FinAcumen: Financial Multimodal Reasoning via Self-Evolving Experience Memory Harness](../finance_notes/2026.findings-emnlp.2357.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.2357/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.2357.pdf) |
+| 2026 | EMNLP | [FinHopper: A Progressive Multi-Hop Benchmark for Complex Financial Agents with Step-wise Evaluation](../finance_notes/2026.findings-emnlp.2384.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.2384/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.2384.pdf) |
+| 2026 | EMNLP | [STQA: A Benchmark for Stock-Focused Tabular Question Answering over Historical and Forecasted Data](../finance_notes/2026.findings-emnlp.869.md) | core | [Paper](https://aclanthology.org/2026.findings-emnlp.869/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.869.pdf) |
+| 2025 | ACL | [XFinBench: Benchmarking LLMs in Complex Financial Problem Solving and Reasoning](../finance_notes/2025.findings-acl.457.md) | core | [Paper](https://aclanthology.org/2025.findings-acl.457/) · [PDF](../../pdfs/ACL/2025/2025.findings-acl.457.pdf) |
+| 2025 | EMNLP | [David vs. Goliath: Cost-Efficient Financial QA via Cascaded Multi-Agent Reasoning](../finance_notes/2025.findings-emnlp.225.md) | core | [Paper](https://aclanthology.org/2025.findings-emnlp.225/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.225.pdf) |
+| 2025 | EMNLP | [FinLFQA: Evaluating Attributed Text Generation of LLMs in Financial Long-Form Question Answering](../finance_notes/2025.findings-emnlp.908.md) | core | [Paper](https://aclanthology.org/2025.findings-emnlp.908/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.908.pdf) |
+| 2025 | EMNLP | [One More Question is Enough, Expert Question Decomposition (EQD) Model for Domain Quantitative Reasoning](../finance_notes/2025.findings-emnlp.1108.md) | core | [Paper](https://aclanthology.org/2025.findings-emnlp.1108/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.1108.pdf) |
+| 2024 | ACL | [EconNLI: Evaluating Large Language Models on Economics Reasoning](../finance_notes/2024.findings-acl.58.md) | core | [Paper](https://aclanthology.org/2024.findings-acl.58/) · [PDF](../../pdfs/ACL/2024/2024.findings-acl.58.pdf) |
+| 2024 | ACL | [Evaluating LLMs’ Mathematical Reasoning in Financial Document Question Answering](../finance_notes/2024.findings-acl.231.md) | core | [Paper](https://aclanthology.org/2024.findings-acl.231/) · [PDF](../../pdfs/ACL/2024/2024.findings-acl.231.pdf) |
+| 2024 | EMNLP | [Enhancing Arguments Recognition for Financial Mathematical Reasoning over Hybrid Data](../finance_notes/2024.findings-emnlp.228.md) | core | [Paper](https://aclanthology.org/2024.findings-emnlp.228/) · [PDF](../../pdfs/EMNLP/2024/2024.findings-emnlp.228.pdf) |
+| 2024 | EMNLP | [Fine-tuning Smaller Language Models for Question Answering over Financial Documents](../finance_notes/2024.findings-emnlp.617.md) | core | [Paper](https://aclanthology.org/2024.findings-emnlp.617/) · [PDF](../../pdfs/EMNLP/2024/2024.findings-emnlp.617.pdf) |
+| 2024 | EMNLP | [LLMs Cannot (Yet) Match the Specificity and Simplicity of Online Communities in Long Form Question Answering](../finance_notes/2024.findings-emnlp.111.md) | core | [Paper](https://aclanthology.org/2024.findings-emnlp.111/) · [PDF](../../pdfs/EMNLP/2024/2024.findings-emnlp.111.pdf) |

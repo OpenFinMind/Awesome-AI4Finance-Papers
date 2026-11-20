@@ -1,0 +1,21 @@
+# Diffusion & Flow / 扩散与流模型
+
+13 Main long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | AAAI | [Controllable Financial Market Generation with Diffusion Guided Meta Agent](../finance_notes/aaai-2026-37009.md) | core | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37009) · [PDF](../../pdfs/AAAI/2026/aaai-2026-37009__Controllable_Financial_Market_Generation_with_Diffusion_Guided_Meta_Agent.pdf) |
+| 2026 | ICLR | [STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates](../finance_notes/iclr-2026-VltZQpfarw.md) | core | [Paper](https://openreview.net/forum?id=VltZQpfarw) · [Online PDF](https://openreview.net/pdf?id=VltZQpfarw) |
+| 2026 | KDD | [Causal-DFM: Diffusion-Based Causal-Invariant Dynamic Factor Model for Stock Return Prediction](../finance_notes/kdd-2026-61e0c49a11cb.md) | core | [Paper](https://doi.org/10.1145/3770855.3818050) · [Online PDF](https://dl.acm.org/doi/pdf/10.1145/3770855.3818050) |
+| 2026 | KDD | [Lifting the Veil of Non-Stationarity in Financial Market](../finance_notes/kdd-2026-f70c181958bb.md) | core | [Paper](https://doi.org/10.1145/3770855.3817881) · [Online PDF](https://dl.acm.org/doi/pdf/10.1145/3770855.3817881) |
+| 2026 | NeurIPS | [Generating Financial Time Series by Matching Random Convolutional Features](../finance_notes/neurips-2026-tLVW1Y9hBz.md) | core | [Paper](https://openreview.net/forum?id=tLVW1Y9hBz) · [PDF](../../pdfs/NeurIPS/2026/neurips-2026-tLVW1Y9hBz__Generating_Financial_Time_Series_by_Matching_Random_Convolutional_Features.pdf) |
+| 2026 | NeurIPS | [Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios](../finance_notes/neurips-2026-Dk8yYYJtw0.md) | core | [Paper](https://openreview.net/forum?id=Dk8yYYJtw0) · [PDF](../../pdfs/NeurIPS/2026/neurips-2026-Dk8yYYJtw0__Retrieval_Augmented_Diffusion_Modeling_for_Stochastic_Discount_Factor_Portfolios.pdf) |
+| 2025 | AAAI | [DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction](../finance_notes/aaai-2025-33250.md) | core | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33250) · [PDF](../../pdfs/AAAI/2025/aaai-2025-33250__DHMoE_Diffusion_Generated_Hierarchical_Multi_Granular_Expertise_for_Stock_Prediction.pdf) |
+| 2025 | KDD | [Progressive Dependency Representation Learning for Stock Ranking in Uncertain Risk Contrasting](../finance_notes/kdd-2025-e43466bc738f.md) | core | [Paper](https://doi.org/10.1145/3690624.3709189) · [Online PDF](https://dl.acm.org/doi/pdf/10.1145/3690624.3709189) |
+| 2024 | ICLR | [Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns](../finance_notes/iclr-2024-CdjnzWsQax.md) | core | [Paper](https://openreview.net/forum?id=CdjnzWsQax) · [Online PDF](https://openreview.net/pdf?id=CdjnzWsQax) |
+| 2023 | EMNLP | [STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion](../finance_notes/2023.emnlp-main.578.md) | core | [Paper](https://aclanthology.org/2023.emnlp-main.578/) · [PDF](../../pdfs/EMNLP/2023/2023.emnlp-main.578__STINMatch_Semi_Supervised_Semantic_Topological_Iteration_Network_for_Financial_Risk_Detection_via_News_La.pdf) |
+| 2023 | NeurIPS | [On the Constrained Time-Series Generation Problem](../finance_notes/neurips-2023-72006.md) | core | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bfb6a69c0d9e2bc596e1cd31f16fcdde-Abstract-Conference.html) · [PDF](../../pdfs/NeurIPS/2023/neurips-2023-72006__On_the_Constrained_Time_Series_Generation_Problem.pdf) |
+| 2021 | KDD | [Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups](../finance_notes/kdd-2021-cf5420452809.md) | core | [Paper](https://doi.org/10.1145/3447548.3467383) · [Online PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467383) |
+| 2017 | NeurIPS | [Deanonymization in the Bitcoin P2P Network](../finance_notes/neurips-2017-8928.md) | core | [Paper](https://proceedings.neurips.cc/paper_files/paper/2017/hash/6c3cf77d52820cd0fe646d38bc2145ca-Abstract.html) · [PDF](../../pdfs/NeurIPS/2017/neurips-2017-8928__Deanonymization_in_the_Bitcoin_P2P_Network.pdf) |

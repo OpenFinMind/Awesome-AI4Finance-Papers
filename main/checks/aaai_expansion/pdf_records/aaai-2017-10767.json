@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2017-10767",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2017/aaai-2017-10767__Explicit_Defense_Actions_Against_Test_Set_Attacks.pdf",
+  "attempts": [],
+  "pages": 7,
+  "bytes": 704676,
+  "sha256": "5fbb9a63308f93e5d419d7ae9040f5e5c62bd8be309d21986ecf7ccce8067685",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10767/10626",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10767/10626",
+  "downloaded_at_utc": "2026-11-10T02:15:33.228891+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Scott Alfeld",
+      "Xiaojin Zhu",
+      "Paul Barford"
+    ],
+    "identity_verified": true
+  }
+}

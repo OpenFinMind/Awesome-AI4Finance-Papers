@@ -1,0 +1,45 @@
+{
+  "id": "aaai-2022-20568",
+  "title": "Multiscale Generative Models: Improving Performance of a Generative Model Using Feedback from Other Dependent Generative Models",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20568",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 100334,
+  "passages": [
+    {
+      "match": "stock market",
+      "offset": 5810,
+      "excerpt": "claim when the problem domain is As our second contribution, we provide a mathematical a real-world multi-agent system such as stock markets and interpretation of the interacting GAN set-up, thereby char- transportation. Indeed, recent works have used generative acterizing that the coupling between the higher-level and the models to design high-fidelity simulators using real world "
+    },
+    {
+      "match": "stock market",
+      "offset": 7640,
+      "excerpt": " optimize different aspects of the problem, e.g., how traders market, the amount of demand data for a new consumer react to a new stock market policy. In this work, we take might be small and the feedback from a higher-level model a first step towards building multiple interacting generative about such consumer’s expected behaviors helps in build- models (specifically, GANs), one for each ty"
+    },
+    {
+      "match": "stock market",
+      "offset": 17511,
+      "excerpt": " relies upon the architecture in Fig. 1. We choose electricity supplier in the electricity market, or a new trader GANs as our generative model (different types of GANs for in a stock market, or even a new image generation task with different problems). As shown in the architecture, the mixer low or biased amount of data. Thus, we assume one of the GAN is a conditional GAN in which the conditions are the n agents, indexed by i0 has newly arrived and replaces the output of the agent GANs. We use the notation: x−i0"
+    },
+    {
+      "match": "stock market",
+      "offset": 60462,
+      "excerpt": " sociates, Inc. Li, J.; Wang, X.; Lin, Y.; Sinha, A.; and Wellman, M. 2020a. Yoon, J.; Jarrett, D.; and van der Schaar, M. 2019. Time- Generating realistic stock market order streams. In Proceed- series Generative Adversarial Networks. In Wallach, H.; ings of the AAAI Conference on Artificial Intelligence, vol- Larochelle, H.; Beygelzimer, A.; d'Alché-Buc, F.; Fox, E.; ume 34, 727–734. and Garnett, R., eds., Advances in Neural Information Pro- Li, Y.; Zh"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Changyu Chen",
+      "Avinandan Bose",
+      "Shih-Fen Cheng",
+      "Arunesh Sinha"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2201.09644",
+    "version": "arxiv_author_version"
+  }
+}

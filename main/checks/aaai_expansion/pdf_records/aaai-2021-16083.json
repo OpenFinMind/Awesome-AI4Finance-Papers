@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2021-16083",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16083__Universal_Trading_for_Order_Execution_with_Oracle_Policy_Distillation.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 400801,
+  "sha256": "27a4cfc320d3be311f2514e1fbeec039e82eb4f1b2bf956008610cf4f44259ba",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16083/15890",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16083/15890",
+  "downloaded_at_utc": "2026-11-10T02:15:39.920023+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yuchen Fang",
+      "Kan Ren",
+      "Weiqing Liu",
+      "Dong Zhou",
+      "Weinan Zhang",
+      "Jiang Bian",
+      "Yong Yu",
+      "Tie-Yan Liu"
+    ],
+    "identity_verified": true
+  }
+}

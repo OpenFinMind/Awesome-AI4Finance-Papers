@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2025-34211",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-34211__Enhancing_Masked_Time_Series_Modeling_via_Dropping_Patches.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34211/36366",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 18,
+  "bytes": 2762981,
+  "sha256": "69578dbcd6104644a3aba44c1e25d1155fafe3c3e8ff81bd652dd6c278d55ffc",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2412.15315",
+  "final_url": "https://arxiv.org/pdf/2412.15315",
+  "downloaded_at_utc": "2026-11-10T02:32:42.440194+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Tianyu Qiu",
+      "Yi Xie",
+      "Hao Niu",
+      "Yun Xiong",
+      "Xiaofeng Gao"
+    ],
+    "identity_verified": true
+  }
+}

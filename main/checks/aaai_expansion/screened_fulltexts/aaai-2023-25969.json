@@ -1,0 +1,30 @@
+{
+  "id": "aaai-2023-25969",
+  "title": "Learnable Path in Neural Controlled Differential Equations",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25969",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 109819,
+  "passages": [
+    {
+      "match": "stock price",
+      "offset": 5895,
+      "excerpt": " 0 series forecasting is a long-standing research problem, rang- ing from stock price forecasting to climate and traffic fore- 2. For NCDEs, Z T casting (Reinsel 2003; Fu 2011; Yu, Yin, and Zhu 2018; Wu et a"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Sheo Yon Jhin",
+      "Minju Jo",
+      "Seungji Kook",
+      "Noseong Park"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2301.04333",
+    "version": "arxiv_author_version"
+  }
+}

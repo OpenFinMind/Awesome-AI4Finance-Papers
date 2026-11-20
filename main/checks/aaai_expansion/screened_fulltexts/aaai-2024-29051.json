@@ -1,0 +1,135 @@
+{
+  "id": "aaai-2024-29051",
+  "title": "Time-Aware Knowledge Representations of Dynamic Objects with Multidimensional Persistence",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29051",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 396994,
+  "passages": [
+    {
+      "match": "Ethereum",
+      "offset": 5782,
+      "excerpt": "ow its utility, in application to forecasting on bench- Notably, our findings possess broad applicability and can mark traffic flow, Ethereum blockchain, and electrocardio- be tailored to various forms of PH vectorization, rendering gram datasets, demonstrating the competitive performance, them suitable for diverse categories of time-dependent data. especially, in scenarios of limited da"
+    },
+    {
+      "match": "bitcoin",
+      "offset": 24109,
+      "excerpt": "in general for t1 ≤ t2 . How- direction to be analyzed (for example, in the case of money ever, a generalized version of PH construction helps us to laundering detection on bitcoin, we may need to use both overcome this problem. We want to keep track of topolog- <= 3 <= 3 "
+    },
+    {
+      "match": "Bytom",
+      "offset": 103806,
+      "excerpt": "ficant temporal and topological patterns. Our Results on Blockchain Datasets: Table 1 shows performance Time Aware Multiparameter Persistence Nets (TMP-Nets) on Bytom, Decentraland, and Golem. Table 1 suggests the capture spatio-temporal relationships via trainable node em- following phenomena: (i) TMP-Nets achieves the best per- bedding dictionaries in a GDL-based framework. formance on Bytom and Decentraland, and the relative gains "
+    },
+    {
+      "match": "Bytom",
+      "offset": 104062,
+      "excerpt": " relationships via trainable node em- following phenomena: (i) TMP-Nets achieves the best per- bedding dictionaries in a GDL-based framework. formance on Bytom and Decentraland, and the relative gains of TMP-Nets over the best baseline (i.e., Z-GCNETs) are Graph Convolution on Adaptive Adjacency Matrix 7.89% and 3.66% on Bytom and Decentraland respectively; To model the hidden dependencies among nodes in the "
+    },
+    {
+      "match": "Bytom",
+      "offset": 104318,
+      "excerpt": " of TMP-Nets over the best baseline (i.e., Z-GCNETs) are Graph Convolution on Adaptive Adjacency Matrix 7.89% and 3.66% on Bytom and Decentraland respectively; To model the hidden dependencies among nodes in the (ii) compared with Z-GCNETs, the size of TMP topological spatio-temporal graph, we define the spatial graph convo- features used in this work is much smaller than the zigzag lution operation based on the adaptive adjacency matrix and p"
+    },
+    {
+      "match": "Bytom",
+      "offset": 104925,
+      "excerpt": "ed by (Wu et al. 2019), to An interesting question is why TMP-Nets performs dif- investigate the beyond pairwise relations among nodes, we ferently on Golem vs. Bytom and Decentraland. Success use the adaptive adjacency matrix based on trainable node on each network token depends on the diversity of connec- (ℓ) (ℓ−1) tions among nodes. In cryptocurrency networks, we expect embedding dictionaries, i.e., Zt,Spatial = LZt,Spatial W (ℓ−1) , nodes/a"
+    },
+    {
+      "match": "Bytom",
+      "offset": 105873,
+      "excerpt": " nal nodes). However, the assortativity measure of Golem (ℓ − 1)-th layer, and ZSpatial = X ∈ RN ×F (here F repre- (-0.47) is considerably lower than Bytom (-0.42) and De- sents the number of features for each node), and W (ℓ−1) is centraland (-0.35), leading to disassortativity patterns (i.e., the trainable weights. repetitive isolated clusters) in the Golem network, which, in turn, "
+    },
+    {
+      "match": "Ethereum",
+      "offset": 109276,
+      "excerpt": "datasets. et al. 2001) and electrocardiography (ECG5000) (Chen Finally, we applied our approach in a different domain et al. 2015a), and the newly emerged data on Ethereum with a benchmark electrocardiogram dataset, ECG5000. blockchain tokens (Shamsi et al. 2022). (The results on the Again, our model gives highly competitive results with the ECG5000 are presented in Appendix A.4). More details de- SOTA methods (Appendix A.4). scriptions of datasets can be found in Appendix B.1. "
+    },
+    {
+      "match": "Bytom",
+      "offset": 110576,
+      "excerpt": "f98t9xmzj/AACBavvHc absolute percentage error (MAPE). We provide additional ctCB1FVQNyf-XRa?dl=0 Model Bytom Decentraland Golem DCRNN (Li et al. 2018) 35.36±1.18 27.69±1.77 23.15±1.91 STGCN (Yu, Yin, and Zhu 2018) 37.33±1.06 28.22±1.69 23.68±2.31 GraphWaveNet (Wu et al. 2019) 39.18±0.96 37.67±1.76 "
+    },
+    {
+      "match": "Bytom",
+      "offset": 111437,
+      "excerpt": "1.96 22.50±2.01 TMP-Nets 28.77±3.30 22.97±1.80 29.01±1.05 Table 1: Experimental results on Bytom, Decentraland, and Golem on MAPE and standard deviation. PeMSD4 PeMSD8 Model MAE RMSE MAPE (%) MAE RMSE MAPE (%) AGCRN 110.36±0.20 150.37±0.15 208.36±0.2"
+    },
+    {
+      "match": "Bytom",
+      "offset": 117852,
+      "excerpt": "i, L.; Yao, L.; Li, C.; Wang, X.; and Wang, C. 2020. model, our TMP-Nets achieves a better performance on Adaptive Graph Convolutional Recurrent Network for Traf- the Bytom dataset, i.e., TMP-Nets (MAPE: 28.77±3.30) fic Forecasting. NeurIPS, 33. vs. TAMP-S2GCNets (MAPE: 29.26±1.06). Furthermore, Bin, Y.; et al. 2018. Describing video with attention-based from the computational time perspective, the average com- bidirectional LSTM. IEEE transactions on cybernetics, putation time of "
+    },
+    {
+      "match": "bitcoin",
+      "offset": 122776,
+      "excerpt": " time series streams. Data mining and Akcora, C. G.; Gel, Y. R.; and Kantarcioglu, M. 2022. knowledge discovery, 29: 1622–1664. Blockchain networks: Data structures of bitcoin, monero, Chung, Y.-M.; and Lawson, A. 2022. Persistence curves: A zcash, ethereum, ripple, and iota. Wiley Int. Reviews: Data canonical framework for summarizing persistence diagrams. Mining and Knowledge Discovery, 12(1): e1436. Advances in Computational Mathematics, 48(1): 6. Corbet, R.; Fugacci, U.; Kerber, M"
+    },
+    {
+      "match": "Ethereum",
+      "offset": 124626,
+      "excerpt": "Tokens, Types, and Hand Gesture Recognition Using a Part-Based GRU-RNN Standards: Identification and Utilization in Ethereum. In for Gesture-Based Interface. IEEE Access, 8: 50236–50243. 2020 IEEE DAPPS, 1–10. Sutskever, I.; Vinyals, O.; and Le, Q. V. 2014. Sequence to Edelsbrunner, H.; and Harer, J. 2010. Computational topol- "
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 126769,
+      "excerpt": " ACM Trans. Multimedia Comput. Commun. Appl., 14(2s). Johnson, M.; and Jung, J.-H. 2021. Instability of the Betti Weber, M.; et al. 2019. Anti-Money Laundering in Bitcoin: Sequence for Persistent Homology. J. Korean Soc. Ind. and Experimenting with GCNs for Financial Forensics. In KDD. Applied Math., 25(4): 296–311. Wu, Z.; Pan, S.; Long, G.; Jiang, J.; and Zhang, C. 2019. Kipf, T. N.; and Welling, M. 2017. Semi-supervised classi- Graph WaveNet for Deep Spatial-Temporal G"
+    },
+    {
+      "match": "Bytom",
+      "offset": 131392,
+      "excerpt": "Additional Baselines Dataset Model MAPE Contrary to other papers (e.g., (Jiang and Luo 2022)) which Bytom TMP-Nets 28.77±3.30 consider only a single option of 16,992 (PeMSD4) / 17,856 Bytom TMPdeg -Nets 29.15±4.17 (PeMSD8) time stamps, we evaluate Z-GCNETs perfor- mance on varying lengths of 1,000 and 2,000 (Section 6.3 Table 7: Comparison of TMP-Nets and TMPdeg -Nets on By- - Experimental Results detai"
+    },
+    {
+      "match": "Bytom",
+      "offset": 135695,
+      "excerpt": "eMSD8 (RMSE results for first 1,000 networks). Dataset Dim Betweenness Closeness Degree Power-Tran Power-Volume Bytom {0,1} 236.95 seg 239.36 seg 237.60 seg 987.90 seg 941.39 seg Decentraland {0,1} 134.75 seg 138.81 seg 133.82 seg 2007.50 seg 1524.10 seg Golem {0,1} 571.35 seg 581.36 seg 573.93 seg 4410.47 seg 4663.52 seg "
+    },
+    {
+      "match": "Ethereum",
+      "offset": 136087,
+      "excerpt": "4.10 seg Golem {0,1} 571.35 seg 581.36 seg 573.93 seg 4410.47 seg 4663.52 seg Table 9: Computational time on Ethereum tokens using five different filtering functions. A.3 Computational Time on Different Filtering as well as with nodes with low connectivity (e.g. termi- Functions nal nodes). However, the assortativity measure of Golem "
+    },
+    {
+      "match": "Bytom",
+      "offset": 136502,
+      "excerpt": " nal nodes). However, the assortativity measure of Golem (-0.47) is considerably lower than Bytom (-0.42) and De- As expected, Table 9 shows that computational time highly centraland (-0.35), leading to disassortativity patterns (i.e., depends on the complexity of the selected filtering func- repetitive isolated clusters) in the Golem network, which, in tion. However, the time spent in computing TMP Vectoriza- "
+    },
+    {
+      "match": "Bytom",
+      "offset": 137203,
+      "excerpt": " Token Degree Betweenness Density Assortativity Bytom 0.1995789 0.0002146 0.0020159 -0.4276000 A.4 Experiments on ECG5000 Benchmark Decentraland 0.3387378 0.0004677 0.0034215 -0.3589580 Dataset Golem 0.3354401 0.0004175 0.0033882 -0.4731063 To support that"
+    },
+    {
+      "match": "Ethereum",
+      "offset": 137650,
+      "excerpt": " Golem 0.3354401 0.0004175 0.0033882 -0.4731063 To support that our methodology can be applied in other Table 11: Comparison of statistics on Ethereum token net- dynamic networks, we run additional experiments in the works. ECG5000 dataset, (Chen et al. 2015b). This benchmark dataset contains 140 nodes and 5,000 time stamps. When running our methodology we extract patterns via Betti, Sil- B Further Details on Experimental Setup houette, and Entropy vectorizations, se"
+    },
+    {
+      "match": "Ethereum",
+      "offset": 140267,
+      "excerpt": "a), where each ECG5000 StemGNN 0.52±0.006 time series length is 140. ECG5000 AGCRN 0.52±0.008 Ethereum blockchain tokens. We use three token net- ECG5000 DCRNN 0.55±0.005 works from the Ethereum blockchain (Bytom, Decentraland and Golem) each with more than $100M in market value Table 10: Comparison of TMP-Nets and baselines on "
+    },
+    {
+      "match": "Ethereum",
+      "offset": 141098,
+      "excerpt": "s (di Angelo and Salzer 2020; Akcora, Gel, and Kantarcioglu 2022). Since original token A.5 Connectivity in Ethereum networks networks have an average of 442788/1192722 nodes/edges, An interesting question is why TMP-Nets performs differ- we compute a subgraph via a maximum weight subgraph ently on Golem vs. Bytom and Decentraland. Success on approximation (Vassilevska, Williams, and Yuster 2006) us- each ne"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Baris Coskunuzer",
+      "Ignacio Segovia-Dominguez",
+      "Yuzhou Chen",
+      "Yulia R. Gel"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2401.13157",
+    "version": "arxiv_author_version"
+  }
+}

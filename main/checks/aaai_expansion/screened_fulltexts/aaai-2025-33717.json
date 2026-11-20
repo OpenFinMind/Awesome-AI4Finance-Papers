@@ -1,0 +1,59 @@
+{
+  "id": "aaai-2025-33717",
+  "title": "Disentangling Long-Short Term State Under Unknown Interventions for Online Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33717",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 121073,
+  "passages": [
+    {
+      "match": "stock market",
+      "offset": 3551,
+      "excerpt": " can be led by unknown interventions like abrupt policies in ize the short-term information and an associative memory the stock market. Based on this insight, we formalize a data to preserve the long-term dependencies. To better combine generation process with unknown interventions on short-term long-term and short-term historical information, OneNet states. Under mild assumptions, "
+    },
+    {
+      "match": "exchange rate",
+      "offset": 7688,
+      "excerpt": "environments. Figure 1 provides a finance and Levskaya 2020; Liu et al. 2021; Wu et al. 2021; Zhou example, where the monetary exchange rate is influenced by et al. 2021) plays a critical role in various fields such as fi- the short-term variables (e.g. customs duties) and the long- nance (Clements, Franses, and Swanson 2004; Cao, Li, and term variables (e.g., financial revenue). Nonstatio"
+    },
+    {
+      "match": "exchange rate",
+      "offset": 9130,
+      "excerpt": " Intelligence (www.aaai.org). All rights reserved. revenues and may obtain an inaccurate forecasting perfor- Figure 1: Illustration of sequentially arriving exchange rate data, which is influenced by short-term customs duties and long- term financial revenue. Moreover, the short-term customs duties are intervened by sudden customs tariff policies. (a) If the estimated short-term customs duties and long-term financial revenue are entangled, short-term influence from Environments (e.g., e1 , e2 , e3 ) may affect the "
+    },
+    {
+      "match": "exchange rate",
+      "offset": 15952,
+      "excerpt": "m latent variables are (3) can be well interpreted by the aforementioned financial not the function of the estimated long-term latent variables. example. First, the exchange rate can be considered as the Moreover, by leveraging the invertibility of transformation observation time series data. Sequentially, the financial rev- hz , we can obtain the Jacobian of hz as shown in Equation enue and the customs duties denote the long-term and short- (B.36), where B = 0 and C = 0, since th"
+    },
+    {
+      "match": "exchange rate",
+      "offset": 34850,
+      "excerpt": " {ETTh2, ETTm1} for one hour level and minutes level, Since the nonstationarity is assumed to be led by the inter- respectively. Exchange is the daily exchange rate dataset ventions to the short-term latent variables, given zd1:H , if in- from eight foreign countries including Australia, British, tervention occurs at τ -th time step, and 2 < τ < H − 1, Canada, Switzerland, China, Japan, New Zealand, and Sin- ∂εd "
+    },
+    {
+      "match": "exchange rate",
+      "offset": 109990,
+      "excerpt": "ll, e.g. 20, our method can successfully adapt to the nonstationary data with few samples. Model Efficiency We evaluate the performance of our model and the baseline model on the exchange rate dataset from three aspects: forecasting performance, training speed, and memory footprint as shown in Figure 6. Compared with other models for online time-series forecasting, we can find that the proposed LSTD has the best model performance and relatively good model efficiency. However, in terms of memory performance, LSTD may be lower than other "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Ruichu Cai",
+      "Haiqin Huang",
+      "Zhifan Jiang",
+      "Zijian Li",
+      "Changze Zhou",
+      "Yuequn Liu",
+      "Yuming Liu",
+      "Zhifeng Hao"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2502.12603",
+    "version": "arxiv_author_version"
+  }
+}

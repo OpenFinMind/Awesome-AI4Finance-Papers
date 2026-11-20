@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2019-4480",
+  "title": "RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4480",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 62379,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Qingsong Wen",
+      "Jingkun Gao",
+      "Xiaomin Song",
+      "Liang Sun",
+      "Huan Xu",
+      "Shenghuo Zhu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1812.01767",
+    "version": "arxiv_author_version"
+  }
+}

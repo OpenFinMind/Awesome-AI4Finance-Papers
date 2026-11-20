@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2021-16502",
+  "title": "On Continuous Local BDD-Based Search for Hybrid SAT Solving",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16502",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 88322,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Anastasios Kyrillidis",
+      "Zhiwei Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2012.07983",
+    "version": "arxiv_author_version"
+  }
+}

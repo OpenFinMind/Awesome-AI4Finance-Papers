@@ -1,0 +1,38 @@
+{
+  "validated_at_utc": "2026-11-10T02:41:00.188338+00:00",
+  "original_records_preserved": 1178,
+  "original_csv_jsonl_and_classifications_unchanged": true,
+  "publisher_metadata_records": 22308,
+  "source_cache_hashes_match": true,
+  "aaai_papers": 160,
+  "aaai_years": {
+    "2017": 3,
+    "2018": 4,
+    "2019": 8,
+    "2020": 15,
+    "2021": 19,
+    "2022": 12,
+    "2023": 7,
+    "2024": 21,
+    "2025": 32,
+    "2026": 39
+  },
+  "aaai_scope": {
+    "application": 83,
+    "core": 77
+  },
+  "aaai_evidence_types": {
+    "publisher_title_abstract_review": 105,
+    "fulltext_financial_data_or_experiment": 54,
+    "fulltext_financial_case_model": 1
+  },
+  "aaai_pdf_versions": {
+    "publisher_version": 105,
+    "arxiv_author_version": 55
+  },
+  "aaai_pdfs_identity_verified": 160,
+  "main_track_memberships_checked": true,
+  "special_track_examples_excluded": true,
+  "all_records_main_only": true,
+  "collection_papers": 1338
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2021-16105",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16105__RevMan_Revenue_aware_Multi_task_Online_Insurance_Recommendation.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 999649,
+  "sha256": "babab31ee8140e9725eddd90ae80b409a61ddcebe9b44760e1a259f358da6f4d",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16105/15912",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16105/15912",
+  "downloaded_at_utc": "2026-11-10T02:15:40.675174+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yu Li",
+      "Yi Zhang",
+      "Lu Gan",
+      "Gengwei Hong",
+      "Zimu Zhou",
+      "Qiang Li"
+    ],
+    "identity_verified": true
+  }
+}

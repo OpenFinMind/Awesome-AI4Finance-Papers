@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2020-5587",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5587__Adaptive_Quantitative_Trading_An_Imitative_Deep_Reinforcement_Learning_Approach.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1224103,
+  "sha256": "0e0201c8a362653a2734410742b74521b56c0fb3d09ad44d23d948e5cfa74755",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5587/5443",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5587/5443",
+  "downloaded_at_utc": "2026-11-10T02:15:38.360577+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yang Liu",
+      "Qi Liu",
+      "Hongke Zhao",
+      "Zhen Pan",
+      "Chuanren Liu"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2024-29589",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-29589__Risk_Conditioned_Reinforcement_Learning_A_Generalized_Approach_for_Adapting_to_Varying_Risk_Measures.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 763511,
+  "sha256": "804c7563c4480a60ef4998e95c601f0178601ca748909e32168006d93acb6442",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29589/30992",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29589/30992",
+  "downloaded_at_utc": "2026-11-10T02:15:49.313177+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Gwangpyo Yoo",
+      "Jinwoo Park",
+      "Honguk Woo"
+    ],
+    "identity_verified": true
+  }
+}

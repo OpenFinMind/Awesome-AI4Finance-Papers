@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2026-38722",
+  "title": "Optimally Auditing Adversarial Agents",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38722",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 106463,
+  "passages": [
+    {
+      "match": "m4",
+      "offset": 17720,
+      "excerpt": "dit vector is impossible. Theorem 1 (Utility-optimal). For any small enough ϵ > 0, (n, m, q, val, pay, pen) and λ, Algorithm 1 computes a 2nϵ-optimal audit vector for Eq. (7) in O(m4 ) time. Moreover, the time complexity can be improved to O(m2 ). The idea of Algorithm 1 is to search over a finite set of audit vectors, called critical audit vectors (Definition 2). We also show that any audit vector can be approximated by one from this set. The remainder of this section is organized as follows. We begin by defining e"
+    },
+    {
+      "match": "m4",
+      "offset": 29125,
+      "excerpt": "es Vλ (p) by computing the worst report in Ai (p) that minimizes the principal’s utility for all i. This takes O(m2 ) for each audit vector. Therefore, the time complexity is in O(m4 ). We can improve the running time of Algorithm 1 to O(m2 ) using dynamic programming for ComputeVal. 7 Remark 1. We can improve the running time of Algorithm 1 to O(m2 ) using dynamic programming for ComputeValas shown in Algorithm 3. Because the equilibrium of any critical audit vector "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Sanmay Das",
+      "Fang-Yi Yu",
+      "Yuang Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2604.25085",
+    "version": "arxiv_author_version"
+  }
+}

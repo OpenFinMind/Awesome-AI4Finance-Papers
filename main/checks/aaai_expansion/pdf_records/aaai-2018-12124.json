@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2018-12124",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2018/aaai-2018-12124__A_Neural_Stochastic_Volatility_Model.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 648084,
+  "sha256": "ba1077ea0767274e31501d83f918a318d416288d1c8848731cb7c9475257afce",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/12124/11983",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/12124/11983",
+  "downloaded_at_utc": "2026-11-10T02:15:34.360932+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Rui Luo",
+      "Weinan Zhang",
+      "Xiaojun Xu",
+      "Jun Wang"
+    ],
+    "identity_verified": true
+  }
+}

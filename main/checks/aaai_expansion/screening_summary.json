@@ -1,0 +1,23 @@
+{
+  "candidates": 2321,
+  "admitted": 160,
+  "dispositions": {
+    "not_admitted_from_metadata_screen": 1178,
+    "include_core": 77,
+    "legacy_track_unverified": 66,
+    "pending_fulltext": 177,
+    "no_targeted_fulltext_evidence": 241,
+    "include_application": 83,
+    "not_admitted_from_reviewed_evidence": 32,
+    "excluded_non_main_issue": 464,
+    "pending_pdf_identity": 2,
+    "pending_subset_verification": 1
+  },
+  "fulltext_attempts": 508,
+  "fulltext_statuses": {
+    "fulltext_unavailable": 177,
+    "screened": 329,
+    "pdf_identity_pending": 2
+  },
+  "original_records_expected": 1178
+}

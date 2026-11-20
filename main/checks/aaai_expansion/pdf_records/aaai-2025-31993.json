@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2025-31993",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-31993__FactorGCL_A_Hypergraph_Based_Factor_Model_with_Temporal_Residual_Contrastive_Learning_for_Stock_Returns_Prediction.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 826054,
+  "sha256": "7f4dff626d880e026d281fc1875c3291d53fae62f5d2fe3e52b0f1ce289a8a99",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/31993/34148",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/31993/34148",
+  "downloaded_at_utc": "2026-11-10T02:15:50.865592+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yitong Duan",
+      "Weiran Wang",
+      "Jian Li"
+    ],
+    "identity_verified": true
+  }
+}

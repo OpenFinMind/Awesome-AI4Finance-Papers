@@ -1,0 +1,30 @@
+{
+  "id": "aaai-2021-16926",
+  "title": "The Importance of Modeling Data Missingness in Algorithmic Fairness: A Causal Perspective",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16926",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 73805,
+  "passages": [
+    {
+      "match": "German credit",
+      "offset": 1783,
+      "excerpt": "included in (or excluded dividuals who were given a loan in the past, but not those from) the datasets. For example, consider the German credit who were not. This missingness, if ignored, nullifies any fair- dataset (Dua and Graff 2017) that contains profiles of peo- ness guarantee of the training procedure when the model is ple whose loans were approved and the outcome measured "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Naman Goel",
+      "Alfonso Amayuelas",
+      "Amit Deshpande",
+      "Amit Sharma"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2012.11448",
+    "version": "arxiv_author_version"
+  }
+}

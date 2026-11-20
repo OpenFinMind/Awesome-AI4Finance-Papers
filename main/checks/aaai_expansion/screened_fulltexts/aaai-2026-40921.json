@@ -1,0 +1,16 @@
+{
+  "id": "aaai-2026-40921",
+  "title": "MSAT-LDM: Toward Transferable High-Fidelity Watermarking for Latent Diffusion Model via Modular Self-Augmented Training",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40921",
+  "http_status": 200,
+  "status": "pdf_identity_pending",
+  "identity": {
+    "title_exact": false,
+    "title_similarity": 0.7468,
+    "matched_authors": [
+      "Lu Zhang",
+      "Liang Zeng"
+    ],
+    "identity_verified": false
+  }
+}

@@ -1,0 +1,1215 @@
+{
+  "date": "2026-11-20",
+  "track": "findings",
+  "scope": "application",
+  "basis": "Task-specific editorial synthesis with representative abstracts and retained financial evidence. Earlier targeted PDF passages are retained where available; no complete new full-text audit is claimed.",
+  "boundaries": "Evaluation guidance and opportunities are editorial synthesis.",
+  "topics": {
+    "alpha_mining": {
+      "task_memberships": 0,
+      "core": 0,
+      "application": 0,
+      "representative_ids": [],
+      "contribution_and_boundary_notes": [],
+      "source_sha256": "4197d9d1036550580922ad6142441c5cb8da7adc99479a78ddbb565bd922ba92"
+    },
+    "time_series": {
+      "task_memberships": 2,
+      "core": 0,
+      "application": 2,
+      "representative_ids": [
+        "2024.findings-emnlp.201",
+        "2024.findings-emnlp.435"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2024.findings-emnlp.201",
+          "contribution_zh": "分任务诊断零样本时间序列推理",
+          "contribution_en": "Task-separated diagnostics of zero-shot sequence reasoning",
+          "boundary_zh": "通用多领域结果中金融只占部分",
+          "boundary_en": "Finance is one part of a broader multidomain evaluation"
+        },
+        {
+          "id": "2024.findings-emnlp.435",
+          "contribution_zh": "按序列相似度和知识选择数值生成示例",
+          "contribution_en": "Select data-to-text demonstrations using sequence similarity and knowledge",
+          "boundary_zh": "叙述质量和预测效用不同",
+          "boundary_en": "Narrative quality differs from forecasting utility"
+        }
+      ],
+      "source_sha256": "7d1b55422f1acfed95919aafd3f4826ef7c34cf08a28ee11264e3cebecbd1177"
+    },
+    "pricing": {
+      "task_memberships": 1,
+      "core": 0,
+      "application": 1,
+      "representative_ids": [
+        "2026.findings-acl.1119"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.1119",
+          "contribution_zh": "研究主题：NASH: Numerically Aware Scoring Heuristic for Robust Semantic Similarity",
+          "contribution_en": "Research topic: NASH: Numerically Aware Scoring Heuristic for Robust Semantic Similarity",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "77bb09c9720c4a898e0d8e64ef9eaa3df5303bceb949b3ccb7e9de4da140084a"
+    },
+    "valuation_prediction": {
+      "task_memberships": 3,
+      "core": 0,
+      "application": 3,
+      "representative_ids": [
+        "2026.findings-acl.1675",
+        "2023.findings-emnlp.709",
+        "2023.findings-emnlp.757"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.1675",
+          "contribution_zh": "研究主题：On Finding Inconsistencies in Documents",
+          "contribution_en": "Research topic: On Finding Inconsistencies in Documents",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2023.findings-emnlp.709",
+          "contribution_zh": "研究主题：Causal Inference from Text: Unveiling Interactions between Variables",
+          "contribution_en": "Research topic: Causal Inference from Text: Unveiling Interactions between Variables",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2023.findings-emnlp.757",
+          "contribution_zh": "研究主题：PersonaLM: Language Model Personalization via Domain-distributed Span Aggregated K-Nearest N-gram Retrieval Augmentation",
+          "contribution_en": "Research topic: PersonaLM: Language Model Personalization via Domain-distributed Span Aggregated K-Nearest N-gram Retrieval Augmentation",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "37fd19f1543f56e50ffc029a2397eb155e7e342c84959f0dc74039bcb8fa82d4"
+    },
+    "portfolio": {
+      "task_memberships": 3,
+      "core": 0,
+      "application": 3,
+      "representative_ids": [
+        "2023.findings-emnlp.668",
+        "2025.findings-acl.171",
+        "2026.findings-emnlp.1316"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2023.findings-emnlp.668",
+          "contribution_zh": "语义相似度作为协方差收缩目标",
+          "contribution_en": "Semantic similarity acts as a covariance shrinkage target",
+          "boundary_zh": "语义结构不应直接视为真实协方差",
+          "boundary_en": "Semantic structure should not be treated as true covariance"
+        },
+        {
+          "id": "2025.findings-acl.171",
+          "contribution_zh": "研究主题：Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains",
+          "contribution_en": "Research topic: Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.1316",
+          "contribution_zh": "研究主题：AEL: Evolving Agent Harness in Open-Ended Environments",
+          "contribution_en": "Research topic: AEL: Evolving Agent Harness in Open-Ended Environments",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "583a72e678e31a500d9ec8d1cb68d72846498944fcf5adad37cbd2e6b15bc8fe"
+    },
+    "insurance": {
+      "task_memberships": 3,
+      "core": 0,
+      "application": 3,
+      "representative_ids": [
+        "2026.findings-acl.2053",
+        "2026.findings-emnlp.2198",
+        "2021.findings-acl.51"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.2053",
+          "contribution_zh": "面向工业缺失表格的预训练和蒸馏",
+          "contribution_en": "Pretraining and distillation for industrial tables with missingness",
+          "boundary_zh": "通用框架的信贷应用不是专用授信系统",
+          "boundary_en": "A general framework with credit tasks is not a complete lending system"
+        },
+        {
+          "id": "2026.findings-emnlp.2198",
+          "contribution_zh": "研究主题：Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
+          "contribution_en": "Research topic: Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2021.findings-acl.51",
+          "contribution_zh": "研究主题：Contrastive Fine-tuning Improves Robustness for Neural Rankers",
+          "contribution_en": "Research topic: Contrastive Fine-tuning Improves Robustness for Neural Rankers",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "5bd35ee55519bbb59555c4a845801bfca6f7f6fe678b044c845e76e9f22f7592"
+    },
+    "financial_sentiment": {
+      "task_memberships": 1,
+      "core": 0,
+      "application": 1,
+      "representative_ids": [
+        "2025.findings-acl.962"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2025.findings-acl.962",
+          "contribution_zh": "研究主题：MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation",
+          "contribution_en": "Research topic: MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "a9ea5f34453d9d66ca665d5c9569cda5ba71d68d337e973f06b7e3b151698854"
+    },
+    "financial_qa": {
+      "task_memberships": 12,
+      "core": 0,
+      "application": 12,
+      "representative_ids": [
+        "2026.findings-emnlp.845",
+        "2026.findings-emnlp.975",
+        "2026.findings-emnlp.1736",
+        "2026.findings-emnlp.438"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-emnlp.845",
+          "contribution_zh": "研究主题：KnowMT-Bench: Benchmarking Knowledge-Intensive Long-Form Question Answering in Multi-Turn Dialogues",
+          "contribution_en": "Research topic: KnowMT-Bench: Benchmarking Knowledge-Intensive Long-Form Question Answering in Multi-Turn Dialogues",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.975",
+          "contribution_zh": "研究主题：MoE Sparsity Begets Monosemanticity: Insights into Understanding and Fine-Tuning",
+          "contribution_en": "Research topic: MoE Sparsity Begets Monosemanticity: Insights into Understanding and Fine-Tuning",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.1736",
+          "contribution_zh": "研究主题：RELOOP: Recursive Retrieval with Multi-Hop Reasoner and Planners for Heterogeneous QA",
+          "contribution_en": "Research topic: RELOOP: Recursive Retrieval with Multi-Hop Reasoner and Planners for Heterogeneous QA",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.438",
+          "contribution_zh": "研究主题：Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition Beyond RAG",
+          "contribution_en": "Research topic: Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition Beyond RAG",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "e74fb37c8fb579bd2e77f57d8ccd4f46888128a07504890ff001132d788cbd1c"
+    },
+    "financial_understanding": {
+      "task_memberships": 21,
+      "core": 0,
+      "application": 21,
+      "representative_ids": [
+        "2024.findings-emnlp.435",
+        "2021.findings-acl.28",
+        "2021.findings-acl.308",
+        "2026.findings-acl.82"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2024.findings-emnlp.435",
+          "contribution_zh": "按序列相似度和知识选择数值生成示例",
+          "contribution_en": "Select data-to-text demonstrations using sequence similarity and knowledge",
+          "boundary_zh": "叙述质量和预测效用不同",
+          "boundary_en": "Narrative quality differs from forecasting utility"
+        },
+        {
+          "id": "2021.findings-acl.28",
+          "contribution_zh": "空间依存结构支持票据和发票信息抽取",
+          "contribution_en": "Spatial dependencies support receipt/invoice extraction",
+          "boundary_zh": "通用抽取方法，非完整财务审核",
+          "boundary_en": "General extraction rather than complete financial auditing"
+        },
+        {
+          "id": "2021.findings-acl.308",
+          "contribution_zh": "把政策文本转为本体引导的规则图",
+          "contribution_en": "Convert policy text into ontology-guided rule graphs",
+          "boundary_zh": "抽取规则仍需专业人员监督",
+          "boundary_en": "Extracted rules still require professional oversight"
+        },
+        {
+          "id": "2026.findings-acl.82",
+          "contribution_zh": "研究主题：Infinity-Parser: Layout-Aware Reinforcement Learning with High-quality Document Parsing Dataset",
+          "contribution_en": "Research topic: Infinity-Parser: Layout-Aware Reinforcement Learning with High-quality Document Parsing Dataset",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "c788f06280de0b982a6fa744d548ae7ba7cfc8068e0912ef93c430df22be0ef2"
+    },
+    "financial_decision": {
+      "task_memberships": 7,
+      "core": 0,
+      "application": 7,
+      "representative_ids": [
+        "2026.findings-acl.931",
+        "2026.findings-emnlp.1316",
+        "2026.findings-emnlp.354",
+        "2026.findings-emnlp.505"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.931",
+          "contribution_zh": "通过 RL 协同改进策略及工具元数据",
+          "contribution_en": "RL coevolves policies and tool metadata",
+          "boundary_zh": "贷款计算案例不代表完整银行部署",
+          "boundary_en": "Loan-calculation cases do not establish full banking deployment"
+        },
+        {
+          "id": "2026.findings-emnlp.1316",
+          "contribution_zh": "研究主题：AEL: Evolving Agent Harness in Open-Ended Environments",
+          "contribution_en": "Research topic: AEL: Evolving Agent Harness in Open-Ended Environments",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.354",
+          "contribution_zh": "研究主题：BizSage: A Self-Evolving Multi-Agent Framework for Business Research with Efficient Knowledge Retrieval",
+          "contribution_en": "Research topic: BizSage: A Self-Evolving Multi-Agent Framework for Business Research with Efficient Knowledge Retrieval",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.505",
+          "contribution_zh": "研究主题：Can Large Language Models Uncover the Structure of Social Opinions?",
+          "contribution_en": "Research topic: Can Large Language Models Uncover the Structure of Social Opinions?",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "2fc00b0c0c5ba493dd7fd28e6e18615d2c47881f5523965fb1e45b7c39254bd2"
+    },
+    "sustainable_finance": {
+      "task_memberships": 1,
+      "core": 0,
+      "application": 1,
+      "representative_ids": [
+        "2025.findings-acl.814"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2025.findings-acl.814",
+          "contribution_zh": "基于环境报告的跨表多步问答",
+          "contribution_en": "Multistep and cross-table QA over environmental reports",
+          "boundary_zh": "环境披露应用而非通用投资收益任务",
+          "boundary_en": "Environmental-disclosure application rather than an investment-return task"
+        }
+      ],
+      "source_sha256": "d5528b095cf45c70821cc444f5309a1a9acaf6b985ca566db2022d02d0bff4a8"
+    },
+    "financial_services": {
+      "task_memberships": 10,
+      "core": 0,
+      "application": 10,
+      "representative_ids": [
+        "2026.findings-acl.931",
+        "2023.findings-acl.230",
+        "2021.findings-acl.252",
+        "2026.findings-emnlp.342"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.931",
+          "contribution_zh": "通过 RL 协同改进策略及工具元数据",
+          "contribution_en": "RL coevolves policies and tool metadata",
+          "boundary_zh": "贷款计算案例不代表完整银行部署",
+          "boundary_en": "Loan-calculation cases do not establish full banking deployment"
+        },
+        {
+          "id": "2023.findings-acl.230",
+          "contribution_zh": "银行及酒店的多语言多意图/槽位基准",
+          "contribution_en": "Multilingual multi-intent/slot benchmarks for banking and hotels",
+          "boundary_zh": "翻译语料的文化和对话覆盖有限",
+          "boundary_en": "Translated corpora have bounded cultural/dialogue coverage"
+        },
+        {
+          "id": "2021.findings-acl.252",
+          "contribution_zh": "能量分数与生成 OOD 样本识别未知意图",
+          "contribution_en": "Energy scores and generated OOD examples identify unknown intents",
+          "boundary_zh": "合成未知意图未必覆盖真实新需求",
+          "boundary_en": "Synthetic OOD intents may not cover real new requests"
+        },
+        {
+          "id": "2026.findings-emnlp.342",
+          "contribution_zh": "研究主题：PIVOT: Perplexity-Informed KD-to-RL Transition Scheduling for Vertical-Domain Few-Shot Distillation",
+          "contribution_en": "Research topic: PIVOT: Perplexity-Informed KD-to-RL Transition Scheduling for Vertical-Domain Few-Shot Distillation",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "11d45fb99655b5f82ca9d4ee65e27f4d38a9bdf4081db18d7f4df448e101a6de"
+    },
+    "blockchain": {
+      "task_memberships": 0,
+      "core": 0,
+      "application": 0,
+      "representative_ids": [],
+      "contribution_and_boundary_notes": [],
+      "source_sha256": "064d52460b89e9d331acc56246abd8d4c7effb9e6d7414adfe83102c1d29b0b3"
+    },
+    "financial_safety": {
+      "task_memberships": 7,
+      "core": 0,
+      "application": 7,
+      "representative_ids": [
+        "2021.findings-acl.308",
+        "2026.findings-acl.788",
+        "2026.findings-acl.1116",
+        "2026.findings-acl.115"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2021.findings-acl.308",
+          "contribution_zh": "把政策文本转为本体引导的规则图",
+          "contribution_en": "Convert policy text into ontology-guided rule graphs",
+          "boundary_zh": "抽取规则仍需专业人员监督",
+          "boundary_en": "Extracted rules still require professional oversight"
+        },
+        {
+          "id": "2026.findings-acl.788",
+          "contribution_zh": "研究主题：\"Penny Wise, Pixel Foolish\": Bypassing Price Constraints in Multimodal Agents via Visual Adversarial Perturbations",
+          "contribution_en": "Research topic: \"Penny Wise, Pixel Foolish\": Bypassing Price Constraints in Multimodal Agents via Visual Adversarial Perturbations",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-acl.1116",
+          "contribution_zh": "研究主题：GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety",
+          "contribution_en": "Research topic: GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-acl.115",
+          "contribution_zh": "研究主题：OmniCompliance-100K: A Multi-Domain, Rule-Grounded, Real-World Safety Compliance Dataset",
+          "contribution_en": "Research topic: OmniCompliance-100K: A Multi-Domain, Rule-Grounded, Real-World Safety Compliance Dataset",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "aee90a8a1e73c3d48502e17429709cd6ddb02d2d8cc46be80114752e66269d2e"
+    },
+    "financial_ir": {
+      "task_memberships": 8,
+      "core": 0,
+      "application": 8,
+      "representative_ids": [
+        "2024.findings-emnlp.707",
+        "2026.findings-acl.1119",
+        "2026.findings-emnlp.2230",
+        "2025.findings-acl.20"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2024.findings-emnlp.707",
+          "contribution_zh": "把大小与单位条件融入文本排序",
+          "contribution_en": "Add magnitude and unit constraints to ranking",
+          "boundary_zh": "金融是双领域评价中的一个领域",
+          "boundary_en": "Finance is one domain in a two-domain evaluation"
+        },
+        {
+          "id": "2026.findings-acl.1119",
+          "contribution_zh": "研究主题：NASH: Numerically Aware Scoring Heuristic for Robust Semantic Similarity",
+          "contribution_en": "Research topic: NASH: Numerically Aware Scoring Heuristic for Robust Semantic Similarity",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.2230",
+          "contribution_zh": "研究主题：Listwise Explanation of Embedding-Based Rankings via Semantic Chunk Grouping",
+          "contribution_en": "Research topic: Listwise Explanation of Embedding-Based Rankings via Semantic Chunk Grouping",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2025.findings-acl.20",
+          "contribution_zh": "研究主题：TreeRAG: Unleashing the Power of Hierarchical Storage for Enhanced Knowledge Retrieval in Long Documents",
+          "contribution_en": "Research topic: TreeRAG: Unleashing the Power of Hierarchical Storage for Enhanced Knowledge Retrieval in Long Documents",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "add032379fa867293d78012c82c1dd8326ac2243514220fa97add11e0318d263"
+    },
+    "financial_evaluation": {
+      "task_memberships": 5,
+      "core": 0,
+      "application": 5,
+      "representative_ids": [
+        "2026.findings-acl.1675",
+        "2026.findings-emnlp.2304",
+        "2024.findings-acl.478",
+        "2024.findings-emnlp.972"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.1675",
+          "contribution_zh": "研究主题：On Finding Inconsistencies in Documents",
+          "contribution_en": "Research topic: On Finding Inconsistencies in Documents",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-emnlp.2304",
+          "contribution_zh": "研究主题：BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic Domains",
+          "contribution_en": "Research topic: BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic Domains",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2024.findings-acl.478",
+          "contribution_zh": "研究主题：Can Large Language Models Follow Concept Annotation Guidelines? A Case Study on Scientific and Financial Domains",
+          "contribution_en": "Research topic: Can Large Language Models Follow Concept Annotation Guidelines? A Case Study on Scientific and Financial Domains",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2024.findings-emnlp.972",
+          "contribution_zh": "研究主题：ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions",
+          "contribution_en": "Research topic: ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "81061b8d314a4d4fd0ad7b5aa9c2a80842a1176d0f048b2e43cabac41f3e201e"
+    },
+    "financial_models": {
+      "task_memberships": 4,
+      "core": 0,
+      "application": 4,
+      "representative_ids": [
+        "2026.findings-acl.405",
+        "2026.findings-acl.2035",
+        "2025.findings-emnlp.707",
+        "2024.findings-acl.157"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.405",
+          "contribution_zh": "研究主题：Balancing Knowledge Breadth and Task Depth for Effective Domain Adaptation Fine-Tuning",
+          "contribution_en": "Research topic: Balancing Knowledge Breadth and Task Depth for Effective Domain Adaptation Fine-Tuning",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2026.findings-acl.2035",
+          "contribution_zh": "研究主题：MEAV: Model Editing with Alignment Vectors for inference time LLM alignment in single and multidomain preference spectrum",
+          "contribution_en": "Research topic: MEAV: Model Editing with Alignment Vectors for inference time LLM alignment in single and multidomain preference spectrum",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2025.findings-emnlp.707",
+          "contribution_zh": "研究主题：MMA: Cross-Domain Knowledge Integration via Mixture of Multi-Domain Agents",
+          "contribution_en": "Research topic: MMA: Cross-Domain Knowledge Integration via Mixture of Multi-Domain Agents",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        },
+        {
+          "id": "2024.findings-acl.157",
+          "contribution_zh": "研究主题：Self-Specialization: Uncovering Latent Expertise within Large Language Models",
+          "contribution_en": "Research topic: Self-Specialization: Uncovering Latent Expertise within Large Language Models",
+          "boundary_zh": "按原文的任务、数据和实验设置解释结果。",
+          "boundary_en": "Interpret results within the original task, data and experimental setting."
+        }
+      ],
+      "source_sha256": "cc52fb67035e0a01e5964b441598dbf549dfa93c6af838be37420171d9e43907"
+    },
+    "financial_risk": {
+      "task_memberships": 2,
+      "core": 0,
+      "application": 2,
+      "representative_ids": [
+        "2026.findings-acl.2053",
+        "2026.findings-emnlp.1466"
+      ],
+      "contribution_and_boundary_notes": [
+        {
+          "id": "2026.findings-acl.2053",
+          "contribution_zh": "面向工业缺失表格的预训练和蒸馏",
+          "contribution_en": "Pretraining and distillation for industrial tables with missingness",
+          "boundary_zh": "通用框架的信贷应用不是专用授信系统",
+          "boundary_en": "A general framework with credit tasks is not a complete lending system"
+        },
+        {
+          "id": "2026.findings-emnlp.1466",
+          "contribution_zh": "同模型 thinking 消融追踪反事实偏差变化",
+          "contribution_en": "Within-model thinking ablations track counterfactual bias changes",
+          "boundary_zh": "更多推理不必然带来更公平决策",
+          "boundary_en": "More reasoning does not necessarily yield fairer decisions"
+        }
+      ],
+      "source_sha256": "83f1e52214faafb3ed13aaf883780b7d1456e5627178a26f57c250123e093bd1"
+    }
+  },
+  "papers": {
+    "2024.findings-emnlp.201": {
+      "id": "2024.findings-emnlp.201",
+      "title": "Language Models Still Struggle to Zero-shot Reason about Time Series",
+      "year": 2024,
+      "scope": "application",
+      "abstract": "Time series are critical for decision-making in fields like finance and healthcare. Their importance has driven a recent influx of works passing time series into language models, leading to non-trivial forecasting on some datasets. But it remains unknown whether non-trivial forecasting implies that language models can reason about time series. To address this gap, we generate a first-of-its-kind evaluation framework for time series reasoning, including formal tasks and a corresponding dataset of multi-scale time series paired with text captions across ten domains. Using these data, we probe whether language models achieve three forms of reasoning: (1) Etiological Reasoning—given an input time series, can the language model identify the scenario that most likely created it? (2) Question Answering—can a language model answer factual questions about time series? (3) Context-Aided Forecasting–does highly relevant textual context improve a language model’s time series forecasts? We find that otherwise highly-capable language models demonstrate surprisingly limited time series reasoning: they score marginally above random on etiological and question answering tasks (up to 30 percentage points worse than humans) and show modest success in using context to improve forecasting. These weakness showcase that time series reasoning is an impactful, yet deeply underdeveloped direction for language model research. We also make our datasets public to support further research in this direction.",
+      "financial_evidence": " Althoff University of Washington althoff@cs.washington.edu Abstract Time series are critical for decision making in fields like finance and healthcare. Their importance has driven a recent influx of works passing time series into language models, leading to non-trivial forecasting on some datasets. But it remains unknown whether non-trivial forecasting implies th |  time and contain information that is uncommon in language. They are a critical data modality in healthcare (Morid et al., 2023), finance (Sezer et al., 2020), agriculture (Kamilaris and Prenafeta-Boldú, 2018), economics (Nerlove et al., 2014), political science (Beck and Katz, 2011), astronomy (Benson 1 Vinayak Gupta University of Washignton vinayak@cs.washington | d (Section 3). These data span a diverse set of time series scenarios across including health data, transport and traffic trends, finance, and more. We use this dataset to evaluate etiological reasoning by tasking models to select the most probable time series caption given the observed time series (Section 4) and find that human annotators outperform language mode",
+      "official_url": "https://aclanthology.org/2024.findings-emnlp.201/",
+      "catalog_record_sha256": "b71b53062149fa29e3f4a828480201d9303aaddaaef481706161019e26eb5b7d",
+      "pdf_sha256": "48f9f72a9c515aa9e02b97e268813a38534fe7237fea276f7715f0438c149774",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/EMNLP/2024/2024.findings-emnlp.201.pdf",
+      "fulltext_characters": 114683,
+      "inspection_snippets": [
+        {
+          "text": "s and Language with prepending different corresponding textual Dozens of time series classification and forecasting context alongside the time series. We randomly datasets aggregate data from diverse domains (Tan select 2000 time series with their captions, descrip- et al., 2020; Dau et al., 2018; Bauer et al., 2021; tions, and metadata, feed the first 80% as context Grauman et al., 2023). Unlike these works, we and forecast the remaining 20% of the timesteps. evaluate the relationship between time series and This textual context contains highly-relevant in- text and motivate time series reasoning as an area 3518 \u0013\u0013\u0014\u0006\u0016\u0012\u0014\u0010\u0003\u0004\u0011\u0015\u0016\u0006 \u0005\u0003 \b\u0003\u0017\u0019\u0019\u0003\u000f\u001b\u001a \u0018",
+          "pdf_page": 7
+        },
+        {
+          "text": "B.6. magnitude we min/max and z-score normalize val- Prior to the manual perturbations, GPT-4 and ues before computing these metrics so that error on GPT-4- No TS answered over half the MCQs cor- high-magnitude series does not dominate perceived rectly. However, after only minor changes to MCQ model performance. options performance decreases to near-random per- Highly-relevant captions barely change LM fore- formance as well (Table 1). This strongly sug- casts. As shown in Figure 5, adding all textual gests that GPT-4’s above-random performance in context only marginally improves MAE. Of 2,000 all prior time series MCQ tasks is due to the fact zero-shot samples, only 1,040 show improvement that it created the data and MCQs its",
+          "pdf_page": 7
+        },
+        {
+          "text": "document a provide simple captioned time series, but these are similar “real” dataset. abstract shapes with no semantic grounding and A related limitation is that because GPT-4 was simple captions like “consistent in the first two used to generate data (and some questions in Sec- thirds” or “slightly climbs up at the end”. tion 5) it is possible that the performance of this model (and this model only) is an over-estimate of 7.2 Language Models and Time-Series true ability. We provide evidence to this end in Sec- Recent work demonstrates that LMs can perform tion 5.2, where we show that manually perturbed time series forecasting (Gruver et al.",
+          "pdf_page": 8
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2024.findings-emnlp.435": {
+      "id": "2024.findings-emnlp.435",
+      "title": "Demonstration Selection Strategies for Numerical Time Series Data-to-Text",
+      "year": 2024,
+      "scope": "application",
+      "abstract": "Demonstration selection, the process of selecting examples used in prompts, plays a critical role in in-context learning. This paper explores demonstration selection methods for data-to-text tasks that involve numerical time series data as inputs.Previously developed demonstration selection methods primarily focus on textual inputs, often relying on embedding similarities of textual tokens to select similar instances from an example bank. However, this approach may not be suitable for numerical time series data.To address this issue, we propose two novel selection methods: (1) sequence similarity-based selection using various similarity measures, and (2) task-specific knowledge-based selection.From our experiments on two benchmark datasets, we found that our proposed models significantly outperform baseline selections and often surpass fine-tuned models. We also found that scale-invariant similarity measures such as Pearson’s correlation work better than scale-variant measures such as Euclidean distance.Manual evaluation by human judges also confirms that our proposed methods outperform conventional methods.",
+      "financial_evidence": "we generate concise textual explanations from fixed-length numerical time series, which represent price movements in the Japanese stock market Nikkei. In line graph-to-text generation, we generate explanations for varyinglength numerical time series in various domains. For both tasks, such time series are often hard to understand for non-experts, so language generation |  For example, the left column of SN displays timestamps such as “10:10, 10:05, 10:00,” while the right column shows corresponding stock prices such as “37,540, 37,569, and 37,552.”. We adopted this table-like format by following Kawarada et al. (2024). Finally, in the third part, we describe the target input in a table format similar to the shot inputs. The LLMs gener | es for validation, and 1,695 examples for testing. We sampled 500 instances from the dataset for testing, taking into account the financial constraints associated with using the OpenAI API. We used the training instances as the example bank for demonstration selection. The time-series dataset, spanning from December 2010 to September 2016, is sourced from IBI-Square3",
+      "official_url": "https://aclanthology.org/2024.findings-emnlp.435/",
+      "catalog_record_sha256": "19209b1fce1066961d67b955abb7e572f014eabe1e36e828a054fe07f86c8467",
+      "pdf_sha256": "77851b04cff6b0b8747091eb981c683b05bd44d7e7e67cc1cee8610184a2f145",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/EMNLP/2024/2024.findings-emnlp.435.pdf",
+      "fulltext_characters": 90474,
+      "inspection_snippets": [
+        {
+          "text": "rm series, representing closing prices, we dataset (Gao et al., 2020)7 . We manually verified define the series length M as 7. that our evaluation datasets are not contaminated by The line graph-to-text dataset is derived by ex- the training data of this LLM. In experiments with tracting 2,360 single-line graphs from the chart-to- the open-source LLM, we only conducted 3-shot text dataset (Kantharaj et al., 2022). These graphs and 5-shot experiments because the context length were originally collected from Statista4 . Further becomes too long with 10-shot settings. Note that refinement is done by extracting 1,912 graphs with we used the same prompts for both models. Imple- the x-axis labeled as “year.”. We adhere to the offi- mentation details are provided",
+          "pdf_page": 5
+        },
+        {
+          "text": "ile long-term series, representing closing prices, we dataset (Gao et al., 2020)7 . We manually verified define the series length M as 7. that our evaluation datasets are not contaminated by The line graph-to-text dataset is derived by ex- the training data of this LLM. In experiments with tracting 2,360 single-line graphs from the chart-to- the open-source LLM, we only conducted 3-shot text dataset (Kantharaj et al., 2022). These graphs and 5-shot experiments because the context length were originally collected from Statista4 . Further becomes too long with 10-shot settings. Note that refinement is done by extracting 1,912 graphs with we used the same prompts for both models. Imple- the x-axis labeled as “year.”. We adhere to the offi- mentation details are",
+          "pdf_page": 5
+        },
+        {
+          "text": "ing market comments referring to external resources. In Proceedings of the 11th International Conference Limitations on Natural Language Generation, pages 135–139, Tilburg University, The Netherlands. Association for Input Type: In this paper, we assume that the in- Computational Linguistics. put is a single type of time series data, i.e., price Xuefeng Bai, Yulong Chen, and Yue Zhang. 2022. movements in the Japanese stock market or a line Graph pre-training for AMR parsing and generation. graph in chart-to-text dataset. However, various In Proceedings of the 60th Annual Me",
+          "pdf_page": 10
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2026.findings-acl.1119": {
+      "catalog_record_sha256": "a1cbab83a78816dd34a5abd0476b1243d3f82065999585dc45b7343ee916245c",
+      "abstract": "Numerical precision is critical in financial NLP, yet embedding-based semantic similarity metrics exhibit numerical blindness—failing to distinguish contradictory values within similar contexts. We introduce NASH (Numerically Aware Scoring Hueristic), a model-agnostic metric that decouples numerical verification from textual semantic evaluation through a three-stage pipeline: (1) modal separation via numeric masking, (2) dual-channel similarity estimation through masked-text similarity and context-aware numeric alignment, and (3) IDF-weighted aggregation. NASH functions as a drop-in enhancement to existing embedding-based metrics. Validated on our proposed NumFinE financial numerical evaluation benchmark and established semantic similarity datasets (STS-B, Financial-STS), NASH achieves substantial improvements in numerical sensitivity (up to +159.6% on listwise ranking) while preserving general semantic performance, establishing a reliable standard for numeracy-aware evaluation.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.1119/",
+      "financial_evidence": "ed sentence as a document. Both word tokens and the special token [NUM] are included in IDF computation. 22306 9,227 authentic financial sentences with controlled numerical perturbations. We extract sentences from diverse financial corpora and systematically modify numerical values while preserving syntactic structure, generating counterfactual pairs differing sol | putation. 22306 9,227 authentic financial sentences with controlled numerical perturbations. We extract sentences from diverse financial corpora and systematically modify numerical values while preserving syntactic structure, generating counterfactual pairs differing solely in magnitude. This generates counterfactual pairs differing solely in numerical magnitude,  | eflects numerical sensitivity rather than lexical or syntactic variation. 4.1 Data Sources NumFinE draws from three complementary financial text sources to ensure broad domain coverage. Social media is represented by the FinNum1 dataset (Chen et al., 2018). Financial news is sourced from Financial Phrasebank (Malo et al., 2014), retaining only sentences with at least",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.1119.pdf",
+      "pdf_sha256": "5940fa61e5b72db19efccaa3a68638dc7681e055d52c07cef45baa7ed1d2e4f6"
+    },
+    "2026.findings-acl.1675": {
+      "catalog_record_sha256": "96e462e6145605bba2e1da39f2b216164e300587b88194480e7f54aae268b72e",
+      "abstract": "Professionals in academia, law, and finance audit their documents because inconsistencies can result in monetary, reputational, and scientific costs. Language models (LMs) have the potential to dramatically speed up this auditing process. To understand their abilities, we introduce a benchmark, FIND (Finding INconsistencies in Documents), where each example is a document with an inconsistency inserted manually by a domain expert. Despite the documents being long, technical, and complex, the best-performing model (‘gpt-5‘) recovered 64% of the inserted inconsistencies. Surprisingly, ‘gpt-5‘ also found inconsistencies already present in the original documents. For example, on 50 arXiv papers, we judged 136 out of 196 of the model’s suggestions to be legitimate inconsistencies missed by the original authors. However, despite these findings, even the best models miss almost half of the inconsistencies in FIND, demonstrating that inconsistency detection is still a challenging task.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.1675/",
+      "financial_evidence": "st}@kensho.com Abstract [...] the certified free cash for fiscal year 2023 is $32,813,163. Professionals in academia, law, and finance audit their documents because inconsistencies can result in monetary, reputational, and scientific costs. Language models (LMs) have the potential to dramatically speed up this auditing process. To understand their abilities, we  | earch Question How effectively do current language models find inconsistencies within documents? Introduction Documents such as financial statements and scientific articles are audited for accuracy. Automated inconsistency detection could reduce the burden of auditing and improve document quality (YesNoError, 2024; Zhang and Abernethy, 2025; Wang et al., 2025; Xi e | ments), containing 375 test and 125 development problems. Each problem is a document with an inconsistency manually inserted by a financial expert. For each inconsistency the model identifies, it is expected to respond with evidence spans from the document that demonstrate the inconsistency and a natural language description of what makes those spans inconsistent. Th",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.1675.pdf",
+      "pdf_sha256": "accdcc7ba2720c5cc45d5c20fa41c0fa1d460cc487a4c846f5c2c5849ae789cd"
+    },
+    "2023.findings-emnlp.709": {
+      "catalog_record_sha256": "dac5b086b630d3ac1773a375034363882d3ed809f88f4ead5ca2d994a38648fb",
+      "abstract": "Adjusting for latent covariates is crucial for estimating causal effects from observational textual data. Most existing methods only account for confounding covariates that affect both treatment and outcome, potentially leading to biased causal effects. This bias arises from insufficient consideration of non-confounding covariates, which are relevant only to either the treatment or the outcome. In this work, we aim to mitigate the bias by unveiling interactions between different variables to disentangle the non-confounding covariates when estimating causal effects from text. The disentangling process ensures covariates only contribute to their respective objectives, enabling independence between variables. Additionally, we impose a constraint to balance representations from the treated group and control group to alleviate selection bias. We conduct experiments on two different treatment factors under various scenarios, and the proposed model significantly outperforms recent strong baselines. Furthermore, our thorough analysis on earnings call transcripts demonstrates that our model can effectively disentangle the variables, and further investigations into real-world scenarios provide guidance for investors to make informed decisions.",
+      "official_url": "https://aclanthology.org/2023.findings-emnlp.709/",
+      "financial_evidence": "arious scenarios, and the proposed model significantly outperforms recent strong baselines. Furthermore, our thorough analysis on earnings call transcripts demonstrates that our model can effectively disentangle the variables, and further investigations into real-world scenarios provide guidance for investors to make informed decisions1 . 1 e.g., Political Risk e |  e.g., Transcript Confounding Covariates Non-confounding Covariates e.g., Geographical Location e.g., Expected Revenue e.g., Stock Movement Figure 1: The causal diagram for our proposed model. Shaded nodes denote observed variables. Transparent nodes denote latent covariates derived from the transcripts, among which, nodes outlined in red represent non-confounding c | able affects the outcome variable. For example, to estimate the effect of \"political risk\" (treatment) faced by a company on its \"stock movement\" (outcome). Early research efforts (Abadie and Imbens, 2004; Bardone-Cone and Cass, 2006; Kurth et al., 2006; Murnane and Willett, 2010; Keele, 2015) focusing on conducting randomized control trials (RCTs) to estimate 1 Our code ",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2023/2023.findings-emnlp.709.pdf",
+      "pdf_sha256": "fe95b082e9eddb76f5d284ce9eb17d8b507da7362c4402cc7343d1bc22298445"
+    },
+    "2023.findings-emnlp.757": {
+      "catalog_record_sha256": "6dc425e88dc613acd8af51d91d02fff04c0d6b705ff5bb5544f82189031e5587",
+      "abstract": "We introduce PersonaLM - Domain-distributed Span-Aggregated K-nearest N-gram retrieval augmentation to improve language modeling for Automatic Speech Recognition (ASR) personalization. PersonaLM leverages contextually similar n-gram word frequencies for recognizing rare word patterns associated with unseen domains. It aggregates the next-word probability distribution based on the relative importance of different domains to the input query. To achieve this, we propose a Span Aggregated Group-Contrastive Neural (SCAN) retriever that learns to rank external domains/users by utilizing a group-wise contrastive span loss that pulls together span representations belonging to the same group while pushing away spans from unrelated groups in the semantic space. We propose ASAP benchmark for ASR LM personalization that consists of three user-specific speech-to-text tasks for meetings, TED talks, and financial earnings calls. Extensive experiments show that PersonaLM significantly outperforms strong baselines with a 10-16% improvement in perplexity and a 5-8% reduction in Word Error Rates on popular Wikitext-103, UserLibri, and our ASAP dataset. We further demonstrate the usefulness of the SCAN retriever for improving user-personalized text generation and classification by retrieving relevant context for zero-shot prompting and few-shot fine-tuning of LLMs by 7-12% on the LAMP benchmark.",
+      "official_url": "https://aclanthology.org/2023.findings-emnlp.757/",
+      "financial_evidence": "e ASAP benchmark for ASR LM personalization that consists of three user-specific speechto-text tasks for meetings, TED talks, and financial earnings calls. Extensive experiments show that PersonaLM significantly outperforms strong baselines with a 10-16% improvement in perplexity and a 5-8% reduction in Word Error Rates on popular Wikitext-103, UserLibri, and our ASA | chmark for ASR LM personalization that consists of three user-specific speechto-text tasks for meetings, TED talks, and financial earnings calls. Extensive experiments show that PersonaLM significantly outperforms strong baselines with a 10-16% improvement in perplexity and a 5-8% reduction in Word Error Rates on popular Wikitext-103, UserLibri, and our ASAP dataset |  novel benchmark for ASR LM personalization consisting of three userspecific ASR tasks in the domains of meetings, TED talks, and financial conference calls. PersonaLM significantly outperforms strong baselines on ASAP benchmark, UserLibri, and Wikitext-103 corpus by ∼ 10 − 16% perplexity gain and ∼ 5 − 8% WER reduction. 2 Related Work Language Modeling for Rare W",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2023/2023.findings-emnlp.757.pdf",
+      "pdf_sha256": "e6af43b37f152565f8c8cdbb2d3a1dc85a5a73689689453f8f6c8d721f962dcf"
+    },
+    "2023.findings-emnlp.668": {
+      "id": "2023.findings-emnlp.668",
+      "title": "Semantic Similarity Covariance Matrix Shrinkage",
+      "year": 2023,
+      "scope": "application",
+      "abstract": "An accurate estimation of the covariance matrix is a critical component of many applications in finance, including portfolio optimization. The sample covariance suffers from the curse of dimensionality when the number of observations is in the same order or lower than the number of variables. This tends to be the case in portfolio optimization, where a portfolio manager can choose between thousands of stocks using historical daily returns to guide their investment decisions. To address this issue, past works proposed linear covariance shrinkage to regularize the estimated matrix. While effective, the proposed methods relied solely on historical price data and thus ignored company fundamental data. In this work, we propose to utilise semantic similarity derived from textual descriptions or knowledge graphs to improve the covariance estimation. Rather than using the semantic similarity directly as a biased estimator to the covariance, we employ it as a shrinkage target. The resulting covariance estimators leverage both semantic similarity and recent price history, and can be readily adapted to a broad range of financial securities. The effectiveness of the approach is demonstrated for a period including diverse market conditions and compared with the covariance shrinkage prior art.",
+      "financial_evidence": " sesmeir2@bloomberg.net Abstract An accurate estimation of the covariance matrix is a critical component of many applications in finance, including portfolio optimization. The sample covariance suffers from the curse of dimensionality when the number of observations is in the same order or lower than the number of variables. This tends to be the case in portfolio  |  covariance estimators leverage both semantic similarity and recent price history, and can be readily adapted to a broad range of financial securities. The effectiveness of the approach is demonstrated for a period including diverse market conditions and compared with the covariance shrinkage prior art. 1 Figure 1: Instead of using the semantic similarity as a dire | nsors (Kang et al., 2019) post-processing, physics and chemistry, engineering, neuroscience, speech recognition, and quantitative finance (Ledoit and Wolf, 2020b). These applications often require a reliable estimate of the covariance matrix. In the financial domain, the price of a company’s stock is influenced, among other factors, by the fundamental characteristi",
+      "official_url": "https://aclanthology.org/2023.findings-emnlp.668/",
+      "catalog_record_sha256": "1bb0f4667e5e219ddadb7f8650c95875c5023e52ea95300792ab66046cd67cca",
+      "pdf_sha256": "94b2c9e1acc40d1e4f0612a33f274df693ba628086b13266f1a5846df58b4c66",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/EMNLP/2023/2023.findings-emnlp.668.pdf",
+      "fulltext_characters": 116381,
+      "inspection_snippets": [
+        {
+          "text": "nts were conducted using a DistilBERT model ods (first 3 months), we fit the following covariance (Sanh et al., 2019) finetuned on the Natural Ques- estimators: tions dataset (Kwiatkowski et al., 2019). The sec- ond method leverages relational facts from knowl- • Sample covariance matrix SSample . edge graphs. We use publicly available 512 dimen- • Constant-variance shrunk covariance matrix sions RotatE pre-trained embeddings on the Wiki- Σ̂CV ar using a 1-parameter shrinkage target data5m dataset generated using GraphVite (Zhu assuming a constant variance and no covari- et al., 2019), referred to as W5m KG. For both ance (Ledoit and Wolf, 2004). methods we match the stock price data to a Wiki- data entry using the Wikidata5m dataset (",
+          "pdf_page": 6
+        },
+        {
+          "text": "Energy Industrial and the last for evaluation). Basic Materials 60 40 20 0 20 40 60 5.1.2 Semantic representations We compare the effectiveness of the proposed ap- Figure 2: 2-D projection of the KG embeddings using t-SNE. Each point corresponds to a historical S&P 500 proach using three methods for computing stock component colored by BICS industry sectors. semantic representations. The set of hyperparame- ters",
+          "pdf_page": 6
+        },
+        {
+          "text": "g commodities or derivatives, obtaining a valid text 7 Limitations description may prove more challenging. Note that the knowledge-graph embeddings do not suf- While showing encouraging results, the proposed fer from this limitation and can generalize to any similarity-based targets are built from static se- asset class where structured data is available, and mantic information. A potential future work di- futu",
+          "pdf_page": 9
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2025.findings-acl.171": {
+      "catalog_record_sha256": "0d64551fb1f02d3a8585e2e7d01dc7de3e9a9a4e675c20365d8c0692a62228b1",
+      "abstract": "Large Language Models (LLMs) are widely applied to downstream domains. However, current LLMs for high-stakes domain tasks, such as financial investment and legal QA, typically generate brief answers without reasoning processes and explanations. This limits users’ confidence in making decisions based on their responses. While original CoT shows promise, it lacks self-correction mechanisms during reasoning. This work introduces Domaino1s, which enhances LLMs’ reasoning capabilities on domain tasks through supervised fine-tuning and tree search. We construct CoT-stock-2k and CoT-legal-2k datasets for fine-tuning models that activate domain-specific reasoning steps based on their judgment. Additionally, we propose Selective Tree Exploration to spontaneously explore solution spaces and sample optimal reasoning paths to improve performance. We also introduce PROOF-Score, a new metric for evaluating domain models’ explainability, complementing traditional accuracy metrics with richer assessment dimensions. Extensive experiments on stock investment recommendation and legal reasoning QA tasks demonstrate Domaino1s’s leading performance and explainability. Our code is available at https://anonymous.4open.science/r/Domaino1s-006F/.",
+      "official_url": "https://aclanthology.org/2025.findings-acl.171/",
+      "financial_evidence": "arge Language Models (LLMs) are widely applied to downstream domains. However, current LLMs for high-stakes domain tasks, such as financial investment and legal QA, typically generate brief answers without reasoning processes and explanations. This limits users’ confidence in making decisions based on their responses. While original CoT shows promise, it lacks self-c | ample. Domaino1s expands reasoning paths and obtains optimal ones through tree search. Introduction In specific domains such as finance (Xing, 2024; Jeong, 2024; Cheng et al., 2024c), law (Cheong et al., 2024; Colombo et al., 2024), and biomedicine (Labrak et al., 2024; Wang et al., 2023a), Large Language Models (LLMs) are widely used for tasks like recommendatio |  2024a,c; Yue et al., 2023), leading to answers lacking explainability. In practical applications within high-stakes domains like finance and law, users may not trust results lacking explainability (Biran and McKeown, 2017) to guide decision-making. While Chain-of-Thought (CoT) reasoning demonstrates the ability to enhance models’ step-by-step thinking and domain p",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2025/2025.findings-acl.171.pdf",
+      "pdf_sha256": "04c84c9788ff51cb99a180d57620ac7aedce31124ca4ddf37efe5057716c89c8"
+    },
+    "2026.findings-emnlp.1316": {
+      "catalog_record_sha256": "e193cc0f672c20d887c535ca5be4fa839e2076206227131d778f00368fe71570",
+      "abstract": "LLM Agents Harnesses are hand-designed and stay fixed, so agents accumulate experience but never learn how to use it: which memories to retrieve, when retrieved evidence is misleading, and when the retrieval strategy itself should change. We introduce Agent Evolving Learning (AEL), a two-timescale framework that evolves the harness, recasting memory use as online policy selection. A fast Thompson Sampling bandit selects among memory-retrieval policies episode by episode, while slow LLM reflection follows a diagnose-before-prescribe principle: it first explains why performance degraded, then injects a targeted new retrieval policy as a bandit arm when the current pool plateaus. AEL outperforms ten self-improving and nonLLM baselines on a sequential portfolio benchmark, lifting Sharpe by 27% over the strongest memory-only variant with the lowest variance among all stochastic methods, and generalizes to a support-ticket routing stream, where it improves accuracy by 18% over reflectionfree Thompson Sampling and by 51% over the best prior baseline. Mechanism studies further show that the gains are causal: reflection helps precisely when regimes demand different retrieval behavior, and is provably no-harm/nogain when the best policy is stable.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.1316/",
+      "financial_evidence": "components contribute, and does adding complexity help or hurt? Q3: Does the two-timescale mechanism gen- 27861 eralize beyond finance? Q4: Are the improvements statistically significant? Additional mechanism analyses (bandit alternatives, reflection faithfulness, procedural-memory dynamics) are in the appendix. 4.1 Experiments Setup Datasets. We evaluate on two | performing TS without reflection (0.711) and the strongest prior baseline (FactorMiner, 0.557). The result is consistent with the finance story: reflection helps when it introduces a retrieval behavior unavailable in the initial pool, particularly in the late route-aware regime where R3 accuracy reaches 0.885 versus 0.705 for the strongest prior baseline. 4.3 Compo |  reaches 0.452 versus pure TS at 0.359 — a +9.3pp lift. The mechanism transfers directionally, though the gain is smaller than in finance because the synthetic setting lacks informative regime features that reflection can exploit. A 20Newsgroups boundary case (appendix) confirms that when the best retrieval policy is stable across regimes, the mechanism behaves as ",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.1316.pdf",
+      "pdf_sha256": "ce2b01660ae62d0f6edb3460cc583d631ba8cbcd50edf8af2114f8b03c73f830"
+    },
+    "2026.findings-acl.2053": {
+      "id": "2026.findings-acl.2053",
+      "title": "MaskTab: Scalable Masked Tabular Pretraining with Scaling Laws and Distillation for Industrial Classification",
+      "year": 2026,
+      "scope": "application",
+      "abstract": "Tabular data forms the backbone of high-stakes decision systems in finance, healthcare, and beyond. Yet industrial tabular datasets are inherently difficult: high-dimensional, riddled with missing entries, and rarely labeled at scale. While foundation models have revolutionized vision and language, tabular learning still leans on handcrafted features and lacks a general self-supervised framework. We present MaskTab, a unified pre-training framework designed specifically for industrial-scale tabular data. MaskTab encodes missing values via dedicated learnable tokens, enabling the model to distinguish structural absence from random dropout. It jointly optimizes a hybrid supervised pre-training scheme—utilizing a twin-path architecture to reconcile masked reconstruction with task-specific supervision—and an MoE-augmented loss that adaptively routes features through specialized subnetworks. On industrial-scale benchmarks, it achieves +5.04% AUC and +8.28% KS over prior art under rigorous scaling. Moreover, its representations distill effectively into lightweight models, yielding +2.55% AUC and +4.85% KS under strict latency and interpretability constraints, while improving robustness to distribution shifts. Our work demonstrates that tabular data admits a foundation-model treatment—when its structural idiosyncrasies are respected.",
+      "financial_evidence": "lighted in bold indicate the best-performing models. Classification (ROC AUC ↑) Method Regression (RMSE ↓) Avg. Rank Homesite Insurance Ecom Offers HomeCredit Default Sberbank Housing Cooking Time Delivery ETA Maps Routing Weather XGBoost(Chen and Guestrin, 2016) LightGBM(Ke et al., 2017) CatBoost(Prokhorenkova et al., 2018) SNN(Klambauer et al., 2017) DC",
+      "official_url": "https://aclanthology.org/2026.findings-acl.2053/",
+      "catalog_record_sha256": "7e861a42e185eca69698f71ca74df47913c931eb6b1ce561aff964b8229fb7ce",
+      "pdf_sha256": "427d53bd952ff92fb0ffe91256f10d3e196b6cb70778ae2cc724f80f2abfd3b6",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.2053.pdf",
+      "fulltext_characters": 103394,
+      "inspection_snippets": [
+        {
+          "text": "his design encourages ning three classification and five regression tasks, adaptive feature grouping and expert specializa- and a proprietary CreditRisk dataset containing tion, substantially improving reconstruction capac- 6.4×105 labeled instances and 1.3×107 unlabeled ity without introducing heavy expert MLPs. instances collected in 2024. For CreditRisk, we en- force a strictly temporal split to prevent information 3.6 Task-Specialized Distillation with leakage: labeled data are partitioned by month into Interpretable Features Training (Jan–Jun 2024; 330k), Validation (Jul– Despite their formidable capabilities, pre-trained",
+          "pdf_page": 5
+        },
+        {
+          "text": "(19) 0, otherwise, (15) 4 Experiments with routing scores computed by centroid matching \u0010 \u0011 4.1 Industrial-scale data setting si,k = Softmaxi z⊤ k i , e (16) We evaluate MaskTab on tabular benchmarks that capture practical industrial constraints. Specifically, where zk is the token representation, {ei }K i=1 are r we use the public TabReD benchmark (Rubachev learnable exper",
+          "pdf_page": 5
+        },
+        {
+          "text": "MaskTab-L-2000 Limitations 0.90 MaskTab-Disill-500 0.80 MaskTab-Disill-500 Train Train 0.85 OOT 0.70 OOT Our scaling study is not exhaustive. Due to re- AUC KS 0.80 0.60 0.75",
+          "pdf_page": 9
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2026.findings-emnlp.2198": {
+      "catalog_record_sha256": "5512a260cfb08836c71a6e6bc7b0a57a695eee5cccb7f36ef2654fb0ee3b3007",
+      "abstract": "Prompt optimization can improve multi-agent LLM systems, but the prompts being optimized often serve two entangled roles: generating task-relevant content and specifying execution-critical protocols, such as message routing, output formatting, and termination signals, on which the underlying code relies. As a result, a prompt edit intended to improve content generation can inadvertently corrupt the protocol and cause the entire agent pipeline to fail. Our key observation is that these two roles have different representations: execution protocols are typically structured, while task-relevant content is usually expressed in unstructured language. Based on this, we propose control-data flow separation, where execution-critical control is represented as typed, validated program objects, while task-relevant language remains the optimizable data flow for agent communication. This design allows optimizers to improve multi-agent behavior without exposing the routing or formatting interface to prompt drift. Across synthetic reasoning, collaborative review generation, and insurance rating workflows, our framework empirically achieves 100% eventual protocol validity while consistently improving task performance.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.2198/",
+      "financial_evidence": "ut exposing the routing or formatting interface to prompt drift. Across synthetic reasoning, collaborative review generation, and insurance rating workflows, our framework empirically achieves 100% eventual protocol validity while consistently improving task performance. 1 Introduction Language-model-based multi-agent systems (Wu et al., 2023; Hong et al., 2024; Q | ly. We evaluate this idea on four settings (BBH single-agent reasoning, MARG review generation, and synthetic + industry-verified insurance underwriting), and complement them with a threefamily LLM robustness study on MARG (OpenAI, Anthropic, and Google). Across the four settings, our framework empirically achieves 100% eventual protocol validity, while naive TextGr | , and per-section bodies); output is a list of reviews, each making one substantive point. (iii) Underwriting (synthetic), a life-insurance pipeline on simulated cases—input is a brokerstyle medical summary listing one applicant’s impairments; output is a rating bucket from a 10bucket ladder (0/50/100/150/175/200/250/300 plus decline/postpone), with deterministic gro",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.2198.pdf",
+      "pdf_sha256": "0cf3205c66bf25e5bdaf419e18d96999b8d1c8ca008a11ace16328b1fc18e0bb"
+    },
+    "2021.findings-acl.51": {
+      "catalog_record_sha256": "de1e67cd9265c7526bb62955952e75ce08d34993290823ce77ea54b60a9dfb04",
+      "abstract": "The performance of state-of-the-art neural rankers can deteriorate substantially when exposed to noisy inputs or applied to a new domain. In this paper, we present a novel method for fine-tuning neural rankers that can significantly improve their robustness to out-of-domain data and query perturbations. Specifically, a contrastive loss that compares data points in the representation space is combined with the standard ranking loss during fine-tuning. We use relevance labels to denote similar/dissimilar pairs, which allows the model to learn the underlying matching semantics across different query-document pairs and leads to improved robustness. In experiments with four passage ranking datasets, the proposed contrastive fine-tuning method obtains improvements on robustness to query reformulations, noise perturbations, and zeroshot transfer for both BERT and BART-based rankers. Additionally, our experiments show that contrastive fine-tuning outperforms data augmentation for robustifying neural rankers.",
+      "official_url": "https://aclanthology.org/2021.findings-acl.51/",
+      "financial_evidence": "a Ranking. InsuranceQA (Feng et al., 2016) The question and answer pairs from this dataset are collected from the internet in the insurance domain. Each question has an answer pool of 500 candidates retrieved using SOLR. YahooQA (Tay et al., 2017) contains questions and answers from Yahoo! Answers website. The dataset is a subset of the Yahoo! Answers corpus from a 1 |  questionanswering systems (Wang et al., 2020). 573 Dataset WikiQA WikipassageQA InsuranceQA YahooQA Domain Wikipedia Wikipedia insurance community Train: #Q (#P/Q) 873 (9) 3,332 (58.3) 12,889 (500) 50,112 (5) Test: #Q (#P/Q) 243 (9) 416 (57.6) 2,000 (500) 6,283 (5) Table 1: Dataset statistics. #Q stands for number of questions and #P/Q is the average number of ",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2021/2021.findings-acl.51.pdf",
+      "pdf_sha256": "ce2f9496045e9b1b13e14d32f808cde2507c1b2642bdb7c05f7f54aed547e510"
+    },
+    "2025.findings-acl.962": {
+      "catalog_record_sha256": "67114a5a72de83620869ac9ebe6375b6989d498c238b071b4fce9c6eac1f9492",
+      "abstract": "Recent smaller language models such Phi-3.5 and Phi-4 rely on synthetic data generated using larger Language models. Questions remain about leveraging synthetic data for other use cases, such as adapting LLMs to specific domains. A key limitation of synthetic data is low diversity, which negatively impacts its downstream applicability for improving other models. To address this, we propose MetaSynth, a method for generating synthetic data that enhances diversity through meta-prompting, where a language model orchestrates multiple “expert” LLM agents to collaboratively generate data. Using only 25 million tokens of synthetic data generated with MetaSynth, we successfully adapt a well-trained LLM (Mistral-7B) to two specialized domains–Finance and Biomedicine–without compromising the capabilities of the resulting model in general tasks. In addition, we evaluate the diversity of our synthetic data using seven automated metrics, and find that it approaches the diversity of LLM pre-training corpora.Continually pre-training Mistral-7B with MetaSynth notably outperforms the base LLM, showing improvements of up to 4.08% in Finance and 13.75% in Biomedicine. The same model shows degraded performance when trained on data generated using a template-based prompt, even when the template includes prior generations and varying In-Context exemplars of real data. Our findings suggest that a few million tokens of diverse synthetic data without mixing any real data, is sufficient for effective domain adaptation when using MetaSynth.",
+      "official_url": "https://aclanthology.org/2025.findings-acl.962/",
+      "financial_evidence": "omparing the performance of BERT finetuned on data synthesized with template-prompting and MetaSynth versus real data on: (Left) FiQA-SA; (Middle) FPB; (Right) Headlines. embeddings (Achille et al., 2019), has been shown to correlate with human diversity judgments. Compression Ratio & N-Gram Diversity Following the recommendations of Shaib et al. (2024b,a), we | e more diverse than those seeded with random keywords, with both exceeding the diversity of template-prompted documents. 18775 Finance CPT Setting Mistral-7B Base (No CPT) Real Docs + Template-Prompting Docs Real Docs Token Mix ConvFinQA NER FPB Headline FiQA_SA Average 0M 38.9 58.14 65.09 79.26 75.62 63.40 12.5M:12.5M 48.79 52.64 64.24 76.00  | ompted documents. 18775 Finance CPT Setting Mistral-7B Base (No CPT) Real Docs + Template-Prompting Docs Real Docs Token Mix ConvFinQA NER FPB Headline FiQA_SA Average 0M 38.9 58.14 65.09 79.26 75.62 63.40 12.5M:12.5M 48.79 52.64 64.24 76.00 74.47 63.23 25M 46.51 55.59 65.07 78.30 76.09 64.31 Real Docs + MetaSynth Docs 12.5M:12.5M 48",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2025/2025.findings-acl.962.pdf",
+      "pdf_sha256": "ddd5fc7b3ea42e712ca8cf134148bfbf96e44ec895bd7c1ba05ffab727d65592"
+    },
+    "2026.findings-emnlp.845": {
+      "catalog_record_sha256": "cc5a04bba5782e113c1745a33d327ee2c782e8c25dc1cbfffbe4671a5378d2e4",
+      "abstract": "Multi-Turn Long-Form Question Answering (MT-LFQA) is a key application paradigm of Large Language Models (LLMs) in knowledge-intensive domains. However, existing benchmarks are limited to single-turn dialogue, while multi-turn dialogue benchmarks typically assess other orthogonal capabilities rather than knowledge-intensive factuality. To bridge this critical gap, we introduce **KnowMT-Bench**, a new benchmark designed to systematically evaluate MT-LFQA for LLMs across knowledge-intensive fields, including medicine, finance, and law. To faithfully assess the model’s real-world performance, KnowMT-Bench employs a dynamic evaluation setting where models generate their own multi-turn dialogue histories given logically progressive question sequences. Our experiments on a diverse suite of LLMs show a clear degradation in both factual capability and information delivery efficiency in multi-turn dialogue. We further probe the underlying causes and investigate mitigation strategies spanning domain-specific finetuning, active context denoising, and RAG. The results show domain-dependent gains from finetuning, while active context denoising and RAG more consistently mitigate these issues, with RAG notably reversing this performance degradation. These findings underscore the importance of our benchmark for evaluating LLMs’ conversational factual capabilities in real-world applications.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.845/",
+      "financial_evidence": "ench, a new benchmark designed to systematically evaluate MT-LFQA for LLMs across knowledge-intensive fields, including medicine, finance, and law. To faithfully assess the model’s real-world performance, KnowMTBench employs a dynamic evaluation setting where models generate their own multi-turn dialogue histories given logically progressive question sequences. Our | orm Question Answering (LFQA) benchmarks have 1 Introduction emerged, such as K-QA in medicine (Manes et al., 2024), FinTextQA in finance (Chen et al., 2024b), Large Language Models (LLMs) have become and cLegal-QA in law (Wang et al., 2025b), the an increasingly important interface for accesschallenges are substantially amplified in a multiing and interacting with | ap, we introduce KnowMT-Bench, a benchmark designed to conduct a systematic study of MT-LFQA. We ground our research in medicine, finance, and law, which are the common knowledge-intensive domains. Our benchmark is thus founded on 801 evidence- grounded LFQA instances from these domains. To simulate a realistic human-LLMs interaction, the benchmark requires models",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.845.pdf",
+      "pdf_sha256": "3fe6f9d60e9fe5953df4061bc2c4b88573ace9b67e7e8ad0a5dd81243fe1baab"
+    },
+    "2026.findings-emnlp.975": {
+      "catalog_record_sha256": "bc8a95c474a99769ae54a1dd689985f37e69a975df0e4fdba755fa927a3e36a8",
+      "abstract": "Mixture-of-Experts (MoE) architectures enhance the scalability and efficiency of large language models (LLMs) by activating only a subset of parameters. However, the interpretability of individual experts and corresponding strategies for post-training adaptation to domain-specific tasks remain underexplored. In this work, we develop an interpretability framework for expert-level monosemanticity in MoE models, drawing inspiration from sparse autoencoders and offering new insights into the specialization patterns of domain experts. We demonstrate that the inherent sparsity of MoE models encourages stronger monosemantic behavior at the expert level, which allows for the identification of experts responsible for particular downstream tasks and aids in preserving cross-domain performance. Building on this, we propose an expert-frozen fine-tuning method that selectively updates domain-specific experts while freezing the rest, which also alleviates catastrophic forgetting. Experiments on specialized domains, including medicine and finance, show that our approach performs on par with or better than fully fine-tuned models on in-domain tasks, while achieving relative improvements of 19.58% and 37.09% in retaining performance on out-of-domain benchmarks. We also demonstrate consistent advantages over PEFT baselines such as LoRA, achieving relative improvements of 11.49% and 8.60% in other domains.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.975/",
+      "financial_evidence": " commonly used parameter-efﬁcient ﬁne-tuning (PEFT) methods. We conduct experiments in two domains: For Medicine, we Medicine and Finance. use MedMCQA, a large-scale medical reasoning dataset. For Finance, we use FinQA, a ﬁnancial dataset requiring program-based numerical reason- 20618 Method biology business chemistry computer economics engineering history sc | duct experiments in two domains: For Medicine, we Medicine and Finance. use MedMCQA, a large-scale medical reasoning dataset. For Finance, we use FinQA, a ﬁnancial dataset requiring program-based numerical reason- 20618 Method biology business chemistry computer economics engineering history science Full AF EDMRS 48.91% 40.30% 45.67% 60.62% 43.09% 43.82% 62. |  in two domains: For Medicine, we Medicine and Finance. use MedMCQA, a large-scale medical reasoning dataset. For Finance, we use FinQA, a ﬁnancial dataset requiring program-based numerical reason- 20618 Method biology business chemistry computer economics engineering history science Full AF EDMRS 48.91% 40.30% 45.67% 60.62% 43.09% 43.82% 62.44% 47.53% 44.",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.975.pdf",
+      "pdf_sha256": "432375449122973f86e2ed4224422f3524071c7450d899de03b9a4962510a465"
+    },
+    "2026.findings-emnlp.1736": {
+      "catalog_record_sha256": "6375b9204eea66d0d78f9c4ef8f1e98b41093789c949b7427937290c141100ff",
+      "abstract": "Retrieval-augmented generation (RAG) remains challenging for multi-hop question answering when supporting evidence is distributed across heterogeneous sources, including text, tables, and knowledge graphs (KGs). Existing systems often rely on modality-specific retrieval pipelines or uncontrolled iterative search, making it difficult to preserve source structure while maintaining efficient evidence acquisition. We present **RELOOP**, a structure-aware retrieval framework built on **Hierarchical Sequence (HSEQ)**, a reversible representation that maps heterogeneous sources into provenance-preserving typed segments with lightweight structural links. Operating on this unified evidence interface, a lightweight iterator selects and expands candidate evidence through structure-respecting actions, while an explicit sufficiency signal determines when the accumulated evidence is adequate for answering. A head module then synthesizes the final answer from a compact, canonicalized evidence package, with an optional refinement step when inconsistent evidence is detected. Experiments on HotpotQA, HybridQA, TAT-QA, and MetaQA show that RELOOP consistently improves answer quality over strong single-pass and iterative RAG baselines while requiring substantially fewer retrieval steps than graph-expansion approaches. These results suggest that a reversible, structure-aware evidence interface provides an effective foundation for accurate and budget-controlled retrieval across heterogeneous QA settings.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.1736/",
+      "financial_evidence": "zed evidence package, with an optional refinement step when inconsistent evidence is detected. Experiments on HotpotQA, HybridQA, TAT-QA, and MetaQA show that RELOOP consistently improves answer quality over strong single-pass and iterative RAG baselines while requiring substantially fewer retrieval steps than graph-expansion approaches. These results suggest that | our study (modality abbreviations: T=Text, Tb=Table, KG=Knowledge Graph). Dataset Modality #Train #Validation #Test HotpotQA TAT-QA HybridQA MetaQA-2Hop MetaQA-3Hop T Tb + T Tb + T KG KG 90447 13,251 62,682 119,986 17,482 7405 1644 3,466 14,872 14,274 7405 1,663 3463 14,872 14,274 et al., 2025), ODYSSEY (Agarwal et al., 2025), TTQA-RS (Bardhan et al., 20 | luated on four benchmark datasets covering five QA tasks: HotpotQA (Yang et al., 2018) (multi-hop reasoning over Wikipedia text), TAT-QA (Zhu et al., 2021) (table-centric financial QA with accompanying paragraphs and numerical operations), HybridQA (Chen et al., 2020) (Wikipedia tables linked to passages requiring cross-format grounding), and MetaQA (Zhang et al.,",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.1736.pdf",
+      "pdf_sha256": "f294b486170c91fbfbc4fbbd1be6c64c508ee952b04a926c961ec98240fc33c3"
+    },
+    "2026.findings-emnlp.438": {
+      "catalog_record_sha256": "1ea03be399fdf542bfece9f4c73af1ef393fb0e5305b159982c3a7d2dd53bd61",
+      "abstract": "Synthetic data augmentation helps language models learn new knowledge in data-constrained domains. However, naively scaling existing synthetic data methods by training on more synthetic tokens or using stronger generators yields diminishing returns below the performance of RAG. To break the RAG ceiling, we introduce Synthetic Mixed Training, which combines synthetic QAs and synthetic documents. This leverages their complementary training signals, and enables log-linear improvements as both synthetic data volume and generator strength increase. This allows the model to outperform RAG by a 2.6% relative gain on QuaLITY, a long-document reading comprehension benchmark. In addition, we introduce Focal Rewriting, a simple technique for synthetic document generation that explicitly conditions document generation on specific questions, improving the diversity of synthetic documents and yielding a steeper log-linear scaling curve. On QuaLITY, our final recipe trains a Llama 8B model that outperforms RAG by 4.4% relatively. Across models and benchmarks (QuaLITY, LongHealth, FinanceBench), our training enables models to beat RAG in five of six settings, outperforms by 2.6%, and achieves a 9.1% gain when combined with RAG.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.438/",
+      "financial_evidence": " final recipe trains a Llama 8B model that outperforms RAG by 4.4% relatively. Across models and benchmarks (QuaLITY, LongHealth, FinanceBench), our training enables models to beat RAG in five of six settings, outperforms by 2.6%, and achieves a 9.1% gain when combined with RAG. 1 How can we design synthetic data recipes for knowledge learning that scales better  | nt base models, including Qwen3 models ranging from 1.7B to 14B parameters, and across three benchmarks: QuaLITY, LongHealth, and FinanceBench. In particular, our recipe enables models to outperform RAG in five of six setups, yielding an average relative accuracy gain of 2.6% over vanilla RAG. Our approach is also complementary to RAG, providing a 9.1% relative acc | ion, we find that these methods also work well with different base models (Qwen3 1.7B–14B) and additional benchmarks (LongHealth, FinanceBench). 3.1 Synthetic Mixed Training: Mixing synthetic QAs and synthetic documents Since we have shown synthetic data strategies have different scaling properties, we investigate whether we can design a synthetic data recipe tha",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.438.pdf",
+      "pdf_sha256": "a777e8f2033963b3b3d7640ccad80693b6104f9ffe6583b1304cab30fa1eafb6"
+    },
+    "2021.findings-acl.28": {
+      "id": "2021.findings-acl.28",
+      "title": "Spatial Dependency Parsing for Semi-Structured Document Information Extraction",
+      "year": 2021,
+      "scope": "application",
+      "abstract": "Information Extraction (IE) for semistructured document images is often approached as a sequence tagging problem by classifying each recognized input token into one of the IOB (Inside, Outside, and Beginning) categories. However, such problem setup has two inherent limitations that (1) it cannot easily handle complex spatial relationships and (2) it is not suitable for highly structured information, which are nevertheless frequently observed in real-world document images. To tackle these issues, we first formulate the IE task as spatial dependency parsing problem that focuses on the relationship among text tokens in the documents. Under this setup, we then propose SPADEs (SPAtial DEpendency parser) that models highly complex spatial relationships and an arbitrary number of information layers in the documents in an end-to-end manner. We evaluate it on various kinds of documents such as receipts, name cards, forms, and invoices, and show that it achieves a similar or better performance compared to strong baselines including BERT-based IOB taggger.",
+      "financial_evidence": "trary number of information layers in the documents in an end-to-end manner. We evaluate it on various kinds of documents such as receipts, name cards, forms, and invoices, and show that it achieves a similar or better performance compared to strong baselines including BERT-based IOB taggger. 1 Introduction Document information extraction (IE) is the task of map | s in the documents in an end-to-end manner. We evaluate it on various kinds of documents such as receipts, name cards, forms, and invoices, and show that it achieves a similar or better performance compared to strong baselines including BERT-based IOB taggger. 1 Introduction Document information extraction (IE) is the task of mapping each document to a structure | In this paper, we are particularly interested in information extraction from real-world, semi-structured document images, such as invoices, receipts, and name cards, where we assume Optical Character Recognition (OCR, i.e. detecting the locations of the text tokens if the input is an image) has been already applied. Previous approaches for semi-structured document ",
+      "official_url": "https://aclanthology.org/2021.findings-acl.28/",
+      "catalog_record_sha256": "6d2af82a7e03c10a24a3c58975f9d8a1ffec73fbe83ecf0a65b4598827ea3676",
+      "pdf_sha256": "62f06bc5407f7d48c64873d54954b95c315d173ebcd918edb47a19419a4c493c",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/ACL/2021/2021.findings-acl.28.pdf",
+      "fulltext_characters": 87664,
+      "inspection_snippets": [
+        {
+          "text": "ncy parsing is evaluated by computing OCR models are finetuned on each of the document F1 of predicted edges. For FUNSD dataset, entity IE datasets. The output tokens and their spatial in- labeling and entity linking scores are computed fol- formation on the image are used as the inputs to lowing the original paper (Jaume et al., 2019). See SPADEs. Appendix A.2 for more details. 5.2 Training 5.4 Data statistics We use 12 layers of 2D Transformer encoder We summarize the data statistics in Table 2, 6. T",
+          "pdf_page": 6
+        },
+        {
+          "text": "the whole coordinates randomly using a trigono- without increasing the number of relation types metric function, and (3) by randomly deleting or (Fig. 1e) under a unified framework and (2) a parse inserting a single token with 3.3% probability each. can be generated in a straightforward manner by Also, 1–2 random tokens from training is attached iteratively selecting dependent nodes. at the end of the text segments from OCR bounding box with 1.7% probability each. In namecard task, Table 1: A formal description of the parse d",
+          "pdf_page": 6
+        },
+        {
+          "text": "xamples are also Ma and Hovy, 2020). When one of the factors shown in Fig. 1d and e. is present, however, one has to adopt an ad-hoc solution to detour the inherent limitation of IOB. 4 Model In the case of complex spatial relationship (e.g., name card), an advanced, dedicated serialization To perform the spatial dependency parsing task in- method can be considered. However, it may re- troduced in the previous section in an end-to-end quire layout-specific manual engineering, which fashion, we propose SPADEs that consists of (1) becomes more difficult for documents such as name spatial text encoder, (2) graph generator, and (3) cards that exhibit diverse layouts. graph decoder. Spatial text encoder and graph gen- In the case of complex infor",
+          "pdf_page": 4
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2021.findings-acl.308": {
+      "id": "2021.findings-acl.308",
+      "title": "Towards Protecting Vital Healthcare Programs by Extracting Actionable Knowledge from Policy",
+      "year": 2021,
+      "scope": "application",
+      "abstract": "In challenging economic times, obtaining value for money by ensuring financial integrity and fairer distribution of services are among the top priorities for social and health-care systems globally. However, healthcare billing policies are complex and identifying non-compliance is often narrow-scope, manual and expensive. Maintaining ‘integrity’ is a challenge ensuring that scarce resources get to those in need and are not lost to fraud and waste. Our approach fuses recent advances in dependency parsing with a policy ontology to convert the content of regulatory healthcare policy into human-friendly policy rules, that are amenable to machineexecution, with human oversight. We describe the ontology-guided transformation of textual patterns into a semantically-meaningful knowledge graph of rules, outline our experiments and evaluate results against policy rules obtained from professional investigators. The aim is to make a policy-compliance ‘landscape’ visible to healthcare programs - helping them identify Fraud, Waste or Abuse.",
+      "financial_evidence": "lth, Dublin, Ireland *Equal author contribution b Abstract In challenging economic times, obtaining value for money by ensuring financial integrity and fairer distribution of services are among the top priorities for social and health-care systems globally. However, healthcare billing policies are complex and identifying non-compliance is often narrow-scope, manual | ual and expensive. Maintaining ‘integrity’ is a challenge ensuring that scarce resources get to those in need and are not lost to fraud and waste. Our approach fuses recent advances in dependency parsing with a policy ontology to convert the content of regulatory healthcare policy into human-friendly policy rules, that are amenable to machineexecution, with human | essional investigators. The aim is to make a policy-compliance ‘landscape’ visible to healthcare programs - helping them identify Fraud, Waste or Abuse. 1 Introduction The WHO (World Health Organization, 2010) lists fairness, financial integrity [“Program Integrity”] and access in healthcare among the top global healthcare priorities. In the U.S., an estimated",
+      "official_url": "https://aclanthology.org/2021.findings-acl.308/",
+      "catalog_record_sha256": "2a172e4a210710d55e713d62e486b6ef5b5d63da5257bfe212112bb22f517f69",
+      "pdf_sha256": "3772e63fb1385323260effcf92f126c0b6788d5a896fcaebda8c60c56dc071d1",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/ACL/2021/2021.findings-acl.308.pdf",
+      "fulltext_characters": 77628,
+      "inspection_snippets": [
+        {
+          "text": "Learned rules 0.51 0.90 0.56 0.65 Benefit Rules, we investigated the use of this 1 curated, small labeled dataset to fine-tune a Manual rules 0.48 0.73 0.57 0.58 classifier that filters out paragraphs that do not Learned rules 0.45 0.82 0.41 0.58 2 appear to contain any rules. Manual rules 0.57 0.71 0.54 0.62 6.1 Set up: Data and Metrics Table 2: Metrics when different extractors are applied over policies from different states The proposed extraction pipeline was evaluated using",
+          "pdf_page": 7
+        },
+        {
+          "text": "n one extractor, any duplicate graphs provided for State1 and 51 rules for State 2. derived from the same policy text are discarded, The ontology used in the experiments consists partial graphs can also be merged if doing so does of 34 classes and 43 properties. Once the domain- not violate any ontological constraint. specific instance data is ‘lifted’ in, 4954 individuals Figure 7 shows the consolidated graph extracted are added along with 23250 lexicalizations (i.e., from sentence 1 and 2. This graph can be labels used to annotate textual entities). The ground ‘flattened’ to obtain human-readable ‘Benefit truth Benefit Rules presented in the experiments Rules’ – such as the Service Limitation rule shown (not commercially sensitive or in produ",
+          "pdf_page": 7
+        },
+        {
+          "text": "ed to annotate textual entities). The ground ‘flattened’ to obtain human-readable ‘Benefit truth Benefit Rules presented in the experiments Rules’ – such as the Service Limitation rule shown (not commercially sensitive or in production) are on the left of Figure 2 and Mutually Exclusive rule made available together with the ontology. shown on the right. Both subtypes inherit the Each BR comprises of a policy text and a properties of their parent Benefit Rule class, but are corresponding set of condition-values describing not merged, because each contains conditions that the text. Precision (P) measures the proportion of are only meaningful for that rule subtype, e.g., the extracted rules that match the ground truth (GT) property hasServiceLimitation is only relevant for for",
+          "pdf_page": 7
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2026.findings-acl.82": {
+      "catalog_record_sha256": "72eb32b6dd259c0afee8e2382405da0583d413b110f98281788dd8f2291a94f2",
+      "abstract": "Document parsing from scanned images into structured formats remains a significant challenge due to its complexly intertwined elements such as text paragraphs, figures, formulas, and tables. Existing supervised fine-tuning methods often struggle to generalize across diverse document types, leading to poor performance, particularly on out-of-distribution data. This issue is further exacerbated by the limited availability of high-quality training data for layout-aware parsing tasks. To address these challenges, we introduce layoutRL, a reinforcement learning framework that optimizes layout understanding through composite rewards integrating normalized edit distance, paragraph count accuracy, and reading order preservation. To support this training, we construct the Infinity-Doc-400K dataset, which we use to train Infinity-Parser, a vision-language model demonstrating robust generalization across various domains. Extensive evaluations on benchmarks including OmniDocBench, olmOCR-Bench, PubTabNet, and FinTabNet show that Infinity-Parser consistently achieves state-of-the-art performance across a broad range of document types, languages, and structural complexities, substantially outperforming both specialized document parsing systems and general-purpose vision-language models. We will release our code, dataset, and model to facilitate reproducible research in document parsing.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.82/",
+      "financial_evidence": " generalizes well across diverse domains. Extensive evaluations on benchmarks including OmniDocBench, olmOCRBench, PubTabNet, and FinTabNet show that Infinity-Parser consistently achieves state-ofthe-art performance across a broad range of document types, languages, and structural complexities, substantially outperforming both specialized document parsing systems and | las—a capability that is crucial for downstream applications including legal contract analysis, scientific literature mining, and financial report processing (Poznanski et al., 2025). Traditional approaches typically rely on multi-stage pipelines that decompose document parsing into several supervised subtasks, such as layout detection, OCR, table recognition, and fo | ves new SOTA results on OmniDocBench (Ouyang et al., 2024), olmOCR (Poznanski et al., 2025), PubTabNet (Zhong et al., 2020a), and FinTabNet (Zheng et al., 2021). We make the following contributions: • We introduce Infinity-Doc-400K, a large-scale dataset of 400,066 scanned documents that combines high-quality synthetic data with diverse real-world samples. • We revea",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.82.pdf",
+      "pdf_sha256": "85e4d71d39081002b58fe8f4b5b768f046c23b4c86625e4ada436fc297d1ade5"
+    },
+    "2026.findings-acl.931": {
+      "id": "2026.findings-acl.931",
+      "title": "ToolDNA: Autonomous Evolution of Tool Metadata for Robust Dialogue Agents",
+      "year": 2026,
+      "scope": "application",
+      "abstract": "Task-oriented dialogue (TOD) systems are vital for facilitating complex, goal-directed interactions across sectors like customer support and online retail. However, they face persistent limitations: labor-intensive manual metadata tuning and sparse reinforcement learning (RL) rewards that fail to diagnose invocation errors. To address this, we propose ToolDNA, a dynamic adaptation framework enabling autonomous co-evolution of policy networks and tool metadata via RL, anchored by two synergistic loops. An RL loop optimizes policies by generating rollout trajectories (reasoning, actions, descriptive updates) from user inputs, with multi-dimensional rewards refining invocations. A tool metadata loop—coordinated by a dedicated Tool Manager—evolves metadata through policy-generated candidates during rollouts and Feedback LLM-derived refinements from historical data. These mutually reinforcing loops close traditional reward gaps, forming a closed-loop trial-error-reflection cycle for self-improvement. Extensive experiments on a real-world dataset of 3,100 customer service dialogues confirm ToolDNA’s superiority, with notable gains over baselines: it achieves +11% problem resolution and +54% accuracy over commercial LLMs with prompt engineering; +25%/+35% over supervised fine-tuning; and +15%/+15% over traditional RL baseline. Linguistic analysis corroborates evolved metadata retain semantic intent while enhancing parseability. Case studies in two typical contexts, i.e., car inventory search and loan calculation, further validates its ability to resolve critical ambiguities. ToolDNA pioneers scalable self-improvement for robust, deployable tool-augmented agents with minimal human oversight. We release our code to facilitate future research.",
+      "financial_evidence": "etadata retain semantic intent while enhancing parseability. Case studies in two typical contexts, i.e., car inventory search and loan calculation, further validates its ability to resolve critical ambiguities. ToolDNA pioneers scalable self-improvement for robust, deployable tool-augmented agents with minimal human oversight. We release our code to facilitate f | presentative cases focusing on critical parameters:‘query’ for the inventory search tool (shown in Table 5) and ‘periods’ for the loan calculation tool(shown in Appendix D). Case: Car Inventory Search Tool (‘search_used_cars’) Initial Metadata (Excerpt): Parameters: query(str): Search term (e.g.,“BMW X3\"). Action: search_used_cars(“query\": “Passat\") Scores: Para",
+      "official_url": "https://aclanthology.org/2026.findings-acl.931/",
+      "catalog_record_sha256": "ee3068080b8571a08abab10a1ff0bbc18a3cbe80c3ed510ff34a43d5742798f5",
+      "pdf_sha256": "32c5662b28631d0fb82da05f27c2d89f245186963abc21f9ebd8f7497a568404",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.931.pdf",
+      "fulltext_characters": 109575,
+      "inspection_snippets": [
+        {
+          "text": "ey consistently fail 4.1 Experimental Settings to identify correct tools and set accurate parame- Dataset. We constructed a dataset from 9,327 ters. Second, RL-based techniques outperform PE real-world customer service dialogues in automo- and SFT baselines, demonstrating RL’s strength in tive and e-commerce domains, prioritizing domain- handling dynamic customer queries, aligning with specific data over generic benchmarks to avoid pre- findings in extant literature. Third, ToolDNA out- training contamination. Through manual filtering, performs Baseline RL, underscoring its advantage we identified 3,100 interactions requiring explicit in synergistically integrating RL with a feedback tool invocation (e.g., inventory searches, order s",
+          "pdf_page": 6
+        },
+        {
+          "text": "omer service dural consistency, then by the algorithm team for scenarios. Thus, our dataset better supports the alignment with task objectives, resulting in high- evaluation of tool-augmented models in practical, quality labeled data with stringent accuracy guaran- industry-aligned contexts. tees. Each entry in the dataset follows a structured To facilitate reproducibility while strictly adher- format: the prompt template includes a role defini- ing to user privacy regulations and protecting pro- tion, domain-specific background knowledge (e.g., prietary business strategies, we adopt a hybrid open- \"Warranties for new vehicles expire after 3 years\"), source strategy. We release the complete codebase a set of real-system tools (T ), task-specific guide- and provide a part",
+          "pdf_page": 13
+        },
+        {
+          "text": "more divergent tool sets. As shown in the Car Inventory Search tool case shown in Table 5, ambiguity in the initial metadata 6 Limitations of ‘query’ (e.g., allowing vague terms like “Passat\") While ToolDNA shows significant gains, several resulted in overly broad searches. The refined meta- limitations remain. First, our evaluation is domain- data introduces a critical rule: “when users specify specific (automotive/e-commerce); generalization a model, query must exactly match.\" This drives to open-domain or scientific APIs requires fur- the model to use",
+          "pdf_page": 9
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2026.findings-emnlp.354": {
+      "catalog_record_sha256": "b5a37aa9e486d7a99f0f452743ad4a0d0bb0726bc78c76aa386d0c445aa4599a",
+      "abstract": "While multi-agent systems based on large language models (LLMs) have shown promise in automating academic research workflows, extending them to economics and business research presents two key challenges, as specialized domain knowledge often spans neighboring disciplines yet remains difficult to access in a structured manner. First, existing methods primarily retrieve information at the paper level, whereas the evidence required for research tasks is often distributed across different sections, creating a granularity mismatch that limits retrieval coverage and precision. Second, these fields demand strict empirical rigor, yet current systems provide limited mechanisms for learning from evaluation feedback. We present BizSage, a multi-agent framework that combines corpus-level fine-grained retrieval with quality-driven self-evolution. We construct a Lateral Knowledge Graph (LKG) by integrating section-level knowledge graphs and apply Personalized PageRank (PPR) to identify sections that are both semantically relevant and structurally important. Seven specialized agents collaborate under a Meta-Review self-evolution mechanism that distills failure modes from evaluation traces into reusable strategies. On a benchmark spanning four domains and three tasks, BizSage ranks first on the majority of metrics, achieves pairwise win rates above 60% against six baselines, and produces zero hallucinated citations. We hope BizSage paves the way for reliable research assistance in economics, business, and the broader social sciences.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.354/",
+      "financial_evidence": "stance. The framework pre-builds a corpus-level Lateral Knowledge Graph (LKG) from over 130,000 source papers spanning economics, finance, operations management, and statistics, and applies Personalized PageRank (PPR) to retrieve sections that are both relevant and structurally important. Multiple specialized agents then collaborate on survey, idea formulation, and",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.354.pdf",
+      "pdf_sha256": "af133e2df4a369aa23614c43e3454cc4e76e813b8b6ef3abd14832a51b719536"
+    },
+    "2026.findings-emnlp.505": {
+      "catalog_record_sha256": "a24b406704e7e23f94fc7f93fa3578f05bbe07742ebcdf0e16d31b00740473d5",
+      "abstract": "Understanding how opinions on different issues evolve together is essential for modeling collective intelligence, yet this remains underexplored due to the absence of standardized benchmarks. We introduce the concept of an opinion graph, where nodes represent social opinions on real-world events (e.g., presidential elections, stock predictions) and edges capture pairwise relationships between them. Building on this, we present OpinionBench, a continuously evolving benchmark derived from multiple live prediction markets, designed to evaluate whether large language models (LLMs) can uncover the latent structure within evolving social opinions. OpinionBench employs an scalable and automated graph construction and labeling pipeline, which assigns edge labels using time-series co-movement, semantic similarity, and metadata, followed by human validation. Experiments show that (1) LLMs consistently outperform baselines in identifying opinion correlations across domains, and (2) LLMs can recover the underlying graph structure through edge prediction. OpinionBench provides a challenging testbed for assessing LLMs’ ability to capture complex patterns of social opinion co-evolution.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.505/",
+      "financial_evidence": "roduce the concept of an opinion graph, where nodes represent social opinions on real-world events (e.g., presidential elections, stock predictions) and edges capture pairwise relationships between them. Building on this, we present OpinionBench, a continuously evolving benchmark derived from multiple live prediction markets, designed to evaluate whether large language m | e opinion graph, consistently outperforming heuristic and neural baselines. For example, GPT-4o achieves QWK scores above 0.52 on Cryptocurrency domain, significantly surpassing all heuristic methods. (2) Beyond local edges, LLMs can also recover the global structure of the opinion graph: the predicted graphs exhibit clustering patterns and structural alignments t | al and causal relation extraction. Zhou et al. (2021) introduces a BERT-based model for reasoning over event correlations. In the financial setting, MARKETGPT (Wheeler and Varner, 2024) and LENS (Xu et al., 2025) develop pretrained models for market social opinion understanding. However, many of these studies rely on synthetic setups or structured event representatio",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.505.pdf",
+      "pdf_sha256": "e69b6d308bc642fd86766b54b99b470902074fb45e078b932c9375345870b38e"
+    },
+    "2025.findings-acl.814": {
+      "id": "2025.findings-acl.814",
+      "title": "GRI-QA: a Comprehensive Benchmark for Table Question Answering over Environmental Data",
+      "year": 2025,
+      "scope": "application",
+      "abstract": "Assessing corporate environmental sustainability with Table Question Answering systems is challenging due to complex tables, specialized terminology, and the variety of questions they must handle. In this paper, we introduce GRI-QA, a test benchmark designed to evaluate Table QA approaches in the environmental domain. Using GRI standards, we extract and annotate tables from non-financial corporate reports, generating question-answer pairs through a hybrid LLM-human approach. The benchmark includes eight datasets, categorized by the types of operations required, including operations on multiple tables from multiple documents. Our evaluation reveals a significant gap between human and model performance, particularly in multi-step reasoning, highlighting the relevance of the benchmark and the need for further research in domain-specific Table QA. Code and benchmark datasets are available at https://github.com/softlab-unimore/gri_qa.",
+      "financial_evidence": "pider (Yu et al., 2018) BIRD (Li et al., 2023) FeTaQA (Nan et al., 2022) HybridQA (Chen et al., 2020) OTT-QA (Chen et al., 2021a) TAT-QA (Zhu et al., 2021) Fin-QA (Chen et al., 2021b) PACIFIC (Deng et al., 2022) ConvFinQA (Chen et al., 2022) DocFinQA (Reddy et al., 2024) AIT-QA (Katsis et al., 2022) HiTab (Cheng et al., 2022) MMQA-QA (Wu et al., 2025) MultiTabQA ( | (Chen et al., 2020) OTT-QA (Chen et al., 2021a) TAT-QA (Zhu et al., 2021) Fin-QA (Chen et al., 2021b) PACIFIC (Deng et al., 2022) ConvFinQA (Chen et al., 2022) DocFinQA (Reddy et al., 2024) AIT-QA (Katsis et al., 2022) HiTab (Cheng et al., 2022) MMQA-QA (Wu et al., 2025) MultiTabQA (Pal et al., 2023) MultiHiertt (Zhao et al., 2022) Wikipedia Wikipedia Wikipedia Wiki | ddy et al., 2024) AIT-QA (Katsis et al., 2022) HiTab (Cheng et al., 2022) MMQA-QA (Wu et al., 2025) MultiTabQA (Pal et al., 2023) MultiHiertt (Zhao et al., 2022) Wikipedia Wikipedia Wikipedia Wikipedia Kaggle Wikipedia Wikipedia Wikipedia Finance Finance Finance Finance Finance Airlines Stat. reports, Wiki Wikipedia Wikipedia Finance Table Table Table Table Table Tab",
+      "official_url": "https://aclanthology.org/2025.findings-acl.814/",
+      "catalog_record_sha256": "396944cb2ff5ca56962cc7d5ebefe379ec6a64de9555c13ae4b4143d58afcc55",
+      "pdf_sha256": "0e50edef595fe2067383e87eef659ba8572aa1609fafa0dfbaa23929ecd9f91a",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/ACL/2025/2025.findings-acl.814.pdf",
+      "fulltext_characters": 83907,
+      "inspection_snippets": [
+        {
+          "text": "cess. Based on empirical evaluation during detailed in the following. the annotation phase, we set λ = 0.3 and k = 20, Datasets extra, hier. We use an LLM, specifi- which produced favorable results. This process is cally gpt-4o-mini with a temperature of 0.2, to repeated for each corporate report and each GRI generate extractive questions from the tables, en- topic description. The final output identifies the suring contextual accuracy with minor variations pages containing environmental data along with in phrasing. The full prompt used is provided in their associated GRI topics. Appendix A. Hum",
+          "pdf_page": 5
+        },
+        {
+          "text": "ting real-world of ed , we split pi,j into multiple chunks and repeat scenarios. The specific process for each dataset is the process. Based on empirical evaluation during detailed in the following. the annotation phase, we set λ = 0.3 and k = 20, Datasets extra, hier. We use an LLM, specifi- which produced favorable results. This process is cally gpt-4o-mini with a temperature of 0.2, to repeated for each corporate report and each GRI generate extractive questions from the tables, en- topic description. The final output identifies the suring contextual accuracy with minor variations pages containing environmental data along with",
+          "pdf_page": 5
+        },
+        {
+          "text": "and support further research in the area. types: (T1) retrieving a value from an unrelated row (indicative of misunderstanding the indicator 6 Limitations name), (T2) retrieving a value not present in the table (often due to hallucinated terms or misinter- The paper does not present a new custom baseline pretation), and (T3) retrieving the correct row but model capable of addressing GRI-QA. We moti- from the wrong column (e.g., incorrect year). Only vate this decision by the fact that (i) GRI-QA is the first two types reflect vocabulary-related issues. supposed to provide a test benchmark rather than As shown in Table 5, these two categories account training data, and (ii) the number of samples would for over 70% of all errors across all models. with",
+          "pdf_page": 9
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2023.findings-acl.230": {
+      "id": "2023.findings-acl.230",
+      "title": "Multi3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue",
+      "year": 2023,
+      "scope": "application",
+      "abstract": "Task-oriented dialogue (ToD) systems have been widely deployed in many industries as they deliver more efficient customer support. These systems are typically constructed for a single domain or language and do not generalise well beyond this. To support work on Natural Language Understanding (NLU) in ToD across multiple languages and domains simultaneously, we constructed Multi3NLU++, a multilingual, multi-intent, multi-domain dataset. Multi3NLU++ extends the English-only NLU++ dataset to include manual translations into a range of high, medium, and low resource languages (Spanish, Marathi, Turkish and Amharic), in two domains (banking and hotels). Because of its multi-intent property, Multi3NLU++ represents complex and natural user goals, and therefore allows us to measure the realistic performance of ToD systems in a varied set of the world’s languages. We use Multi3NLU++ to benchmark state-of-the-art multilingual models for the NLU tasks of intent detection and slot labeling for ToD systems in the multilingual setting. The results demonstrate the challenging nature of the dataset, particularly in the low-resource language setting, offering ample room for future experimentation in multi-domain multilingual ToD setups.",
+      "financial_evidence": " to automate telephone-based and online customer service tasks in a range of domains, including travel (Raux et al., 2003, 2005), finance and banking (Altinok, 2018), and hotel booking (Li et al., 2019). ToD systems are often implemented as a pipeline of dedicated modules (Raux et al., 2005; Young et al., 2013). The Natural Language Understanding (NLU) module perfo",
+      "official_url": "https://aclanthology.org/2023.findings-acl.230/",
+      "catalog_record_sha256": "5c183774e0dc25e54381df177c7242111799262d1aa5c2c89adc0783ae8316fc",
+      "pdf_sha256": "98546ad969c3830b2e4a8df9b29a7751bf2fa18a28092be365c8d0d805a09965",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/ACL/2023/2023.findings-acl.230.pdf",
+      "fulltext_characters": 128910,
+      "inspection_snippets": [
+        {
+          "text": "detection, the high-resource language serves as a et al., 2018) and then with the respective languages stronger source for cross-lingual transfer than the from our dataset. We fine-tune for 10 epochs (5 for low-resource language. the Large setting) with a learning rate of 1e − 5, weight decay is 0, and batch size is 4. Results and Discussion. We report the results for 4.2 QA-Based Methods intent detection in the 20-Fold setup using English and Amharic in Table 6, and the remaining results Experimental Setup and Hyperparameters. Re-",
+          "pdf_page": 7
+        },
+        {
+          "text": "n learning in multilingual models, transla- cannot be used to evaluate systems with respect to tion studies, and MT evaluation. discourse-level phenomena present in dialogue. Our source dataset includes scenarios and names 6 Conclusion that are Anglo-centric and will not capture the nu- ances of intent detection at the regional and cul- We collected M U",
+          "pdf_page": 9
+        },
+        {
+          "text": "et for the BANKING and HOTELS domains. world’s languages (Razumovskaia et al., 2022a). M ULTI3 NLU++ adds the element of multilingual- Arguably one of the most serious limitations, ity and thus enables simultaneous cross-domain hindering their deployment to more complex con- and cross-lingual training and experimentation for versational scenarios, is the inability to handle mul- T O D NLU as its unique property. tiple intents. In many real-world scenarios, a user M ULTI3 NLU++ includes expert manual trans- may express multiple intents in the same utterance, lations of the 3,080 utterances in NLU++ to four and T O D systems must be able to handle such sce- languages of diverse typology and data availabil- narios (Gangadharaiah and Narayanaswamy, 2019). ity: Spanish, Marath",
+          "pdf_page": 2
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2021.findings-acl.252": {
+      "id": "2021.findings-acl.252",
+      "title": "Energy-based Unknown Intent Detection with Data Manipulation",
+      "year": 2021,
+      "scope": "application",
+      "abstract": "Utterance: How much did I spend this week Intent: spending history Unknown intent detection aims to identify the out-of-distribution (OOD) utterance whose intent has never appeared in the training set. In this paper, we propose using energy scores for this task as the energy score is theoretically aligned with the density of the input and can be derived from any classifier. However, highquality OOD utterances are required during the training stage in order to shape the energy gap between OOD and in-distribution (IND), and these utterances are difficult to collect in practice. To tackle this problem, we propose a data manipulation framework to Generate high-quality OOD utterances with importance weighTs (GOT). Experimental results show that the energy-based detector fine-tuned by GOT can achieve state-of-the-art results on two benchmark datasets.",
+      "financial_evidence": "e best result we could get). After observing these Wikipedia sentences, we find that they have little relevance to 2858 Intent Insurance Credit Limit Change Reminder Redeem Rewards IND utterance and intent-related word [w] i need to know more about my health [plan] what [benefits] are provided by my insurance can i get a higher limit on my american express [card] |  Rewards IND utterance and intent-related word [w] i need to know more about my health [plan] what [benefits] are provided by my insurance can i get a higher limit on my american express [card] can you [increase] how much i can spend on my visa can you list each item on my [reminder] list what’s on the [reminder] list walk me through the process of cashing in on [cr | item on my [reminder] list what’s on the [reminder] list walk me through the process of cashing in on [credit] card points i have credit card [points] but don’t know how to use them Replacement word problems services ticket guess contacts agenda those privileges Weight 0.50 0.19 0.46 0.54 0.50 0.78 0.22 0.50 Table 5: Weighted OOD utterances generated by GOT on CLINC",
+      "official_url": "https://aclanthology.org/2021.findings-acl.252/",
+      "catalog_record_sha256": "72d4e2718a8d10e455b6056bd06501c4f722c3258e6e863be6ff0213697a0b1d",
+      "pdf_sha256": "1da3db42baee371324823c3e33075d53f22eed89fc6c2b6e2356ef829cc143c6",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/ACL/2021/2021.findings-acl.252.pdf",
+      "fulltext_characters": 60149,
+      "inspection_snippets": [
+        {
+          "text": "two public datasets: loss is the cross-entropy loss on the validation set. • CLINC150† (Larson et al., 2019): this dataset * Details about how to calculate the influence can be found † in (Koh and Liang, 2017; Wang et al., 2020). https://github.com/clinc/oos-eval 2856 Statistic CLINC150 SNIPS of the input to the nearest class-conditional Gaus- Train 15000 9385 sian distribution to detect OOD utterances. validation 3000 500 Test-IND 4500 486",
+          "pdf_page": 5
+        },
+        {
+          "text": "03. For LMCL imple- tion set do not include OOD utterances. mentation, we set nearest neighbor number as 20, 5.2 Metrics scaling factor s as 30 and cosine margin m as 0.35, which is recommended by Lin and Xu (2019). For We used four common metrics for OOD detection SEG, we follow Yan et al. (2020) to set margin as to measure the performance. AUROC (Davis and 1 and trade-off parameter as 0.5. Goadrich, 2006), AUPR In and AUPR Out (Man- For our framework, we set candidate",
+          "pdf_page": 6
+        },
+        {
+          "text": "detec- tion without changing function f (Liu et al., 2020; tion task. Then we introduce the energy score, and Grathwohl et al., 2020): its superiority and limitations for this task. X E(u) = −T · log exp [fy0 (u)/T ]. (4) 3.1 Problem Formulation y0 Given a training dataset Din train = {(u(i) , y (i) )}N i=1 According to the above, a classifier can be reinter- where u is an utterance and y (i) ∈ Yin = (i) preted as an energy-based model. It also means the {y1 , y2 , ..., yK } is its",
+          "pdf_page": 3
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2026.findings-emnlp.342": {
+      "catalog_record_sha256": "1ed59bb9059f742b82b9653910cdc00e808c4de263a35bb9fd75aa07516efb52",
+      "abstract": "Vertical-domain few-shot classification remains challenging for small language models, as limited supervision makes it difficult to acquire domain-specific decision knowledge. On-Policy Distillation (OPD) can improve teacher-guided adaptation by supervising student-generated rollouts, while GRPO-based reinforcement learning can further refine downstream predictions. However, existing KD-to-RL pipelines typically rely on globally fixed transition schedules, ignoring that different samples may require different amounts of teacher-guided acquisition before reward-driven refinement. We propose PIVOT (Perplexity-Informed Transition Optimization), a dynamic transition framework that routes samples between OPD and GRPO according to teacher-evaluated sequence perplexity. PIVOT moves low-perplexity samples to GRPO for reward-driven refinement while keeping high-perplexity samples under OPD for continued domain knowledge acquisition. Experiments on Banking77 and HWU64 show that PIVOT consistently outperforms continued OPD and globally synchronized OPD\\rightarrowGRPO baselines under the same optimization budget, achieving stronger downstream performance and more stable training dynamics.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.342/",
+      "financial_evidence": "eward-driven refinement while keeping highperplexity samples under OPD for continued domain knowledge acquisition. Experiments on Banking77 and HWU64 show that PIVOT consistently outperforms continued OPD and globally synchronized OPD→GRPO baselines under the same number of post-warm-up student optimization steps, achieving stronger downstream performance and more st | ning on under-acquired samples and inefficient over-distillation on samples that are already ready for refinement. Experiments on Banking77 (Casanueva et al., 2020) and HWU64 (Liu et al., 2019) show that PIVOT consistently outperforms continued OPD and globally synchronized OPD→GRPO baselines under the same number of post-warm-up student optimization steps. Further a |  transition framework that adaptively schedules OPD and GRPO according to teacher-evaluated sequence perplexity. • Experiments on Banking77 and HWU64 show that PIVOT consistently outperforms continued OPD and globally synchronized OPD→GRPO under the same optimization steps while yielding more stable optimization dynamics. 2 Method 2.1 Domain Knowledge Acquisition",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.342.pdf",
+      "pdf_sha256": "a5aafee20c02b0132db3306da95272400303544d1f4a72cb419a890da3a43017"
+    },
+    "2026.findings-acl.788": {
+      "catalog_record_sha256": "a103998bdb96c46f15302fe06879e13aa58a745537d4a61af5385f57c3a996b7",
+      "abstract": "The rapid proliferation of Multimodal Large Language Models (MLLMs) has ushered in the era of the “Agentic Economy,” where Mobile Agents autonomously execute high-stakes financial transactions. While these agents demonstrate impressive operational capabilities, their adversarial robustness remains a glaring blind spot. In this paper, we identify a systemic vulnerability termed Visual Dominance Hallucination (VDH), where imperceptible adversarial visual cues can act as a “super-stimulus,” overriding textual price evidence in our evaluated screenshot-based price-constrained settings and forcing the agent into irrational economic decisions. We propose PriceBlind, a stealthy, white-box adversarial attack framework for controlled screenshot-based evaluation. Unlike prior works that rely on conspicuous artifacts like pop-ups, PriceBlind exploits the modality gap in CLIP-based encoders via a novel Semantic-Decoupling Loss. Rather than literally making a luxury item “look cheap,” this regularizer weakens the consistency between high-price text and visual value cues by aligning the image embedding with a low-cost/value-associated anchor region while preserving pixel-level fidelity. On our main E-ShopBench benchmark with clear price constraints, screenshot-based white-box evaluation yields ASRs around 80% on the evaluated agents. Under the evaluated single-turn coordinate-selection protocol in a simplified layout-aware setting, our Ensemble-DI-FGSM strategy also yields non-trivial black-box transfer, with ASR roughly 35–41% across GPT-4o, Gemini-1.5-Pro, and Claude-3.5-Sonnet. In the same screenshot-based setting, standard robust encoders reduce ASR only partially, while a Verify-then-Act stack with robust encoders lowers ASR to below 10% at some clean-accuracy cost.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.788/",
+      "financial_evidence": "rge Language Models (MLLMs) has ushered in the era of the “Agentic Economy,” where Mobile Agents autonomously execute high-stakes financial transactions. While these agents demonstrate impressive operational capabilities, their adversarial robustness remains a glaring blind spot. In this paper, we identify a systemic vulnerability termed Visual Dominance Hallucinatio |  (e.g., tap, swipe) to fulfill complex user instructions. Ecommerce represents a critical application domain where users delegate financial decisions—such as “find a coffee machine under $50 with the best ratings”—to these autonomous systems. As agents transition from information retrieval to executing financial transactions, the security stakes increase exponentiall | achine under $50 with the best ratings”—to these autonomous systems. As agents transition from information retrieval to executing financial transactions, the security stakes increase exponentially. A hallucination in a chat is a nuisance; a hallucination in a transaction is potential theft. While robustness against textual prompt injection has been studied, the visua",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.788.pdf",
+      "pdf_sha256": "26f220785b9e0d3a3087da20b55bf7ad1328161fed443647b560582971bcd59e"
+    },
+    "2026.findings-acl.1116": {
+      "catalog_record_sha256": "6ebcdae2b0f44db7e3445d87f346d3089aff89a34e726ab5eb2065d93000f013",
+      "abstract": "As older adults increasingly use LLM-based chatbots for companionship and assistance, a safety gap is emerging. Older adults may face vulnerabilities from social isolation, limited digital literacy, and cognitive decline, yet existing safety benchmarks largely target general harms and overlook elderly-specific risks. For example, a prompt such as “how to repair a ceiling light alone in the dark” may be benign for most users but poses a serious fall risk for older adults with mobility limitations.We introduce GrandGuard, the first comprehensive framework for assessing and mitigating elderly-specific contextual risks in LLM interactions. We develop a three-level taxonomy with 50 fine-grained risk types across mental well-being, financial, medical, toxicity, and privacy domains, grounded in real-world incidents, community discussions, and analysis of stakeholder studies. Using this taxonomy, we construct a benchmark of 10,404 labeled prompts and responses, showing that several leading LLMs mishandle elderly-specific contextual risks in over 50% of cases. We mitigate these failures with two safeguards: a fine-tuned Llama-Guard-3 and a policy-enhanced gpt-oss-safeguard-20b, achieving up to 96.2% and 90.9% unsafe-prompt detection accuracy, respectively. GrandGuard lays the groundwork for AI systems that move beyond general safety to support aging populations.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.1116/",
+      "financial_evidence": "contextual risks in LLM interactions. We develop a three-level taxonomy with 50 fine-grained risk types across mental well-being, financial, medical, toxicity, and privacy domains, grounded in real-world incidents, community discussions, and analysis of stakeholder studies. Using this taxonomy, we construct a benchmark of 10,404 labeled prompts and responses, showing | lizing hopelessness or exerting undue influence over estate planning. The resulting three-level taxonomy spans mental well-being, financial, medical, toxicity, and privacy domains. A benchmark revealing widespread safety failures. We constructed a benchmark of 10,404 labeled prompts and responses via human authoring, LLM-based synthesis with validation, and systemati | mplete Dependency on LLM R4 Toxicity Risk R4.3 Bias, Humiliation & Ageism LLM exploiting age-related vulnerability R2.1 Direct Financial Manipulation LLM infantilizing older adults LLM exploiting political fear or insecurity LLM promoting risky investment schemes R2 Financial Risk LLM facilitating financial exploitation R4.4 Political & Ideological Exploitati",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.1116.pdf",
+      "pdf_sha256": "101f1bac26d27320d744ecf91c94c795d2f9f79928f4bae1fd45e60f62968aa9"
+    },
+    "2026.findings-acl.115": {
+      "catalog_record_sha256": "1c380b2a7ceb4509aadf74cdcc3261ac24693bf712460afc4c1afd0d3936f89e",
+      "abstract": "Ensuring the safety and compliance of large language models (LLMs) is of paramount importance. However, existing LLM safety datasets often rely on ad-hoc taxonomies for data generation and suffer from a significant shortage of rule-grounded, real-world cases that are essential for robustly protecting LLMs. In this work, we address this critical gap by constructing a comprehensive safety dataset from a compliance perspective. Using a powerful web-searching agent, we collect a rule-grounded, real-world case dataset OmniCompliance-100K, sourced from multi-domain authoritative references. The dataset spans 74 regulations and policies across a wide range of domains, including security and privacy regulations, content safety and user data privacy policies from leading AI companies and social media platforms, financial security requirements, medical device risk management standards, educational integrity guidelines, and protections of fundamental human rights. In total, our dataset contains 12,985 distinct rules and 106,009 associated real-world compliance cases. Our analysis confirms a strong alignment between the rules and their corresponding cases. We further conduct extensive benchmarking experiments to evaluate the safety and compliance capabilities of advanced LLMs across different model scales. Our experiments reveal several interesting findings that have great potential to offer valuable insights for future LLM safety research.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.115/",
+      "financial_evidence": "rity and privacy regulations, content safety and user data privacy policies from leading AI companies and social media platforms, financial security requirements, medical device risk management standards, educational integrity guidelines, and protections of fundamental human rights. In total, our dataset contains 12,985 distinct rules and 106,009 associated real-worl | ly prominent. From generating harmful content (Liu et al., 2024) and leaking private information (Kim et al., 2023), to violating financial compliance requirements (Chen et al., 2025), misleading medical decisions (Alber et al., 2025), or infringing upon fundamental human rights (Raman et al., 2025), LLMs can easily cause serious social, economic, and legal consequen | de range of domains, including AI security 1 https://www.enforcementtracker.com/ and data privacy, social media content safety, financial security requirements, medical device risk management standards, educational integrity, and fundamental human rights. In our experiments, we conduct comprehensive benchmarks on the safety and compliance capabilities of advanced L",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.115.pdf",
+      "pdf_sha256": "cfd5596452ed6d6ddf5ed05fbcf464c071631bc866ca3fae05af20fd0ad276af"
+    },
+    "2024.findings-emnlp.707": {
+      "id": "2024.findings-emnlp.707",
+      "title": "Numbers Matter! Bringing Quantity-awareness to Retrieval Systems",
+      "year": 2024,
+      "scope": "application",
+      "abstract": "Quantitative information plays a crucial role in understanding and interpreting the content of documents. Many user queries contain quantities and cannot be resolved without understanding their semantics, e.g., “car that costs less than $10k”. Yet, modern search engines apply the same ranking mechanisms for both words and quantities, overlooking magnitude and unit information. In this paper, we introduce two quantity-aware ranking techniques designed to rank both the quantity and textual content either jointly or independently. These techniques incorporate quantity information in available retrieval systems and can address queries with numerical conditions equal, greater than, and less than. To evaluate the effectiveness of our proposed models, we introduce two novel quantity-aware benchmark datasets in the domains of finance and medicine and compare our method against various lexical and neural models. The code and data are available under https://github.com/satya77/QuantityAwareRankers.",
+      "financial_evidence": " To evaluate the effectiveness of our proposed models, we introduce two novel quantity-aware benchmark datasets in the domains of finance and medicine and compare our method against various lexical and neural models. The code and the benchmark datasets are available under https://github. com/satya77/QuantityAwareRankers. 1 Introduction Despite advances in semant | es. Further, we introduce two novel quantitycentric benchmarks, focusing on queries involving numerical conditions in the domains finance and medicine. We evaluate our proposed approaches 12120 Findings of the Association for Computational Linguistics: EMNLP 2024, pages 12120–12136 November 12-16, 2024 ©2024 Association for Computational Linguistics with various | cept/unit index is used for dataset creation, CQE’s performance directly affects the data quality. While CQE is adept at handling financial data, extractions on clinical data were noisy. However, we find it important to report results on both datasets, making the reader aware of the lower quality of MedQuant. 4.2 Ranking Performance Table 2 shows the ranking performa",
+      "official_url": "https://aclanthology.org/2024.findings-emnlp.707/",
+      "catalog_record_sha256": "f3136e0c974cc3b71872c68b742f7b4b5151f0aaec631635af28afe385c5eac9",
+      "pdf_sha256": "5c998bf9fa34ba2e48a59869f1eecda674706b86445409f9b507185109cde57a",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/EMNLP/2024/2024.findings-emnlp.707.pdf",
+      "fulltext_characters": 93731,
+      "inspection_snippets": [
+        {
+          "text": "relatively limited greater than, we considered open bounds. Depend- number of test queries compared to larger-scale ing on the user intent, closed bounds might be more datasets such as MSMARCO (Nguyen et al., 2016). appropriate, however, similar to the optimal sorting This is mainly due to limited human resources and of results, this issue does not have a single solution. budget in an academic setting. Nonetheless, we argue that this number of queries is already enough to showcase certain quantity-centric capabilities. References Another shortcoming of the data is the absence Rakesh Agrawal and Ramakrishnan Srikant. 2003. of queries for ranges, e.g., “iPhone with price Searching with Numbers. IEEE Trans. Knowl. Data between 500 and 800 dollars”, and negations,",
+          "pdf_page": 10
+        },
+        {
+          "text": "u− ∪ sv− . samples include surface forms of units in the same family as the query unit (incorrect unit in similar 4 Evaluation context), creating negatives. Given the absence of task-specific models, we as- • A positive sample, su+ , is created by substi- sess our quantity-aware models against general do- tuting the unit in a positive sentence, s+ , with main lexical and neural models. other surface forms of the unit in query ux . Lexical models include a BM25 and a BM25f ilter variant. BM25f ilter has a separate numerical in- • A negative sample, su− , is created by replac- dex to eliminate the results of BM25 whe",
+          "pdf_page": 7
+        },
+        {
+          "text": "numerical are harder for models to rank. embeddings and LMs in information retrieval. 12128 6 Limitations ing systems. In this work, we do not discuss models for ranges In this section, we highlight the limitations of the and negations. Such variations to the disjoint mod- proposed evaluation resources and the models els requires only a change in the numerical scoring introduced in this paper. function but it is more difficult for the joint setting, where proper training data is required. Evaluation resources: One immediate considera- Fo",
+          "pdf_page": 10
+        }
+      ],
+      "fulltext_available": true
+    },
+    "2026.findings-emnlp.2230": {
+      "catalog_record_sha256": "28ba24360e1dc54c0c2729e70b144641293700f02833823fbee5f59e3151346a",
+      "abstract": "Dense embedding rankers score documents through contextual sentence- and passage-level representations, yet listwise explanation methods often attribute rankings to isolated words. We study this mismatch and introduce ChunkGroupSHAP, a listwise Shapley method that clusters semantically related chunks across documents into shared features, preserving contextual evidence while bounding the KernelSHAP regression dimension by the group count. Across MS MARCO, FinanceBench, AILACaseDocs, and FinQA with E5-family rankers and BM25, raw chunks improve rank-reconstruction Fidelity over RankSHAP’s word features in all 11 dense-ranker settings. The best chunk-group configuration further improves on raw chunks in eight of these settings, with the incremental benefit depending on grouping scope; word features remain strongest in three of four BM25 settings. These results show that explanation units should match the ranking model: contextual chunks better suit dense bi-encoders, whereas words remain effective for BM25. ChunkGroupSHAP supports listwise attribution over contextual evidence through a bounded feature space shared across documents.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.2230/",
+      "financial_evidence": " features, preserving contextual evidence while bounding the KernelSHAP regression dimension by the group count. Across MS MARCO, FinanceBench, AILACaseDocs, and FinQA with E5-family rankers and BM25, raw chunks improve rankreconstruction Fidelity over RankSHAP’s word features in all 11 dense-ranker settings. The best chunk-group configuration further improves on r |  evidence while bounding the KernelSHAP regression dimension by the group count. Across MS MARCO, FinanceBench, AILACaseDocs, and FinQA with E5-family rankers and BM25, raw chunks improve rankreconstruction Fidelity over RankSHAP’s word features in all 11 dense-ranker settings. The best chunk-group configuration further improves on raw chunks in eight of these se | ated stemmed words. Our experiments support a setting-specific view of ranking explanation. Across MS MARCO (Bajaj et al., 2018), FinanceBench (Islam et al., 2023), AILACaseDocs (Bhattacharya et al., 2020), and FinQA (Chen et al., 2021), with BM25 (Robertson and Zaragoza, 2009) and the E5 model family (Wang et al., 2024), we separate the effect of contextual units ",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.2230.pdf",
+      "pdf_sha256": "4d1d3a22336173ca1b225b614dba338323583348b06e31a856b0f7f930f3139b"
+    },
+    "2025.findings-acl.20": {
+      "catalog_record_sha256": "ff0110fd14bfbcef6f9aa413294b0584ec449f34d5c830eb4d4cd63fcb915a57",
+      "abstract": "When confronting long document information retrieval for Query-Focused Summarization(QFS), Traditional Retrieval-Augmented Generation(RAG) frameworks struggle to retrieve all relevant knowledge points, and the chunking and retrieve strategies of existing frameworks may disrupt the connections between knowledge points and the integrity of the information. To address these issues, we propose \\textbf{TreeRAG}, which employs \\textbf{Tree-Chunking} for chunking and embedding in a tree-like structure , coupled with “\\textbf{root-to-leaves}” and “\\textbf{leaf-to-root}” retrieve strategy named \\textbf{Bidirectional Traversal Retrieval}. This approach effectively preserves the hierarchical structure among knowledge points and significantly enhances the ability to retrieve while minimizing noise inference. Our experimental results on the \\textbf{Finance, Law, and Medical subsets of the Dragonball dataset} demonstrate that \\textbf{TreeRAG} achieves significant enhancements in both recall quality and precision compared to traditional and popular existing methods and achieves better performance to corresponding question-answering tasks, marking a new breakthrough in long document knowledge retrieval.",
+      "official_url": "https://aclanthology.org/2025.findings-acl.20/",
+      "financial_evidence": "among chunks and significantly enhances the ability to retrieve while minimizing noise inference. Our experimental results on the Finance, Law, and Medical subsets of the Dragonball dataset demonstrate that TreeRAG achieves significant enhancements in both recall quality and precision compared to traditional and popular existing methods and achieves better performa | s, addressing to a certain extent the challenge of relevant chunks being distant in vector space. (3)Experiments conducted on the Finance, Medical and Law subsets of Dragonball dataset demonstrate that TreeRAG, compared to other frameworks, has better recall quality, achieving a good recall rate while minimizing the introduction of noise. 2 Related Work As the n | ntent. If true, it outputs 1; otherwise, it outputs 0. 4.1 tions, and corresponding long original documents from the domains of Finance, Medical and Law. This dataset does not contain any real-world information. For more details, please refer to A.1. We select parts of dataset that contains Chinese non-multi-document questions, and in all three experiments, we us",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2025/2025.findings-acl.20.pdf",
+      "pdf_sha256": "e03ee7745c8a5de43b599cc83dab2e972a2d27eedd3f92545597f6a1bf47165a"
+    },
+    "2026.findings-emnlp.2304": {
+      "catalog_record_sha256": "190a7d2264f1aa1f2637cbaa38c5612711f619c35332ae6543888b56789db812",
+      "abstract": "The rapid advancement of large language models (LLMs) has intensified the need for domain and culture specific evaluation. Existing benchmarks are largely Anglocentric and domain-agnostic, limiting their applicability to India-centric contexts. To address this gap, we introduce BhashaBench V1, a large-scale, bilingual, exam-based benchmark covering four India-centric domains, Agriculture, Legal, Finance, and Ayurveda. BhashaBench V1 contains 74,166 meticulously curated question-answer pairs, with 52,494 in English and 21,672 in Hindi, sourced from authentic government and domain-specific exams. It is organized around a quadrant of four domains: Agriculture, Legal, Finance, and Ayurveda, comprising 90+ subdomains and covering 500+ topics, enabling fine-grained evaluation. Evaluation of 29+ LLMs reveals significant domain and language specific performance gaps, with especially large disparities in low-resource domains. For instance, GPT-4o achieves 76.49% overall accuracy in Legal but only 59.74% in Ayurveda. Models consistently perform better on English content compared to Hindi across all domains. Subdomain-level analysis shows that areas such as Cyber Law, International Finance perform relatively well, while Panchakarma, Seed Science, and Human Rights remain notably weak. BhashaBench V1 provides a large-scale, exam-sourced dataset for evaluating large language models across these four Indian knowledge domains. It enables assessment of models’ ability to integrate domain-specific knowledge with bilingual understanding. All code, benchmarks, and resources are publicly available to support open research.",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.2304/",
+      "financial_evidence": "introduce BhashaBench V1, a large-scale, bilingual, exam-based benchmark covering four India-centric domains, Agriculture, Legal, Finance, and Ayurveda. BhashaBench V1 contains 74,166 meticulously curated questionanswer pairs, with 52,494 in English and 21,672 in Hindi, sourced from authentic government and domain-specific exams. It is organized around a quadrant o | urced from authentic government and domain-specific exams. It is organized around a quadrant of four domains: Agriculture, Legal, Finance, and Ayurveda, comprising 90+ subdomains and covering 500+ topics, enabling fine-grained evaluation. Evaluation of 29+ LLMs reveals significant domain and language specific performance gaps, with especially large disparities in l |  English content compared to Hindi across all domains. Subdomain-level analysis shows that areas such as Cyber Law, International Finance perform relatively well, while Panchakarma, Seed Science, and Human Rights remain notably weak. BhashaBench V1 provides a large-scale, exam-sourced dataset for evaluating large language models across these four Indian knowledge d",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.2304.pdf",
+      "pdf_sha256": "fb271c00a19c694e517987e71a8ccc52be0df23cf1fa4ed9572b425b19d215f2"
+    },
+    "2024.findings-acl.478": {
+      "catalog_record_sha256": "366ed6146ee0ff092bed80f240af861fc743eb9f75ee27787f1cc1ae9d37e949",
+      "abstract": "Although large language models (LLMs) exhibit remarkable capacity to leverage in-context demonstrations, it is still unclear to what extent they can learn new facts or concept definitions via prompts. To address this question, we examine the capacity of instruction-tuned LLMs to follow in-context concept annotation guidelines for zero-shot sentence labeling tasks. We design guidelines that present different types of factual and counterfactual concept definitions, which are used as prompts for zero-shot sentence classification tasks. Our results show that although concept definitions consistently help in task performance, only the larger models (with 70B parameters or more) have limited ability to work under counterfactual contexts. Importantly, only proprietary models such as GPT-3.5 can recognize nonsensical guidelines, which we hypothesize is due to more sophisticated alignment methods. Finally, we find that Falcon-180B-chat is outperformed by Llama-2-70B-chat is most cases, which indicates that increasing model scale does not guarantee better adherence to guidelines. Altogether, our simple evaluation method reveals significant gaps in concept understanding between the most capable open-source language models and the leading proprietary APIs.",
+      "official_url": "https://aclanthology.org/2024.findings-acl.478/",
+      "financial_evidence": "Can Large Language Models Follow Concept Annotation Guidelines? A Case Study on Scientific and Financial Domains Marcio Fonseca Shay B. Cohen Institute for Language, Cognition and Computation School of Informatics, University of Edinburgh 10 Crichton Street, Edinburgh, EH8 9AB m.fonseca@ed.ac.uk, scohen@inf.ed.ac.uk Abstract Consid |  (Liakata and Soldatova, 2008). To control for pattern memorization, we also annotate a novel dataset of company disclosures with financial concepts based on the Integrated Reporting framework (Cheng et al., 2014). In both domains, we observe a consistent classification performance improvement when models have access to concept labels paired with their factual concep | . The factual guideline serves as a control baseline to compare against other types of guidelines. For each of the scientific and financial concepts explored in this paper, we use definitions generated by GPT-3.5. These definitions are further reviewed for quality and redacted to remove explicit mentions of label names. We detail the generation of concept definitions",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2024/2024.findings-acl.478.pdf",
+      "pdf_sha256": "8b97855ad740ce603dae07a0c23d0f5fc37c7a36817a88898fe2068767a9b68b"
+    },
+    "2024.findings-emnlp.972": {
+      "catalog_record_sha256": "d513b38915dc5a44863d9c2dfe36558d1056f9542c34f30477cf41c8b05d9326",
+      "abstract": "This study introduces ValueScope, a framework leveraging language models to quantify social norms and values within online communities, grounded in social science perspectives on normative structures. We employ ValueScope to dissect and analyze linguistic and stylistic expressions across 13 Reddit communities categorized under gender, politics, science, and finance. Our analysis provides a quantitative foundation confirming that even closely related communities exhibit remarkably diverse norms. This diversity supports existing theories and adds a new dimension to understanding community interactions. ValueScope not only delineates differences in social norms but also effectively tracks their evolution and the influence of significant external events like the U.S. presidential elections and the emergence of new sub-communities. The framework thus highlights the pivotal role of social norms in shaping online interactions, presenting a substantial advance in both the theory and application of social norm studies in digital spaces.",
+      "official_url": "https://aclanthology.org/2024.findings-emnlp.972/",
+      "financial_evidence": "ct and analyze linguistic and stylistic expressions across 13 Reddit communities categorized under gender, politics, science, and finance. Our analysis provides a quantitative foundation showing that even closely related communities exhibit remarkably diverse norms. This diversity supports existing theories and adds a new dimension—community preference—to understan | -4 with the top 5,000 subreddits (Dignan, 2024), and instruct it to categorize them into 30 broad thematic topical groups such as finance or politics. Then, we identify the prominent norm dimensions within each category; for instance, the politics subreddits often consist of argumentative discussions. Consultations with subreddit experts help prioritize the six mos | Supportiveness, Sarcasm, Humor, Formality, and Verbosity. Subreddit Selection We select the subreddit topics of gender, politics, finance, and science based on their relevance and on prior work discussing their norms (Herrman, 2021; Hessel et al., 2016; Rajadesingan et al., 2020; Eckert and McConnellGinet, 2013b). For each topic, we select the most active, related ",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2024/2024.findings-emnlp.972.pdf",
+      "pdf_sha256": "f3b2b49901cfaf029a771ffec3af80562bd4a97c0a8b15d7635fc6ce062ca155"
+    },
+    "2026.findings-acl.405": {
+      "catalog_record_sha256": "739d5a80ec3624ffe17a95ab1f4fbb2109825dba3a3654ffdda2b95c70947dd0",
+      "abstract": "Training large language models for domain adaptation poses a significant challenge in balancing the acquisition of domain knowledge with the retention of general abilities, often leading to catastrophic forgetting. While curriculum learning offers a promising direction, conventional methods typically rely on a single dimension of knowledge or task, which is insufficient to navigate the trade-off between knowledge breadth and task depth. In this paper, we propose a two-dimensional curriculum learning framework that coordinates model training along two orthogonal axes: the knowledge dimension and the task dimension. We first reconstruct the dataset by clustering instances according to their semantic similarity to general-domain data, and subsequently annotate them with a task hierarchy. Then, we design an integrated curriculum that develops from general to domain-specific knowledge clusters, and within each cluster, from lower- to higher-order cognitive tasks. Compared with the second-best method, our method improves accuracy on medical evaluations by 2.49% and on financial evaluations by 1.2%. Ablation and cross-domain experiments further demonstrate our method as a scalable and effective framework for structured domain adaptation in large language model fine-tuning. We have released the code in an anonymous repository at https://github.com/Melo-1017/Balancing-Knowledge-Breadth-and-Task-Depth.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.405/",
+      "financial_evidence": "sion of MedQA (Jin et al., 2021) that augments answers with reasoning traces distilled from DeepSeekR1 (Guo et al., 2025). In the financial domain, we utilized Finance Alpaca, an Alpaca-style dataset built from Alpaca, FiQA, and GPT-generated financial examples. To disentangle domain-specific learning from general capabilities, we remove all medical- and financial-re | 1) that augments answers with reasoning traces distilled from DeepSeekR1 (Guo et al., 2025). In the financial domain, we utilized Finance Alpaca, an Alpaca-style dataset built from Alpaca, FiQA, and GPT-generated financial examples. To disentangle domain-specific learning from general capabilities, we remove all medical- and financial-related data from the general  | om DeepSeekR1 (Guo et al., 2025). In the financial domain, we utilized Finance Alpaca, an Alpaca-style dataset built from Alpaca, FiQA, and GPT-generated financial examples. To disentangle domain-specific learning from general capabilities, we remove all medical- and financial-related data from the general corpus, and the specific removal methodology is detailed",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.405.pdf",
+      "pdf_sha256": "d037dd6ce788b42f53c24ff4357b16e84a8d1207ae6add4b48fa9efbc9680ee3"
+    },
+    "2026.findings-acl.2035": {
+      "catalog_record_sha256": "e06e48fb9641688e74ff76b8742453f4f0e3f528c79a75bb5ced4482bf61bcfc",
+      "abstract": "Aligning Large Language Models (LLM) to address subjectivity and nuanced preference levels requires adequate flexibility and control, which can be a resource-intensive and time-consuming procedure. Existing training-time alignment methods require full re-training when a change is needed and inference-time ones typically require access to the reward model at each inference step. We introduce MEAV, an inference-time model-editing-based LLM alignment method that learns encoded representations of preference dimensions, called Alignment Vectors (AV). These representations enable dynamic adjusting of the model behavior during inference through simple linear operations. Here, we focus on three gradual response levels across three specialized domains: medical, legal, and financial, exemplifying its practical potential. This new alignment paradigm introduces adjustable preference knobs during inference, allowing users to tailor their LLM outputs while reducing the inference cost by half compared to the prompt engineering approach. Additionally, we find that AVs are transferable across different fine-tuning stages of the same model, demonstrating their flexibility. AVs also facilitate multidomain, diverse preference alignment, making the process 12x faster than the retraining approach.",
+      "official_url": "https://aclanthology.org/2026.findings-acl.2035/",
+      "financial_evidence": "h simple linear operations. Here, we focus on three gradual response levels across three specialized domains: medical, legal, and financial, exemplifying its practical potential. This new alignment paradigm introduces adjustable preference knobs during inference, allowing users to tailor their LLM outputs while reducing the inference cost by half compared to the prom |  it becomes costly when scaled (Li et al., 2023). Furthermore, managing multiple alignment objectives can be complex. Consider an insurance company that needs expert legal responses, generic financial answers, and to avoid medical responses; balancing these demands poses a significant challenge. A joint training with targeted preference levels can resolve the problem | , managing multiple alignment objectives can be complex. Consider an insurance company that needs expert legal responses, generic financial answers, and to avoid medical responses; balancing these demands poses a significant challenge. A joint training with targeted preference levels can resolve the problem, however, it lacks flexibility, and training can be resource",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2026/2026.findings-acl.2035.pdf",
+      "pdf_sha256": "5d7d53722fa4a1e78381781e97d1fe01001bb76218f66b6ba8563c754fb53a43"
+    },
+    "2025.findings-emnlp.707": {
+      "catalog_record_sha256": "3e299ecee5a4a3bbfa9c5562900ad1becc27871d1eaa5cef9c0203ecfa31ca3d",
+      "abstract": "Rather than merely to retain previously acquired generalization, achieving synergistic improvements between generalization and domain specialization in foundation models remains a significant challenge in both pre-training and post-training. As an alternative, we propose a test-time cross-domain knowledge integration method, Mixture of Multi-domain Agents (MMA), which dynamically combines the outputs of general-purpose and domain-specific models to enhance their performance on complex, domain‐specific tasks. MMA formulates the integration process as a search problem, using Monte Carlo Tree Search (MCTS) to find the path that optimally harmonizes the respective strengths of different models in generalization and domain-specific knowledge. In addition, We design specific action spaces to control the knowledge integration between multiple models, and cross-inspection reward is introduced to fairly score strategies in different domains. Experiments in diverse domains show that MMA can effectively combine the strengths of different models to enhance their performance. For instance, in legal tests, the average performance of all tasks increased from 42.57% to 53.68%. In financial tests, it improved from 56.01% to 62.68%.",
+      "official_url": "https://aclanthology.org/2025.findings-emnlp.707/",
+      "financial_evidence": "enhance their performance. For instance, in legal tests, the average performance of all tasks increased from 42.57% to 53.68%. In financial tests, it improved from 56.01% to 62.68%1 . 1 Figure 1: Compared to general models, legal domainspecific models exhibit stronger performance on legal knowledge-intensive tasks than on legal reasoningintensive tasks. Introducti | ledge and generalization. In legal tasks, our method improves the performance of the legal domain model from 42.57% to 53.68%. In finance, it improves the performance of the financial domain model from 56.01% to 62.68%. In summary, our contributions are as follows: • We introduce a test-time cross-domain knowledge integration paradigm, which can harmonize domain kn | r method improves the performance of the legal domain model from 42.57% to 53.68%. In finance, it improves the performance of the financial domain model from 56.01% to 62.68%. In summary, our contributions are as follows: • We introduce a test-time cross-domain knowledge integration paradigm, which can harmonize domain knowledge and general reasoning capability with ",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/EMNLP/2025/2025.findings-emnlp.707.pdf",
+      "pdf_sha256": "65b47b46e865b28ef6cd65d754acac57d0d452fd569e337f30e1e225f0c858f7"
+    },
+    "2024.findings-acl.157": {
+      "catalog_record_sha256": "af92ec79ec8f6a66db26d42a849eb2458f4270109cd77c58a1ff3b95dfc713ac",
+      "abstract": "Recent works have demonstrated the effectiveness of self-alignment in which a large language model is aligned to follow general instructions using instructional data generated from the model itself starting from a handful of human-written seeds. Instead of general alignment, in this work, we focus on self-alignment for expert domain specialization (e.g., biomedicine, finance). As a preliminary, we quantitively show the marginal effect that generic instruction-following training has on downstream expert domains’ performance. To remedy this, we propose self-specialization - allowing for effective model specialization while achieving cross-task generalization by leveraging only a few labeled seeds. Self-specialization offers a data- and parameter-efficient way of “carving out” an expert model out of a generalist pre-trained LLM. Exploring a variety of popular open large models as a base for specialization, our experimental results in both biomedical and financial domains show that our self-specialized models outperform their base models by a large margin, and even larger models that are generally instruction-tuned or that have been adapted to the target domain by other means.",
+      "official_url": "https://aclanthology.org/2024.findings-acl.157/",
+      "financial_evidence": " k=5 Self-Specialized Base Self-Specialized SUM EDT-Summarization 6.40 21.90 13.97 24.00 13.87 23.56 QA InsuranceQA ConvFinQA 3.03 15.74 19.87 5.25 6.55 21.69 23.79 11.84 9.96 28.77 24.36 20.88 NER Fin3 FiNER_139 9.94 10.24 23.93 14.84 7.53 36.78 26.95 25.81 6.80 44.34 43.87 35.63 RE KPI-EDGER 11.22 31.02 43.28 53.56 49.46 63.90 S | 4.84 7.53 36.78 26.95 25.81 6.80 44.34 43.87 35.63 RE KPI-EDGER 11.22 31.02 43.28 53.56 49.46 63.90 SA EarningsCall Financial_Phrasebank FIQA-SA 46.80 23.60 44.44 48.80 73.20 56.84 50.80 9.40 58.55 48.00 47.60 61.54 49.03 29.20 61.54 47.74 68.80 70.09 CLS Gold Commodity News 21.95 43.03 61.93 55.08 38.42 61.20 Average 19.34 33.87 31.05 | 95 25.81 6.80 44.34 43.87 35.63 RE KPI-EDGER 11.22 31.02 43.28 53.56 49.46 63.90 SA EarningsCall Financial_Phrasebank FIQA-SA 46.80 23.60 44.44 48.80 73.20 56.84 50.80 9.40 58.55 48.00 47.60 61.54 49.03 29.20 61.54 47.74 68.80 70.09 CLS Gold Commodity News 21.95 43.03 61.93 55.08 38.42 61.20 Average 19.34 33.87 31.05 37.82 33.14 ",
+      "fulltext_available": false,
+      "fulltext_characters": 0,
+      "pdf_path": "pdfs/ACL/2024/2024.findings-acl.157.pdf",
+      "pdf_sha256": "e57982952e229a3ca21059099be56e472a21c60eddf5c872b6447862523d2f28"
+    },
+    "2026.findings-emnlp.1466": {
+      "id": "2026.findings-emnlp.1466",
+      "title": "Does Thinking Help Fairness? Reasoning Tokens Resolve Some Biases but Create More",
+      "year": 2026,
+      "scope": "application",
+      "abstract": "Thinking in reasoning language models (RLMs) has been subject to debate on whether it resolves or amplifies bias. Prior works have shown competing conclusions in both directions. Using a within-model thinking-vs.-non-thinking ablation across QwQ-32B, DeepSeek-R1-Distill-Qwen-32B, and Qwen3-32B on three high-stakes decision tasks (Adult, COMPAS, Credit), we show that thinking has an asymmetric dual effect on counterfactual fairness: it both resolves counterfactual flips produced by the non-thinking baseline and creates new flips at near-saturating model confidence. In all nine (model, dataset) combinations, the created flips outnumber the resolved flips by roughly 5\\times. To explain the effect, we treat the thinking trace itself as a measurable site of fairness change and study it through two dynamic instruments: 1) We propose Counterfactual Depth Probability Gap (CDPG) to track bias evolution along thinking depth, and observe that bias propagates and amplifies with thinking. 2) We also formulate Bias Transition Matrices (BTM) to show how predictions of counterfactual pairs change from non-thinking to thinking, and find that the asymmetric dual effect originates in the pair-state joint transition.",
+      "financial_evidence": "-year recidivism, with race as the protected attribute (binarised to White vs. Non-White). Credit (Yeh, 2009) predicts next-month credit-card default, with sex as the protected attribute. To prevent confounding between protected attributes, we drop the race column from Adult and the sex column from COMPAS so that each dataset isolates a single protected attribute under",
+      "official_url": "https://aclanthology.org/2026.findings-emnlp.1466/",
+      "catalog_record_sha256": "6a4c0c871ad71a4c52530e7653c3d2a870cdddb6753c9c53b39833fb2f7b6311",
+      "pdf_sha256": "3f559fa7f1653fdd88d7450d15d4fb71f99ddcde25421673dbc45509fead16b5",
+      "pdf_version": "publisher",
+      "pdf_path": "pdfs/EMNLP/2026/2026.findings-emnlp.1466.pdf",
+      "fulltext_characters": 93249,
+      "inspection_snippets": [
+        {
+          "text": "dit reads “thinking hurts”). The direction of the We evaluate three high-stakes tabular decision group-disparity verdict is dataset-dependent. This datasets. Adult (Becker and Kohavi, 1996) pre- observation, complementing with Section 4.4, ex- dicts whether an individual’s annual income ex- plains why prior work reaches opposing conclu- ceeds $50K, with sex as the protected attribute. sions in fairness implications. COMPAS (Angwin et al., 2022) predicts two-year recidivism, with race as the protected attribute (bi- Counterfactual disparity is consistently ampli- narised to White vs. Non-White). Credit (Yeh, fied. By contrast, ∆Dcf (dark bars in Figure 2) 2009) predicts next-month credit-card default, with is positive in all 9/9 cells, ranging from +0.016 s",
+          "pdf_page": 5
+        },
+        {
+          "text": "for A ∈ {α, α′ } within each dataset for Qwen3- and scored with the identical CDPG pipeline; the 32B. Tables 10 and 11 extend the same strati- non-thinking arm and all metrics are unchanged fication to QwQ-32B and DeepSeek-R1-Distill- from §4. Qwen-32B, including the per-group marginal drift Table 7 shows the dual effect persists: created ∆P (Y ) = P (Y )th −P (Y )nt . Across all three mod- flips outnumber resolved flips in every setting with els the per-(model, dataset, direction) gap between ′ a non-trivial number of discordant pairs, at ratios T α and T α remains tightly bounded: |∆| ≤ 0.014 (4.9×–7.8×, pooled 7.5×) comparable to the nine",
+          "pdf_page": 12
+        },
+        {
+          "text": "models should look. cell-c tilt. 6 Limitations Scope. This study evaluates counterfactual fair- ness on three tabular binary classification tasks with 31213 Adult COMPAS Credit from NN YY M n NN YY M n NN YY M n",
+          "pdf_page": 8
+        }
+      ],
+      "fulltext_available": true
+    }
+  },
+  "preserved_input_sha256": {
+    "finance_catalog.csv": "0cbcfd012fce237d1a6220084e4db42f814be245b703633cbf7055ce24a227d8",
+    "finance_catalog.jsonl": "69f0cdeec200860651e6f80b3f1b88567154793bd827de22d5e51e0b646fed00",
+    "checks/finance_taxonomy/schema.json": "8afe0e5aacb46a9a527cd8e54afdc2e96afe43e1f4bf8c73bbfd9b707b5b5c19",
+    "checks/finance_taxonomy/assignments.json": "e8a17a8ca25fcd425840a16951797e251f6b8bb63f0d620ac098b8350939ab5a"
+  }
+}

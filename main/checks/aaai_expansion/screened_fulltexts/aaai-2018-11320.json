@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2018-11320",
+  "title": "Learning Nonlinear Dynamics in Efficient, Balanced Spiking Networks Using Local Plasticity Rules",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11320",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 38416,
+  "passages": [],
+  "identity": {
+    "title_exact": false,
+    "title_similarity": 0.9263,
+    "matched_authors": [
+      "Alireza Alemi",
+      "Sophie Deneve",
+      "Jean-Jacques Slotine"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1705.08026",
+    "version": "arxiv_author_version"
+  }
+}

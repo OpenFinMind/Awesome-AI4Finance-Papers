@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2022-20584",
+  "title": "ASM2TV: An Adaptive Semi-supervised Multi-Task Multi-View Learning Framework for Human Activity Recognition",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20584",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 75382,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zekai Chen",
+      "Xiao Zhang",
+      "Xiuzhen Cheng"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2105.08643",
+    "version": "arxiv_author_version"
+  }
+}

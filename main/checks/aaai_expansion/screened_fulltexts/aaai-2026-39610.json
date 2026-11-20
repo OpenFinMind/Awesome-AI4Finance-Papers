@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-39610",
+  "title": "ReCast: Reliability-aware Codebook-assisted Lightweight Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39610",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 94441,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xiang Ma",
+      "Taihua Chen",
+      "Pengcheng Wang",
+      "Xuemei Li",
+      "Caiming Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.11991",
+    "version": "arxiv_author_version"
+  }
+}

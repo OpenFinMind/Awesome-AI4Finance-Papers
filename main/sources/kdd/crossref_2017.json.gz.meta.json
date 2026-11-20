@@ -1,0 +1,6 @@
+{
+  "url": "https://api.crossref.org/works?filter=prefix%3A10.1145%2Cfrom-pub-date%3A2017-01-01%2Cuntil-pub-date%3A2017-12-31&query.container-title=Proceedings+of+the+23rd+ACM+SIGKDD+Conference+on+Knowledge+Discovery+and+Data+Mining&rows=1000",
+  "retrieved_at_utc": "2026-11-20T03:52:40.883562+00:00",
+  "uncompressed_sha256": "2fcd6fc983eb618f39a86f0ffb35c8123699f8dfe14c44476de6b424c8636e75",
+  "bytes": 8874883
+}

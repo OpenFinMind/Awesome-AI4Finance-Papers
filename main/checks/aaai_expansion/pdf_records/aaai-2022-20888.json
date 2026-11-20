@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2022-20888",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-20888__Co_promotion_Predictions_of_Financing_Market_and_Sales_Market_A_Cooperative_Competitive_Attention_Approach.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 510699,
+  "sha256": "0e8212cb54eb2ae9a8b098026c92e1f6daec2b1f4b243c652748924e56e44811",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20888/20647",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20888/20647",
+  "downloaded_at_utc": "2026-11-10T02:15:46.164736+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Lei Zhang",
+      "Wang Xiang",
+      "Chuang Zhao",
+      "Hongke Zhao",
+      "Rui Li",
+      "Runze Wu"
+    ],
+    "identity_verified": true
+  }
+}

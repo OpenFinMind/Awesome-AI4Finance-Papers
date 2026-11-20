@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2022-20369",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-20369__FactorVAE_A_Probabilistic_Dynamic_Factor_Model_Based_on_Variational_Autoencoder_for_Predicting_Cross_Sectional_Stock_Returns.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 354010,
+  "sha256": "7fb6f995848b6b7db5edd4fccb4e42f5e333109de12d364aef88bd5f95811f75",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20369/20128",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20369/20128",
+  "downloaded_at_utc": "2026-11-10T02:15:45.141682+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yitong Duan",
+      "Lei Wang",
+      "Qizhong Zhang",
+      "Jian Li"
+    ],
+    "identity_verified": true
+  }
+}

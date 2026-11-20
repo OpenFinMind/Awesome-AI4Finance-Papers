@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2025-32026",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-32026__SCALM_Detecting_Bad_Practices_in_Smart_Contracts_Through_LLMs.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1001350,
+  "sha256": "3a9a47a726f0340470c0590850a44f18ae5149e608c6724f01f83e133e31b74e",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181",
+  "downloaded_at_utc": "2026-11-10T02:15:51.513053+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zongwei Li",
+      "Xiaoqi Li",
+      "Wenkai Li",
+      "Xin Wang"
+    ],
+    "identity_verified": true
+  }
+}

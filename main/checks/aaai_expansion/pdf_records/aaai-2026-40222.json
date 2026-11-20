@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2026-40222",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-40222__HiveMind_Contribution_Guided_Online_Prompt_Optimization_of_LLM_Multi_Agent_Systems.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 635527,
+  "sha256": "c94e7b53df14126c750c34069c8dc813b0d93e1b4989d06bb88d0fa498fa5538",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40222/44183",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40222/44183",
+  "downloaded_at_utc": "2026-11-10T02:16:00.667623+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yihan Xia",
+      "Taotao Wang",
+      "Shengli Zhang",
+      "Zhangyuhua Weng",
+      "Bin Cao",
+      "Soung Chang Liew"
+    ],
+    "identity_verified": true
+  }
+}

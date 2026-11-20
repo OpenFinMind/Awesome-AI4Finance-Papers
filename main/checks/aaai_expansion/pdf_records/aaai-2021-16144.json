@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2021-16144",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16144__DeepTrader_A_Deep_Reinforcement_Learning_Approach_for_Risk_Return_Balanced_Portfolio_Management_with_Market_Conditions_Embedding.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 423307,
+  "sha256": "a6a3cd85829fc45be94628c598c5895021b302196687b93176bb4d4ccdeeb5c1",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16144/15951",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16144/15951",
+  "downloaded_at_utc": "2026-11-10T02:15:41.877647+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zhicheng Wang",
+      "Biwei Huang",
+      "Shikui Tu",
+      "Kun Zhang",
+      "Lei Xu"
+    ],
+    "identity_verified": true
+  }
+}

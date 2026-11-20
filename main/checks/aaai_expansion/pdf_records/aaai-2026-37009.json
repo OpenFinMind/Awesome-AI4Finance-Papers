@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2026-37009",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-37009__Controllable_Financial_Market_Generation_with_Diffusion_Guided_Meta_Agent.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 950889,
+  "sha256": "46e40335b1bb861f18c15f772269c452594bc85d0f584adf8072e58533fe3d89",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37009/40971",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37009/40971",
+  "downloaded_at_utc": "2026-11-10T02:15:55.403675+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yu-Hao Huang",
+      "Chang Xu",
+      "Yang Liu",
+      "Weiqing Liu",
+      "Wu-Jun Li",
+      "Jiang Bian"
+    ],
+    "identity_verified": true
+  }
+}

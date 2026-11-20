@@ -1,0 +1,152 @@
+{
+  "aaai-2017-10505": {
+    "track": "main",
+    "section": "Applications",
+    "doi": "10.1609/aaai.v31i1.10505",
+    "title": "Gated Neural Networks for Option Pricing: Rationality by Design",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/10505",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai17contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2017",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2017-10728": {
+    "track": "main",
+    "section": "Machine Learning Applications",
+    "doi": "10.1609/aaai.v31i1.10728",
+    "title": "Portfolio Selection via Subset Resampling",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/10728",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai17contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2017",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2017-10767": {
+    "track": "main",
+    "section": "Machine Learning Applications",
+    "doi": "10.1609/aaai.v31i1.10767",
+    "title": "Explicit Defense Actions Against Test-Set Attacks",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/10767",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai17contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2017",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2018-11257": {
+    "track": "main",
+    "section": "AI and the Web",
+    "doi": "10.1609/aaai.v32i1.11257",
+    "title": "Dynamic Network Embedding by Modeling Triadic Closure Process",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11257",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai18contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2018-11452": {
+    "track": "main",
+    "section": "Game Theory and Economic Paradigms",
+    "doi": "10.1609/aaai.v32i1.11452",
+    "title": "Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11452",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai18contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2018-11795": {
+    "track": "main",
+    "section": "Machine Learning",
+    "doi": "10.1609/aaai.v32i1.11795",
+    "title": "Accelerated Method for Stochastic Composition Optimization With Nonsmooth Regularization",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11795",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai18contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2018-12124": {
+    "track": "main",
+    "section": "Reasoning under Uncertainty",
+    "doi": "10.1609/aaai.v32i1.12124",
+    "title": "A Neural Stochastic Volatility Model",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/12124",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai18contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-3906": {
+    "track": "main",
+    "section": "Applications",
+    "doi": "10.1609/aaai.v33i01.33011134",
+    "title": "The Kelly Growth Optimal Portfolio with Ensemble Learning",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3906",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-3924": {
+    "track": "main",
+    "section": "Applications",
+    "doi": "10.1609/aaai.v33i01.33011286",
+    "title": "One-Class Adversarial Nets for Fraud Detection",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3924",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-3994": {
+    "track": "main",
+    "section": "Game Theory and Economic Paradigms",
+    "doi": "10.1609/aaai.v33i01.33011724",
+    "title": "The Pure Price of Anarchy of Pool Block Withholding Attacks in Bitcoin Mining",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3994",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-4023": {
+    "track": "main",
+    "section": "Game Theory and Economic Paradigms",
+    "doi": "10.1609/aaai.v33i01.33011957",
+    "title": "An Equivalence between Wagering and Fair-Division Mechanisms",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4023",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-4027": {
+    "track": "main",
+    "section": "Game Theory and Economic Paradigms",
+    "doi": "10.1609/aaai.v33i01.33011989",
+    "title": "Pareto Efficient Auctions with Interest Rates",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4027",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-4784": {
+    "track": "main",
+    "section": "Reasoning under Uncertainty",
+    "doi": "10.1609/aaai.v33i01.33017858",
+    "title": "MFBO-SSM: Multi-Fidelity Bayesian Optimization for Fast Inference in State-Space Models",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4784",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-3880": {
+    "track": "main",
+    "section": "Applications",
+    "doi": "10.1609/aaai.v33i01.3301914",
+    "title": "VidyutVanika: A Reinforcement Learning Based Broker Agent for a Power Trading Competition",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3880",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  },
+  "aaai-2019-3884": {
+    "track": "main",
+    "section": "Applications",
+    "doi": "10.1609/aaai.v33i01.3301946",
+    "title": "Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism",
+    "publisher_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3884",
+    "official_contents_url": "https://aaai.org/Library/AAAI/aaai19contents.php",
+    "section_lookup_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019",
+    "basis": "Publisher bibliographic identity and main technical section lookup; corroborative secondary catalog."
+  }
+}

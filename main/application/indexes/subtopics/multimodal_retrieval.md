@@ -1,0 +1,17 @@
+# Chart and Multimodal Retrieval / 图表与多模态检索
+
+9 Main long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | ACL | [DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding](../finance_notes/2026.acl-long.1234.md) | application | [Paper](https://aclanthology.org/2026.acl-long.1234/) · [PDF](../../pdfs/ACL/2026/2026.acl-long.1234__DocLens_A_Tool_Augmented_Multi_Agent_Framework_for_Long_Visual_Document_Understanding.pdf) |
+| 2026 | ACL | [LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding](../finance_notes/2026.acl-long.724.md) | application | [Paper](https://aclanthology.org/2026.acl-long.724/) · [PDF](../../pdfs/ACL/2026/2026.acl-long.724__LAD_RAG_Layout_aware_Dynamic_RAG_for_Visually_Rich_Document_Understanding.pdf) |
+| 2026 | EMNLP | [Can Your Agent Read the Source Faithfully? Benchmarking MLLM Agents on Source-Grounded Multimodal Retrieval](../finance_notes/2026.emnlp-main.1855.md) | application | [Paper](https://aclanthology.org/2026.emnlp-main.1855/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.1855__Can_Your_Agent_Read_the_Source_Faithfully_Benchmarking_MLLM_Agents_on_Source_Grounded_Multimodal_Retrieva.pdf) |
+| 2026 | EMNLP | [MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning](../finance_notes/2026.emnlp-main.1408.md) | application | [Paper](https://aclanthology.org/2026.emnlp-main.1408/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.1408__MCite_RL_Towards_Reliable_Multimodal_RAG_via_Citation_enhanced_Agentic_Reinforcement_Learning.pdf) |
+| 2026 | EMNLP | [MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval](../finance_notes/2026.emnlp-main.1731.md) | application | [Paper](https://aclanthology.org/2026.emnlp-main.1731/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.1731__MIDR_Enrichment_Augmented_Indexing_for_Multimodal_Document_Retrieval.pdf) |
+| 2026 | EMNLP | [UEmbed: Unified Sparse and Dense Multimodal Embeddings](../finance_notes/2026.emnlp-main.1419.md) | application | [Paper](https://aclanthology.org/2026.emnlp-main.1419/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.1419__UEmbed_Unified_Sparse_and_Dense_Multimodal_Embeddings.pdf) |
+| 2026 | NeurIPS | [BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation](../finance_notes/neurips-2026-9Vk5e1o3lU.md) | application | [Paper](https://openreview.net/forum?id=9Vk5e1o3lU) · [PDF](../../pdfs/NeurIPS/2026/neurips-2026-9Vk5e1o3lU__BayesRAG_Probabilistic_Mutual_Evidence_Corroboration_for_Multimodal_Retrieval_Augmented_Generation.pdf) |
+| 2025 | ACL | [Uncovering Visual-Semantic Psycholinguistic Properties from the Distributional Structure of Text Embedding Space](../finance_notes/2025.acl-long.281.md) | application | [Paper](https://aclanthology.org/2025.acl-long.281/) · [PDF](../../pdfs/ACL/2025/2025.acl-long.281__Uncovering_Visual_Semantic_Psycholinguistic_Properties_from_the_Distributional_Structure_of_Text_Embeddin.pdf) |
+| 2025 | EMNLP | [M-LongDoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework](../finance_notes/2025.emnlp-main.469.md) | application | [Paper](https://aclanthology.org/2025.emnlp-main.469/) · [PDF](../../pdfs/EMNLP/2025/2025.emnlp-main.469__M_LongDoc_A_Benchmark_For_Multimodal_Super_Long_Document_Understanding_And_A_Retrieval_Aware_Tuning_Frame.pdf) |

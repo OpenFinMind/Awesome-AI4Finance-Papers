@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2022-21327",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-21327__Towards_Building_ASR_Systems_for_the_Next_Billion_Users.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 133239,
+  "sha256": "43ddceab26bda50cd5267a50190d3f7b86946ec076d110e4591b56d204f509ce",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21327/21076",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21327/21076",
+  "downloaded_at_utc": "2026-11-10T02:15:44.108068+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Tahir Javed",
+      "Sumanth Doddapaneni",
+      "Abhigyan Raman",
+      "Kaushal Santosh Bhogale",
+      "Gowtham Ramesh",
+      "Anoop Kunchukuttan",
+      "Pratyush Kumar",
+      "Mitesh M. Khapra"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aaai-2026-39596",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-39596__Supervised_Dynamic_Dimension_Reduction_with_Deep_Neural_Network.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39596/43557",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 15,
+  "bytes": 3648683,
+  "sha256": "8a19996302719e44b3f9516dad4392204a07b9ce52df4e871ac7e3ad4cab6285",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2508.03546",
+  "final_url": "https://arxiv.org/pdf/2508.03546",
+  "downloaded_at_utc": "2026-11-10T02:32:43.825831+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zhanye Luo",
+      "Yuefeng Han",
+      "Xiufan Yu"
+    ],
+    "identity_verified": true
+  }
+}

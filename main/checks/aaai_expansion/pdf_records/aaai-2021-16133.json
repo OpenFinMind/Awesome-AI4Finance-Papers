@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2021-16133",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16133__The_LOB_Recreation_Model_Predicting_the_Limit_Order_Book_from_TAQ_History_Using_an_Ordinary_Differential_Equation_Recurrent_Neural.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1075733,
+  "sha256": "233ed06bd8d3dece12623cb558ea97d7f624c32079f73f84fded8275de5cbd86",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16133/15940",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16133/15940",
+  "downloaded_at_utc": "2026-11-10T02:15:41.360099+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zijian Shi",
+      "Yu Chen",
+      "John Cartlidge"
+    ],
+    "identity_verified": true
+  }
+}

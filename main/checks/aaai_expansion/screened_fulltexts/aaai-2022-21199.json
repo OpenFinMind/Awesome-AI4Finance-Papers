@@ -1,0 +1,89 @@
+{
+  "id": "aaai-2022-21199",
+  "title": "Online Search with Best-Price and Query-Based Predictions",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21199",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 77787,
+  "passages": [
+    {
+      "match": "exchange rates",
+      "offset": 11135,
+      "excerpt": "heoretical lower bound on the competitive ratio in this query model. For both models, we evaluate experimentally our algorithms on real-world data, in which the prices are the exchange rates for cryptocurrencies or fiat currencies. Our experimental results demonstrate that the algorithms can benefit significantly from the predictions, in both models, and that their performance decreases gently as the error increases. 1.2 Notation and definitions Let σ = (σi )di=1 be a sequence of prices revealed on days 1, d. Given an algorithm A,"
+    },
+    {
+      "match": "exchange rates",
+      "offset": 46306,
+      "excerpt": "competitive ratio better than ρ. 4 Experimental evaluation 4.1 Benchmarks and input generation We evaluate our algorithms on benchmarks generated from real-world currency exchange rates, which are publicly available on several platforms. Specifically, we rely on [16]. We used two currency exchange rates (Bitcoin-to-USD and Ethereum-to-USD) and two fiat currency exchange rates (Euro-to-USD and Yen-to-CAD). In all cases, we collected the closing daily exchange rates for a time horizon starting on January 1st, 2018 and ending on Sep"
+    },
+    {
+      "match": "exchange rates",
+      "offset": 46589,
+      "excerpt": "ed two currency exchange rates (Bitcoin-to-USD and Ethereum-to-USD) and two fiat currency exchange rates (Euro-to-USD and Yen-to-CAD). In all cases, we collected the closing daily exchange rates for a time horizon starting on January 1st, 2018 and ending on September 1st, 2021, which we use as the daily prices. 14 For each benchmark, 20 instances I1 , I2 , . . . , I20 of the online search problem are generated as follows. We select 20 starting days from the time horizon so that cons"
+    },
+    {
+      "match": "exchange rates",
+      "offset": 47188,
+      "excerpt": "ng day and the 199 days that follow it form an instance (of length 200) of the search problem. For each such instance, we select m and M to be respectively the minimum and maximum exchange rates. In all experiments, the reported profits are the average taken over these 20 instances. In particular, we use the average profit of the optimal online algorithm O N∗ (without any prediction) as the baseline for our comparisons. Similarly, the average value of the best prices (over all instances) is reported as an upper bound for attainable profit"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 47674,
+      "excerpt": "ances) is reported as an upper bound for attainable profits. 4.2 Algorithms with Best-Price Prediction We test our algorithms using several values of prediction error. For the Bitcoin-to-USD and Ethereum-to-USD benchmarks, we select 500 values of negative error equally distanced in [0, 0.5], as well as 500 equally-distanced values of positive error in [0, 0.5]. For the Euro-to-USD and Yen-to-CAD benchmarks, we select 500 values of negative/positive error in a smaller range in [0, 0.04]. This smaller range is consistent with the"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 48932,
+      "excerpt": "t half and at most twice the best price. For real data, such as currency exchange prices, this range of error is sufficient to capture all instances. Oblivious algorithms For the Bitcoin-to-USD and Ethereum-to-USD benchmarks, we evaluate O RAr with different values of the parameter r ∈ {0.5, 0.75, 1.0, 1.25, 1.5} and for the Euro-to-USD and Yen-to-CAD benchmarks, we set r ∈ {0.96, 0.98, 1.00, 1.02, 1.05}. Given that the range of error is smaller in the fiat currencies, the reservation price must be closer to the predicted value fo"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 50047,
+      "excerpt": "algorithm with r = 0.75). This follows precisely Theorem 2, as illustrated in Figure 1. For larger values of negative error, the algorithms gain a fixed profit (e.g., 15890 in the Bitcoin-to-USD bench- mark), which is the average value of the last-day price. For these values of error, the algorithm sets a reservation price that is too large, and results in the player accepting the last-day price. Last, we note that, as predicted by our competitive analysis, no algorithm dominates another in terms of collected profit. The result"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 52171,
+      "excerpt": " 0.2 0.4 -0.4 -0.2 0.0 0.2 0.4 (a) average profit for the Bitcoin-to-USD bench- (b) average profit for the Ethereum-to-USD mark benchmark ON* M r = 0.96 r = 0.98 r = 1.00 r = 1.02 r = 1.04 ON* M r = 0.96 r = 0.98 r = 1.00 r = 1.02 r = 1.0"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 54146,
+      "excerpt": "age profit for the Yen-to-CAD benchmark Figure 2: The average profit of O RAr with different values of r over instances generated from different benchmarks. as η < 0.5 (for the Bitcoin-to-USD benchmark), η < 0.2 (for the Ethereum-to-USD benchmark) and η < 0.02 (for the Euro-to-USD and Yen-to-CAD benchmarks). Non-oblivious algorithms We tested ROBUST-M IX with upper bound H on both the positive and negative error. For the Bitcoin-to-USD and Ethereum-to-USD benchmarks, we set H = Hn = Hp for H ∈ {0.1, 0.2, 0.3, 0.4, 0.5}. For the"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 54395,
+      "excerpt": ") and η < 0.02 (for the Euro-to-USD and Yen-to-CAD benchmarks). Non-oblivious algorithms We tested ROBUST-M IX with upper bound H on both the positive and negative error. For the Bitcoin-to-USD and Ethereum-to-USD benchmarks, we set H = Hn = Hp for H ∈ {0.1, 0.2, 0.3, 0.4, 0.5}. For the Euro-to-USD and Yen-to-CAD benchmarks, we set H = Hn = Hp for H ∈ {0.005, 0.01, 0.02, 0.03, 0.04}. The smaller range of η in fiat currencies implies that we need to test smaller values of H. For each such value of H, and for each selected error"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 56976,
+      "excerpt": " 0.25 0.50 -0.50 -0.25 0.00 0.25 0.50 (a) average profit for the Bitcoin-to-USD bench- (b) average profit for the Ethereum-to-USD mark benchmark ON* M H = 0.005 H = 0.01 H = 0.02 H = 0.03 ON* M H = 0.005 H = 0.01 H = 0.02 H = 0.03 "
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 62270,
+      "excerpt": " error (η) error (η) (a) average profit for the Bitcoin-to-USD bench- (b) average profit for the Ethereum-to-USD mark benchmark ON* M RLIS (H = 3) RLIS (H = 5) RLIS (H = 8) ON* M RLIS (H = 3) RLIS (H = 5) RLIS (H = 8) "
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 68175,
+      "excerpt": " error (η) error (η) (a) average profit for the Bitcoin-to-USD bench-(b) average profit for the Ethereum-to-USD mark benchmark ON* M RBIS (H = 3) RBIS (H = 5) ⠀ ON* M RBIS (H = 3) RBIS (H ="
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Spyros Angelopoulos",
+      "Shahin Kamali",
+      "Dehou Zhang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2112.01592",
+    "version": "arxiv_author_version"
+  }
+}

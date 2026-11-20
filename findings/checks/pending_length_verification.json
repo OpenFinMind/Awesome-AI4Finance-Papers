@@ -1,0 +1,242 @@
+[
+  {
+    "id": "2020.findings-emnlp.116",
+    "title": "Examining the Ordering of Rhetorical Strategies in Persuasive Requests",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2020.findings-emnlp.116/"
+  },
+  {
+    "id": "2021.findings-acl.327",
+    "title": "On the Lack of Robust Interpretability of Neural Text Classifiers",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 6,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2021.findings-acl.327/"
+  },
+  {
+    "id": "2021.findings-acl.400",
+    "title": "Domain-Aware Dependency Parsing for Questions",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2021.findings-acl.400/"
+  },
+  {
+    "id": "2021.findings-acl.434",
+    "title": "BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2021.findings-acl.434/"
+  },
+  {
+    "id": "2021.findings-acl.457",
+    "title": "Characterizing Social Spambots by their Human Traits",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2021.findings-acl.457/"
+  },
+  {
+    "id": "2021.findings-emnlp.221",
+    "title": "Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 6,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 37,
+      "sixth_content_page_excerpt": "Impact Statement Numeracy plays an important role in natural language understanding. Given the prevalence of numbers in real-world NLP applications in finance and healthcare domains, we hope the proposed number embedding method can be used as a plug-andplay tool in researchers and practitioners’ NLP pipelines. "
+    },
+    "paper_url": "https://aclanthology.org/2021.findings-emnlp.221/"
+  },
+  {
+    "id": "2022.findings-emnlp.139",
+    "title": "DocFin: Multimodal Financial Prediction and Bias Mitigation using Semi-structured Documents",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2022.findings-emnlp.139/"
+  },
+  {
+    "id": "2022.findings-emnlp.468",
+    "title": "VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 6,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2022.findings-emnlp.468/"
+  },
+  {
+    "id": "2023.findings-acl.219",
+    "title": "Financial Numeric Extreme Labelling: A dataset and benchmarking",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 6,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": "6 "
+    },
+    "paper_url": "https://aclanthology.org/2023.findings-acl.219/"
+  },
+  {
+    "id": "2023.findings-emnlp.58",
+    "title": "Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2023.findings-emnlp.58/"
+  },
+  {
+    "id": "2023.findings-emnlp.138",
+    "title": "Exploring the Impact of Corpus Diversity on Financial Pretrained Language Models",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2023.findings-emnlp.138/"
+  },
+  {
+    "id": "2023.findings-emnlp.434",
+    "title": "GPT Deciphering Fedspeak: Quantifying Dissent Among Hawks and Doves",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2023.findings-emnlp.434/"
+  },
+  {
+    "id": "2023.findings-emnlp.1035",
+    "title": "Evaluating Parameter-Efficient Finetuning Approaches for Pre-trained Models on the Financial Domain",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2023.findings-emnlp.1035/"
+  },
+  {
+    "id": "2024.findings-acl.453",
+    "title": "From Zero to Hero: Cold-Start Anomaly Detection",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2024.findings-acl.453/"
+  },
+  {
+    "id": "2024.findings-acl.470",
+    "title": "The State of Relation Extraction Data Quality: Is Bigger Always Better?",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2024.findings-acl.470/"
+  },
+  {
+    "id": "2024.findings-emnlp.125",
+    "title": "EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 6,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2024.findings-emnlp.125/"
+  },
+  {
+    "id": "2026.findings-acl.775",
+    "title": "A Picture is Worth a Thousand Words? An Empirical Study of Aggregation Strategies for Visual Financial Document Retrieval",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2026.findings-acl.775/"
+  },
+  {
+    "id": "2026.findings-emnlp.1056",
+    "title": "A Shaky Voice Is Not Always a Dodge: Benchmarking Textual and Vocal Evasion Detection in Earnings Calls",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2026.findings-emnlp.1056/"
+  },
+  {
+    "id": "2026.findings-emnlp.1767",
+    "title": "Simple Beats Spend: Cost-Performance Trade-Offs for Multi-Agent Machine Translation of Financial Long Documents",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2026.findings-emnlp.1767/"
+  },
+  {
+    "id": "2026.findings-emnlp.2448",
+    "title": "Definition-Only RAG for Financial QA: Average Gains and a Diagnostic Boundary",
+    "reason": "long_paper_type_unverified",
+    "inspection": {
+      "first_backmatter_page": 5,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 0,
+      "sixth_content_page_excerpt": ""
+    },
+    "paper_url": "https://aclanthology.org/2026.findings-emnlp.2448/"
+  }
+]

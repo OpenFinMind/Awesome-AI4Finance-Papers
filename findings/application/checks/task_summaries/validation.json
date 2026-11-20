@@ -1,0 +1,15 @@
+{
+  "track": "findings",
+  "scope": "application",
+  "summary_pages": 18,
+  "populated_summaries": 16,
+  "empty_task_notices": 2,
+  "unique_representative_papers": 41,
+  "representative_paper_appearances": 48,
+  "current_task_membership_verified": true,
+  "bilingual_sources_verified": true,
+  "source_and_rendered_summary_identical": true,
+  "complete_paper_lists_preserved": true,
+  "catalog_and_classification_inputs_preserved": true,
+  "evidence_bound_to_catalog_and_pdf_hashes": true
+}

@@ -1,0 +1,18 @@
+# Financial Factual QA / 金融事实问答
+
+10 Main long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | ACL | [The Digital Dunning-Kruger Effect: Decoupling Hallucinations via Geometric Hidden-state Observation for Semantic Truthfulness](../finance_notes/2026.acl-long.993.md) | application | [Paper](https://aclanthology.org/2026.acl-long.993/) · [PDF](../../pdfs/ACL/2026/2026.acl-long.993__The_Digital_Dunning_Kruger_Effect_Decoupling_Hallucinations_via_Geometric_Hidden_state_Observation_for_Se.pdf) |
+| 2026 | EMNLP | [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](../finance_notes/2026.emnlp-main.1237.md) | application | [Paper](https://aclanthology.org/2026.emnlp-main.1237/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.1237__AGORA_An_Archive_Grounded_Benchmark_for_Agentic_Workplace_Document_Reasoning.pdf) |
+| 2026 | EMNLP | [Auditing RAG Necessity: A Conformal Test for Source-Independent Answers](../finance_notes/2026.emnlp-main.1820.md) | application | [Paper](https://aclanthology.org/2026.emnlp-main.1820/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.1820__Auditing_RAG_Necessity_A_Conformal_Test_for_Source_Independent_Answers.pdf) |
+| 2026 | ICLR | [Distributional Equivalence in Linear Non-Gaussian Latent-Variable Cyclic Causal Models: Characterization and Learning](../finance_notes/iclr-2026-b8TlYh6PN6.md) | application | [Paper](https://openreview.net/forum?id=b8TlYh6PN6) · [PDF](../../pdfs/ICLR/2026/iclr-2026-b8TlYh6PN6__Distributional_Equivalence_in_Linear_Non_Gaussian_Latent_Variable_Cyclic_Causal_Models_Characterization_a.pdf) |
+| 2026 | ICLR | [Learning Facts at Scale with Active Reading](../finance_notes/iclr-2026-mRi2cJDtIS.md) | application | [Paper](https://openreview.net/forum?id=mRi2cJDtIS) · [PDF](../../pdfs/ICLR/2026/iclr-2026-mRi2cJDtIS__Learning_Facts_at_Scale_with_Active_Reading.pdf) |
+| 2026 | NeurIPS | [Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents](../finance_notes/neurips-2026-Skjgiw2yTJ.md) | application | [Paper](https://openreview.net/forum?id=Skjgiw2yTJ) · [PDF](../../pdfs/NeurIPS/2026/neurips-2026-Skjgiw2yTJ__Beyond_Suspicious_Steps_Ontological_Trust_in_Long_Horizon_Agents.pdf) |
+| 2025 | ACL | [INTERACT: Enabling Interactive, Question-Driven Learning in Large Language Models](../finance_notes/2025.acl-long.441.md) | application | [Paper](https://aclanthology.org/2025.acl-long.441/) · [PDF](../../pdfs/ACL/2025/2025.acl-long.441__INTERACT_Enabling_Interactive_Question_Driven_Learning_in_Large_Language_Models.pdf) |
+| 2024 | EMNLP | [Synthetic Knowledge Ingestion: Towards Knowledge Refinement and Injection for Enhancing Large Language Models](../finance_notes/2024.emnlp-main.1196.md) | application | [Paper](https://aclanthology.org/2024.emnlp-main.1196/) · [PDF](../../pdfs/EMNLP/2024/2024.emnlp-main.1196__Synthetic_Knowledge_Ingestion_Towards_Knowledge_Refinement_and_Injection_for_Enhancing_Large_Language_Mod.pdf) |
+| 2022 | ACL | [Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning](../finance_notes/2022.acl-long.5.md) | application | [Paper](https://aclanthology.org/2022.acl-long.5/) · [PDF](../../pdfs/ACL/2022/2022.acl-long.5__Learning_to_Imagine_Integrating_Counterfactual_Thinking_in_Neural_Discrete_Reasoning.pdf) |
+| 2022 | ACL | [TruthfulQA: Measuring How Models Mimic Human Falsehoods](../finance_notes/2022.acl-long.229.md) | application | [Paper](https://aclanthology.org/2022.acl-long.229/) · [PDF](../../pdfs/ACL/2022/2022.acl-long.229__TruthfulQA_Measuring_How_Models_Mimic_Human_Falsehoods.pdf) |

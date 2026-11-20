@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2020-6005",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-6005__Actionable_Ethics_through_Neural_Learning.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1176284,
+  "sha256": "3e5a5f353762fa95e3c3dcdbb1208ef6f06312faf9ac90ce0a7a829074028e42",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6005/5861",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6005/5861",
+  "downloaded_at_utc": "2026-11-10T02:15:39.381545+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Daniele Rossini",
+      "Danilo Croce",
+      "Sara Mancini",
+      "Massimo Pellegrino",
+      "Roberto Basili"
+    ],
+    "identity_verified": true
+  }
+}

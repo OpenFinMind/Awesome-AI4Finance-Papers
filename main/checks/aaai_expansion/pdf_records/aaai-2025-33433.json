@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2025-33433",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33433__Dynamic_Graph_Learning_with_Static_Relations_for_Credit_Risk_Assessment.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 664319,
+  "sha256": "1348215f0f1fc109391942897c24a734d88dc2e6e405fe5ad2c96ea874a81d30",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33433/35588",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33433/35588",
+  "downloaded_at_utc": "2026-11-10T02:15:52.754452+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Qi Yuan",
+      "Yang Liu",
+      "Yateng Tang",
+      "Xinhuan Chen",
+      "Xuehao Zheng",
+      "Qing He",
+      "Xiang Ao"
+    ],
+    "identity_verified": true
+  }
+}

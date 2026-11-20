@@ -1,0 +1,83 @@
+{
+  "track": "findings",
+  "papers": 187,
+  "topics": 18,
+  "partitions": {
+    "core": {
+      "validated_at_utc": "2026-11-20T08:38:20.944237+00:00",
+      "papers": 112,
+      "tracks": {
+        "findings": 112
+      },
+      "scope": {
+        "core": 112
+      },
+      "venues": {
+        "EMNLP": 63,
+        "ACL": 49
+      },
+      "years": {
+        "2020": 2,
+        "2021": 3,
+        "2022": 2,
+        "2023": 4,
+        "2024": 14,
+        "2025": 24,
+        "2026": 63
+      },
+      "topics": 18,
+      "paper_notes": 112,
+      "pdfs": 112,
+      "pdf_bytes": 302686474,
+      "missing_pdfs": 0,
+      "local_markdown_links_checked": 4002,
+      "title_abstract_reviews_without_separate_inclusion_excerpt": [],
+      "csv_jsonl_excel_classifications_consistent": true,
+      "topic_memberships_consistent": true,
+      "bibtex_identities_consistent": true,
+      "all_local_links_resolve": true,
+      "all_pdf_hashes_match": true,
+      "separate_track_validated": "findings",
+      "separate_scope_validated": "core",
+      "explicit_short_paper_records": 0
+    },
+    "application": {
+      "validated_at_utc": "2026-11-20T08:38:22.181868+00:00",
+      "papers": 75,
+      "tracks": {
+        "findings": 75
+      },
+      "scope": {
+        "application": 75
+      },
+      "venues": {
+        "ACL": 34,
+        "EMNLP": 41
+      },
+      "years": {
+        "2021": 9,
+        "2022": 1,
+        "2023": 7,
+        "2024": 16,
+        "2025": 16,
+        "2026": 26
+      },
+      "topics": 18,
+      "paper_notes": 75,
+      "pdfs": 75,
+      "pdf_bytes": 201919236,
+      "missing_pdfs": 0,
+      "local_markdown_links_checked": 2756,
+      "title_abstract_reviews_without_separate_inclusion_excerpt": [],
+      "csv_jsonl_excel_classifications_consistent": true,
+      "topic_memberships_consistent": true,
+      "bibtex_identities_consistent": true,
+      "all_local_links_resolve": true,
+      "all_pdf_hashes_match": true,
+      "separate_track_validated": "findings",
+      "separate_scope_validated": "application",
+      "explicit_short_paper_records": 0
+    }
+  },
+  "all_four_collection_checks_passed": true
+}

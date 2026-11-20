@@ -1,0 +1,2012 @@
+[
+  {
+    "id": "kdd-2018-5c35c2497d2d",
+    "year": 2018,
+    "doi": "10.1145/3219819.3219964",
+    "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2018/calls/view/kdd-2018-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2018-9f8408334f8b",
+    "year": 2018,
+    "doi": "10.1145/3219819.3220113",
+    "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2018/calls/view/kdd-2018-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2019-53a4aee906eb",
+    "year": 2019,
+    "doi": "10.1145/3292500.3330833",
+    "source_url": "https://www.kdd.org/kdd2019/proceedings",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2019/proceedings",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2019/calls/view/kdd-2019-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2019-eea3886c4af6",
+    "year": 2019,
+    "doi": "10.1145/3292500.3330983",
+    "source_url": "https://www.kdd.org/kdd2019/proceedings",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2019/proceedings",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2019/calls/view/kdd-2019-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-7b279452953c",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467358",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-17928d25c17a",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467297",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-cf5420452809",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467383",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-5bf5eddf107a",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539252",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-f6040d4848d1",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539462",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-be7f39c5a9de",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599424",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-84d05f0f7e27",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599351",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-f7332a9c061f",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599315",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-7dc5a45570cd",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671668",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-4e1ca703d29e",
+    "year": 2024,
+    "doi": "10.1145/3637528.3672064",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-b2059180de7b",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671801",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-ea7cae0393f9",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671942",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-6d7b4399644b",
+    "year": 2024,
+    "doi": "10.1145/3637528.3672012",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-c8f737f65bdf",
+    "year": 2024,
+    "doi": "10.1145/3637528.3672037",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-dde09d0647f8",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736838",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-c2b0e7b0df67",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736872",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-43e156362af8",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736900",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-fa2d0374c89d",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736934",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-83375757b800",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736996",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-3b49ea9a6f40",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737005",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-47e275ffdf67",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737149",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-e43466bc738f",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709189",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-953d74ec6de0",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709322",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-99636fb57db1",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709328",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-f59c8ff60d76",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817620",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-ccd584a46e66",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817727",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-ba88ac2c1022",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817749",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-2d20afcf1ce6",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817765",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-1ce577edb8d5",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817795",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-f70c181958bb",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817881",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-9b8ecdc7bdc5",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817927",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-2f5d5bb561d1",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817928",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-3d7a1f25e747",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817999",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-61e0c49a11cb",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818050",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-8e36c5a86dfb",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818080",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-46f2d631d6cf",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818120",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-73c0c179c05e",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818131",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-b53cadb8a96d",
+    "year": 2026,
+    "doi": "10.1145/3770854.3780175",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-69806395a298",
+    "year": 2026,
+    "doi": "10.1145/3770854.3780187",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-2b4a4ddeea06",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599294",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-a24a57a0225f",
+    "year": 2024,
+    "doi": "10.1145/3637528.3672057",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-304b975993cd",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736910",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2017-e008077d901d",
+    "year": 2017,
+    "doi": "10.1145/3097983.3098037",
+    "source_url": "https://www.kdd.org/kdd2017/accepted-papers",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2017/accepted-papers",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2017/announcements/view/kdd-2017-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-f67017a25376",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467251",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-a8840e16ed69",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467225",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-59184cd048b0",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467333",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-766965f35e51",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539232",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-65823fe3872f",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539404",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-72076b5849e9",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539487",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-9859013a6cee",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671964",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-db2d851143e3",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736877",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-9258684580e0",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736895",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-22cec0642f67",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737054",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-c9c92ff6e3a8",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709217",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-679da441988e",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709300",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-4ed6ae3337e7",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817614",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-716b9b6db3eb",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817960",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-aac8f0309d0d",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817712",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-af4c01710446",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818062",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-0b9a5c202a29",
+    "year": 2026,
+    "doi": "10.1145/3770854.3780195",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2017-30051c903823",
+    "year": 2017,
+    "doi": "10.1145/3097983.3098066",
+    "source_url": "https://www.kdd.org/kdd2017/accepted-papers",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2017/accepted-papers",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2017/announcements/view/kdd-2017-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2017-8f541847945f",
+    "year": 2017,
+    "doi": "10.1145/3097983.3098144",
+    "source_url": "https://www.kdd.org/kdd2017/accepted-papers",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2017/accepted-papers",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2017/announcements/view/kdd-2017-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2018-8b3a8efc4094",
+    "year": 2018,
+    "doi": "10.1145/3219819.3220087",
+    "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2018/calls/view/kdd-2018-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2018-89b5a2d9a773",
+    "year": 2018,
+    "doi": "10.1145/3219819.3220121",
+    "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2018/accepted-papers",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2018/calls/view/kdd-2018-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2019-499dc1565bc2",
+    "year": 2019,
+    "doi": "10.1145/3292500.3330896",
+    "source_url": "https://www.kdd.org/kdd2019/proceedings",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2019/proceedings",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2019/calls/view/kdd-2019-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2019-9c32fc8e13f1",
+    "year": 2019,
+    "doi": "10.1145/3292500.3330871",
+    "source_url": "https://www.kdd.org/kdd2019/proceedings",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2019/proceedings",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2019/calls/view/kdd-2019-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2020-32f8b171cf26",
+    "year": 2020,
+    "doi": "10.1145/3394486.3403055",
+    "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2020-2255d2612a29",
+    "year": 2020,
+    "doi": "10.1145/3394486.3403118",
+    "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2020-e0340f91b71a",
+    "year": 2020,
+    "doi": "10.1145/3394486.3403199",
+    "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2020-9f0aa37e61a0",
+    "year": 2020,
+    "doi": "10.1145/3394486.3403250",
+    "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2020-226b55e1393a",
+    "year": 2020,
+    "doi": "10.1145/3394486.3403263",
+    "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2020/proceedings/",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-747a4cb18724",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467258",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-360b465a27b1",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467326",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-0e6566e6e6ce",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467268",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-e70b89157367",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467389",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-2b51bafc59cf",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467293",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-4410338bcf59",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467374",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-5b63d167a9b0",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467362",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2021-c41236ae2eab",
+    "year": 2021,
+    "doi": "10.1145/3447548.3467322",
+    "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Papers",
+      "format_policy_url": "https://www.kdd.org/calls/view/call-for-research-track-papers-kdd-2021",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-0d892ee7e2a2",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539319",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-809c231108de",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539451",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-415a3ad80234",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539245",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-0f2c5145dcd5",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539274",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2022-fe974df53e30",
+    "year": 2022,
+    "doi": "10.1145/3534678.3539460",
+    "source_url": "https://www.kdd.org/kdd2022/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://www.kdd.org/kdd2022/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://www.kdd.org/kdd2022/cfpResearch.html",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-579911069796",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599290",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-7aa51d3f22ce",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599408",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-c12895cf97b8",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599302",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-6ccdebc76b46",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599343",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2023-3c969ba705d7",
+    "year": 2023,
+    "doi": "10.1145/3580305.3599523",
+    "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+      "official_track": "Research Track",
+      "official_section": "SESSION: Research Track Full Papers",
+      "format_policy_url": "https://kdd.org/kdd2023/call-for-research-track-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-495b66024c5d",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671855",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-bac8d313ef40",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671969",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-f84e4f8782b3",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671845",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-9ae7f2337693",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671990",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-7ab53789522d",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671797",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-bb7c917fdcdc",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671959",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-2c142cac5513",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671877",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-eb82f003fdf0",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671674",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-f171d38ecc3a",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671834",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-f58f730a06cf",
+    "year": 2024,
+    "doi": "10.1145/3637528.3672029",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-015d3f355bf3",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671826",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2024-08de29431e72",
+    "year": 2024,
+    "doi": "10.1145/3637528.3671794",
+    "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2024/research-track-papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2024/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-09ba5154147b",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736843",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-c8fdceeb2bcb",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736960",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-90107a34a86e",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736989",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-312579546f4f",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737064",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-44f54d288d11",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737075",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-9982bd073b30",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737119",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-fd7ac2fcb9c0",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709170",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-9822ed75ff2d",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709184",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-1148cb35f67b",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709234",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-e576ccae257b",
+    "year": 2025,
+    "doi": "10.1145/3690624.3709325",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-fa19aecd5d38",
+    "year": 2025,
+    "doi": "10.1145/3711896.3736997",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2025-774ea781fe87",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737072",
+    "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd.org/kdd2025/research-track-papers-2/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd.org/kdd2025/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-9887da762f22",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817670",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-71317e22179b",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817748",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-8423b1242e93",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817774",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-e27bd9e9a6aa",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817791",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-50f729627f0d",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817810",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-bb31570d0ae5",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817813",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-d03888932a4c",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817848",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-ed1d6d317c71",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817858",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-4c348eeb9eb4",
+    "year": 2026,
+    "doi": "10.1145/3770855.3817944",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-f26d53babf39",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818005",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-f73b86e3d2f8",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818007",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-961556e229b2",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818061",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-7e18edc44de8",
+    "year": 2026,
+    "doi": "10.1145/3770854.3780240",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-5e0adc85c041",
+    "year": 2026,
+    "doi": "10.1145/3770854.3780318",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-704f7c8ad0d4",
+    "year": 2026,
+    "doi": "10.1145/3770854.3780323",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-ff3f0eb77aee",
+    "year": 2026,
+    "doi": "10.1145/3770855.3818200",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  },
+  {
+    "id": "kdd-2026-35b35f0719cd",
+    "year": 2026,
+    "doi": "10.1145/3770854.3780245",
+    "source_url": "https://kdd2026.kdd.org/papers/",
+    "paper_length_evidence": {
+      "paper_length": "long",
+      "evidence_type": "regular_full_paper_track",
+      "source_url": "https://kdd2026.kdd.org/papers/",
+      "official_track": "Research Track",
+      "official_section": "Research Track Papers",
+      "format_policy_url": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "reason": "Regular KDD Research full-paper track; no short, ADS, Datasets/Benchmarks, workshop, demo or invited entries."
+    }
+  }
+]

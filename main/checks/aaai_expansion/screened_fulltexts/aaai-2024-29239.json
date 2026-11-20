@@ -1,0 +1,84 @@
+{
+  "id": "aaai-2024-29239",
+  "title": "Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29239",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 90482,
+  "passages": [
+    {
+      "match": "Bitcoin",
+      "offset": 38396,
+      "excerpt": " edge filtering could MOOC (Feng, Tang, and Liu 2019), UCI (Panzarasa, Op- lead to two significant issues. First, in the initial stages of sahl, and Carley 2009), and Bitcoin-OTC (Kumar et al. training, the model and edge scorer might not be sufficiently 2016). The details of them are provided in Appendix A.2. trained, resulting in low confidence in the edge scores. Set- Across all datasets, we use the same 70%/15%/15% chrono- ting a high fixed threshold during this phase could remove logical sp"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 42277,
+      "excerpt": ".5 46.2 ± 0.7 45.2 ± 1.4 JODIE 34.6 ± 0.7 31.4 ± 0.5 30.3 ± 0.6 32.1 ± 0.6 29.2 ± 0.8 27.9 ± 0.9 28.9 ± 0.7 Bitcoin TGAT 21.8 ± 0.4 18.6 ± 0.3 17.3 ± 0.3 18.5 ± 0.4 17.1 ± 0.4 16.6 ± 0.6 17.1 ± 0.2 DY SAT 84.7 ± 0.7 79.0 ± 0.8 78.9 ± 0.2 79.4 ± 0.6 79.0 ± 0.4 79.0 ± 0.2 78.8 ± 0.2 A.P.D.↓ - -14.7% -14.9% -7.5% "
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 66321,
+      "excerpt": " UCI 1,899 59,835 1.6 × 107 - - We list the four datasets used in this paper. Bitcoin-OTC 5,881 35,592 1.6 × 108 - - • Wikipedia3 is a user action dataset that captures interac- tions between users and Wikipedia pages. This dataset Table 5: Statistics of datasets used in our experiments. contains 157,474 attributed interactions recorded over one month, involving 8,227 users and 1,000 pages"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 68735,
+      "excerpt": "o nodes u and v by selecting the pair with the our experiment. smallest sum of their neighbor counts, i.e., |N (u)|+|N (v)|. • Bitcoin-OTC6 is a who-trusts-whom network of people (5) S TRUCT-PR: Similar to S TRUCT-D, it connects two who trade Bitcoin on the Bitcoin OTC platform. Due nodes u and v by selecting the pair with the smallest sum to the anonymity of Bitcoin users, preserving records of of their PageRank centralities, i.e., P R(u)"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 69003,
+      "excerpt": " to S TRUCT-D, it connects two who trade Bitcoin on the Bitcoin OTC platform. Due nodes u and v by selecting the pair with the smallest sum to the anonymity of Bitcoin users, preserving records of of their PageRank centralities, i.e., P R(u) + P R(v). user reputations is necessary to prevent transactions with We consider these baselines under the constraints (C1-C4). fraudulent and high-risk users. The dataset encompasses Note that, for baselines (2)-(5), we construct a plain graph "
+    },
+    {
+      "match": "bitcoin",
+      "offset": 72254,
+      "excerpt": "tails 5 https://snap.stanford.edu/data/CollegeMsg.html For all our experiments, we use a constant learning rate of 6 https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html 0.0001 while training all victim models, surrogate models for attack methods, and defense models. In particular, we a range of 0 to 1, with steps of 0.1. Additionally, we search employ the Adam optimizer (Kingma and Ba 2014) with a for a hyperparameter λ, which controls the level of temporal batch size of 6"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 72986,
+      "excerpt": "rparameters. epochs for DySAT), we apply early stopping if validation MRR does not improve for 10 epochs. Wikipedia MOOC UCI Bitcoin-OTC Hyperparameters for the Victim Models The imple- Rank 100 80 30 100 mentation of the victim models (TGN (Rossi et al. 2020), τcosine 0.1 0.2 0.1 0.1 JODIE (Kumar, Zhang, and Leskovec 2019), TGAT (Xu τs 0.6 0.6 0.4 "
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 75646,
+      "excerpt": " - - 10,000 ing a 2-layer MLP as the edge scorer, its time complexity is *Length in time of each snapshot for discrete-time TGNNs. Cclf = O(d2 ). *For Bitcoin-OTC dataset, we use 100,000. Lemma 1 (Time complexity of T-S PEAR). The time com- \u0001 plexity of T-S PEAR is O (Ctgn +|W |·Cclf +p·|W |2 )·|E| . Table 6: Hyperparameters for victim models. "
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 82412,
+      "excerpt": "rediction performance across vari- ous attack methods, datasets, and perturbation rates. In Ta- ble 11 and 12, we provide additional experimental results for defense models on the Bitcoin-OTC dataset. In the Bitcoin- OTC dataset, the performance gap between the clean graph and the attacked graphs is not significant; therefore, the im- provement in the defense model’s performance is not notice- able. Nonetheless, there was still an average performance in- crease of 1.9%. Dataset Victim Clean R ANDOM P"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 84535,
+      "excerpt": " 67.6 ± 1.0 67.0 ± 0.6 68.1 ± 0.9 66.6 ± 1.8 JODIE 64.8 ± 0.7 65.9 ± 0.6 65.3 ± 0.5 66.1 ± 0.6 65.5 ± 0.6 64.8 ± 0.6 65.1 ± 0.3 Bitcoin TGAT 41.3 ± 0.4 33.6 ± 0.7 31.5 ± 0.8 33.9 ± 0.8 29.8 ± 1.3 28.9 ± 1.6 30.6 ± 0.6 DY SAT 99.2 ± 1.0 98.7 ± 1.0 99.4 ± 0.4 99.4 ± 0.4 99.3 ± 0.6 99.3 ± 0.6 99.0 ± 0.5 A.P.D.↓ - -10.1% -10.0% -3.6% -11.2% -10.6% -13.3"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 88842,
+      "excerpt": "6.8 ± 1.5 +1.5% T-S HIELD 48.0 ± 0.5 48.0 ± 0.6 48.0 ± 0.7 48.4 ± 0.7 48.4 ± 0.7 47.2 ± 1.4 +1.9% Table 11: MRR under R ANDOM and T-S PEAR attacks on the Bitcoin-OTC dataset. A.P.G. stands for average performance gain over the naı̈ve TGN. MRR of the clean dataset is 48.3 ± 0.7. In this dataset, the performance gap between the clean graph and the attacked graphs is not significant; therefore, the improvement in the defense model’s performance is not noticeable. Nonetheless, there was still an average perfor"
+    },
+    {
+      "match": "Bitcoin",
+      "offset": 90104,
+      "excerpt": " ± 1.5 +0.5% T-S HIELD 67.5 ± 0.8 67.0 ± 1.1 66.5 ± 0.7 68.4 ± 0.5 67.3 ± 0.9 67.8 ± 1.2 +0.6% Table 12: Hit@10 under R ANDOM and T-S PEAR attacks on the Bitcoin-OTC dataset. A.P.G. stands for average performance gain over the naı̈ve TGN. Hit@10 of the clean dataset is 66.9 ± 0.8. Since we optimize the defense model with validation MRR, Hit@10 measurements might be unstable. In this case, the baseline TGN-SVD outperforms T-S HIELD. However, the difference is not very significant, and our proposed defense m"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Dongjin Lee",
+      "Juho Lee",
+      "Kijung Shin"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2308.10779",
+    "version": "arxiv_author_version"
+  }
+}

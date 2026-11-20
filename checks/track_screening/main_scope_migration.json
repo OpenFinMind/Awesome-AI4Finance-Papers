@@ -1,0 +1,452 @@
+{
+  "source_commit": "685f2131547bddf32a41f6900e713a76dd7b0a3d",
+  "original_records": 1338,
+  "retained": 1310,
+  "removed_or_pending": [
+    {
+      "id": "P19-2046",
+      "title": "Convolutional Neural Networks for Financial Text Regression",
+      "reason": "outside_main_track",
+      "publication_evidence": "auxiliary proceedings outside Main / Findings: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop",
+      "length_evidence": {
+        "id": "P19-2046",
+        "paper_url": "https://aclanthology.org/P19-2046/",
+        "paper_length": "long",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/P19-2046.pdf",
+        "pdf_sha256": "cded400a89d6477217c88f00bcbebc1c9e6f656456d5ee8a54a3e5efe96f4258",
+        "inspection": {
+          "first_backmatter_page": 6,
+          "sixth_content_page_words": 216,
+          "sixth_content_page_excerpt": "Static Embedding on ’concern’ Word Cosine Distance regard 0.2772 privaci 0.5287 inform 0.5587 debat 0.5706 implic 0.5817 heighten 0.5825 pertain 0.5844 about 0.5901 inquiri 0.5919 fear 0.5954 Non-static Embedding on ’concern’ Word Cosine Distance regard 0.3233 privaci 0.5433 safeti 0.5550 inform 0.5562 trend 0.5568 heighten 0.5692 inquiri 0.5959 dmaa 0.6013 debat 0.6025 implic 0.6033 Table 4: Top-10 most similar words to concern comparing their word vectors. In addition, transfer learning is applied to the convolution layer since effect of temporal information on distinct layers differs. Evolving word vectors are analyzed after model benchmarks. The analysis demonstrates that CNN model tracks sentiment polarity of the words successfully and it does not depend on sentiment words only. However, it is also observed that CNN models can overfit easier. This work is focused on text source and did not include any historical market data or any other metadata. Further research on including metadata to CNN model for the same task may increase the value and analysis. ing semantically close but sentimentally far words. Another interesting word in the list is DMAA. It stands for dimethylamylamine which is an energyboosting dietary supplement. In 2012, the U.S. Food and Drug Administration (FDA) warned DMAA manufacturers. In 10-K report of Vitamin Shoppe, Inc. published on February 26, 2013, concern of the company about DMAA is stated: ”If it is determined that DMAA does not comply with applicable regulatory and legislative requirements, we could be required to recall or remove from the market all products containing DMAA and we could become subject to lawsuits related to any alleged non-compliance, any of which recalls, removals or lawsuits could materially and adversely affect our business, financial condition and results of operations.” ",
+          "inspected_content_page": 6
+        }
+      }
+    },
+    {
+      "id": "2020.acl-main.78",
+      "title": "Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2020.acl-main.78",
+        "paper_url": "https://aclanthology.org/2020.acl-main.78/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2020.acl-main.78.pdf",
+        "pdf_sha256": "062d596ead6ae3dd2104859ac23227333d086cc9c40b7336396f1b007978a118",
+        "inspection": {
+          "first_backmatter_page": 6,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2021.acl-short.120",
+      "title": "DuReader_robust: A Chinese Dataset Towards Evaluating Robustness and Generalization of Machine Reading Comprehension in Real-World Applications",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2021.acl-short.120",
+        "paper_url": "https://aclanthology.org/2021.acl-short.120/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2021.acl-short.120/"
+      }
+    },
+    {
+      "id": "2021.acl-short.99",
+      "title": "Issues with Entailment-based Zero-shot Text Classification",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2021.acl-short.99",
+        "paper_url": "https://aclanthology.org/2021.acl-short.99/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2021.acl-short.99/"
+      }
+    },
+    {
+      "id": "2021.acl-short.41",
+      "title": "ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2021.acl-short.41",
+        "paper_url": "https://aclanthology.org/2021.acl-short.41/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2021.acl-short.41/"
+      }
+    },
+    {
+      "id": "2022.acl-short.12",
+      "title": "Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in Pre-trained Language Models",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2022.acl-short.12",
+        "paper_url": "https://aclanthology.org/2022.acl-short.12/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2022.acl-short.12/"
+      }
+    },
+    {
+      "id": "2022.acl-short.69",
+      "title": "HYPHEN: Hyperbolic Hawkes Attention For Text Streams",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2022.acl-short.69",
+        "paper_url": "https://aclanthology.org/2022.acl-short.69/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2022.acl-short.69/"
+      }
+    },
+    {
+      "id": "2023.acl-short.91",
+      "title": "Environmental Claim Detection",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2023.acl-short.91",
+        "paper_url": "https://aclanthology.org/2023.acl-short.91/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2023.acl-short.91/"
+      }
+    },
+    {
+      "id": "2024.acl-short.42",
+      "title": "DocFinQA: A Long-Context Financial Reasoning Dataset",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2024.acl-short.42",
+        "paper_url": "https://aclanthology.org/2024.acl-short.42/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2024.acl-short.42/"
+      }
+    },
+    {
+      "id": "2025.acl-short.53",
+      "title": "A Variational Approach for Mitigating Entity Bias in Relation Extraction",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2025.acl-short.53",
+        "paper_url": "https://aclanthology.org/2025.acl-short.53/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2025.acl-short.53/"
+      }
+    },
+    {
+      "id": "2025.acl-short.22",
+      "title": "Combining Domain and Alignment Vectors Provides Better Knowledge-Safety Trade-offs in LLMs",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2025.acl-short.22",
+        "paper_url": "https://aclanthology.org/2025.acl-short.22/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2025.acl-short.22/"
+      }
+    },
+    {
+      "id": "2025.acl-short.71",
+      "title": "Revisiting LLMs as Zero-Shot Time Series Forecasters: Small Noise Can Break Large Models",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2025.acl-short.71",
+        "paper_url": "https://aclanthology.org/2025.acl-short.71/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2025.acl-short.71/"
+      }
+    },
+    {
+      "id": "2026.acl-short.4",
+      "title": "Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2026.acl-short.4",
+        "paper_url": "https://aclanthology.org/2026.acl-short.4/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2026.acl-short.4/"
+      }
+    },
+    {
+      "id": "2026.acl-short.68",
+      "title": "Learning from Emptiness: De-biasing Listwise Rerankers with Content-Agnostic Probability Calibration",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2026.acl-short.68",
+        "paper_url": "https://aclanthology.org/2026.acl-short.68/",
+        "paper_length": "short",
+        "evidence_type": "official_short_papers_volume",
+        "source_url": "https://aclanthology.org/2026.acl-short.68/"
+      }
+    },
+    {
+      "id": "D17-1057",
+      "title": "A Multilayer Perceptron based Ensemble Technique for Fine-grained Financial Sentiment Analysis",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "D17-1057",
+        "paper_url": "https://aclanthology.org/D17-1057/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/D17-1057.pdf",
+        "pdf_sha256": "3761bc878502669a210875cc0c25109c1b80edc837fabc0a009e7212f51e5b0a",
+        "inspection": {
+          "first_backmatter_page": 6,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "D18-1104",
+      "title": "Compact Personalized Models for Neural Machine Translation",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "D18-1104",
+        "paper_url": "https://aclanthology.org/D18-1104/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/D18-1104.pdf",
+        "pdf_sha256": "331d3a4b2cd84af03f56630e9bc630e8f4a793453c9ae5e6358436f256169abc",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "D18-1536",
+      "title": "The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "D18-1536",
+        "paper_url": "https://aclanthology.org/D18-1536/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/D18-1536.pdf",
+        "pdf_sha256": "fa16e57e5a22f7606e67eb527297c3e081d455dc4ea8720f92b044950de5fbd4",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "D19-1121",
+      "title": "Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "D19-1121",
+        "paper_url": "https://aclanthology.org/D19-1121/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/D19-1121.pdf",
+        "pdf_sha256": "10a6affad266aacd8e89b1d8f289c94b31484cf8620e6bd4d4c7a183037a37cc",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2021.emnlp-main.591",
+      "title": "Multilingual and Cross-Lingual Intent Detection from Spoken Data",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2021.emnlp-main.591",
+        "paper_url": "https://aclanthology.org/2021.emnlp-main.591/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2021.emnlp-main.591.pdf",
+        "pdf_sha256": "a484620ef0a4c84e46873e6f1979702e291a20dd19e7f38cf16d7cb4e0bd0de5",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2021.emnlp-main.557",
+      "title": "Numeracy enhances the Literacy of Language Models",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2021.emnlp-main.557",
+        "paper_url": "https://aclanthology.org/2021.emnlp-main.557/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2021.emnlp-main.557.pdf",
+        "pdf_sha256": "53865138455e72dddbe80fc8e4e787ddfae9b8910c2fd53e1d009833308b9637",
+        "inspection": {
+          "first_backmatter_page": 6,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": "8 "
+        }
+      }
+    },
+    {
+      "id": "2021.emnlp-main.362",
+      "title": "Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2021.emnlp-main.362",
+        "paper_url": "https://aclanthology.org/2021.emnlp-main.362/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2021.emnlp-main.362.pdf",
+        "pdf_sha256": "13ef58bdc9d0ad7c4bde977af25254a62d5d2b343f7203ffa7f666bb4cad72dd",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2021.emnlp-main.165",
+      "title": "Visual Goal-Step Inference using wikiHow",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2021.emnlp-main.165",
+        "paper_url": "https://aclanthology.org/2021.emnlp-main.165/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2021.emnlp-main.165.pdf",
+        "pdf_sha256": "925c728b09474d9cf40521e7cac14cf5dd3d76d834090b7ec4167357d8a38f23",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2023.emnlp-main.956",
+      "title": "FinEntity: Entity-level Sentiment Classification for Financial Texts",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2023.emnlp-main.956",
+        "paper_url": "https://aclanthology.org/2023.emnlp-main.956/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2023.emnlp-main.956.pdf",
+        "pdf_sha256": "6c79c5087728efdf3aae16f1e7014336ea3c3c7aaeeb6bd3754862f4c5ef8430",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2023.emnlp-main.849",
+      "title": "Poisoning Retrieval Corpora by Injecting Adversarial Passages",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2023.emnlp-main.849",
+        "paper_url": "https://aclanthology.org/2023.emnlp-main.849/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2023.emnlp-main.849.pdf",
+        "pdf_sha256": "0586b174b4b6d85b4738894f4f7cfeda2e209ebbf755d232e48f08a9599d0723",
+        "inspection": {
+          "first_backmatter_page": 6,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2024.emnlp-main.842",
+      "title": "LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2024.emnlp-main.842",
+        "paper_url": "https://aclanthology.org/2024.emnlp-main.842/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2024.emnlp-main.842.pdf",
+        "pdf_sha256": "8829b1e54b7fc0a3f4bd3655c015819ed8ad08a9ca3d697086bebb2c38f3fbf5",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2025.emnlp-main.1774",
+      "title": "Translating Domain-Specific Terminology in Typologically-Diverse Languages: A Study in Tax and Financial Education",
+      "reason": "short",
+      "length_evidence": {
+        "id": "2025.emnlp-main.1774",
+        "paper_url": "https://aclanthology.org/2025.emnlp-main.1774/",
+        "paper_length": "short",
+        "evidence_type": "official_program_paper_type",
+        "source_url": "https://rrplanning2022-my.sharepoint.com/:x:/g/personal/jrachford_randrplanning_com/EYkiXnOY2lRJlS_yPwfTPVMBVoh_Ws6kxiGMKWUubvTdFg?e=iGuQ72&download=1"
+      }
+    },
+    {
+      "id": "2026.emnlp-main.1627",
+      "title": "DEEPCHART: How Far are LLMs from Faithful Data-Science Chart Generation?",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2026.emnlp-main.1627",
+        "paper_url": "https://aclanthology.org/2026.emnlp-main.1627/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2026.emnlp-main.1627.pdf",
+        "pdf_sha256": "708f13e153fee91f172712ad00b5e1e027ad03f3e7de737167164288e5336f33",
+        "inspection": {
+          "first_backmatter_page": 4,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    },
+    {
+      "id": "2026.emnlp-main.1361",
+      "title": "ESGPT: A Data-Centric ESG Language Model with Unified Instruction and Benchmark Resources",
+      "reason": "unverified",
+      "length_evidence": {
+        "id": "2026.emnlp-main.1361",
+        "paper_url": "https://aclanthology.org/2026.emnlp-main.1361/",
+        "paper_length": "unverified",
+        "evidence_type": "publisher_content_boundary_inspection",
+        "source_url": "https://aclanthology.org/2026.emnlp-main.1361.pdf",
+        "pdf_sha256": "0abae0d04cf726dd58e050d565ae0f67a4b239201bf10a320415194fb40b08d8",
+        "inspection": {
+          "first_backmatter_page": 5,
+          "inspected_content_page": 6,
+          "sixth_content_page_words": 0,
+          "sixth_content_page_excerpt": ""
+        }
+      }
+    }
+  ],
+  "financial_decisions_and_classifications_preserved": true,
+  "content_length_rule": "Substantive content beyond page five, before explicit back matter; never total PDF pages.",
+  "content_length_policy": "https://github.com/acl-org/acl-style-files/blob/master/formatting.md#paper-length"
+}

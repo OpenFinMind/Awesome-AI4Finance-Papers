@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2025-34067",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-34067__TimeCMA_Towards_LLM_Empowered_Multivariate_Time_Series_Forecasting_via_Cross_Modality_Alignment.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/34067/36222",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 9,
+  "bytes": 2468866,
+  "sha256": "2b286589af4f8d592b9f88452bf2685c861b975361d971b8e0a0f40b9723dcb8",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2406.01638",
+  "final_url": "https://arxiv.org/pdf/2406.01638",
+  "downloaded_at_utc": "2026-11-10T02:32:42.078151+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Chenxi Liu",
+      "Qianxiong Xu",
+      "Hao Miao",
+      "Sun Yang",
+      "Lingzheng Zhang",
+      "Cheng Long",
+      "Ziyue Li",
+      "Rui Zhao"
+    ],
+    "identity_verified": true
+  }
+}

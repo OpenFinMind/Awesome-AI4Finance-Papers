@@ -1,0 +1,18 @@
+# Financial Model and Agent Safety / 金融模型及智能体安全
+
+10 Main long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | ACL | [Learning to Conceal Risk: Controllable Multi-turn Red Teaming for LLMs in the Financial Domain](../finance_notes/2026.acl-long.1903.md) | core | [Paper](https://aclanthology.org/2026.acl-long.1903/) · [PDF](../../pdfs/ACL/2026/2026.acl-long.1903__Learning_to_Conceal_Risk_Controllable_Multi_turn_Red_Teaming_for_LLMs_in_the_Financial_Domain.pdf) |
+| 2026 | ACL | [SAHM: A Benchmark for Arabic Financial and Shari’ah-Compliant Reasoning](../finance_notes/2026.acl-long.1593.md) | core | [Paper](https://aclanthology.org/2026.acl-long.1593/) · [PDF](../../pdfs/ACL/2026/2026.acl-long.1593__SAHM_A_Benchmark_for_Arabic_Financial_and_Shari_ah_Compliant_Reasoning.pdf) |
+| 2026 | EMNLP | [Risk-Adjusted Harm Scoring for Automated Red Teaming of LLMs in Financial Services](../finance_notes/2026.emnlp-main.1730.md) | core | [Paper](https://aclanthology.org/2026.emnlp-main.1730/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.1730__Risk_Adjusted_Harm_Scoring_for_Automated_Red_Teaming_of_LLMs_in_Financial_Services.pdf) |
+| 2026 | EMNLP | [Summoning the Oracle to Slay It: Mitigating Look-Ahead Bias in Financial Backtesting with Large Language Models](../finance_notes/2026.emnlp-main.510.md) | core | [Paper](https://aclanthology.org/2026.emnlp-main.510/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.510__Summoning_the_Oracle_to_Slay_It_Mitigating_Look_Ahead_Bias_in_Financial_Backtesting_with_Large_Language_M.pdf) |
+| 2026 | EMNLP | [Temporal Leakage in Financial News NLP: A Multi-Architecture Audit with a Regime-Specific M&A Signal](../finance_notes/2026.emnlp-main.2386.md) | core | [Paper](https://aclanthology.org/2026.emnlp-main.2386/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.2386__Temporal_Leakage_in_Financial_News_NLP_A_Multi_Architecture_Audit_with_a_Regime_Specific_M_A_Signal.pdf) |
+| 2026 | EMNLP | [The Analyst in the Prompt: Role, Retrieval, and Memory Biases in LLM Financial Analysis](../finance_notes/2026.emnlp-main.2268.md) | core | [Paper](https://aclanthology.org/2026.emnlp-main.2268/) · [PDF](../../pdfs/EMNLP/2026/2026.emnlp-main.2268__The_Analyst_in_the_Prompt_Role_Retrieval_and_Memory_Biases_in_LLM_Financial_Analysis.pdf) |
+| 2026 | ICLR | [When AI Agents Collude Online: Financial Fraud Risks by Collaborative LLM Agents on Social Platforms](../finance_notes/iclr-2026-a1d2smwmBS.md) | core | [Paper](https://openreview.net/forum?id=a1d2smwmBS) · [PDF](../../pdfs/ICLR/2026/iclr-2026-a1d2smwmBS__When_AI_Agents_Collude_Online_Financial_Fraud_Risks_by_Collaborative_LLM_Agents_on_Social_Platforms.pdf) |
+| 2026 | NeurIPS | [The SEC Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data](../finance_notes/neurips-2026-a7IEj5MRk0.md) | core | [Paper](https://openreview.net/forum?id=a7IEj5MRk0) · [Online PDF](https://openreview.net/pdf?id=a7IEj5MRk0) |
+| 2025 | EMNLP | [FinTrust: A Comprehensive Benchmark of Trustworthiness Evaluation in Finance Domain](../finance_notes/2025.emnlp-main.512.md) | core | [Paper](https://aclanthology.org/2025.emnlp-main.512/) · [PDF](../../pdfs/EMNLP/2025/2025.emnlp-main.512__FinTrust_A_Comprehensive_Benchmark_of_Trustworthiness_Evaluation_in_Finance_Domain.pdf) |
+| 2023 | ACL | [Measuring Consistency in Text-based Financial Forecasting Models](../finance_notes/2023.acl-long.769.md) | core | [Paper](https://aclanthology.org/2023.acl-long.769/) · [PDF](../../pdfs/ACL/2023/2023.acl-long.769__Measuring_Consistency_in_Text_based_Financial_Forecasting_Models.pdf) |

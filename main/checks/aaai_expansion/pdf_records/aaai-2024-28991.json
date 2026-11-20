@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2024-28991",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-28991__MSGNet_Learning_Multi_Scale_Inter_series_Correlations_for_Multivariate_Time_Series_Forecasting.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/28991/29883",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 14,
+  "bytes": 1116445,
+  "sha256": "7990dd94fbc476c7f126b83950b91426a80e38047ad74c1d9eeecda2588a5e13",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2401.00423",
+  "final_url": "https://arxiv.org/pdf/2401.00423",
+  "downloaded_at_utc": "2026-11-10T02:32:40.411603+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Wanlin Cai",
+      "Yuxuan Liang",
+      "Xianggen Liu",
+      "Jianshuai Feng",
+      "Yuankai Wu"
+    ],
+    "identity_verified": true
+  }
+}

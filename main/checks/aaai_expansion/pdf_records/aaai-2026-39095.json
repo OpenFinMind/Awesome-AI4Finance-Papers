@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2026-39095",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-39095__MARS_A_Meta_Adaptive_Reinforcement_Learning_Framework_for_Risk_Aware_Multi_Agent_Portfolio_Management.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 2135783,
+  "sha256": "573d4aaca1ed78a5320e3dda48d6a81029637fe89cefdbb470fbaa944540a0e3",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39095/43057",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39095/43057",
+  "downloaded_at_utc": "2026-11-10T02:15:58.875404+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jiayi Chen",
+      "Jing Li",
+      "Guiling Wang"
+    ],
+    "identity_verified": true
+  }
+}

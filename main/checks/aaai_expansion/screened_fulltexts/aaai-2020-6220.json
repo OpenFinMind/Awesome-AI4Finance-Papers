@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2020-6220",
+  "title": "Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/6220",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 104999,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jianhong Wang",
+      "Yuan Zhang",
+      "Tae-Kyun Kim",
+      "Yunjie Gu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1907.05707",
+    "version": "arxiv_author_version"
+  }
+}

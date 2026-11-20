@@ -1,0 +1,1516 @@
+{
+  "kdd-2018-5c35c2497d2d": {
+    "scope": "core",
+    "primary_topic_id": "financial_nlp",
+    "topic_ids": [
+      "financial_nlp"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Stock comments from analysts contain important consulting information for investors to foresee stock volatility and market trends. Existing studies on stock comments usually focused on capturing coarse-grained opinion polarities or understanding market fundamentals. However, investors are often overwhelmed and confused by massive comments with huge noises and ambiguous opinions. Therefore, it is an emerging need to have a fine-grained stock comment analysis tool to identify more reliable stock comments. To this end, this paper provides a solution called StockAssIstant for modeling the reliability of stock comments by considering multiple factors, such as stock price trends, comment content, and the performances of analysts, in a holistic manner. Then, we extract key features from the time-series constructed by using the semantic information in comment text, stock prices and the historical behaviors of analysts. Finally, we conduct extensive experiments and provide a trading simulation on real-world stock data. The experimental results and the profit achieved by the simulated trading in 12-month period clearly validate the effectiveness of our approach for modeling the reliability of stock comments.",
+    "evidence_url": "https://openalex.org/W2883599634",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2018-9f8408334f8b": {
+    "scope": "core",
+    "primary_topic_id": "trading",
+    "topic_ids": [
+      "trading"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Stock trading is a popular investment approach in real world. However, since lacking enough domain knowledge and experience, it is very difficult for common investors to analyze thousands of stocks manually. Algorithmic investment provides another rational way to formulate human knowledge as a trading agent. However, it still requires well-built knowledge and experience to design effective trading algorithms in such a volatile market. Fortunately, various kinds of historical trading records are easy to obtain in this big-data era, it is invaluable of us to extract the trading knowledge hidden in the data to help people make better decisions. In this paper, we propose a reinforcement learning driven Investor-Imitator framework to formalize the trading knowledge, by imitating an investor's behavior with a set of logic descriptors. In the experiment, we first simulate three types of investors, representing different degrees of information disclosure we may meet in real market. By learning towards these investors, we can tell the inherent trading logic of the target investor with the Investor-Imitator empirically, and the extracted interpretable knowledge can help us better understand and construct trading portfolios. Experimental results in this paper sufficiently demonstrate the designed purpose of Investor-Imitator, it makes the Investor-Imitator an applicable and meaningful intelligent trading framework in financial investment research.",
+    "evidence_url": "https://openalex.org/W2809515733",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2019-53a4aee906eb": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "As one of the most important investing approaches, technical analysis attempts to forecast stock movement by interpreting the inner rules from historic price and volume data. To address the vital noisy nature of financial market, generic technical analysis develops technical trading indicators, as mathematical summarization of historic price and volume data, to form up the foundation for robust and profitable investment strategies. However, an observation reveals that stocks with different properties have different affinities over technical indicators, which discloses a big challenge for the indicator-oriented stock selection and investment. To address this problem, in this paper, we design a Technical Trading Indicator Optimization(TTIO) framework that manages to optimize the original technical indicator by leveraging stock-wise properties. To obtain effective representations of stock properties, we propose a Skip-gram architecture to learn stock embedding inspired by a valuable knowledge repository formed by fund manager's collective investment behaviors. Based on the learned stock representations, TTIO further learns a re-scaling network to optimize the indicator's performance. Extensive experiments on real-world stock market data demonstrate that our method can obtain the very stock representations that are invaluable for technical indicator optimization since the optimized indicators can result in strong investing signals than original ones.",
+    "evidence_url": "https://www.kdd.org/kdd2019/proceedings",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2019-eea3886c4af6": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Stock price movement not only depends on the history of individual stock movements, but also complex hidden dynamics associated with other correlated stocks. Despite the substantial effort made to understand the principles of stock price movement, few attempts have been made to predict movement direction based upon a single stock's historical records together with its correlated stocks. Here, we present a multi-task recurrent neural network (RNN) with high-order Markov random fields (MRFs) to predict stock price movement direction. Specifically, we first design a multi-task RNN framework to extract informative features from the raw market data of individual stocks without considering any domain knowledge. Next, we employ binary MRFs with unary features and weighted lower linear envelopes as the higher-order energy function to capture higher-order consistency within the same stock clique (group). We conduct thorough empirical studies on three popular Chinese stock market indexes and the proposed method outperforms baseline approaches. To our best knowledge, the proposed technique is the first to investigate intra-clique relationships with higher-order MRFs for stock price movement prediction.",
+    "evidence_url": "https://www.kdd.org/kdd2019/proceedings",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2021-7b279452953c": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Successful quantitative investment usually relies on precise predictions of the future movement of the stock price. Recently, machine learning based solutions have shown their capacity to give more accurate stock prediction and become indispensable components in modern quantitative investment systems. assumption behind existing methods is inconsistent with the existence of diverse trading patterns in the stock market, which inevitably limits their ability to achieve better stock prediction performance. In this paper, we propose a novel architecture, Temporal Routing Adaptor (TRA), to empower existing stock prediction models with the ability to model multiple stock trading patterns. Experiments on the real-world stock ranking task show that compared to the state-of-the-art baselines, e.g., Attention LSTM and Transformer, the proposed method can improve information coefficient (IC) from 0.053 to 0.059 and 0.051 to 0.056 respectively.",
+    "evidence_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2021-17928d25c17a": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "How can we efficiently correlate multiple stocks for accurate stock movement prediction? Stock movement prediction has received growing interest in data mining and machine learning communities due to its substantial impact on financial markets. One way to improve the prediction accuracy is to utilize the correlations between multiple stocks, getting a reliable evidence regardless of the random noises of individual prices. However, it has been challenging to acquire accurate correlations between stocks because of their asymmetric and dynamic nature which is also influenced by the global movement of a market. In this work, we propose DTML (Data-axis Transformer with Multi-Level contexts), a novel approach for stock movement prediction that learns the correlations between stocks in an end-to-end way. DTML makes asymmetric and dynamic correlations by a) learning temporal correlations within each stock, b) generating multi-level contexts based on a global market context, and c) utilizing a transformer encoder for learning inter-stock correlations. DTML achieves the state-of-the-art accuracy on six datasets collected from various stock markets from US, China, Japan, and UK, making up to 13.8%p higher profits than the best competitors and the annualized return of 44.4% on investment simulation.",
+    "evidence_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2021-cf5420452809": {
+    "scope": "core",
+    "primary_topic_id": "corporate_finance",
+    "topic_ids": [
+      "corporate_finance"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "It is critical and important for venture investors to find high-potential startups at their early stages. Indeed, many efforts have been made to study the key factors for the success of startups through the topological analysis of the heterogeneous information network of people, startup, and venture firms or representation learning of latent startup profile features. Instead, in this paper, we propose aScalable Heterogeneous Graph Markov Neural Network (SHGMNN) for identifying the high-potential startups. The general idea is to use graph neural networks (GNN) to learn effective startup representations through end-to-end efficient training and model the label dependency among startups through Maximum A Posterior (MAP) inference. To predict the high-potential early-stage startups, we introduce GNN to diffuse the information over the summated graph.",
+    "evidence_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2022-5bf5eddf107a": {
+    "scope": "core",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Cash-out fraud refers to the withdrawal of cash from a credit card by illegitimate payments with merchants. To further spot cash-out behaviors in complex scenarios, recent efforts adopt graph models to exploit the interaction relations rich in financial transactions. However, most existing graph-based methods are proposed for online payment activities in internet financial institutions. Moreover, these methods commonly rely on a large amount of online user data, which are not well suitable for the traditional credit card services in commercial banks. In this paper, we focus on discerning fraudulent cash-out users by taking advantage of only the personal credit card data from banks.",
+    "evidence_url": "https://www.kdd.org/kdd2022/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2022-f6040d4848d1": {
+    "scope": "core",
+    "primary_topic_id": "trading",
+    "topic_ids": [
+      "trading"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "The majority of trading in financial markets is executed through a limit order book (LOB). The LOB is an event-based continuously-updating system that records contemporaneous demand (`bids' to buy) and supply (`asks' to sell) for a financial asset.",
+    "evidence_url": "https://www.kdd.org/kdd2022/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2023-be7f39c5a9de": {
+    "scope": "core",
+    "primary_topic_id": "trading",
+    "topic_ids": [
+      "trading"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Quantitative stock investment is a fundamental financial task that highly relies on accurate prediction of market status and profitable investment decision making. Despite recent advances in deep learning (DL) have shown stellar performance on capturing trading opportunities in the stochastic stock market, the performance of existing DL methods is unstable with sensitivity to network initialization and hyperparameter selection. One major limitation of existing works is that investment decisions are made based on one individual neural network predictor with high uncertainty, which is inconsistent with the workflow in real-world trading firms. To tackle this limitation, we propose AlphaMix, a novel three-stage mixture-of-experts (MoE) framework for quantitative investment to mimic the efficient bottom-up hierarchical trading strategy design workflow of successful trading companies. In Stage one, we introduce an efficient ensemble learning method, whose computational and memory costs are significantly lower comparing to traditional ensemble methods, to train multiple groups of trading experts with personalised market understanding and trading styles. In Stage two, we collect diversified investment suggestions through building a pool of trading experts utilizing hyperparameter level and initialization level diversity of neural networks for post hoc ensemble construction. In Stage three, we design three different mechanisms, namely as-needed router, with-replacement selection and integrated expert soup, to dynamically pick experts from the expert pool, which takes the responsibility of a portfolio manager. Through extensive experiments on US and Chinese stock markets, we demonstrate that AlphaMix significantly outperforms many state-of-the-art baselines in terms of 7 popular",
+    "evidence_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2023-84d05f0f7e27": {
+    "scope": "core",
+    "primary_topic_id": "credit_risk",
+    "topic_ids": [
+      "credit_risk"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "User financial default prediction plays a critical role in credit risk forecasting and management. In this paper, we fill in this gap by proposing a motif-preserving Graph Neural Network with curriculum learning (MotifGNN) to jointly learn the lower-order structures from the original graph and higher-order structures from multi-view motif-based graphs for financial default prediction.",
+    "evidence_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2023-f7332a9c061f": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Stock trend forecasting is a fundamental task of quantitative investment where precise predictions of price trends are indispensable. As an online service, stock data continuously arrive over time. It is practical and efficient to incrementally update the forecast model with the latest data which may reveal some new patterns recurring in the future stock market. However, incremental learning for stock trend forecasting still remains under-explored due to the challenge of distribution shifts (a.k.a. With the stock market dynamically evolving, the distribution of future data can slightly or significantly differ from incremental data, hindering the effectiveness of incremental updates. Our key insight is to automatically learn how to adapt stock data into a locally stationary distribution in favor of profitable updates. Experiments on real-world stock datasets demonstrate that DoubleAdapt achieves state-of-the-art predictive performance and shows considerable efficiency.",
+    "evidence_url": "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2024-7dc5a45570cd": {
+    "scope": "core",
+    "primary_topic_id": "portfolio",
+    "topic_ids": [
+      "portfolio"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "How can we leverage inherent frequency features of stock signals for effective portfolio optimization? Portfolio optimization in the domain of finance revolves around strategically allocating assets to maximize returns. Recent advancements highlight the efficacy of deep learning and reinforcement learning (RL) in capturing temporal asset patterns for portfolio optimization.",
+    "evidence_url": "https://openalex.org/W4401863207",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2024-4e1ca703d29e": {
+    "scope": "core",
+    "primary_topic_id": "trading",
+    "topic_ids": [
+      "trading"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "High-frequency trading (HFT) that executes algorithmic trading in short time scales, has recently occupied the majority of cryptocurrency market. Besides traditional quantitative trading methods, reinforcement learning (RL) has become another appealing approach for HFT due to its terrific ability of handling high-dimensional financial data and solving sophisticated sequential decision-making problems, e.g., hierarchical reinforcement learning (HRL) has shown its promising performance on second-level HFT by training a router to select only one sub-agent from the agent pool to execute the current transaction. However, existing RL methods for HFT still have some defects: 1) standard RL-based trading agents suffer from the overfitting issue, preventing them from making effective policy adjustments based on financial context; 2) due to the rapid changes in market conditions, investment decisions made by an individual agent are usually one-sided and highly biased, which might lead to significant loss in extreme markets. MacroHFT, which consists of two training phases: 1) we first train multiple types of sub-agents with the market data decomposed according to various financial indicators, specifically market trend and volatility, where each agent owns a conditional adapter to adjust its trading policy according to market conditions; 2) then we train a hyper-agent to mix the decisions from these sub-agents and output a consistently profitable meta-policy to handle rapid market fluctuations, equipped with a memory mechanism to enhance the capability of decision-making. Extensive experiments on various cryptocurrency markets demonstrate that MacroHFT can achieve state-of-the-art performance on minute-level trading tasks.",
+    "evidence_url": "https://openalex.org/W4401857613",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2024-b2059180de7b": {
+    "scope": "core",
+    "primary_topic_id": "financial_agents",
+    "topic_ids": [
+      "financial_agents",
+      "trading"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Financial trading is a crucial component of the markets, informed by a multimodal information landscape encompassing news, prices, and Kline charts, and encompasses diverse tasks such as quantitative trading and high-frequency trading with various assets. While advanced AI techniques like deep learning and reinforcement learning are extensively utilized in finance, their application in financial trading tasks often faces challenges due to inadequate handling of multimodal data and limited generalizability across various tasks. To address these challenges, we present FinAgent, a multimodal foundational agent with tool augmentation for financial trading. FinAgent's market intelligence module processes a diverse range of data-numerical, textual, and visual-to accurately analyze the financial market. The agent's emphasis on reasoning for actions fosters trust in its financial decisions. Moreover, FinAgent integrates established trading strategies and expert insights, ensuring that its trading approaches are both data-driven and rooted in sound financial principles. With comprehensive experiments on 6 financial datasets, including stocks and Crypto, FinAgent significantly outperforms 12 state-of-the-art baselines in terms of 6 financial metrics with over 36% average improvement on profit. Notably, FinAgent is the first advanced multimodal foundation agent designed for financial trading tasks.",
+    "evidence_url": "https://openalex.org/W4401863645",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2024-ea7cae0393f9": {
+    "scope": "core",
+    "primary_topic_id": "blockchain",
+    "topic_ids": [
+      "blockchain"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "The popularity of decentralized finance has drawn attention to liquidity mining (LM). In LM, a user deposits her cryptocurrencies into liquidity pools to provide liquidity for exchanges and earn yields. Different liquidity pools offer varying yields and require different pairs of cryptocurrencies. Thus, an LM solution consists of exchange transactions and deposit transactions, guaranteeing (1) each exchange transaction must exchange one cryptocurrency for another at a specific rate (i.e., the exchange constraint); (2) the amounts of cryptocurrencies deposited in a liquidity pool must exceed the required threshold (i.e., the minimum constraint); (3) each deposit transaction must deposit a specific pair of cryptocurrencies at a certain rate in a liquidity pool (i.e., the deposit constraint); and (4) the cryptocurrencies used in the solution do not exceed the cryptocurrencies that the user has (i.e., the budget constraint). To address this challenge, we define the yield maximization liquidity mining (YMLM) problem. Given a set of liquidity pools, a set of the user's cryptocurrencies, a set of exchange rates, and an evaluation function, YMLM aims to find an LM solution with maximal yields, satisfying the minimum, exchange, deposit, and budget constraints.",
+    "evidence_url": "https://openalex.org/W4401863667",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2024-6d7b4399644b": {
+    "scope": "core",
+    "primary_topic_id": "insurance",
+    "topic_ids": [
+      "insurance",
+      "fraud_aml"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "The fraudulent insurance claim is critical for the insurance industry.Insurance companies or agency platforms aim to confidently estimate the fraud risk of claims by gathering data from various sources.Although more data sources can improve the estimation accuracy, they inevitably lead to increased costs.Therefore, a great challenge of fraud risk verification lies in well balancing these two aspects.To this end, this paper proposes a framework named cost-efficient fraud risk optimization with submodularity (CEROS) to optimize the process of fraud risk verification.CEROS efficiently allocates investigation resources across multiple information sources, balancing the trade-off between accuracy and cost.CEROS consists of two parts that we propose: a submodular set-wise classification model * Equal Contribution.",
+    "evidence_url": "https://openalex.org/W4401857382",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2024-c8f737f65bdf": {
+    "scope": "core",
+    "primary_topic_id": "blockchain",
+    "topic_ids": [
+      "blockchain"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "In the Bitcoin blockchain, an entity (e.g., a gambling service) may control multiple distinct address clusters.",
+    "evidence_url": "https://openalex.org/W4401857133",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-dde09d0647f8": {
+    "scope": "core",
+    "primary_topic_id": "alpha_mining",
+    "topic_ids": [
+      "alpha_mining"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Alpha mining, a critical component in quantitative investment, focuses on discovering predictive signals for future asset returns in increasingly complex financial markets. However, the pervasive issue of alpha decay-where factors lose their predictive power over time-poses a significant challenge for alpha mining. Traditional methods such as genetic programming are prone to rapid alpha decay, primarily due to their susceptibility to overfitting. To address this challenge, we propose AlphaAgent, an autonomous framework that effectively integrates LLM-driven agents with ad hoc regularization for mining decay-resistant alpha factors. AlphaAgent employs three key mechanisms: (i) originality enforcement through a similarity measure based on abstract syntax trees (ASTs) against existing alphas(ii) hypothesis-factor alignment via LLM-evaluated semantic consistency between market hypotheses and generated factors, and (iii) complexity control via AST-based structural constraints, preventing over-engineered constructions that are prone to overfitting. These mechanisms collectively guide the alpha generation process to balance originality, financial rationale, and adaptability to evolving market conditions, mitigating the risk of alpha decay. Extensive evaluations show that AlphaAgent outperforms traditional and LLM-based methods in mitigating alpha decay across bull and bear markets, consistently delivering significant alpha in Chinese CSI 500 and U.S. Notably, AlphaAgent showcases remarkable resistance to alpha decay, elevating the potential for yielding powerful factors.",
+    "evidence_url": "https://openalex.org/W4412876989",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-c2b0e7b0df67": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Accurately forecasting the impact of macroeconomic events is critical for investors and policymakers. Existing forecasting methods typically focus either on textual analysis or time-series modeling, but fail to capture the multi-modal nature of financial markets and the causal relationship between events and price movements. To address these gaps, we propose CAMEF (Causal-Augmented Multi-Modality Event-Driven Financial Forecasting), a multi-modality framework that effectively integrates textual and time-series data with a causal learning mechanism and an LLM-based counterfactual event augmentation technique for causal-enhanced financial forecasting. Our contributions include: (1) a multi-modal framework that captures causal relationships between policy texts and historical price data; (2) a new financial dataset with six types of macroeconomic releases from 2008 to April 2024, and high-frequency real trading data for five key U.S. financial assets; and (3) an LLM-based counterfactual event augmentation strategy.",
+    "evidence_url": "https://openalex.org/W4412875514",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-43e156362af8": {
+    "scope": "core",
+    "primary_topic_id": "trading",
+    "topic_ids": [
+      "trading",
+      "blockchain"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Accurately predicting user trading behavior in decentralized exchanges is essential for investors to mitigate risks and optimize their trading strategies. While existing research primarily focuses on predicting trading behavior in stock markets, these methods often struggle to adapt to the distinct nature of cryptocurrency trading. Specifically, they face issues such as limited adaptivity to high-frequency and algorithmic trading, as well as an insufficient consideration of fine-grained real-time market participants' behavior.Thanks to the pending mechanism of blockchain, it becomes possible to capture traders' interactions before transactions are finalized, providing valuable insights into market state. However, accurately modeling and predicting trading behavior in decentralized exchanges presents challenges, including limited adaptability to high-frequency trading, a lack of fine-grained transaction data, and high computational costs. This work proposes CryptoMixer, a lightweight fine-grained market information-aware multilayer perceptron (MLP)-based model for high-frequency cryptocurrency trading behavior prediction. Furthermore, CryptoMixer designs a Market Information Mixer as well as a Two-stream MLP Fusion Mixer to capture fine-grained user trading behavior patterns. We evaluate CryptoMixer on real-world user trading datasets from the Uniswap decentralized finance platform. Experimental results demonstrate that CryptoMixer outperforms traditional prediction models while maintaining low computational overheads, providing a practical solution for real-time cryptocurrency trading behavior prediction.",
+    "evidence_url": "https://openalex.org/W4412825674",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-fa2d0374c89d": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Accurate stock prediction is critical for portfolio management, where learning to adapt to market changes is the key to sustainable profitability. Financial markets, as complex interactive systems, exhibit evolution in both temporal dynamics and relational structures. While current temporal-relational models have achieved remarkable success in stock prediction, they face fundamental challenges in learning and adapting to market changes, particularly the systematic shifts in temporal and relational distributions that challenge the i.i.d. In this study, we pioneer the research of temporal-relational distribution shifts in stock prediction and introduce Enhancer, a model-agnostic framework that can be applied to any downstream predictor. We conduct experiments on four long-term stock datasets, categorizing them into two tasks: stock trend prediction and stock investment recommendation.",
+    "evidence_url": "https://openalex.org/W4412825986",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-83375757b800": {
+    "scope": "core",
+    "primary_topic_id": "derivatives",
+    "topic_ids": [
+      "derivatives"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Implied Volatility Surface (IVS) prediction is critical for options hedging, portfolio management, and risk control. (ii) Different regions of the IVS are unevenly informed because of liquidity constraints and therefore should not be modeled uniformly. Extensive experiments on stock index options datasets demonstrate that Hexagon-Net significantly and consistently outperforms the previous approaches in IVS modeling and deep learning.",
+    "evidence_url": "https://openalex.org/W4412875518",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-3b49ea9a6f40": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Stock selection, which aims to predict stock prices and identify the most profitable ones, is a crucial task in finance. Current stock series pre-training follows methods from other areas without adapting to the unique characteristics of financial data, particularly overlooking stock-specific contextual information and the non-stationary nature of stock prices. Consequently, the latent statistical features inherent in stock data are underutilized. In this paper, we propose three novel pre-training tasks tailored to stock data characteristics: stock code classification, stock sector classification, and moving average prediction. We develop the Stock Specialized Pre-trained Transformer (SSPT) based on a two-layer transformer architecture. Evaluations on five stock datasets, including four markets and two time periods, demonstrate that SSPT consistently outperforms the market and existing methods in terms of both cumulative investment return ratio and Sharpe ratio. Our code is publicly available at: https://github.com/astudentuser/Pre-training-Time-Series-Models-with-Stock-Data-Customization.",
+    "evidence_url": "https://openalex.org/W4412876924",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-47e275ffdf67": {
+    "scope": "core",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "In this paper, we investigate the discovery of temporal anomalous subgraphs in large-scale financial networks, aiming to identify abnormal transaction behaviors among users over time. This task is crucial for the real-time detection of transaction anomalies in financial networks, such as money laundering and trading fraud. TempASD achieves an average improvement of 7x in abnormal degree compared to the state-of-the-art and is efficient in large-scale dynamic financial networks.",
+    "evidence_url": "https://openalex.org/W4412825783",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-e43466bc738f": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "The practice of ranking a list of stocks to facilitate investment decisions has garnered a lot of attention in the fintech field, aiming at minimizing investment risk while maximizing profitable returns. With recent developments in deep representation learning such as temporal/relational dependency, prior efforts either strive to explore the temporal dynamics behind distinct stocks or expect to expose the collaborative signals from predefined relations, resulting in promising achievements in stock ranking. However, owing to the profound or intricate fluctuations of stock markets, existing insights rarely consider the uncertain risks underlying the learning of dependency representation, which could bring a narrow perspective on how to perceive market laws and ultimately yield an unprofitable decision-making procedure. In this study, we introduce a novel Progressive Dependency representation learning solution with Uncertain risk contrasting (PDU), primarily seeking to progressively uncover multiple dependency dynamics from historical trading signals for stock ranking in addition to addressing the uncertain risks. Specifically, we devise a Progressive Dependency learning block (or PD) in PDU that can progressively capture the temporal and relational dependencies besides multi-term dependencies in the latent space, allowing a coupled exposure of diffusion impacts over historical trading. The experimental results conducted on four real-world stock market datasets demonstrate the superiority of PDU over several baselines.",
+    "evidence_url": "https://api.semanticscholar.org/graph/v1/paper/55881a648fae1fc3748022a08e5b1a0f52a98925",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-953d74ec6de0": {
+    "scope": "core",
+    "primary_topic_id": "blockchain",
+    "topic_ids": [
+      "blockchain"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "The rise of cryptocurrencies like Bitcoin has not only increased trade volumes but also broadened the use of graph machine learning techniques, such as address embeddings, to analyze transactions and decipher user patterns. Traditional analysis methods rely on simple heuristics and extensive data gathering, while more advanced Graph Neural Networks encounter challenges such as scalability, poor interpretability, and label scarcity in massive blockchain transaction networks. To overcome existing techniques’ computational and interpretability limitations, we introduce a topological approach, Chainlet Orbits, which embeds blockchain addresses by leveraging their topological characteristics in temporal transactions. We employ our innovative address embeddings to investigate financial behavior and e-crime in the Bitcoin and Ethereum networks, focusing on distinctive substructures that arise from user behavior. Furthermore, our approach embeds all daily nodes of the largest blockchain transaction network, Bitcoin, and creates explainable machine learning models in less than 17 minutes which takes days for GNN-based approaches.",
+    "evidence_url": "https://openalex.org/W4409158207",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2025-99636fb57db1": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Recent years have witnessed the perfect encounter of deep learning and quantitative trading has achieved great success in stock investment. Numerous deep learning-based models have been developed for forecasting stock returns, leveraging the powerful representation capabilities of neural networks to identify patterns and factors influencing stock prices. These models can effectively capture general patterns in the market, such as stock price trends, volume-price relationships, and time variations. However, the impact of special irrationality factors -- such as market sentiment, speculative behavior, market manipulation, and psychological biases -- has not been fully considered in existing deep stock forecasting models due to their relative abstraction as well as lack of explicit labels and data description. To fill this gap, we propose UMI, a Universal multi-level Market Irrationality factor model to enhance stock return forecasting. The UMI model learns factors that can reflect irrational behaviors in market from both individual stock and overall market levels. For the stock-level, UMI construct an estimated rational price for each stock, which is cointegrated with the stock's actual price. The discrepancy between the actual and the rational prices serves as a factor to indicate stock-level irrational events. Additionally, we define market-level irrational behaviors as anomalous synchronous fluctuations of stocks within a market. We also developed a forecasting model that captures both temporal and relational dependencies among stocks, accommodating the UMI factors. and Chinese stock markets with competitive baselines demonstrate our model's effectiveness and the universality of our factors in improving various forecasting models.",
+    "evidence_url": "https://openalex.org/W4409149792",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-f59c8ff60d76": {
+    "scope": "core",
+    "primary_topic_id": "portfolio",
+    "topic_ids": [
+      "portfolio"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Financial markets are inherently non-stationary, exhibiting frequent regime shifts and structural changes that render traditional Portfolio Management (PM) approaches ineffective. Continual learning (CL) offers a promising paradigm by enabling trading agents to accumulate and transfer knowledge across sequential tasks. In this paper, we propose Regime-aware Continual Adaptive Portfolio management (ReCAP), a novel framework that integrates CL into PM to address the challenges of dynamic financial environments. During continual trading, a regime-gate module adaptively combines policy vectors from the library based on the current market state, facilitating rapid adaptation to newly detected regimes.",
+    "evidence_url": "https://openalex.org/W7197033286",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-ccd584a46e66": {
+    "scope": "core",
+    "primary_topic_id": "alpha_mining",
+    "topic_ids": [
+      "alpha_mining"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Formula alpha mining, which generates predictive signals from financial data, is critical for quantitative investment. Although various algorithmic approaches—such as genetic programming, reinforcement learning, and large language models—have significantly expanded the capacity for alpha discovery, systematic evaluation remains a key challenge. Additionally, the closed-source nature of most existing alpha mining models hinders reproducibility and slows progress in this field. To address these issues, we propose AlphaEval, a unified, parallelizable, and backtest-free evaluation framework for automated alpha mining models. AlphaEval assesses the overall quality of generated alphas along five complementary dimensions: predictive power, stability, robustness to market perturbations, financial logic, and diversity. Extensive experiments across representative alpha mining algorithms demonstrate that AlphaEval achieves evaluation consistency comparable to comprehensive backtesting, while providing more comprehensive insights and higher efficiency. Furthermore, AlphaEval effectively identifies superior alphas compared to traditional single-metric screening approaches.",
+    "evidence_url": "https://openalex.org/W4414990942",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-ba88ac2c1022": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "However, many Transformer variants implicitly assume stationarity and stable temporal dynamics—assumptions that are routinely violated in financial markets characterized by regime shifts and non-stationarity. Empirically, state-of-the-art time-series Transformers often underperform even vanilla Transformers on financial tasks, while simpler architectures with distinct inductive biases, such as CNNs and RNNs, can achieve stronger performance with substantially lower complexity. At the same time, no single inductive bias dominates across markets or regimes, suggesting that robust financial forecasting requires integrating complementary temporal priors.",
+    "evidence_url": "https://openalex.org/W7196940055",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-2d20afcf1ce6": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Deep learning has emerged as a prominent paradigm in stock return forecasting, demonstrating remarkable capabilities in extracting non-linear patterns from historical stock data. However, existing approaches often process stock features as a monolithic input with fixed temporal receptive fields. Extensive experiments confirm that DDGL-Net outperforms state-of-the-art baselines on real-world stock datasets, validating the effectiveness of disentangled modeling and regime-aware adaptation.",
+    "evidence_url": "https://openalex.org/W7197004068",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-1ce577edb8d5": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Quantitative stock selection from large-scale market data is critical for achieving excess returns in financial markets. A persistent challenge is tail risk, which triggers non-stationary regime shifts that invalidate learned patterns and distort portfolio logic. A semantic encoder decomposes market forces into bullish momentum, bearish resistance, and frictional dissipation, casting stock valuation as an energy state within a long-short game. A risk-guardian module closes the loop by detecting anomalous energy spikes as crash signals and filtering them from portfolio construction.",
+    "evidence_url": "https://openalex.org/W7197051030",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-f70c181958bb": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Financial asset price movement prediction is inherently challenging due to the non-stationary nature of financial markets, where data distributions shift over time. Extensive experiments on real-world stock and cryptocurrency datasets demonstrate that our method outperforms existing approaches in the prediction of price movements.",
+    "evidence_url": "https://openalex.org/W7197003498",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-9b8ecdc7bdc5": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Accurately forecasting the impact of salient financial events on markets is critical for investors and policymakers. Extensive experiments on real-world financial datasets show that GS-Fuse consistently outperforms state-of-the-art time-series and multimodal baselines across multiple assets and forecasting horizons.",
+    "evidence_url": "https://openalex.org/W7162791679",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-2f5d5bb561d1": {
+    "scope": "core",
+    "primary_topic_id": "portfolio",
+    "topic_ids": [
+      "portfolio"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "How can we build investment portfolios that remain robust under shifting market regimes and time-varying risk exposure? Portfolio optimization is a crucial problem in the financial domain, involving periodic asset allocation decisions to maximize long-term returns under risk. However, effective portfolio construction remains challenging due to time-varying, asset-level risk arising from non-stationary market dynamics.",
+    "evidence_url": "https://openalex.org/W7196923707",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-3d7a1f25e747": {
+    "scope": "core",
+    "primary_topic_id": "portfolio",
+    "topic_ids": [
+      "portfolio"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "When economic structures and market dynamics shift, classic portfolio rebalancing algorithms often suffer from unstable and degraded performance. To improve the return and robustness of portfolio management, we explore reinforcement learning (RL) and propose Scenario-Context Rollout (SCR), a macroeconomics-guided feedback mechanism to produce a distribution of next-day joint returns under potential economic shocks.",
+    "evidence_url": "https://openalex.org/W7196932099",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-61e0c49a11cb": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Stock return prediction is highly sensitive to market regime shifts, such as bull-bear transitions, financial crises, and monetary policy cycles, where statistical relationships between observed features and returns can change abruptly. Empirical results on real-world stock datasets demonstrate that Causal-DFM consistently outperforms strong baselines, with particularly pronounced gains during regime transitions and crisis periods, highlighting its effectiveness in mitigating regime-induced OOD failures.",
+    "evidence_url": "https://openalex.org/W7196961339",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-8e36c5a86dfb": {
+    "scope": "core",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction",
+      "portfolio"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Financial time series forecasting tasks, specifically stock trend prediction and market attribution, are essential for quantitative investment and risk control. To address this, we propose ResDIF, a Residual Disentanglement framework for Interpretable financial time series Forecasting inspired by Asset Pricing Theory (APT). ResDIF employs a progressive residual architecture via a Spectrally-Enhanced Temporal Encoding mechanism to explicitly decompose stock data into market, sector, and individual layers. Furthermore, a self-supervised orthogonal loss encourages feature separation, enabling the model to autonomously decouple systematic risks from idiosyncratic alpha. By leveraging this intrinsic interpretability to quantify structural market risks, our framework further enables adaptive portfolio optimization through dynamic hedging and asset selection. Experiments demonstrate that ResDIF outperforms existing methods while providing actionable interpretability support for refined portfolio risk management.",
+    "evidence_url": "https://openalex.org/W7196952256",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-46f2d631d6cf": {
+    "scope": "core",
+    "primary_topic_id": "alpha_mining",
+    "topic_ids": [
+      "alpha_mining"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Alpha factor mining aims to discover predictive and interpretable signals for cross-sectional returns, yet automated pipelines based on genetic programming, reinforcement learning, and large language models often converge to a narrow expression family, causing factor homogenization that produces redundant alphas, accelerates decay, and limits scalability. We propose AlphaMaster, an artificial intelligence–driven scientific discovery framework that formulates alpha mining as a closed loop of hypothesis generation, experimental evaluation, and feedback-guided refinement. AlphaMaster integrates reinforcement learning, Generative Flow Network sampling, large language model–based symbolic synthesis, and genetic programming in a dual-chain design (generation for diverse proposals; optimization for multi-objective refinement). On CSI 500/CSI 1000 (2010–2025) under realistic trading constraints, AlphaMaster achieves the best overall performance, ranking first on five of six metrics for CSI 500 and on all metrics for CSI 1000: CSI 500 information coefficient (IC) 0.050, annualized return (AR) 0.136, information ratio (IR) 1.464; CSI 1000 IC 0.069, rank information coefficient (RankIC) 0.091, AR 0.150, IR 1.410, demonstrating scalable and reliable factor discovery.",
+    "evidence_url": "https://openalex.org/W7196958915",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-73c0c179c05e": {
+    "scope": "core",
+    "primary_topic_id": "financial_qa",
+    "topic_ids": [
+      "financial_qa",
+      "financial_ir"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Large Language Models (LLMs) are increasingly deployed in financial applications, particularly for interpreting U.S. However, financial QA over these filings is challenging, as they are extremely long, numerically dense, and often require cross-document reasoning. To address this gap, we propose NumCache, which compresses SEC filings into KV caches initialized from numerically dense regions and trained directly on financial QAs. These results highlight cache-based retrieval with number-preserving representations as an effective approach for long-context financial QA.",
+    "evidence_url": "https://openalex.org/W7196942663",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-b53cadb8a96d": {
+    "scope": "core",
+    "primary_topic_id": "trading",
+    "topic_ids": [
+      "trading"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Algorithmic trading relies on machine learning models to make trading decisions. On the policy side, to learn robust policy against market fluctuations, we cast the trading process as a two-player zero-sum Bayesian Markov game, wherein an adversarial agent simulates shifting regimes by perturbing macroeconomic indicators in the macro-conditioned generator, while the trading agent—guided by a quantile belief network—maintains and updates its belief over hidden market states. The trading agent seeks a Robust Perfect Bayesian Equilibrium via Bayesian neural fictitious self-play, stabilizing learning under adversarial market perturbations. Extensive experiments on 9 financial instruments demonstrate that our framework outperforms 9 state-of-the-art baselines. In extreme events like the COVID pandemic, our method shows improved profitability and risk management, offering a reliable solution for trading under uncertain and rapidly shifting market dynamics.",
+    "evidence_url": "https://openalex.org/W7161812513",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2026-69806395a298": {
+    "scope": "core",
+    "primary_topic_id": "trading",
+    "topic_ids": [
+      "trading"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "Futures are contracts obligating the exchange of an asset at a predetermined date and price, notable for their high leverage and liquidity and, therefore, thrive in the Crypto market. To tackle these challenges, we propose the Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading (FineFT), a novel three-stage ensemble RL framework with stable training and proper risk management. Through extensive experiments on crypto futures in a high-frequency trading environment with high fidelity and 5x leverage, we demonstrate that FineFT outperforms 12 SOTA baselines in 6 financial metrics, reducing risk by more than 40% while achieving superior profitability compared to the runner-up.",
+    "evidence_url": "https://openalex.org/W7161767797",
+    "reason": "Financial research task is explicit in the official Research Track title and reviewed abstract."
+  },
+  "kdd-2023-2b4a4ddeea06": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "by Generalized Additive Anomaly detection (AD) has numerous real-world applications, Models (GAMs) and GA2 M (see Sec. 3), that have been shown to especially for tabular data, including detection of fraudulent trans- obtain high accuracy and interpretability for tabular data [4, 6, 16], actions, intrusions related to cybersecurity, and adverse outcomes and have been used in applications like finding outlier patterns and auditing fairness [33]. We propose to employ intuitive notions Permission to make digital or hard copies of part or all of this work for personal or of Partial Identification (PID) as an AD objective and learn them classroom use is granted without fee provided that copies are not made or distributed with a differentiable GA2 M (NodeGA2 M, Chang et al. [5]). Our for profit or co",
+    "evidence_url": "https://arxiv.org/pdf/2203.02034",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Fraud. The paper reports results on the Fraud dataset; its financial identity is independently verified in the benchmark authors documentation.",
+    "benchmark_evidence": {
+      "source_url": "https://github.com/Minqi824/ADBench",
+      "cached_document": "main/sources/kdd/adbench_readme.md.gz",
+      "benchmark_definition": "ADBench lists fraud as Finance: 284807 samples, 29 features, 492 anomalies.",
+      "paper_results_excerpt": "6.9 ± 8.4 66.8 75.4 ± 0.7 28.6 86.1 95K 196 Celeba 77.2 ± 1.9 67.1 ± 4.8 70.3 ± 0.8 75.1 78.6 75.4 ± 2.6 61.6 ± 6.0 56.7 61.7 ± 0.3 56.3 68.5 203K 39 Fraud 95.7 ± 0.2 94.7 ± 0.3 94.8 ± 0.1 94.7 95.2 95.5 ± 0.2 80.4 ± 0.8 93.4 87.5 ± 0.4 52.5 94.8 285K 29 Census 65.6 ± 2.1 53.4 ± 8.1 61.9 ± 1.9 67.4 66.1 58.4 ± 0.9 58.8 ± 2.5 64.6 55.7 ± 0.1 45.0 53.4 299K 500 http 99.3 ± 0.1 99.2 ± 0.2 100.0 ± 0.0 99.2 99.6 99.3 ± 0.1 91.1 ± 7.0 23.1 98.4 ± 0.2 64.7 99.4 567K 3 Donors 87.7 ± 6.2 61.1 ± 1.3 78.3 ± 0.7"
+    }
+  },
+  "kdd-2024-a24a57a0225f": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series",
+      "macro_economics"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "97 8.47 CIF 2016 0.78 1.08 0.07 0.27 1.03 0.33 0.78 1.08 9.86 16.2 2.46 Dominick 0.74 1.55 13.3 0.49 1.77 28.9 0.74 1.55 1000 2.53 245 Elec..kly 0.76 1.65 0.42 0.39 2.79 0.97 0.76 1.65 52.5 19.8 12.2 FRED-MD 0.73 0.71 0.15 0.26 1.92 0.57 0.73 0.71 12.3 991 6.32 Hospital 0.72 0.84 0.96 0.45 0.76 3.92 0.72 0.84 52.2 75.5 20.0 M1 M..hly 0.62 1.40 0.76 0.39 1.50 4.09 0.70 1.67 55.3 1172 21.6 M1 Q..rly 0.60 3.15 0.30 0.37 1.78 0.85 0.68 1.99 16.5 335 2.23 M3 M..hly 0.61 1.12 2.32 0.38 1.16 11.1 0.61 1.12 273 2.57 80.6 M3 Q..rly 0.58 1.41 1.90 0.35 2.08 3.20 0.58 1.41 86.2 2.67 7.81 M4 Hourly 0.66 5.09 0.48 0.22 3.14 7.16 0.66 5.09 414 7.7e4 213 M4 Weekly 0.69 2.79 1.31 0.39 4.13 4.52 0.70 3.10 71.0 25.7 24.6 NN5 Daily 0.66 0.65 0.23 0.42 0.68 0.80 0.66 0.65 42.7 1.21 29.7 NN5 ..kly 0.74 0.95 0.19 0.38",
+    "evidence_url": "https://arxiv.org/pdf/2312.13038",
+    "reason": "Reviewed substantive financial experiment, data, or case study: FRED-MD."
+  },
+  "kdd-2025-304b975993cd": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "tive (x+ ) and negative (x − ) pairs implemented using PyTorch v2.2.0 [44]. 11: Define pairwise labels y Datasets and Data Preparation. We evaluate our approach on 12: Compute margins: 𝑚 = 1 + 𝑇𝑡 the ADBench benchmark [21], which comprises 47 tabular datasets 13: Compute embeddings z0 using 𝑓𝜃 (x+, 𝑡) along with five datasets from images and five from natural language 14: Compute embeddings zt using 𝑓𝜃 (x − , 𝑡) tasks. Prior to training, all datasets are standardized to zero mean 15: Compute contrastive loss Lcont and unit variance. 16: Compute total loss: L = Lrec + Lcont Training Setup. We evaluate DDAE in both unsupervised and 17: else semi-supervised settings. 18: Compute total loss: L = Lrec 19: end if • Unsupervised: The entire dataset is used for training and 20: Update 𝜃 using gradient de",
+    "evidence_url": "https://arxiv.org/pdf/2508.00758",
+    "reason": "Reviewed substantive financial experiment, data, or case study: ADBench. The paper reports results on the Fraud dataset; its financial identity is independently verified in the benchmark authors documentation.",
+    "benchmark_evidence": {
+      "source_url": "https://github.com/Minqi824/ADBench",
+      "cached_document": "main/sources/kdd/adbench_readme.md.gz",
+      "benchmark_definition": "ADBench lists fraud as Finance: 284807 samples, 29 features, 492 anomalies.",
+      "paper_results_excerpt": "[15]. Identifying Data Mining V.2 (KDD ’25), August 3–7, 2025, Toronto, ON, Canada. ACM, rare or abnormal instances is essential for risk management, fraud New York, NY, USA, 22 pages. https://doi.org/10.1145/3711896.3736910 detection, quality assurance, and threat mitigation. Although signif- Preprint. icant advances have been made in structured data (e.g., time series) and unstructured data (e.g., images, text), tabular data remains par- Permission to make digital or hard copies of all or part of t"
+    }
+  },
+  "kdd-2017-e008077d901d": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "used to detect significant events that affected the entire network, not just single entities within it. We run a similar experiment to the previous example, except we now include every company in the S&P 500, which covers 500 of the largest US-based public companies. Since we are focusing on macro-level event detection, we look for (a) (b) the maximum temporal deviation with an ℓ1 penalty. This point in Figure 6: Sparsity structure of (a) the network change during time represents the largest “shock” to the network, the timestamp the local shift, indicating that Apple is the perturbed node, where our TVGL model detected a large and sudden change. We (b) the relationships in the financial network. discover that a shift happens during the week of May 6th, 2010. Surprisingly, we saw that there was in",
+    "evidence_url": "https://arxiv.org/pdf/1703.01958",
+    "reason": "Reviewed substantive financial experiment, data, or case study: S&P 500."
+  },
+  "kdd-2021-f67017a25376": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "different. Therefore, the function in post-logit which achieves equal xAUC 5.2 Evaluation Results on training data may not generalize well on test data. Our method For the three benchmark data sets (Adult, COMPAS, Framingham), is robust against such differences. We empirically illustrate the rewe conduct the experiments with Y − A combinations shown in lation between the distribution of the prediction ranking scores Table 1. For MIMIC-III, we show the results as Y − A combinations and the generalization ability of post-progressing algorithms in the (mortality-gender and prolonged length of stay (LOS)-ethnicity). For next section. eICU, we show the results as Y − A combination prolonged length of stay (LOS)-ethnicity. In the experiments, we find that there is no 6 ROBUSTNESS DISCUSSION signific",
+    "evidence_url": "https://arxiv.org/pdf/2006.08267",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult."
+  },
+  "kdd-2021-a8840e16ed69": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "e to 90 and 64 respectively. Following Xie et al. [52], we set Datasets. We choose eight UCI 2 datasets in diverse fields, includ- the network structure as drop-𝑛-500-500-2000-64 and 64-2000-500- ing credit rating, personal income, academic performance, drug 500-𝑛 for encoder and decoder, where drop is a dropout layer with review, and clinical screening. Table 2 shows detailed character- rate 0.1. We set the structure for the discriminator to be 64-500- istics of these datasets. All datasets except german contain either 500-2000-𝑚, and the cluster centroid layer 𝜇 to be of size (10 * 64). Gender or Race as the sensitive attribute, while that of german is We perform weight initialization on all linear layers with Xavier provided as a combination of gender and marital status. The Outlier uniform initiali",
+    "evidence_url": "https://arxiv.org/pdf/2106.05127",
+    "reason": "Reviewed substantive financial experiment, data, or case study: credit rating."
+  },
+  "kdd-2021-59184cd048b0": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "hen dence from the counterfactual samples generated by MCS? Table 1: Data statistics in experiments. Dataset #Row #Col Attribute Type Syn_Moons Syn_Moons 500 3 Continuous Syn_Circles 500 3 Continuous Adult 48, 842 9 Continuous & Categorical Home_Credit 344, 971 39 Continuous & Categorical Syn_Circles 6.1 Evaluation on Counterfactual Generation In this part, we evaluate the effectiveness and efficiency of MCS, Input Query Generated Counterfactuals comparing with existing algorithm-based counterfactual methods. Figure 6: Visualization of the generated counterfactual sam- 6.1.1 Experimental settings. We consider two synthetic datasets ples by the proposed MCS on two synthetic datasets. and two real-world datasets for counterfactual generation evaluation. Specifically, the statistics of the dataset",
+    "evidence_url": "https://arxiv.org/pdf/2106.08971",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult."
+  },
+  "kdd-2022-766965f35e51": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "fication mean and vary the variances. Table 1 denotes the performance on Adult, German, and Extended YaleB [10] datasets. Adult and German are tabular datasets [3], and their targets are binary about income and credit risk, respectively. 3.5 Theoretical Analysis Gender is a sensitive attribute for both datasets. The YaleB dataset This subsection presents the theoretical analysis of our distribu- is a visual dataset, and the target task is to classify the facial identity tional contrastive loss. The naive way to achieve contrastive dis- as irrelevant to the light condition that is regarded as a sensitive entangling is to use a simple reciprocal of divergence as a 𝑘 (·) in attribute. FarconVAE-G and FarconVAE-t denote the FarconVAE Eq. 5. However, setting 𝑘 (·) as a simple reciprocal might cause a with Gaussian a",
+    "evidence_url": "https://arxiv.org/pdf/2206.08743",
+    "reason": "Reviewed substantive financial experiment, data, or case study: income and credit risk."
+  },
+  "kdd-2022-65823fe3872f": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "statistics shown in Table 2. the network homophily 𝜒, the initial feature difference Δ𝝁 and Table 2: Basic dataset statistics. the masking probability p. As the network homophily 𝜒 decreases, Dataset German Credit Bail more neighboring nodes come from the other sensitive group and #Nodes 1000 30,000 18,876 aggregating information of these neighborhoods would smooth #Edges 22,242 1,436,858 321,308 node representations between different sensitive groups and reduce #Features 27 13 18 the bias. To the best of our knowledge, this is the first work relating Sens. Gender Age Race the fairness with the network homophily. Furthermore, Eq. (12) Label Good/bad Credit Default/no default Payment Bail/no bail proves that clamping weights of the encoder W 𝑓 ,1 upper bounds the group fairness. 4 𝑠𝑔: stopgrad prevents",
+    "evidence_url": "https://arxiv.org/pdf/2206.03426",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2022-72076b5849e9": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "2.07 1.10 - - nursery 12960 9 40.21 40.48 0.99 10 40.66 0.99 10 40.43 0.99 9 22.38 1.14 43.20 1.14 - - vehicle-coupon 12684 26 51.87 51.34 0.98 12 50.88 0.98 12 50.98 0.99 8 8.59 1.12 16.43 1.12 - - credit-card 30000 25 928.77 945.56 0.99 12 939.98 0.99 12 941.07 1.00 8 9.18 1.18 18.89 1.18 - - dutch-census 32561 15 376.73 384.15 0.97 12 390.82 0.98 12 385.36 0.99 8 76.34 1.40 151.18 1.32 - - bank-full 45211 17 934.14 958.79 0.97 11 958.86 0.98 11 948.85 0.97 10 103.57 1.10 202.73 1.10 - - diabetes 101 766 50 15 896.14 - - - - - - - - - 829.96 1.07 1 503.05 1.01 - - 8 RELATED WORK algorithm for 𝑘-Means, which was recently improved to 6.357 by 𝑘-Median is a classic problem in computer science. The first constant- Ahmadian et al.[1]. On the other side of the coin, the 𝑘-Median factor approximation for",
+    "evidence_url": "https://arxiv.org/pdf/2112.07030",
+    "reason": "Reviewed substantive financial experiment, data, or case study: credit-card."
+  },
+  "kdd-2024-9859013a6cee": {
+    "scope": "application",
+    "primary_topic_id": "other_finance",
+    "topic_ids": [
+      "other_finance"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "hile maintaining the ability of the original MLP on several classification and regression datasets (i.e., California models, we find that suitable model sparsity often promotes tabuHousing (CA) [40], Adult (AD) [34], Higgs (HI) [5], and Year (YE) [6]) lar prediction, but both excessive and insufficient sparsity cannot in various data scales (given in parentheses). achieve the best results. The results empirically indicate that, comMain Ablations. The top four rows in Table 7 report the impact of pared to DNN pruning in large pre-trained models for unstructured two key designs in a single T-MLP. An overall observation is that data, in the tabular data domain, the pruning has the capability both the structure sparsity and GBDT feature gate (FG) contribute to to promote non-large tabular DNNs as G",
+    "evidence_url": "https://arxiv.org/pdf/2407.09790",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult."
+  },
+  "kdd-2025-db2d851143e3": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "wo different effective learning of anomalies.Specifically, in this module, we firstly regions. obtain a homogeneous graph 𝐺𝑜𝑡 for the target node type 𝑜𝑡 using • Homogeneous graph for ChiGNN: Amazon, T-Finance, TMethod 2 delineated in Section 5.1. For the final representation ′ ′ ′ ′𝑑 ′ ′ Social, Reddit, Tolokers, Questions, and DGraph-Fin. 𝑿 𝑜𝑡 = 𝒙 𝑜1𝑡 ⊕ 𝒙 𝑜2𝑡 ⊕ · · · ⊕ 𝒙 𝑜𝑡 𝑜𝑡 ∈ 𝑅 |𝑉𝑜𝑡 | ×𝑑𝑜𝑡 and the Laplacian matrix The summaries of datasets are detailed in Appendix A. It is worth 𝑳𝑜𝑡 of 𝐺𝑜𝑡 , the contribution of each node is defined as: noting that ACM is not a natural dataset for GAD tasks. However, ′ 𝑑 ∑︁ ′ 𝒙 𝑜𝑗,𝑖 (𝑳𝑜𝑡 𝒙 𝑜 ) 𝑗,𝑖 the node of type 𝑜 0 has 3 classes, which allows us to fix the target 𝑡 𝑡 𝑐𝑖 = ′ 𝑇 ′ , 𝑖 = 1, · · · , |𝑉𝑜𝑡 |, node type 𝑜𝑡 = 𝑜 0 and randomly select one of the classe",
+    "evidence_url": "https://arxiv.org/pdf/2505.18934",
+    "reason": "Reviewed substantive financial experiment, data, or case study: T-Finance."
+  },
+  "kdd-2025-9258684580e0": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "d whether a person earns over $50K a year as Y , and the COMPAS dataset [29], with race as the sensitive variable (Caucasian or non-Caucasian) and two-year recidivism as Y . In addition, we explore a synthetic loan decision dataset using similar setup as [10]. For scenarios where both Y and A are continuous, we use the Crime dataset [27], with the ratio of an ethnic group per population as the sensitive variable and violent crimes per population as Y . Additionally, we explore a synthetic scenario involving a pricing algorithm for a fictional car insurance price adapted from [12], following the causal graph in Figure 2a. Details of the experimental setup can be found in Appendix E. Evaluation metrics We assess the accuracy of decisions using Mean Squared Error (MSE) for continuous value predictions, and Area Und",
+    "evidence_url": "https://arxiv.org/pdf/2403.17852",
+    "reason": "Reviewed substantive financial experiment, data, or case study: synthetic loan decision."
+  },
+  "kdd-2025-22cec0642f67": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "9] 269M Fig 4 4.53 59.26 37.80 396 519 573 ImageNet 10𝑘 12.5 [50] 61M [70] 86M 32.78 0.2s 60.25 376 373 401 (∗) from DINOv2[62] embedding [67] [49] [67] [49] [67] [49] [67] [49] BF 𝑘-d BDD BF 𝑘-d BDD German 1𝑘 31 3.3k 1.5k 0.0 2.9 3.3k 1.5k 0.0 0.0 0.31 0.30 0.74 220 223 235 Ind. [67] [67] Fair. Adult 48.8𝑘 15 𝐿∞ 0.16 5.1k 1.1k 0.1 23.2 5.1k 1.1k 0.0 2.5 0.69 1.21 5.38 250 360 275 [49] [49] COMPAS 6.2𝑘 18 1.5k 0.7k 1.8 55.4 1.5k 0.7k 0.2 40.6 0.31 0.49 4.50 223 235 236 Table 1: Experimental setup and performance summary for robustness monitoring applications. For each experimental setting we compare: the detected i.o.r. violations for the base model and the robust model; the processing time per input and the total memory required by our monitor implemented with various FRNN algorithms. Figure 5:",
+    "evidence_url": "https://arxiv.org/pdf/2506.00496",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German."
+  },
+  "kdd-2025-c9c92ff6e3a8": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "banking"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "e highlighted in bold, while the second- ' 3 ' L V S D U L W \\ best results are underlined. Global HV ↑ Method SYNTHETIC COMPAS BANK ADULT LFT+Ensemble 0.479 0.555 0.881 0.764 LFT+Fedavg 0.698 0.539 0.883 0.768 % $ 1 . $ ' 8 / 7 Agnosticfair 0.530 0.546 0.882 0.783 FairFed 0.342 0.507 0.878 0.269 FedFB 0.599 0.517 0.883 0.764 ' 3 ' L V S D U L W \\ EquiFL 0.642 0.564 0.877 0.761 PraFFL 0.763 0.629 0.889 0.828 Local HV ↑ Method SYNTHETIC COMPAS BANK ADULT LFT+Ensemble 0.468 0.514 0.138 0.501",
+    "evidence_url": "https://arxiv.org/pdf/2404.08973",
+    "reason": "Reviewed substantive financial experiment, data, or case study: BANK."
+  },
+  "kdd-2025-679da441988e": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "alysis of B ETA RCE hyperparameters (Sec. 4.3). Finally, we compare the performance of B ETA RCE to other baseline methods (Sec. 4.4). 4.1 Experimental setup We conducted experiments on six datasets: HELOC, Wine, Diabetes, Breast Cancer, Car evaluation, and Rice – all commonly used in related studies. Each dataset varies in size and number of attributes, but all are numerical to meet the requirements of the methods used later. Brief characteristics of these datasets are presented in App. E.2. For reproducibility purposes, we open-source our code4 . 4 https://github.com/istepka/betarce 7 We conducted experiments with three types of models: neural networks [32], gradient boosted trees (LightGBM [33]) and logistic regression [34]. The results for the latter two are provided in App. K. The neural n",
+    "evidence_url": "https://arxiv.org/pdf/2408.04842",
+    "reason": "Reviewed substantive financial experiment, data, or case study: HELOC."
+  },
+  "kdd-2026-4ed6ae3337e7": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "regularization loss is: Lreg = Lanchor +𝜆cross Lcross . used multivariate long-term forecasting benchmarks (ETTh1/2, Training objective. We train the memory module on Dteach us- ETTm1/2, Electricity, Exchange-rate, Traffic, Weather) [32, 82]. Foling a composite loss that balances ground-truth regression with lowing the standard long-horizon protocol, we evaluate across distributional distillation: multiple forecasting horizons and report the average performance to characterize overall long-range forecasting ability [71]. For point L = Ltask + 𝜆align Lalign + 𝜆reg Lreg . (20) forecasting, we report MSE and MAE [21]; for probabilistic forecasting, we additionally present CRPS to assess prediction quality [10]. 4.3 Inference via Adaptive Fusion Baselines & Backbones. We adopt four representative TSFMs: At",
+    "evidence_url": "https://arxiv.org/pdf/2602.11550",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange-rate."
+  },
+  "kdd-2026-716b9b6db3eb": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "taset [40] for urban vehicular flow; the Weather dataset datasets. [45] for meteorological variables; and the Exchange Rate dataset The closest competitors, DUET, TimeBridge, GPHT, and Time- [41] for interbank currency series. Base, remain unable to match its overall performance. Only on Baselines: We include eleven latest state-of-the-art long-sequence the ETT datasets does our method exhibit a few marginal failures, time series forecasting models: TimeMixer++ [37], SparseTSF (ICML which we attribute to known inherent limitations of our foundation 2025) [21], TimeBase (ICML 2025) [14], DUET (KDD 2025) [33], model, the iTransformer, which historically exhibits suboptimal TimeBridge (ICML 2025) [23], TimeXer (NeurIPS 2024) [38], iTrans- performance on the ETT series. Despite the fatal failure of iTransformer (ICLR",
+    "evidence_url": "https://arxiv.org/pdf/2606.10678",
+    "reason": "Reviewed substantive financial experiment, data, or case study: interbank currency series."
+  },
+  "kdd-2026-aac8f0309d0d": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "rieval. The appendix also evaluates alternative distance functions (Appendix C.5). 5.1 Experimental Setup We evaluate on four datasets: Adult-Income [31], a demographic dataset for income prediction; NY-Housing [20], containing New York real estate listings for price classification; Tax [48], a synthetic dataset common in DC research; and Census-Income [30], an extended demographic dataset. Characteristics are summarized in Appendix B. For each dataset, we designate a set of immutable attributes, as we require specifying which attributes cannot be modified; choices per dataset are detailed in Appendix B. Binary DCs are mined offline using FastADC [48]; for Adult and NY, we additionally craft unary constraints based on domain knowledge (see Appendix B.2). We generate 𝑘 = 5 CFs per tuple using weights",
+    "evidence_url": "https://arxiv.org/pdf/2608.26335",
+    "reason": "Reviewed substantive financial experiment, data, or case study: NY-Housing."
+  },
+  "kdd-2026-af4c01710446": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "], MSL [23], AUC-R, AUC-P, and Aff-F1. In particular, TimeRadar yields average PSM [1], SWaT [35], SMAP [23], CICIDS [26], SWAN [26], and improvements of 10.5% in AUC-R and 29.4% in AUC-P. This perforCreditcard [26]. We also evaluate TimeRadar on the UCR benchmance gain is largely attributed to the adaptive rotation of the input mark [57], with the results reported in App. B.3. More details about series into a unified continuous time-frequency domain with a learnthe pretraining and evaluation datasets are provided in App. A.1. able, input-specific angle. Such a transformation effectively exposes Competing methods. TimeRadar is evaluated against 13 state-ofanomalies that may remain subtle or indistinguishable in either the the-art (SOTA) methods for comprehensive comparison, including pure time or fr",
+    "evidence_url": "https://arxiv.org/pdf/2602.19068",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Creditcard."
+  },
+  "kdd-2026-0b9a5c202a29": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "to 100 for the Mujoco dataset, perform an ablation study on tailed data samples using real-world matching the data length, and split the ETTh and Energy datasets data in our experiments, i.e., ETTh, Stocks, and Energy datasets. into 48 time steps. For the proposed TimeBridge, we preserve the For each real and synthetic dataset, we extract top 𝑘% data samobserved values and set the prior x𝑇 as the interpolated values of ples with high variance as extreme data, respectively. The results the condition c as in Equation (20). from samples with the top 20% and 50% variance are shown in The imputation results are shown in Tables 5 and 6. Both tables Table 9. Our method outperformed 10 out of 12 metrics, showing demonstrate that TimeBridge achieves the lowest measures in imits robustness in high varian",
+    "evidence_url": "https://arxiv.org/pdf/2408.06672",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Stocks."
+  },
+  "kdd-2017-30051c903823": {
+    "scope": "application",
+    "primary_topic_id": "insurance",
+    "topic_ids": [
+      "insurance"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "ce of unmeasured confounders (unobservables) which influence both human decisions and the resulting outcomes. Experimental results on real world datasets spanning diverse domains such as health care, insurance, and criminal justice demonstrate the utility of our evaluation metric in comparing human decisions and machine predictions.",
+    "evidence_url": "https://openalex.org/W2745133928",
+    "reason": "Reviewed substantive financial experiment, data, or case study: insurance."
+  },
+  "kdd-2017-8f541847945f": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ics data for integration with environment models and space weather forecasts. 9.4 Particularly we use a dataset available on Comp-Engine Time Series [3] which gathers some physical measures taken EDF stock price ( ) by the ACE satellite between 1/1/1995 and 1/6/1995. In 9.3 the figure 8 we monitor a component of the magnetic field (in nT) during several minutes. 9.2 This time series is very noisy and contains different complex behaviors. We calibrate DSPOT with the n = 2000 9.1 first values and we run on the 15801 others with q = 10−3 and d = 450. The results are depicted on the figure 8. 9.0 :00 :00 :00 :00 :00 :00 :00 :00 :00 :00 15 :01 :41 :33 :31 :18 :24 :42 :33 :20 :13 09 09 10 11 12 13 14 15 16 17 Time 10 Figure 9: DSPOT run with q = 10−3 , d = 10 5 Magnetic field (nT) 0 5.4 Performances Here w",
+    "evidence_url": "https://hal.science/hal-01640325/document",
+    "reason": "Reviewed substantive financial experiment, data, or case study: stock price."
+  },
+  "kdd-2018-8b3a8efc4094": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "en by 5 EXPERIMENTS 2 5.1 Experimental Setup ∫q µc,q − µc,q ′ D B =− ln N (µc,q , σc,q 2 )N (µ ′ , σ 2 )ds = c,q c,q 2 . For evaluating the proposed methods, we use a real world dataset, 8σc,q the German Credit [20], which is also used in previous works [30, On Discrimination Discovery and Removal in Ranked Data using Causal Graph KDD 2018, August 2018, London, United Kingdom Algorithm 2: FRank Input : Ranked dataset D, protected attribute C, user-defined parameter τ . Output : Modified dataset D ∗ . 1 if PSE-DD(D, C, τ ) == [f alse, f alse] then 2 return; 3 Obtain the modified distributions of S by solving the quadratic programming problem; 4 foreach c, q do 5 foreach i : c i = c, qi = q do 6 si′ = si + (µc,q ′ − µ ); c,q 7 Compute the new rank of each individual according to the descending order o",
+    "evidence_url": "https://arxiv.org/pdf/1803.01901",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2018-89b5a2d9a773": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ar network to adapt to environmental con- the perturbation. ditions. E. coli is widely studied because of the efficiency in its system response to perturbation. Following the analysis of [21], we 6.2 Stock market used LTGL on E. coli data to infer network modifications across Finance is another example of a complex dynamical system suitable different time points evaluated before and after the application of to be analysed through a graphical model. Stock prices, in particular, environmental condition perturbations. We analysed the behaviour are highly related to each other and subject to time and environof metabolites, which have been shown to change consistently after mental changes, i.e., events that modify the system behaviour but the perturbation. Samples underwent one of two types of stress, are",
+    "evidence_url": "https://arxiv.org/pdf/1802.03987",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Stock market."
+  },
+  "kdd-2019-499dc1565bc2": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "ords.By incorporating EVL with an adapted memory network module, we achieve an end-to-end framework for time series prediction with extreme events. Through extensive experiments on synthetic data and two real datasets of stock and climate, we empirically validate the effectiveness of our framework. Besides, we also provide a proper choice for hyper-parameters in our proposed framework by conducting several additional experiments.",
+    "evidence_url": "https://www.kdd.org/kdd2019/proceedings",
+    "reason": "Reviewed substantive financial experiment, data, or case study: two real datasets of stock."
+  },
+  "kdd-2019-9c32fc8e13f1": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ensity-based approach, are ineffective in handling irwork intrusion records, or they may be from users, such as a small relevant features or non-linear separable classes due to the curse of number of fraudulent credit card transactions that are reported by dimensionality and the deficiency in capturing the non-linear relaclients and confirmed by the banks. tions. Recently ensemble methods (e.g., iForest [14] and many others In this paper, we introduce a novel anomaly detection framework [9, 18]) showed some large improvement over these approaches by to fill these gaps by leveraging a few labeled anomalies to fulfill working on selected feature subspaces, but how to efficiently and an end-to-end differentiable learning of anomaly scores. That is, effectively identify the relevant subspaces and model the intricat",
+    "evidence_url": "https://arxiv.org/pdf/1911.08623",
+    "reason": "Reviewed substantive financial experiment, data, or case study: fraudulent credit card."
+  },
+  "kdd-2020-32f8b171cf26": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "bal knowledge for each view. We evaluate our model in three tasks: medication recommendation from a patient's medical records, diagnosis-related group (DRG) classification from a hospital record, and invoice fraud detection through a company's taxation behaviors. The results demonstrate that our model outperforms all baselines and other state-of-the-art models in all tasks. Moreover, the ablation study of our model indicates that the inter-attention mechanism plays a key role in the model and it can boost the predictive power by effectively capturing the inter-view interactions from asynchronous views.",
+    "evidence_url": "https://www.kdd.org/kdd2020/proceedings/",
+    "reason": "Reviewed substantive financial experiment, data, or case study: invoice fraud."
+  },
+  "kdd-2020-2255d2612a29": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": ", and RRSE, lower values provements on the exchange-rate data, possibly due to the smaller are better. For CORR, higher values are better. Other experimental graph size and fewer training examples of exchange-rate data. setups are given in Appendix A.3. 5.3.2 Multi-step forecasting. In this experiment, we compare MT- 5.2 Baseline Methods for Comparision GNN with other spatial-temporal graph neural network models. MTGNN and MTGNN+sampling are our models to be evaluated. Table 3 shows the experimental results for the task of multi-step MTGNN is our proposed model. MTGNN+sampling is our proposed forecasting. The significance of MTGNN lies in that it achieves model trained on a sampled subset of a graph in each iteration. on-par performance with state-of-the-art spatial-temporal graph Baseline methods are",
+    "evidence_url": "https://arxiv.org/pdf/2005.11650",
+    "reason": "Reviewed substantive financial experiment, data, or case study: exchange-rate."
+  },
+  "kdd-2020-e0340f91b71a": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ined as Experimental Setup: We performed our experiments on the ProP- TP = E [H (X ) = 1|Y (X ) = 1] ublica COMPAS dataset [19] (used for recidivism prediction and P informing bail decisions) and the Adult dataset from the UCI Ma- Thus the difference in recall values between two protected chine Learning Repository [18] (used for predicting income). The groups д1 and д2 is nothing but δ (д1,д2,1) from above. We COMPAS dataset contains 6167 records, with the labels indicating make use of this for performing permutation tests. whether a criminal defendant committed a crime within two years (3) False Positive Rate (FPR) is defined as or not. The Adult dataset contains 48842 records, with the labels FP specifying if an individual makes over $50000 a year. = E [H (X ) = 1|Y (X ) = 0] N Both datasets were div",
+    "evidence_url": "https://arxiv.org/pdf/2007.05124",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult dataset."
+  },
+  "kdd-2020-9f0aa37e61a0": {
+    "scope": "application",
+    "primary_topic_id": "banking",
+    "topic_ids": [
+      "banking"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "O DATA • #→j – the times j received money, proxy for j’s popularity, Venmo is a mobile payment platform that supports person-to- • #i→j – the times i sent j money before, proxy for repetition, person financial transactions. Since 2012 Venmo has seen a rapid • T→j – the time since j received money (in seconds), growth in its transaction volume, both through growth in its active • T j→ – the time since j sent money, user base and in payments per user. As compared to other mo- • Ti→j – the time since i sent j money, proxy for repetition, bile transaction platforms, Venmo usage occurs more within social • T j→i – the time since j sent i money, proxy for reciprocity, groups [50]. Therefore, the structure of the Venmo payment net- • |FoFi j | – the number of unique nodes forming length-2 forwork is likely correlated",
+    "evidence_url": "https://arxiv.org/pdf/2006.10003",
+    "reason": "Reviewed substantive financial experiment, data, or case study: financial transactions."
+  },
+  "kdd-2020-226b55e1393a": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "erify the effectiveness of our method in multiple real datasets. 5.1 Datasets We perform experiments on three real-world datasets that are widely used in fair machine learning problems, including the Adult dataset [Dua and Graff, 2017], the Dutch census dataset [Center, 2019], and the COMPAS dataset [Larson et al., 2016]. – Adult: The goal of the Adult dataset is to predict whether a person makes more than $50k per year or not. Each instance contains 112 attributes including sex, gender, education level, occupation, etc. In our experiments, we set gender as the sensitive attribute, and consider occupation (with 14 possible categorical values) as the fair variable. The target variable (income) is binary and we set \"≥ $50k per year\" as the favored outcome. – Dutch census: This dataset is sampled from the",
+    "evidence_url": "https://arxiv.org/pdf/2006.10483",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult dataset."
+  },
+  "kdd-2021-747a4cb18724": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ain Δ𝐷𝑃 on Nutrition, showing top ground-truth causal graph. For real-world datasets, the ground- 7 paths contributing to Δ𝐷𝑃 . The meanings of nodes are in truth causal graphs are not available. For Adult and Nutrition Table 4. (b): The set of selected FACTs (T∗ ) under different datasets, we use the causal graphs built in previous works [9, 24, 29]. values of 𝜆 (larger 𝜆 means stronger fairness constraints) on For COMPAS dataset, we construct the causal graph with PC algoNutrition dataset. Red paths indicates the paths in T∗ . rithm [28], with directions on certain edges restricted and corrected according to domain knowledge. The PDAGs and rules we use to determine the causal directions are shown in the appendix. or no (𝑌 = 1 for non-recidivism). Race is the sensitive attribute (𝐴 = 1 for whi",
+    "evidence_url": "https://arxiv.org/pdf/2108.05335",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult."
+  },
+  "kdd-2021-360b465a27b1": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "position in Eq. (10) is done on the per-task fairness and accuracy metrics are reported in Table 4. subset of training data where the sensitive attribution information is available. Dataset UCI-Adult German Credit LSAC Law School Metric 𝐴𝑅𝐹𝐺 𝐴𝑅𝐸 𝐴𝑅𝐹𝐺 𝐴𝑅𝐸 𝐴𝑅𝐹𝐺 𝐴𝑅𝐸 6 EXPERIMENTS Vanilla MTL 0.3444 1.1040 0.1336 0.8367 0.3497 0.9778 In this section, we present experiment results of MTA-F on three Baseline 0.0871 1.1032 0.0999 0.8356 0.1126 0.9864 real-world datasets to demonstrate its effect on improving fairness- MTA-F 0.0437 1.0820 0.0364 0.8264 0.0310 0.9731 accuracy trade-off for multi-task learning problems. We first introTable 3: Average relative fairness gap (𝐴𝑅𝐹𝐺) and average reladuce the datasets and the experiment setup, then we present the tive error (𝐴𝑅𝐸) on UCI-Adult, German Credit Data and L",
+    "evidence_url": "https://arxiv.org/pdf/2106.02705",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2021-0e6566e6e6ce": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "e and Naı̈ve, T is 22 and 19 less on the balanced and unbalwith this Naı̈ve approach as a baseline in our experiments. anced MNIST datasets, respectively; 5 and 11 less on the balanced and unbalanced Adult datasets, respectively; 17 and 9 6 Experiments less on the balanced and unbalanced Dutch datasets, respectively. These differences are very small in proportion to T . 6.1 Experiment Setup All DP models are compared with the non-private SGD when Datasets we measure the utility loss due to differential privacy. We use MNIST dataset and replicate the setting in [Bagdasaryan et al., 2019]. The original MNIST dataset is a bal- Metric anced dataset with 60,000 training samples and each class has We use the test data to measure the model utility and fairness. about 6,000 samples. Class 8 has the mos",
+    "evidence_url": "https://arxiv.org/pdf/2003.03699",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult."
+  },
+  "kdd-2021-e70b89157367": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "banking"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "lowing three publicly available datasets. Each dataset contains a sequence of tasks where the ordering of tasks is selected We then analyze the proposed FFML algorithm and use one-step at random. (1) Bank Marketing [19] contains a total 41,188 subgradient update as an example. Under above assumptions, we first jects, each with 16 attributes and a binary label, which indicates target Eq.(10) and state: whether the client has subscribed or not to a term deposit. We Theorem 1. Suppose 𝑓 and 𝑔 : Θ × R𝑚 + → R satisfy Assumptions consider the marital status as the binary protected attribute. The 1, 2 and 3. The inner level update and the augmented Lagrangian dataset contains 50 tasks and each corresponds to a date when function L𝑡 (𝜽, 𝝀) are defined in Eq.(8)(7) and Eq.(10). Then, the the data are collected f",
+    "evidence_url": "https://arxiv.org/pdf/2108.09435",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Bank Marketing."
+  },
+  "kdd-2021-2b51bafc59cf": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "up for sufficiently small output sizes without sacrificing accuracy. In addition, we demonstrate the accuracy and efficacy of PFT on real-world anomaly detection, with interpretations of anomalies in stock price data.",
+    "evidence_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "reason": "Reviewed substantive financial experiment, data, or case study: stock price data."
+  },
+  "kdd-2021-4410338bcf59": {
+    "scope": "application",
+    "primary_topic_id": "blockchain",
+    "topic_ids": [
+      "blockchain"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "f-the-art temporal triangle counters (and is also network. more general). For example, DOTTT computes all types of temporal Temporal triangle counts provide a far richer set of counts than queries in Bitcoin temporal network with half a billion edges in standard counts. These counts take into account the temporal orless than an hour on a commodity machine. dering of edges in a triangle, and potentially impose constraints on the timestamp difference among edges. Temporal triangle and CCS CONCEPTS motif counting has applications in graph representation learn- • Theory of computation → Graph algorithms analysis; • In- ing [48], expressivity of graph neural networks (GNNs) [7], network formation systems → Data mining; Social networks; • Mathe- classification [47], temporal text network analysis [52], computer matics",
+    "evidence_url": "https://arxiv.org/pdf/2106.02762",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Bitcoin temporal network."
+  },
+  "kdd-2021-5b63d167a9b0": {
+    "scope": "application",
+    "primary_topic_id": "portfolio",
+    "topic_ids": [
+      "portfolio"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "e art on clustering, graphical models inference and prediction. Finally, to demonstrate the applicability of our approach in real-world scenarios, we exploit its characteristics to build a profitable investment portfolio. Results show that we are able to improve the state of the art, by going from a -%20 profit to a noticeable 80%.",
+    "evidence_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "reason": "Reviewed substantive financial experiment, data, or case study: investment portfolio."
+  },
+  "kdd-2021-c41236ae2eab": {
+    "scope": "application",
+    "primary_topic_id": "blockchain",
+    "topic_ids": [
+      "blockchain"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "umerous thresholds or coefficients and yields meaningful quantitative and qualitative insights into the network structural organization. We evaluate AlphaCore's performance with a focus on financial, blockchain-based token networks, the social network Reddit and a transportation network of international flight routes. We compare our results with existing core decomposition and centrality algorithms. Using ground truth about node importance, we show that AlphaCore yields the best precision and recall results among core decomposition methods using the same input features. An implementation is available at https://github.com/friedhelmvictor/alphacore.",
+    "evidence_url": "https://www.kdd.org/kdd2021/accepted-papers/toc.html",
+    "reason": "Reviewed substantive financial experiment, data, or case study: blockchain-based token networks."
+  },
+  "kdd-2022-0d892ee7e2a2": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "evaluate how much the node-level bias 𝐵𝑖 is promoted or reduced task. We adopt three real-world attributed networks for experiments between the two sensitive subgroups when only the identified edge – German Credit, Recidivism, and Credit Defaulter [1], where all set is utilized for the GNN prediction of the given node. Intuitively, node labels are binary. A detailed description is in the Appendix. this enables us to evaluate how well each explainer can identify those edges that maximally account for the exhibited bias and edges 4.1.2 Explainer Backbones. Different GNN explanation approaches whose existence can maximally alleviate the node-level bias for the that are able to identify edge sets as the node-level explanations can prediction, respectively. For the evaluation of Explanation Fidelity, be ado",
+    "evidence_url": "https://arxiv.org/pdf/2206.12104",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2022-809c231108de": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "section 6.2) that dependent rounding is much better concentrated around the Datasets: We use two datasets from the UCI repository: The expected value, especially for constraint (4c) for the number of Adult dataset consisting of 32,561 points and the CreditCard points in each label. dataset consisting of 30,000 points. For the group membership attribute we use race for Adult which takes on 5 possible values (5 colors) and marriage for CreditCard which takes on 4 possible 6 EXPERIMENTS values (4 colors). For the Adult dataset we use the numeric entries We run our algorithms using commodity hardware with our code of the dataset (age, final-weight, education, capital gain, and hours written in Python 3.6 using the NumPy library and functions from worked per week) as coordinates in the space. Whereas for th",
+    "evidence_url": "https://arxiv.org/pdf/2205.14358",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult dataset."
+  },
+  "kdd-2022-415a3ad80234": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "pture the dynamics shift, this framework introduces a meta-learning controller to dynamically optimize the hyper-parameters of a hybrid PDE model. Extensive experiments on times series forecasting of financial, engineering, and health data show that our model can provide valuable interpretability and achieve comparable performance to state-of-the-art models. From empirical studies, we find that learning a few differential operators may capture the major trend of sequential dynamics without massive computational complexity.",
+    "evidence_url": "https://www.kdd.org/kdd2022/toc.html",
+    "reason": "Reviewed substantive financial experiment, data, or case study: financial, engineering."
+  },
+  "kdd-2022-0f2c5145dcd5": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "available at https://github.com/LiuZH-19/ESG KDD ’22, August 14–18, 2022, Washington, DC, USA Junchen Ye et al. Table 2: Comparison with baselines on single-step forecasting. Solar-Energy Electricity Exchange Rate Wind Dataset Metrics 3 6 12 24 3 6 12 24 3 6 12 24 3 6 12 24 RSE 0.2435 0.3790 0.5911 0.8699 0.0995 0.1035 0.1050 0.1054 0.0228 0.0279 0.0353 0.0445 0.7161 0.7572 0.8076 0.9371 AR CORR 0.9710 0.9263 0.8107 0.5314 0.8845 0.8632 0.8591 0.8595 0.9734 0.9656 0.9526 0.9357 0.6459 0.6046 0.5560 0.4633 RSE 0.2259 0.3286 0.5200 0.7973 0.1500 0.1907 0.1621 0.1273 0.0239 0.0272 0.0394 0.0580 0.6689 0.6761 0.6772 0.6819 GP CORR 0.9751 0.9448 0.8518 0.5971 0.8670 0.8334 0.8394 0.8818 0.8713 0.8193 0.8484 0.8278 0.6964 0.6877 0.6846 0.6781 RSE 0.1922 0.2679 0.4244 0.6841 0.1393 0.1620 0.1557 0.1274 0.0265",
+    "evidence_url": "https://arxiv.org/pdf/2206.13816",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange Rate."
+  },
+  "kdd-2022-fe974df53e30": {
+    "scope": "application",
+    "primary_topic_id": "document_ai",
+    "topic_ids": [
+      "document_ai"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "epresent cells with their intricate correlations in tables, we propose a BERT-based pre-trained language model, TableLM, to encode tables with diverse layouts. To evaluate the framework, we collect a large finance dataset that includes 19,264 tables and 604K tuples. Extensive experiments on the dataset are conducted to demonstrate the superiority of our framework compared to a well-designed baseline.",
+    "evidence_url": "https://www.kdd.org/kdd2022/toc.html",
+    "reason": "Reviewed substantive financial experiment, data, or case study: large finance dataset."
+  },
+  "kdd-2023-579911069796": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "terNet. CounterNet achieves comparable predictive performance as base models. Dataset Size #Continuous #Categorical Dataset Base Model CounterNet Adult 32,561 2 6 Credit 30,000 20 3 Adult 0.831 0.828 HELOC 10,459 21 2 Credit 0.813 0.819 OULAD 32,593 23 8 HELOC 0.717 0.716 OULAD 0.934 0.929 4 Experimental Evaluation We primarily focus our evaluation on heterogeneous tabular datasets For evaluating CF examples, we use five widely used metrics for binary classification problems (which is the most common and from prior literature: reasonable setting for CF explanations [51, 56]). However, Counter- • Validity is defined as the fraction of input instances on which Net can be applied to multi-class classification settings, and it can CF explanation techniques output valid counterfactual examples, also",
+    "evidence_url": "https://arxiv.org/pdf/2109.07557",
+    "reason": "Reviewed substantive financial experiment, data, or case study: HELOC."
+  },
+  "kdd-2023-7aa51d3f22ce": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "two different aspects: prediction performance and counterfactual as the true causal model with causal graph shown in Fig. 3(a). fairness. To measure the model prediction performance, we employ Adult. UCI Adult income dataset1 contains census data for different the commonly used metrics – Root Mean Square Error (RMSE) and adults and the target here is to predict whether their income exceeds mean absolute error (MAE) for regression tasks and accuracy for 50K/yr. We take race as the sensitive attribute 𝑆, and their income as classification tasks. To evaluate different methods with respect to the prediction label 𝑌 . This is a binary classification task. We select counterfactual fairness, we compare the distribution divergence 1 https://archive.ics.uci.edu/ml/datasets/adult of the predictions made on d",
+    "evidence_url": "https://arxiv.org/pdf/2307.08232",
+    "reason": "Reviewed substantive financial experiment, data, or case study: UCI Adult."
+  },
+  "kdd-2023-c12895cf97b8": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "the anomaly class in one of these four datasets is held aim to detect the rare high-income persons (6.0%). fraud is for fraud- up for evaluation, while the anomalies in any combinations of the ulent credit card transaction detection, with fraudulent transactions remaining three datasets are combined to form the pool of seen (0.2%) as anomalies. celeba contains more than 200K celebrity im- anomalies. The type of the holdup anomalies is always different ages, each with 40 attribute annotations. We use the bald attribute from that in the anomaly pool and can be safely treated as unseen as our detection target, in which the scarce bald celebrities (3.0%) anomalies. We have 28 possible permutations under this setting, are treated as anomalies and the other 39 attributes form the feature resulting in 28 d",
+    "evidence_url": "https://arxiv.org/pdf/1910.13601",
+    "reason": "Reviewed substantive financial experiment, data, or case study: credit card."
+  },
+  "kdd-2023-6ccdebc76b46": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "by the development of F1-score in measuring Precision against Recall. For metrics used in privacy analysis, refer 4 EXPERIMENTAL SETUP to Section 5.2. We experiment with 4 popular real-word datasets: German Credit Evaluation setup. We consider a general setting of binary clas- [10], Adult Income [24] Graduate Admission [1] and Student Perforsification where a counterfactual outcome 𝑦 ′ is opposite to the mance [7]. For each dataset, we select a fixed subset of immutable original outcome 𝑦, whether 𝑦 has label 1 or 0. From each method, features based on our domain knowledge and suggestions from we generate a set of 100 counterfactual explanations. During gen- [52]. We reserve the privacy analysis for German Credit and Adult eration, most methods, including ours, require multiple iterations Income datase",
+    "evidence_url": "https://arxiv.org/pdf/2209.13446",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2023-3c969ba705d7": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": " otherwise Datasets. We consider four datasets: Rotated-Colored-MNIST  (rcMNIST), New York Stop-and-Frisk [15], Chicago Crime [34], and This is also known as a lack of disparate impact [5]. A value German Credit [1] to evaluate our FairDolce against state-of-the- closer to 1 indicates fairness. art baselines, where rcMNIST is an image data and the other three • Equalized Odds (EO) [10] is formalized as are tabular datasets. We include the visualization of rcMNIST in . Fig. 2. (1) Rotated-Colored-MNIST is extended from the Rotated-  P(𝑌ˆ = 1|𝑍 = −1, 𝑌 = 1) P(𝑌ˆ = 1|𝑍 = 1, 𝑌 = 1),    if EO ≤ 1 MNIST dataset [7], which consists of 10,000 digits from 0 to 9 EO = . with different rotated angles where environments are determined  P(𝑌ˆ = 1|𝑍 = 1, 𝑌 = 1) P(𝑌ˆ = 1|𝑍 = −1, 𝑌 = 1),  otherwise  by angles",
+    "evidence_url": "https://arxiv.org/pdf/2306.01007",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2024-495b66024c5d": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ross various experimental and discover common patterns from the mixed dataset, we con- settings, particularly on small-scale datasets. Specifically, when duct zero-shot forecasting experiments on the Exchange, Weather, compared to the best-performing baseline in the 10% setting, GPHT and Traffic datasets, originating from various data scenarios with demonstrates a relative average MSE reduction of 16.02% and 7.02% distinct scales. The zero-shot forecasting task is conceptually chal- on the ETTh1 and ETTh2 datasets, respectively. With a further relenging for methods that model cross-variable dependencies, hence, duction in the training data to only 5%, the relative improvements only the channel-independent models are considered as baseline become even more pronounced, reaching 30.19% and 12.49%. Ho",
+    "evidence_url": "https://arxiv.org/pdf/2402.16516",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange."
+  },
+  "kdd-2024-bac8d313ef40": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "a fully connected layer, FC𝜃 𝑝 (h(𝑇 )) can be written as TIME on six benchmarked datasets, including weather, exchange, 𝑑h(𝑇 ) W𝜃 𝑃 (h(𝑇 )) + b𝜃 𝑝 ) and 𝑑𝑡 is defined by the ODE function 𝑓1 . So, and four Stock datasets (AAPL, AMZN, GOOG, MSFT). Among Equation (12) can be easily calculated by the automatic differen- the benchmarked datasets used, weather and exchange are widely tiation method. Therefore, we use the MSE loss between 𝑌ˆΔ𝑡 and utilized and are publicly available at [32]. The Stock dataset has 𝑌Δ𝑡 to supervise the time-derivative, where 𝑌Δ𝑡 := 𝑌𝑡𝑖 − 𝑌𝑡𝑖 −1 — in been actively used in [16]. The following is a description of the six other words, we use the difference 𝑌Δ𝑡 to supervise the derivative experimental data sets. (1) The Stocks dataset [2, 7, 13, 14] contains 𝑌ˆΔ𝑡 , which is reasonable sin",
+    "evidence_url": "https://arxiv.org/pdf/2407.01622",
+    "reason": "Reviewed substantive financial experiment, data, or case study: four Stock datasets."
+  },
+  "kdd-2024-f84e4f8782b3": {
+    "scope": "application",
+    "primary_topic_id": "blockchain",
+    "topic_ids": [
+      "blockchain"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "tterns are established. We find it advantageous to pay atten- architecture compared to other alternatives? tion to such nodes because, in some of the real-world datasets we used, including Wikipedia, Bitcoin-alpha, and Bitcoin-OTC, new 6.1 Experiment Details and rarely interacting nodes are more likely to engage in anomalous In this subsection, we describe datasets, baseline methods, and evalactions than those with consistent interactions.1 uation metrics that are used throughout our experiments. Then, we T3) Consistent T3) Anomalies: SLADE can also effectively identify Consistent Anomalies: clarify the implementation details of the proposed method SLADE. anomalies exhibiting interaction patterns that are consistent over Datasets: We assess the performance of SLADE on four real-world Datasets: time but",
+    "evidence_url": "https://arxiv.org/pdf/2402.11933",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Bitcoin-alpha."
+  },
+  "kdd-2024-9ae7f2337693": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "d, all privacy budget is spent on For our experiments, we utilize realistic benchmark tabular datasets the “Measure” step. The other is FedNaiveBayes which restricts the from the UCI repository [10]: Adult, Magic, Marketing and Covtype. workload 𝑄 to only 1-way marginals and is equivalent to training a We further use datasets common for benchmarking synthetic data: NaiveBayes model. In Table 1 we present the negative log-likelihood Census and Intrusion from the Synthetic Data Vault (SDV) [40]. We (NLL) for models trained to an 𝜀 = 5 across three datasets. Methods also construct a toy dataset with feature-skew denoted SynthFS. achieving lowest NLL for a particular dataset are in bold. Full details on all datasets are contained in Appendix B.1. For the central setting, AIM achieves better perform",
+    "evidence_url": "https://arxiv.org/pdf/2310.03447",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult."
+  },
+  "kdd-2024-7ab53789522d": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ally, we notice that the majority of existing FairML methods ing the existing literature [60, 61], We test them on the widely are designed for a specific learning task and/or fairness metric(s), used Adult dataset, with gender and race being the sensitive at- thus optimizing one metric might be at the (unintentional) expense tribute, respectively. To ensure a comprehensive evaluation, we of another metric. In contrast, as demonstrated by the experiments adopt three utility metrics (ACC, ROC, AP) and three metrics for above, AIM avoids such intrinsic tension by focusing on the root individual and/or group (un)fairness: PC for individual, EO for of unfairness (i.e., historically biased samples) and thus can lead to a near-universal improvement across different metrics. KDD ’24, August 25–29, 2024, Barcel",
+    "evidence_url": "https://arxiv.org/pdf/2406.08819",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult dataset."
+  },
+  "kdd-2024-bb7c917fdcdc": {
+    "scope": "application",
+    "primary_topic_id": "banking",
+    "topic_ids": [
+      "banking"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ems 33 (2020), 12934–12944. [7] Sören Becker, Johanna Vielhaben, Marcel Ackermann, Klaus-Robert Müller, Sebastian Lapuschkin, and Wojciech Samek. 2023. AudioMNIST: Exploring covertype pol electricity bank-marketing Explainable Artificial Intelligence for audio analysis on a simple benchmark. XGB MLP XGB MLP XGB MLP XGB MLP Journal of the Franklin Institute (2023). [8] Shai Ben-David and Ruth Urner. 2012. On the hardness of domain adaptation and XPE 0.05 0.05 0.03 0.43 0.09 0.06 0.12 0.06 the utility of unlabeled target samples. In International Conference on Algorithmic XPPE 0.05 0.13 0.17 0.42 0.31 0.23 0.04 -0.02 Learning Theory. Springer, 139–153. LAD 0.03 -0.05 -0.07 0.10 0.05 -0.13 0.06 0.00 [9] Umang Bhatt, Adrian Weller, and José MF Moura. 2021. Evaluating and aggreAxS 0.02 -0.05 -0.01 0.06 -0.11",
+    "evidence_url": "https://arxiv.org/pdf/2408.13648",
+    "reason": "Reviewed substantive financial experiment, data, or case study: bank-marketing."
+  },
+  "kdd-2024-2c142cac5513": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "oods for nodes can differ significantly. This hypothesis is rea- datasets to validate SEAN’s effectiveness. Furthermore, we insonable due to the diverse neighborhood connectivity patterns and troduce TemFin, a new financial transaction TIG benchmark potential noise. For instance, in financial networks, transaction dataset in this paper. This benchmark represents a more challengpatterns of banks arise from different factors [17, 45], and often ing environment due to its complexity in the financial domain. contain noise irrelevant to their primary financial interests [32, 40]. Temporal evolution. A suitable neighborhood for a target node 2 Related Work should adapt to different timestamps to align with the temporal evolution of TIGs, necessitating a temporal-aware design for neigh- 2.1 Temporal Gr",
+    "evidence_url": "https://arxiv.org/pdf/2406.11891",
+    "reason": "Reviewed substantive financial experiment, data, or case study: TemFin."
+  },
+  "kdd-2024-eb82f003fdf0": {
+    "scope": "application",
+    "primary_topic_id": "blockchain",
+    "topic_ids": [
+      "blockchain"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "nced subgraph (in terms of |𝑉 | or |𝐸|) found by each method for each dataset (𝛽 < |𝐸 + ∪𝐸 − | ), where NA denotes the corresponding method cannot finish in 100,000 seconds on the respective dataset. Bitcoin Epinions Slashdot Twitter Conflict Elections Politics Growth Method |𝑉 | |𝐸| |𝑉 | |𝐸| |𝑉 | |𝐸| |𝑉 | |𝐸| |𝑉 | |𝐸| |𝑉 | |𝐸| |𝑉 | |𝐸| |𝑉 | |𝐸| Timbal 4,050 9,757 65,879 190,751 43,742 101,590 8,636 129,927 51,463 361,663 3,579 17,633 65,188 230,529 NA NA GreSt 571 713 7,078 9,229 7,923 8,465 1,895 2,277 759 4,885 935 1,232 2,371 3,155 272,621 375,603 RH (LS) 5,002 13,746 NA NA NA NA 9,628 209,633 NA NA 3,970 28,453 NA NA NA NA RH 4,935 13,050 84,165 302,152 55,968 181,069 9,628 209,633 65,468 746,640 3,926 26,478 72,431 317,384 999,504 3,415,441 Scalable Algorithm for Finding Balanced Subgraphs",
+    "evidence_url": "https://arxiv.org/pdf/2402.05006",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Bitcoin."
+  },
+  "kdd-2024-f171d38ecc3a": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ssessing fairness, we adopt two payment patterns. Age serves as the sensitive feature, while traditional metrics ΔSP and ΔEO . Higher accuracy indicates better the label feature denotes defaulting on credit card payments. utility, and lower values of fairness metrics indicate better fairness. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks Conference acronym ’XX, June 03–05, 2018, Woodstock, NY Table 1: Comparison on accuracy and fairness ( ΔSP and ΔEO ) in percentage (%) with six real world datasets. ↑ denotes the larger, the better; ↓ denotes the opposite. The best results are bold-faced. Income Pokec-z Pokec-n Methods ACC(%) ↑ ΔSP (%) ↓ ΔEO (%) ↓ ACC(%) ↑ ΔSP (%) ↓ ΔEO (%) ↓ ACC(%) ↑ ΔSP (%) ↓ ΔEO (%) ↓ GCN 74.73 ± 2.54 25.90 ± 0.44 32.30 ± 2.78 66.24 ± 2.12 7.32 ± 1.48 7.60 ± 1.8",
+    "evidence_url": "https://arxiv.org/pdf/2405.17034",
+    "reason": "Reviewed substantive financial experiment, data, or case study: credit card."
+  },
+  "kdd-2024-f58f730a06cf": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "soning. tive when faced with fairness requirement alterations in sensitive attributes, such as transitioning from age-based considerations to KEYWORDS gender-related factors. Take loan approvals in a credit card network Fairness, Graph Neural Networks, Invariant Learning as an example, according to fairness policies, initially trained GNNs ∗ Corresponding author. are designed to make fair decisions toward the protected groups 1 Our code is available via: https://github.com/ZzoomD/FairINV/. divided by age, e.g., age ≤ 25 and age > 25. However, when policies change to focus on gender, necessitating fair treatment between Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed male and fem",
+    "evidence_url": "https://arxiv.org/pdf/2406.13544",
+    "reason": "Reviewed substantive financial experiment, data, or case study: credit card."
+  },
+  "kdd-2024-015d3f355bf3": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": ", Spain Algorithm 1: FairGB: Fair Graph Neural Networks via re- Table 1: The Statistic of Datasets. Balancing; Input: An attributed graph: G = ( V, A, X); hyper-parameters: Dataset German Credit Bail Credit Defaulter 𝑇 ,𝑇𝑤𝑎𝑟𝑚 , 𝜂; graph neural network: 𝑓𝜃 . # Nodes 1,000 18,876 30,000 Output: The Learned node representations Z and predictions Ŷ. # Edges 22,242 321,308 152,377 1 for 𝑡 = 1, . . . ,𝑇 do # Attributes 27 18 13 2 if 𝑡 ≤ 𝑇𝑤𝑎𝑟𝑚 then Sens. Gender Race Age 3 L ←Cross Entropy Loss; Label Credit status Bail decision Future default 4 Back-propagation to update parameters; 5 else 6 for 𝑖 = 1, . . . , | V𝑡𝑟𝑎𝑖𝑛 | do • RQ1: Compared to other baselines, can FairGB achieve better 7 Sample 𝜇 ∼ Uniform(0, 1); performance w.r.t. utility and fairness? 8 if 𝜇 ≥ 𝜂 then • RQ2: How does each component affect the m",
+    "evidence_url": "https://arxiv.org/pdf/2407.11624",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Credit Defaulter."
+  },
+  "kdd-2024-08de29431e72": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "ents show that our champion algorithm DAA consistently improves over the prior work on some standard benchmark datasets, including those used by the previous work, as well as a couple of data sets on credit card fraud. For instance, when measuring performance using AUC, our algorithm is the best in 25 out of 27 experiments over 7 different datasets.",
+    "evidence_url": "https://openalex.org/W4401863308",
+    "reason": "Reviewed substantive financial experiment, data, or case study: credit card fraud."
+  },
+  "kdd-2025-09ba5154147b": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ine real-world GAD datasets under 1/5/10-shot with models tuned on the few-shot data. Dataset Metric Setting Method Avg. p-value Reddit Amazon Disney Amazon-all YelpChi-all Tolokers Question Elliptic T-Finance GPPT (KDD’22) 0.5000 0.5303 0.4997 0.5010 0.5000 0.5061 0.4921 0.6162 0.3647 0.5011 0.003 GraphPrompt (WebConf’23) 0.4216 0.4882 0.4223 0.2631 0.4811 0.5328 0.4086 0.6001 0.4000 0.4464 0.004 1-shot ARC (NeurIPS’24) 0.4899 0.4571 0.3578 0.4570 0.4910 0.4667 0.5865 0.2904 0.2484 0.4272 0.008 AnomalyGFM 0.5922 0.8531 0.6649 0.8972 0.5872 0.5898 0.5303 0.6199 0.5916 0.6584 / AUROC GPPT (KDD’22) 0.5000 0.5098 0.5000 0.5051 0.5000 0.5181 0.4959 0.5736 0.2609 0.4848 0.003 GraphPrompt (WebConf’23) 0.4406 0.4900 0.6497 0.4726 0.5359 0.5381 0.4069 0.6012 0.4069 0.5046 0.003 5-shot ARC (NeurIPS’24) 0.47",
+    "evidence_url": "https://arxiv.org/pdf/2502.09254",
+    "reason": "Reviewed substantive financial experiment, data, or case study: T-Finance."
+  },
+  "kdd-2025-c8fdceeb2bcb": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ntributions. We tackle the problem of extracting, from a Figure 1: (Left) The 1-hop neighborhood 𝐺 of the node of interest, given graph, a pair of nodes (together with their neighborhoods), 𝑢97, from German Credit dataset [3]. Each customer has important such that they exhibit high similarity in both structure and features, features for classification, as shown in the table. (Center) 𝐺 1 is a coun- yet they are classified differently by a GNN. Our is a data mining terfactual explanation induced from 𝐺, highlighting the important problem, that is, we define a novel structure of interest in a large parts of the input graph. (Right) 𝑢862 is the counterfactual evidence graph based on a pre-trained GNN model’s output and we then that shares similar node features and surrounding structures (𝐺 2 ) with 𝑢97, b",
+    "evidence_url": "https://arxiv.org/pdf/2505.11396",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2025-90107a34a86e": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "odels due to Graph Evidential Learning for Anomaly Detection KDD ’25, August 3–7, 2025, Toronto, ON, Canada their reliance on feature quality, GEL exhibited significantly less Table 6: Performance on DGraphFin Dataset degradation than the baselines. Method AUC Recall@10000 Training Inference Memory Similarly, we assessed the models under different proportions of edge dropout (Figure 6(a) and (b)). At a dropout rate of 10%, GEL GAD-NR 69.93 45.46 35m39s 7m57s 21.9GB and most baselines showed improved Recall@K, likely due to the GEL 74.57 51.34 41m34s 8m9s 23.5GB regularization effect enhancing generalization [54]. However, as dropout rates increased further, performance declined in all mod- These results show that GEL maintains a 6.64% higher AUC els. Notably, under higher dropout conditions, GEL’s",
+    "evidence_url": "https://arxiv.org/pdf/2506.00594",
+    "reason": "Reviewed substantive financial experiment, data, or case study: DGraphFin."
+  },
+  "kdd-2025-312579546f4f": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "this enlarges the prediction duct experiments on four diverse real-world datasets: WIKI [17], set, reducing specificity and discriminative power. Finding the right REDDIT [17], DBLP [13], and the IBM Anti-Money Laundering balance between these metrics is essential for reliable and practical dataset [1]. These datasets represent a diverse range of real-world uncertainty quantification. application scenarios, ensuring a comprehensive assessment of our proposed approach. A detailed description of each dataset is available in Appendix C.2, with statistical summaries in Table 4 and 5.2 Comparison Experimental Results. temporal characteristics in Table 6. Our experiments, as shown in Table 1, reveal that NCPNet conEvaluation Metrics. To rigorously evaluate the performance of sistently achieves the pre-defined mis-co",
+    "evidence_url": "https://arxiv.org/pdf/2507.02151",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Anti-Money Laundering."
+  },
+  "kdd-2025-44f54d288d11": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": ".39 91.72 Ours #Improv.‡ 2.73% 11.34% 5.42% 3.38% 5.01% 4.67% ‡ Improvements are relative to general-purpose methods rather than GAD baselines. Datasets. We adopt three datasets (YelpChi, Amazon, and T-Finance) 75.6 70.2 CPF CPF with a uniform low label-rate of 1% following [79]. 75.4 Graph- 70.0 GraphNode- Node- 75.2 Baselines and model implementations. We include 11 baseline 69.8 accuracy 75.0 accuracy methods, organized into three types below: 74.8 69.6 • GAD models: PC-GNN [54], CARE-GNN [17], GDN [24]. 74.6 69.4 • GAD-specialized Filtering GNNs: BWGNN [79], GHRN [23]. 74.4 • General-purpose Filtering GNNs: GCN [41], GPRGNN [10], 69.2 74.2 OptBasis [27], AdaptKry [33], NIGCN [34], NFGNN [88]. 74.0 .1 .2 .3 .4 .5 .6 .7 .8 .9 69.0 .1 .2 .3 .4 .5 .6 .7 .8 .9 The implementations for the common base",
+    "evidence_url": "https://arxiv.org/pdf/2505.14033",
+    "reason": "Reviewed substantive financial experiment, data, or case study: T-Finance."
+  },
+  "kdd-2025-9982bd073b30": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ar = LN(E𝑖fo + E𝑖var ). This encoding strategy produces patch following [21]: (1) ECL, (2) ETTh1, (3) ETTh2, (4) ETTm1, (5) representations Evar ∈ R 𝐽 ×𝑁 ×𝐷 , effectively capturing complex ETTm2, (6) Exchange, (7) Traffic, (8) Weather, (9) Solar-Energy. cross-variate dependencies while maintaining a disentangled and Baselines. We carefully use 14 popular LTSF forecasting modstructured representation. els as our baselines and cite their performance from [21] if appliUnified Representation for Forecasting. After disentangling cable. Our baselines include (1) Pretrained Language model-based and separately capturing cross-time and cross-variate dependencies, model: FTP ([39]); (2) Transformer-based models: Autoformer [32], we concatenate the corresponding representations and utilize a FEDformer [38],",
+    "evidence_url": "https://arxiv.org/pdf/2408.12068",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange."
+  },
+  "kdd-2025-fd7ac2fcb9c0": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ed above for benign vertices, that is, we partition the benign vertices into k disjoint sets of equal size. However, in fraud graphs, there are often very few fraudulent vertices. For example, in the Elliptic Bitcoin financial fraud dataset [WDC+ 19] there are only 11 fraudsters out of over 6, 000 vertices. Partitioning these fraud vertices into a reasonable number of partitions to achieve low sensitivity (say k ≥ 5) would destroy any structure of the sub-graph of fraud vertices. We therefore modify typical subsample-and-aggregate for the fraudulent vertices by allowing duplication of fraudsters across partitions. For each partition, we sample a subset of fraudulent vertices, where the rate of sub-sampling is controlled by a parameter ρ. We term this instance of subsample-and-aggregate as Partition, Dupli",
+    "evidence_url": "https://arxiv.org/pdf/2507.22347",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Elliptic Bitcoin."
+  },
+  "kdd-2025-9822ed75ff2d": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ote the size of the ground set (i.e., the skill sets to cover). In this part, we used two real datasets Adult and COMPAS. In the For each 𝑁 ∈ {15, 20, · · · , 50}, we sample 𝑁 skills 20 times. We ran Adult dataset, the gender is the sensitive attribute. The female-tothe experiments on 20 different sample sets (each sample set has a male ratio is almost 0.5 in this dataset. We aim to select a subset random set of 𝑁 skills) and averaged the results. The goal is to find of individuals (rows) from this dataset to form a set of candidates a fair and minimal set of candidates that cover the ground set. The for a survey that is fair and covers a set of all 30 available criteria. results, aggregated on all 20 samples, are presented in Fig. 2. The For example, we want to have at least one individual with ’High",
+    "evidence_url": "https://arxiv.org/pdf/2405.11639",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult dataset."
+  },
+  "kdd-2025-1148cb35f67b": {
+    "scope": "application",
+    "primary_topic_id": "market_prediction",
+    "topic_ids": [
+      "market_prediction"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "the NYSE market, excluding sectors with three or fewer stocks as outlined in the experimental setup. Detailed results 5.5 Evaluation for each individual sector are provided in Appendix E. The results Stock Ranking. Given that our task encompasses both ranking on the MQ2008-list retrieval dataset are shown in Table 2. A 5-fold and stock selection functionalities, we use both traditional ranking cross-validation was performed, with detailed results for each fold metrics and financial performance metrics in our evaluation. For provided in Appendix F. Lastly, the results on OTD2 for historical ranking effectiveness, we use the Mean Average Precision at 𝐾 events ordering are presented in Table 3, with complete results for (MAP@K), which evaluates the precision of the top 𝐾 ranked stocks different random gro",
+    "evidence_url": "https://arxiv.org/pdf/2411.12064",
+    "reason": "Reviewed substantive financial experiment, data, or case study: stock ranking."
+  },
+  "kdd-2025-e576ccae257b": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "arnable parameters, we use Error (mae) as evaluation metrics. We consider four forecasting the Gumbel Softmax reparameterization trick [31] during Bernoulli horizon 𝐹 : 24, 36, 48, and 60 for FredMd, NASDAQ, NYSE, NN5, resampling to ensure the propagation of gradients. ILI, Covid-19, and Wike2000, and we use another four forecasting horizon, 96, 192, 336, and 720, for all other datasets which have 4.4 Fusion Module (FM) longer lengths. Since the size of the look-back window can affect the performance of different models, we choose the look-back window Through the dual clustering on both temporal and channel dimensize in 36 and 104 for FredMd, NASDAQ, NYSE, NN5, ILI, Covid-19, sions, our framework extracts the temporal feature 𝑋 temp ∈ R𝑁 ×𝑑 and Wike2000, and 96, 336, and 512 for all other datase",
+    "evidence_url": "https://arxiv.org/pdf/2412.10859",
+    "reason": "Reviewed substantive financial experiment, data, or case study: NASDAQ."
+  },
+  "kdd-2025-fa19aecd5d38": {
+    "scope": "application",
+    "primary_topic_id": "financial_ir",
+    "topic_ids": [
+      "financial_ir"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "gnificant speedups.We provide a theoretical analysis of the search space, demonstrating the superiority of our approach.Extensive experiments on eight datasets, including commonly used benchmarks and real-world stock price data, show that Hi-PNG outperforms four state-of-the-art graph-based ANNS baselines, achieving up to 15× acceleration while maintaining high precision.These results highlight Hi-PNG's effectiveness in solving the IF-ANNS problem.All codes and data generation are available at https://github.com/PUITAR/Hi-PNG.git.",
+    "evidence_url": "https://openalex.org/W4412877223",
+    "reason": "Reviewed substantive financial experiment, data, or case study: real-world stock price data."
+  },
+  "kdd-2025-774ea781fe87": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "errors within a unified framework. We develop both group-blind and group-aware algorithms and derive their sample complexity bounds. Empirical evaluations on real-world datasets, including COMPAS and German Credit, demonstrate the efficiency of our approach, reducing sample complexity while achieving fairer rankings. Our findings offer theoretical insights and practical methods to enhance fairness in active ranking systems, improving their reliability in hiring, recommendations, and other applications.",
+    "evidence_url": "https://openalex.org/W4412825857",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2026-9887da762f22": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ld receive similar scores. Students, therefore, adapt their responses to resemble those of higher-performing peers, as similarity to well-evaluated answers increases the chance of consistent grading. Credit approval Björkegren and Grissen [2020], Keswani and Celis [2023] As shown in Figure 2b, in credit approval, applicants may modify observable financial attributes to improve outcomes. With individual fairness, similar profiles are expected to receive consistent decisions. Once a certain profile is approved, nearby applicants may adjust their features to resemble it, moving into a region associated with positive decisions. Hiring Henle et al. [2019], Alder and Gilbert [2006] As shown in Figure 2c, in hiring, candidates may adapt credentials such as résumé structure or skill presentation. Under indivi",
+    "evidence_url": "https://arxiv.org/pdf/2606.00827",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Credit approval."
+  },
+  "kdd-2026-71317e22179b": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": ", we conduct extensive ablation studies using the Datasets. We conduct experiments on four categories of datasets: following variants: (1) w/o TimeEmb: Discards the temporal embedRegular MTS datasets Exchange [15], Weather [49] and ZafNoo [34]; ding mechanisms across both the inputs and prediction queries. (2) Heterogeneous-frequency MTS datasets constructed by downsamw/o GAT: Substitutes the Graph Attention Network with a standard pling regular sequences at varying ratios across variables; Missinglinear projection for patch-level representation learning. (3) w/o value MTS datasets generated by randomly deleting observations G2 AT: Replaces the proposed adaptive patching strategy with a from regular datasets; and Event-driven MTS datasets Human Activfixed-size patching mechanism. (4) w/ KMeans: Re",
+    "evidence_url": "https://arxiv.org/pdf/2606.03121",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange."
+  },
+  "kdd-2026-8423b1242e93": {
+    "scope": "application",
+    "primary_topic_id": "other_finance",
+    "topic_ids": [
+      "other_finance"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "es are reflected in how training samples influence raw features of erroneous samples, with three types of errors model predictions across the entire validation set. Critically, dif- injected into the Adult dataset (more results in Appendix A). ferent error types induce qualitatively different patterns on the validation data through influence function. For example, samples with label errors tend to exert negative influence on validation encoder to extract error-specific patterns stable across different samples with similar features but correct labels. In contrast, sam- influence computation settings. From an Information Bottleneck ples with spurious correlations often positively influence validation perspective [1, 24, 31], this strategy learns a minimal sufficient samples sharing spurious attributes wh",
+    "evidence_url": "https://arxiv.org/pdf/2606.11616",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult dataset."
+  },
+  "kdd-2026-e27bd9e9a6aa": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "le unitarity ensures stability, the Hermitian Symmetry of real- Datasets. For the conditional task, we employ ETTh1 & ETTm1 [24], valued signals enables significant state-space compression. ECL [19], Exchange [9], and Air Quality [3]. For the uncondiFor any real vector x ∈ R𝐿 , its spectrum satisfies X𝑘 = X̄𝐿−𝑘 . tional task, we synthesize multivariate series on ETTh1, Stocks [3], By discarding the redundant negative frequencies, we define the Sines [22], and Air Quality (Details in Table 2). Compressed Frequency State: 6.2 Experimental Setting X̃ = [X0, . . . , X𝐾 ] ⊤ ∈ C𝐾 , where 𝐾 = ⌊𝐿/2⌋. (24) Evaluation Metrics. We evaluate unconditional generation using This reduction halves the modeling dimensionality. However, to four metrics: (1) Discriminative Score [21]: classification accuracy maintain",
+    "evidence_url": "https://arxiv.org/pdf/2602.17706",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange."
+  },
+  "kdd-2026-50f729627f0d": {
+    "scope": "application",
+    "primary_topic_id": "credit_risk",
+    "topic_ids": [
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "gh-dimensional datasets artificial-characters 10 218 8 going up to 19,993 features, primarily from biomedical applica- colic 368 27 tions, to demonstrate the scalability of iLTM to higher-dimensional credit-approval 690 16 problems, which are common in certain real-world domains. The heart-h 294 14 seven datasets from our curated high-dimensional collection are jasmine 2 984 145 CLL_SUB_11 [34], Lung [4], Prostate-GE [69], SMK_CAN_187 [71], kc1 2 109 22 TOX-171 [3], Arcene [31] and Gisette [32] 1 , and their characteris- lymph 148 19 tics are listed in Table 10. mfeat-fourier 2 000 77 phoneme 5 404 6 C.1.3 Transfer Learning to Regression Datasets. For the regression qsar-biodeg 1 055 42 benchmark, we use the publicly available datasets from [30], which balance-scale 625 5 have been also used in recent st",
+    "evidence_url": "https://arxiv.org/pdf/2511.15941",
+    "reason": "Reviewed substantive financial experiment, data, or case study: credit-approval."
+  },
+  "kdd-2026-bb31570d0ae5": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "xperiments are conducted ETTh1 0.415 0.435 0.421 0.435 1.328 0.740 0.421 0.437 on a single NVIDIA GPU, and the results reported in the tables are ETTm1 0.346 0.378 0.359 0.381 1.272 0.699 0.361 0.383 Exchange 0.394 0.415 0.411 0.420 0.377 0.409 0.402 0.416 averaged over three independent runs. Electricity 0.152 0.251 0.163 0.257 1.613 0.959 0.164 0.257 Traffic 0.395 0.279 0.414 0.287 2.768 1.090 0.414 0.287 4.2 Main Results Table 4 summarizes the forecasting performance across all horizons and datasets. Overall, SARAF achieves the best average MSE Table 3: Ablation study of components in the retriever. We and MAE on 5 out of 8 datasets, showing competitive overall perreport the average MSE and MAE across four forecasting formance among the evaluated methods. When averaged across horizons. The best",
+    "evidence_url": "https://arxiv.org/pdf/2606.04135",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange."
+  },
+  "kdd-2026-d03888932a4c": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "Average 0.694 0.967 0.978 4.60 0.513 0.955 0.330 3.42 Table 7: Perturbation Quality Analysis (substitution similarity > 0.8). Table 6 evaluates both sentencelevel semantic preservation and RIF on the Adult dataset. Across Category Cosine 𝑆𝑒𝑞 𝑆 𝑗𝑢𝑑𝑔𝑒 Example model backbones, the cosine-based baseline achieves high geometric similarity (0.955 on average) but yields substantially lower S High & G High 0.94 0.97 4.24 United-States → USA S High & G Low 0.75 0.94 3.96 Cambodia → Kampuchea semantic equivalence (𝑆𝑒𝑞 = 0.330) and lower LLM judge scores S Low & G High 0.88 0.08 2.96 China → Guangzhou (𝑆 𝑗𝑢𝑑𝑔𝑒 = 3.42), indicating frequent semantic drift. In contrast, S Low & G Low 0.69 0.00 2.14 Yugoslavia → Germany entailment-constrained adversarial pairs preserve semantic meaning reliably (average 𝑆𝑒𝑞 = 0.978;",
+    "evidence_url": "https://arxiv.org/pdf/2404.01356",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Adult dataset."
+  },
+  "kdd-2026-ed1d6d317c71": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "schema constraints. Water [55] contains water bottle reviews with 5 fields, MIMIC-ED [29] consists of clinical triage H𝑡 = {𝑠𝑡,1, . . . , 𝑠𝑡,𝐾𝑚𝑡 }, (10) records with 7 fields, and Loan [47] comprises LendingClub-style using the context–schema decoupled generation mechanism (Sec. 4.1). financial records with 13 fields. To enrich textual content without Candidate generation is conditioned on both positive (previously introducing external information, we prompt gpt-4o-mini [41] selected) and negative (contrastive) synthetic exemplars from round to rewrite selected fields: the chiefcomplaint field in MIMIC-ED 𝑡 −1, biasing proposals toward regions of the structured space val- is expanded into a more descriptive sentence, and Loan records idated by earlier private decisions while preserving exploration. i",
+    "evidence_url": "https://arxiv.org/pdf/2606.22817",
+    "reason": "Reviewed substantive financial experiment, data, or case study: LendingClub."
+  },
+  "kdd-2026-4c348eeb9eb4": {
+    "scope": "application",
+    "primary_topic_id": "credit_risk",
+    "topic_ids": [
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "1.56 66.019.25 70.373.23 74.064.45 16 66.275.04 64.146.80 54.764.53 56.595.21 60.624.13 65.147.55 70.075.19 75.260.76 4 48.924.60 54.007.34 48.806.76 52.994.08 54.336.54 51.909.40 55.941.10 60.775.01 Credit-g 8 55.263.92 52.5811.27 54.508.25 52.434.36 52.905.79 56.4212.89 57.423.10 62.940.74 16 59.2211.38 58.918.04 57.637.58 55.294.80 51.654.02 60.3814.03 56.602.22 69.371.85 4 62.357.48 56.2813.01 64.226.78 71.715.31 63.963.32 70.423.69 80.280.75 81.284.05 Diabetes 8 64.6913.33 69.089.68 67.3912.92 72.212.07 65.473.95 64.305.88 79.381.66 81.531.51 16 71.863.16 73.693.21 73.796.48 71.645.05 66.710.76 67.342.79 80.151.35 79.630.36 4 59.383.42 67.3315.29 88.273.32 60.764.00 68.1911.17 59.744.49 75.664.59 89.120.07 Heart 8 74.356.93 77.892.34 88.782.38 65.463.77 69.8510.82 70.147.91 79.462.16 90.651.7",
+    "evidence_url": "https://arxiv.org/pdf/2606.11640",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Credit-g."
+  },
+  "kdd-2026-f26d53babf39": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ormer on MSE and MAE respectively. casting scenarios. These include: (i) Long-term benchmarks: ETT Beyond the vanilla Transformer, CARD, iTransformer and PatchTST (m1, m2, h1, h2), Electricity (ECL), Exchange, Traffic, and Weather; also benefit from the plug-and-play design, obtaining average relaand (ii) Short-term benchmarks: PEMS (03, 04, 07, 08). tive improvements of 2.50%/2.37%, 3.00%/1.84% and 4.68%/3.10% on Baselines. We benchmark FAiT against 14 state-of-the-art meth- MSE/MAE, respectively. Notably, gains are more pronounced on ods across three distinct categories: (i) Linear-based models: the hourly-sampled ETTh1 than on the 15-minute-sampled ETTm1. TimeMixer++ [37], TimeMixer [38], TimesNet [42], DLinear [51]; Although the input length is fixed at 336 for both datasets, 336 (ii) Transfor",
+    "evidence_url": "https://arxiv.org/pdf/2606.01306",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange."
+  },
+  "kdd-2026-f73b86e3d2f8": {
+    "scope": "application",
+    "primary_topic_id": "financial_ir",
+    "topic_ids": [
+      "financial_ir"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "o-mini across three post-cutoff datasets: podcast , news , and dataset containing 609 documents and nearly 1.4 million tokens. semiconductor . This setup ensures a fair comparison of GraphRAG S&P 500 earnings transcripts. This dataset consists of earnings configurations under realistic retrieval and sensemaking conditions, call transcripts from publicly listed S&P 500 companies spanning while minimizing the influence of memorized knowledge. To fur- 2013–2025 [3], with over 20,000 documents totaling 232M tokens. ther verify that our heuristics generalize to more recent, stronger For GPT-3.5-turbo and GPT-4o-mini , to focus on multi-document models, we conduct a secondary evaluation using GPT-5-mini on synthesis and keep the dataset manageable, we use only post-cutoff the full datasets, to account for the limit",
+    "evidence_url": "https://arxiv.org/pdf/2603.05207",
+    "reason": "Reviewed substantive financial experiment, data, or case study: earnings transcripts."
+  },
+  "kdd-2026-961556e229b2": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "rity class. Class-conditional CP addresses Dataset (S-FFSD) [43], the Financial Transaction Fraud Detection this by computing a separate threshold for each class using only dataset (FTFD) 1 , and the BankSim dataset [29]. Detailed dataset the true-class calibration scores: introduction is listed in Appendix C cal 𝑛 𝑦  1−𝛼 {𝑆 𝑦,𝑖 𝑞ˆ𝑦 := Quant }𝑖=1 . (23) Experimental Setup. For the main experiments, we use TGN [32] as the temporal graph backbone, pre-train it on the training set, The empirical miscoverage on the test set and its deviation from and then freeze its parameters for calibration and conformal evaluthe target level 𝛼 are then ation following the standard split-conformal protocol. To examine 𝑚𝑦 backbone transferability, we additionally evaluate ProtoCP with d𝑦 := 1 ∑︁ mis test 1{𝑆 𝑦,",
+    "evidence_url": "https://arxiv.org/pdf/2608.15768",
+    "reason": "Reviewed substantive financial experiment, data, or case study: BankSim."
+  },
+  "kdd-2026-7e18edc44de8": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "anomaly detection datasets Table 5: Runtime comparison (seconds) across datasets on GPU Dataset #Nodes #Edges #Features #Degree #Anomalies Anomaly Ratio Dgraph 3,700,550 4,300,999 17 1.16 15,509 1.3% T-Finance 39,357 21,222,543 10 539.23 1,803 4.6% Model Elliptic Dgraph Reddit Photo T-Finance Photo 7,535 119,043 745 15.8 698 9.2% Reddit 10,984 168,016 64 15.3 366 3.3% AEGIS 5,761 2,247 261 498 15,258 Elliptic 203,769 234,355 166 1.15 4,545 9.8% GGAD 5,271 2,713 463 487 9,345 CGenGA 11,233 14,474 1,598 2,986 30,650 imbalance between positive and negative samples, aligning with BAED 8,641 10,802 1,142 2,489 27,864 our research focus. Details are summarized in Table 4. While BAED requires more time than lighter baselines (AEGIS, C Baseline Methods GGAD), it achieves a 27.98% average runtime reduction",
+    "evidence_url": "https://arxiv.org/pdf/2602.05232",
+    "reason": "Reviewed substantive financial experiment, data, or case study: T-Finance."
+  },
+  "kdd-2026-5e0adc85c041": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "y KDD 2026, August 9–13, 2026, Jeju Island, Republic of Korea. Xinyu Zhang et al. Table 2: Zero-shot Evaluation on ETTH1 of Tokenizer and Detokenizer Trained on Different Datasets Dataset ETTH1 ETTM1 Exchange rate Weather Electricity 1/10 utsd 1G 1/2 utsd 1G utsd 1G utsd 2G MSE 0.362 0.541 1.079 0.714 0.368 0.491 0.483 0.482 0.476 MAE 0.402 0.506 0.674 0.578 0.400 0.479 0.472 0.471 0.465 assess LLMs’ time series forecasting capabilities. Hence, it suggests and Detokenizer from over-adapting to training data and accuthat the work [28] does not sufficiently challenge the effectiveness rately assessing the intrinsic capabilities of LLMs in time series of pre-trained LLMs. This is because each model’s Patch Tokenizer forecasting. and Detokenizer are adapted to the current Backbone within the limited datase",
+    "evidence_url": "https://arxiv.org/pdf/2504.08818",
+    "reason": "Reviewed substantive financial experiment, data, or case study: Exchange rate."
+  },
+  "kdd-2026-704f7c8ad0d4": {
+    "scope": "application",
+    "primary_topic_id": "financial_safety",
+    "topic_ids": [
+      "financial_safety",
+      "credit_risk"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "ing Considering Considering Study the the the large large large ✏ of of ranges for (f consistent with the superiority in fairness found in Table 2, which 4.3 out out 334 334 under fairness attacks on German Credit. shaded 334 33 3 nt the t tthe theevaluation evaluation evaluation under under under four four fourrepresentative representative representative EO E-GCN, E-GCN, 339 E-GCN, GCN, GCN, 334 GCN, This FairGNN FairGNN FairGNN empirically (with (with (with GCN aaThe helps GCN aGCN tobackbone), backbone), achieve barand backbone), and high certifi aand 363 333 33 3 333 333 333 est level of bias in all cases of fairness attacks. This observation is Figure 3: The bias ))pairs. levels pairs. of We WeWe GCN, setset set thethe the E-GCN, threshold threshold threshold FairGNN, and NIFTY the effectiveness T",
+    "evidence_url": "https://arxiv.org/pdf/2311.02757",
+    "reason": "Reviewed substantive financial experiment, data, or case study: German Credit."
+  },
+  "kdd-2026-ff3f0eb77aee": {
+    "scope": "application",
+    "primary_topic_id": "fraud_aml",
+    "topic_ids": [
+      "fraud_aml"
+    ],
+    "evidence_type": "title_abstract_review",
+    "evidence_excerpt": "roup separation, thus effectively detecting cross-view camouflage by identifying inherent representational inconsistencies across heterogeneous dimensions. Extensive experiments on six real-world web financial transaction datasets demonstrate MHMRC's superiority over 14 SOTA models, achieving average improvements of 5.74% in AUC, 4.94% in F1, and 13.20% in AP.",
+    "evidence_url": "https://openalex.org/W7196990542",
+    "reason": "Reviewed substantive financial experiment, data, or case study: financial transaction datasets."
+  },
+  "kdd-2026-35b35f0719cd": {
+    "scope": "application",
+    "primary_topic_id": "time_series",
+    "topic_ids": [
+      "time_series"
+    ],
+    "evidence_type": "publisher_or_author_fulltext",
+    "evidence_excerpt": "gy (Shenzhen) Shenzhen, China chenxinyang95@gmail.com Abstract through structured natural language prompts. Extensive experiTime-series forecasting in real-world applications such as finance ments on financial and energy datasets demonstrate that LoFT-LLM and energy often faces challenges due to limited training data significantly outperforms strong baselines under both full-data and and complex, noisy temporal dynamics. Existing deep forecast- few-shot regimes, delivering superior accuracy, robustness, and ing models typically supervise predictions using full-length tem- interpretability. poral windows, which include substantial high-frequency noise and obscure long-term trends. Moreover, auxiliary variables containing rich domain-specific information are often underutilized, CCS Concepts especially in few-shot setti",
+    "evidence_url": "https://arxiv.org/pdf/2512.20002",
+    "reason": "Reviewed substantive financial experiment, data, or case study: financial and energy datasets."
+  }
+}

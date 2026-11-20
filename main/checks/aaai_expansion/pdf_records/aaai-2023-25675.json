@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2023-25675",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2023/aaai-2023-25675__Loan_Fraud_Users_Detection_in_Online_Lending_Leveraging_Multiple_Data_Views.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 294760,
+  "sha256": "e6e29dbc70c82d6794aae663620a58ecc45831f8bafe8aaf07c69ca8b5352b74",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25675/25447",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25675/25447",
+  "downloaded_at_utc": "2026-11-10T02:15:47.148747+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Sha Zhao",
+      "Yongrui Huang",
+      "Ling Chen",
+      "Chunping Wang",
+      "Shijian Li",
+      "Lei Chen",
+      "Gang Pan"
+    ],
+    "identity_verified": true
+  }
+}

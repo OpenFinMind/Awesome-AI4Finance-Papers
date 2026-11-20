@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2021-16694",
+  "title": "Classification with Strategically Withheld Data",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16694",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 282656,
+  "passages": [
+    {
+      "match": "credit card",
+      "offset": 48951,
+      "excerpt": " it can achieve. It is also possible that our methods hurt the chances of those with more missing data (similarly to how immigrants without credit history may not be able to get a credit card). This is to some extent inevitable, because if one can get in without any feature, everyone could get in by dropping all features. Therefore, the issue of fairness might arise in the case where some groups systematically tend to have more missing data. "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Anilesh K. Krishnaswamy",
+      "Haoming Li",
+      "David Rein",
+      "Hanrui Zhang",
+      "Vincent Conitzer"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2012.10203",
+    "version": "arxiv_author_version"
+  }
+}

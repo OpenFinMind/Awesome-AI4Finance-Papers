@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2025-33365",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33365__AlphaForge_A_Framework_to_Mine_and_Dynamically_Combine_Formulaic_Alpha_Factors.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 3055531,
+  "sha256": "8b7ea3ea0f5b981536b8273db02ac8501987ac616039cf707f1a799b33e9bd36",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33365/35520",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33365/35520",
+  "downloaded_at_utc": "2026-11-10T02:15:52.457799+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hao Shi",
+      "Weili Song",
+      "Xinting Zhang",
+      "Jiahe Shi",
+      "Cuicui Luo",
+      "Xiang Ao",
+      "Hamid Arian",
+      "Luis Angel Seco"
+    ],
+    "identity_verified": true
+  }
+}

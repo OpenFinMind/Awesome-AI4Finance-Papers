@@ -1,0 +1,31 @@
+{
+  "official_research_records": 3255,
+  "official_counts_by_year": {
+    "2017": 130,
+    "2018": 181,
+    "2019": 174,
+    "2020": 217,
+    "2021": 239,
+    "2022": 253,
+    "2023": 313,
+    "2024": 411,
+    "2025": 552,
+    "2026": 785
+  },
+  "source_hashes_verified": 88,
+  "official_research_sources_reparsed": true,
+  "regular_full_paper_policies_verified": 10,
+  "admitted": 134,
+  "admitted_pdfs": 96,
+  "financial_scopes": {
+    "core": 43,
+    "application": 91
+  },
+  "original_main_records_preserved": 1310,
+  "original_findings_records_preserved": 187,
+  "findings_admissions_preserved": true,
+  "complete_kdd_inventory": true,
+  "historical_kdd_decisions_verified": true,
+  "v3_classification_migration_verified_separately": true,
+  "downloaded_pdf_hashes_and_identity_verified": true
+}

@@ -1,0 +1,2721 @@
+[
+  {
+    "id": "aaai-2017-10505",
+    "title": "Gated Neural Networks for Option Pricing: Rationality by Design",
+    "authors": [
+      "Yongxin Yang",
+      "Yu Zheng",
+      "Timothy Hospedales"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/10505",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10505/10364",
+    "doi": "10.1609/aaai.v31i1.10505",
+    "year": 2017,
+    "arxiv_id": "1609.07472",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2017",
+    "publisher_cdn_url": "https://cdn.aaai.org/ojs/10505/10505-13-14033-1-2-20201228.pdf"
+  },
+  {
+    "id": "aaai-2017-10728",
+    "title": "Portfolio Selection via Subset Resampling",
+    "authors": [
+      "Weiwei Shen",
+      "Jun Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/10728",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10728/10587",
+    "doi": "10.1609/aaai.v31i1.10728",
+    "year": 2017,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2017"
+  },
+  {
+    "id": "aaai-2017-10767",
+    "title": "Explicit Defense Actions Against Test-Set Attacks",
+    "authors": [
+      "Scott Alfeld",
+      "Xiaojin Zhu",
+      "Paul Barford"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/10767",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/10767/10626",
+    "doi": "10.1609/aaai.v31i1.10767",
+    "year": 2017,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2017"
+  },
+  {
+    "id": "aaai-2018-11257",
+    "title": "Dynamic Network Embedding by Modeling Triadic Closure Process",
+    "authors": [
+      "Lekui Zhou",
+      "Yang Yang",
+      "Xiang Ren",
+      "Fei Wu",
+      "Yueting Zhuang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11257",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11257/11116",
+    "doi": "10.1609/aaai.v32i1.11257",
+    "year": 2018,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018"
+  },
+  {
+    "id": "aaai-2018-11452",
+    "title": "Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce",
+    "authors": [
+      "Qingpeng Cai",
+      "Aris Filos-Ratsikas",
+      "Pingzhong Tang",
+      "Yiwei Zhang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11452",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11452/11311",
+    "doi": "10.1609/aaai.v32i1.11452",
+    "year": 2018,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018"
+  },
+  {
+    "id": "aaai-2018-11795",
+    "title": "Accelerated Method for Stochastic Composition Optimization With Nonsmooth Regularization",
+    "authors": [
+      "Zhouyuan Huo",
+      "Bin Gu",
+      "Ji Liu",
+      "Heng Huang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/11795",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11795/11654",
+    "doi": "10.1609/aaai.v32i1.11795",
+    "year": 2018,
+    "arxiv_id": "1711.03937",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018"
+  },
+  {
+    "id": "aaai-2018-12124",
+    "title": "A Neural Stochastic Volatility Model",
+    "authors": [
+      "Rui Luo",
+      "Weinan Zhang",
+      "Xiaojun Xu",
+      "Jun Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/12124",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/12124/11983",
+    "doi": "10.1609/aaai.v32i1.12124",
+    "year": 2018,
+    "arxiv_id": "1712.00504",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2018"
+  },
+  {
+    "id": "aaai-2019-3906",
+    "title": "The Kelly Growth Optimal Portfolio with Ensemble Learning",
+    "authors": [
+      "Weiwei Shen",
+      "Bin Wang",
+      "Jian Pu",
+      "Jun Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3906",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3906/3784",
+    "doi": "10.1609/aaai.v33i01.33011134",
+    "year": 2019,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2019-3994",
+    "title": "The Pure Price of Anarchy of Pool Block Withholding Attacks in Bitcoin Mining",
+    "authors": [
+      "Colleen Alkalay-Houlihan",
+      "Nisarg Shah"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3994",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3994/3872",
+    "doi": "10.1609/aaai.v33i01.33011724",
+    "year": 2019,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2019-4023",
+    "title": "An Equivalence between Wagering and Fair-Division Mechanisms",
+    "authors": [
+      "Rupert Freeman",
+      "David M. Pennock",
+      "Jennifer Wortman Vaughan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4023",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4023/3901",
+    "doi": "10.1609/aaai.v33i01.33011957",
+    "year": 2019,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2019-4027",
+    "title": "Pareto Efficient Auctions with Interest Rates",
+    "authors": [
+      "Gagan Goel",
+      "Vahab Mirrokni",
+      "Renato Paes Leme"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4027",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4027/3905",
+    "doi": "10.1609/aaai.v33i01.33011989",
+    "year": 2019,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2019-4784",
+    "title": "MFBO-SSM: Multi-Fidelity Bayesian Optimization for Fast Inference in State-Space Models",
+    "authors": [
+      "Mahdi Imani",
+      "Seyede Fatemeh Ghoreishi",
+      "Douglas Allaire",
+      "Ulisses M. Braga-Neto"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4784",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/4784/4662",
+    "doi": "10.1609/aaai.v33i01.33017858",
+    "year": 2019,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2019-3880",
+    "title": "VidyutVanika: A Reinforcement Learning Based Broker Agent for a Power Trading Competition",
+    "authors": [
+      "Susobhan Ghosh",
+      "Easwar Subramanian",
+      "Sanjay P. Bhat",
+      "Sujit Gujar",
+      "Praveen Paruchuri"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3880",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3880/3758",
+    "doi": "10.1609/aaai.v33i01.3301914",
+    "year": 2019,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2019-3884",
+    "title": "Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism",
+    "authors": [
+      "Binbin Hu",
+      "Zhiqiang Zhang",
+      "Chuan Shi",
+      "Jun Zhou",
+      "Xiaolong Li",
+      "Yuan Qi"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3884",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3884/3762",
+    "doi": "10.1609/aaai.v33i01.3301946",
+    "year": 2019,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2020-5371",
+    "title": "Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection",
+    "authors": [
+      "Dawei Cheng",
+      "Sheng Xiang",
+      "Chencheng Shang",
+      "Yiyi Zhang",
+      "Fangzhou Yang",
+      "Liqing Zhang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5371",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5371/5227",
+    "doi": "10.1609/aaai.v34i01.5371",
+    "year": 2020,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5415",
+    "title": "Generating Realistic Stock Market Order Streams",
+    "authors": [
+      "Junyi Li",
+      "Xintong Wang",
+      "Yaoyang Lin",
+      "Arunesh Sinha",
+      "Michael Wellman"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5415",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5415/5271",
+    "doi": "10.1609/aaai.v34i01.5415",
+    "year": 2020,
+    "arxiv_id": "2006.04212",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5445",
+    "title": "Incorporating Expert-Based Investment Opinion Signals in Stock Prediction: A Deep Learning Framework",
+    "authors": [
+      "Heyuan Wang",
+      "Tengjiao Wang",
+      "Yi Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5445",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5445/5301",
+    "doi": "10.1609/aaai.v34i01.5445",
+    "year": 2020,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5462",
+    "title": "Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States",
+    "authors": [
+      "Yunan Ye",
+      "Hengzhi Pei",
+      "Boxin Wang",
+      "Pin-Yu Chen",
+      "Yada Zhu",
+      "Ju Xiao",
+      "Bo Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5462",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5462/5318",
+    "doi": "10.1609/aaai.v34i01.5462",
+    "year": 2020,
+    "arxiv_id": "2002.05780",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5472",
+    "title": "Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms",
+    "authors": [
+      "Xitong Zhang",
+      "He Zhu",
+      "Jiayu Zhou"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5472",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5472/5328",
+    "doi": "10.1609/aaai.v34i01.5472",
+    "year": 2020,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5478",
+    "title": "Index Tracking with Cardinality Constraints: A Stochastic Neural Networks Approach",
+    "authors": [
+      "Yu Zheng",
+      "Bowei Chen",
+      "Timothy M. Hospedales",
+      "Yongxin Yang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5478",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5478/5334",
+    "doi": "10.1609/aaai.v34i01.5478",
+    "year": 2020,
+    "arxiv_id": "1911.05052",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5587",
+    "title": "Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach",
+    "authors": [
+      "Yang Liu",
+      "Qi Liu",
+      "Hongke Zhao",
+      "Zhen Pan",
+      "Chuanren Liu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5587",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5587/5443",
+    "doi": "10.1609/aaai.v34i02.5587",
+    "year": 2020,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5681",
+    "title": "K-BERT: Enabling Language Representation with Knowledge Graph",
+    "authors": [
+      "Weijie Liu",
+      "Peng Zhou",
+      "Zhe Zhao",
+      "Zhiruo Wang",
+      "Qi Ju",
+      "Haotang Deng",
+      "Ping Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5681",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5681/5537",
+    "doi": "10.1609/aaai.v34i03.5681",
+    "year": 2020,
+    "arxiv_id": "1909.07606",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5906",
+    "title": "FlowScope: Spotting Money Laundering Based on Graphs",
+    "authors": [
+      "Xiangfeng Li",
+      "Shenghua Liu",
+      "Zifeng Li",
+      "Xiaotian Han",
+      "Chuan Shi",
+      "Bryan Hooi",
+      "He Huang",
+      "Xueqi Cheng"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5906",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762",
+    "doi": "10.1609/aaai.v34i04.5906",
+    "year": 2020,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5952",
+    "title": "Particle Filter Recurrent Neural Networks",
+    "authors": [
+      "Xiao Ma",
+      "Peter Karkus",
+      "David Hsu",
+      "Wee Sun Lee"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5952",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5952/5808",
+    "doi": "10.1609/aaai.v34i04.5952",
+    "year": 2020,
+    "arxiv_id": "1905.12885",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-6005",
+    "title": "Actionable Ethics through Neural Learning",
+    "authors": [
+      "Daniele Rossini",
+      "Danilo Croce",
+      "Sara Mancini",
+      "Massimo Pellegrino",
+      "Roberto Basili"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/6005",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6005/5861",
+    "doi": "10.1609/aaai.v34i04.6005",
+    "year": 2020,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-6087",
+    "title": "Crowdfunding Dynamics Tracking: A Reinforcement Learning Approach",
+    "authors": [
+      "Jun Wang",
+      "Hefu Zhang",
+      "Qi Liu",
+      "Zhen Pan",
+      "Hanqing Tao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/6087",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6087/5943",
+    "doi": "10.1609/aaai.v34i04.6087",
+    "year": 2020,
+    "arxiv_id": "1912.12016",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2021-16077",
+    "title": "Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks",
+    "authors": [
+      "Rui Cheng",
+      "Qing Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16077",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16077/15884",
+    "doi": "10.1609/aaai.v35i1.16077",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16083",
+    "title": "Universal Trading for Order Execution with Oracle Policy Distillation",
+    "authors": [
+      "Yuchen Fang",
+      "Kan Ren",
+      "Weiqing Liu",
+      "Dong Zhou",
+      "Weinan Zhang",
+      "Jiang Bian",
+      "Yong Yu",
+      "Tie-Yan Liu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16083",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16083/15890",
+    "doi": "10.1609/aaai.v35i1.16083",
+    "year": 2021,
+    "arxiv_id": "2103.10860",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16094",
+    "title": "The Causal Learning of Retail Delinquency",
+    "authors": [
+      "Yiyan Huang",
+      "Cheuk Hang Leung",
+      "Xing Yan",
+      "Qi Wu",
+      "Nanbo Peng",
+      "Dongdong Wang",
+      "Zhixiang Huang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16094",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16094/15901",
+    "doi": "10.1609/aaai.v35i1.16094",
+    "year": 2021,
+    "arxiv_id": "2012.09448",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16095",
+    "title": "Deep Portfolio Optimization via Distributional Prediction of Residual Factors",
+    "authors": [
+      "Kentaro Imajo",
+      "Kentaro Minami",
+      "Katsuya Ito",
+      "Kei Nakagawa"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16095",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16095/15902",
+    "doi": "10.1609/aaai.v35i1.16095",
+    "year": 2021,
+    "arxiv_id": "2012.07245",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16099",
+    "title": "Deep Contextual Clinical Prediction with Reverse Distillation",
+    "authors": [
+      "Rohan Kodialam",
+      "Rebecca Boiarsky",
+      "Justin Lim",
+      "Aditya Sai",
+      "Neil Dixit",
+      "David Sontag"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16099",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16099/15906",
+    "doi": "10.1609/aaai.v35i1.16099",
+    "year": 2021,
+    "arxiv_id": "2007.05611",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16105",
+    "title": "RevMan: Revenue-aware Multi-task Online Insurance Recommendation",
+    "authors": [
+      "Yu Li",
+      "Yi Zhang",
+      "Lu Gan",
+      "Gengwei Hong",
+      "Zimu Zhou",
+      "Qiang Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16105",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16105/15912",
+    "doi": "10.1609/aaai.v35i1.16105",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16127",
+    "title": "Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach",
+    "authors": [
+      "Ramit Sawhney",
+      "Shivam Agarwal",
+      "Arnav Wadhwa",
+      "Tyler Derr",
+      "Rajiv Ratn Shah"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16127",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16127/15934",
+    "doi": "10.1609/aaai.v35i1.16127",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16133",
+    "title": "The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network",
+    "authors": [
+      "Zijian Shi",
+      "Yu Chen",
+      "John Cartlidge"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16133",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16133/15940",
+    "doi": "10.1609/aaai.v35i1.16133",
+    "year": 2021,
+    "arxiv_id": "2103.01670",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16142",
+    "title": "Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management",
+    "authors": [
+      "Rundong Wang",
+      "Hongxin Wei",
+      "Bo An",
+      "Zhouyan Feng",
+      "Jun Yao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16142",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16142/15949",
+    "doi": "10.1609/aaai.v35i1.16142",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16144",
+    "title": "DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding",
+    "authors": [
+      "Zhicheng Wang",
+      "Biwei Huang",
+      "Shikui Tu",
+      "Kun Zhang",
+      "Lei Xu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16144",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16144/15951",
+    "doi": "10.1609/aaai.v35i1.16144",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-17328",
+    "title": "Fairness in Forecasting and Learning Linear Dynamical Systems",
+    "authors": [
+      "Quan Zhou",
+      "Jakub Marecek",
+      "Robert N. Shorten"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17328",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/17328/17135",
+    "doi": "10.1609/aaai.v35i12.17328",
+    "year": 2021,
+    "arxiv_id": "2006.07315",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16484",
+    "title": "Combining Reinforcement Learning and Constraint Programming for Combinatorial Optimization",
+    "authors": [
+      "Quentin Cappart",
+      "Thierry Moisan",
+      "Louis-Martin Rousseau",
+      "Isabeau Prémont-Schwarz",
+      "Andre A. Cire"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16484",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16484/16291",
+    "doi": "10.1609/aaai.v35i5.16484",
+    "year": 2021,
+    "arxiv_id": "2006.01610",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16568",
+    "title": "Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with Less Uncertainty",
+    "authors": [
+      "Guifeng Wang",
+      "Longbing Cao",
+      "Hongke Zhao",
+      "Qi Liu",
+      "Enhong Chen"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16568",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16568/16375",
+    "doi": "10.1609/aaai.v35i5.16568",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16582",
+    "title": "Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field",
+    "authors": [
+      "Bingbing Xu",
+      "Huawei Shen",
+      "Bingjie Sun",
+      "Rong An",
+      "Qi Cao",
+      "Xueqi Cheng"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16582",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16582/16389",
+    "doi": "10.1609/aaai.v35i5.16582",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16594",
+    "title": "Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling",
+    "authors": [
+      "Zixuan Yuan",
+      "Hao Liu",
+      "Renjun Hu",
+      "Denghui Zhang",
+      "Hui Xiong"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16594",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16594/16401",
+    "doi": "10.1609/aaai.v35i5.16594",
+    "year": 2021,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-16739",
+    "title": "Wasserstein Distributionally Robust Inverse Multiobjective Optimization",
+    "authors": [
+      "Chaosheng Dong",
+      "Bo Zeng"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16739",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16739/16546",
+    "doi": "10.1609/aaai.v35i7.16739",
+    "year": 2021,
+    "arxiv_id": "2009.14552",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2022-21305",
+    "title": "Fortunately, Discourse Markers Can Enhance Language Models for Sentiment Analysis",
+    "authors": [
+      "Liat Ein-Dor",
+      "Ilya Shnayderman",
+      "Artem Spector",
+      "Lena Dankin",
+      "Ranit Aharonov",
+      "Noam Slonim"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21305",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21305/21054",
+    "doi": "10.1609/aaai.v36i10.21305",
+    "year": 2022,
+    "arxiv_id": "2201.02026",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-21327",
+    "title": "Towards Building ASR Systems for the Next Billion Users",
+    "authors": [
+      "Tahir Javed",
+      "Sumanth Doddapaneni",
+      "Abhigyan Raman",
+      "Kaushal Santosh Bhogale",
+      "Gowtham Ramesh",
+      "Anoop Kunchukuttan",
+      "Pratyush Kumar",
+      "Mitesh M. Khapra"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21327",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21327/21076",
+    "doi": "10.1609/aaai.v36i10.21327",
+    "year": 2022,
+    "arxiv_id": "2111.03945",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-21414",
+    "title": "NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-Task Financial Forecasting",
+    "authors": [
+      "Linyi Yang",
+      "Jiazheng Li",
+      "Ruihai Dong",
+      "Yue Zhang",
+      "Barry Smyth"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21414",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21414/21163",
+    "doi": "10.1609/aaai.v36i10.21414",
+    "year": 2022,
+    "arxiv_id": "2201.01770",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-20327",
+    "title": "DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation",
+    "authors": [
+      "Wendi Li",
+      "Xiao Yang",
+      "Weiqing Liu",
+      "Yingce Xia",
+      "Jiang Bian"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20327",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20327/20086",
+    "doi": "10.1609/aaai.v36i4.20327",
+    "year": 2022,
+    "arxiv_id": "2201.04038",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-20361",
+    "title": "Forecasting Asset Dependencies to Reduce Portfolio Risk",
+    "authors": [
+      "Haoren Zhu",
+      "Shih-Yang Liu",
+      "Pengfei Zhao",
+      "Yingying Chen",
+      "Dik Lun Lee"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20361",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20361/20120",
+    "doi": "10.1609/aaai.v36i4.20361",
+    "year": 2022,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-20369",
+    "title": "FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns",
+    "authors": [
+      "Yitong Duan",
+      "Lei Wang",
+      "Qizhong Zhang",
+      "Jian Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20369",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20369/20128",
+    "doi": "10.1609/aaai.v36i4.20369",
+    "year": 2022,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-20400",
+    "title": "An Algorithmic Introduction to Savings Circles",
+    "authors": [
+      "Rediet Abebe",
+      "Adam Eck",
+      "Christian Ikeokwu",
+      "Sam Taggart"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20400",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20400/20159",
+    "doi": "10.1609/aaai.v36i5.20400",
+    "year": 2022,
+    "arxiv_id": "2203.12486",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-20717",
+    "title": "Lifelong Hyper-Policy Optimization with Multiple Importance Sampling Regularization",
+    "authors": [
+      "Pierre Liotet",
+      "Francesco Vidaich",
+      "Alberto Maria Metelli",
+      "Marcello Restelli"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20717",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20717/20476",
+    "doi": "10.1609/aaai.v36i7.20717",
+    "year": 2022,
+    "arxiv_id": "2112.06625",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-20888",
+    "title": "Co-promotion Predictions of Financing Market and Sales Market: A Cooperative-Competitive Attention Approach",
+    "authors": [
+      "Lei Zhang",
+      "Wang Xiang",
+      "Chuang Zhao",
+      "Hongke Zhao",
+      "Rui Li",
+      "Runze Wu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/20888",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20888/20647",
+    "doi": "10.1609/aaai.v36i8.20888",
+    "year": 2022,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-21229",
+    "title": "Optimal Admission Control for Multiclass Queues with Time-Varying Arrival Rates via State Abstraction",
+    "authors": [
+      "Marc Rigter",
+      "Danial Dervovic",
+      "Parisa Hassanzadeh",
+      "Jason Long",
+      "Parisa Zehtabi",
+      "Daniele Magazzeni"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21229",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21229/20978",
+    "doi": "10.1609/aaai.v36i9.21229",
+    "year": 2022,
+    "arxiv_id": "2203.08019",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2023-25648",
+    "title": "PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability",
+    "authors": [
+      "Shuqi Li",
+      "Weiheng Liao",
+      "Yuhan Chen",
+      "Rui Yan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25648",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25648/25420",
+    "doi": "10.1609/aaai.v37i4.25648",
+    "year": 2023,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2023"
+  },
+  {
+    "id": "aaai-2023-25666",
+    "title": "Tighter Robust Upper Bounds for Options via No-Regret Learning",
+    "authors": [
+      "Shan Xue",
+      "Ye Du",
+      "Liang Xu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25666",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25666/25438",
+    "doi": "10.1609/aaai.v37i4.25666",
+    "year": 2023,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2023"
+  },
+  {
+    "id": "aaai-2023-25675",
+    "title": "Loan Fraud Users Detection in Online Lending Leveraging Multiple Data Views",
+    "authors": [
+      "Sha Zhao",
+      "Yongrui Huang",
+      "Ling Chen",
+      "Chunping Wang",
+      "Shijian Li",
+      "Lei Chen",
+      "Gang Pan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25675",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25675/25447",
+    "doi": "10.1609/aaai.v37i4.25675",
+    "year": 2023,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2023"
+  },
+  {
+    "id": "aaai-2023-26054",
+    "title": "Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria",
+    "authors": [
+      "Yiqiao Liao",
+      "Parinaz Naghizadeh"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26054",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26054/25826",
+    "doi": "10.1609/aaai.v37i7.26054",
+    "year": 2023,
+    "arxiv_id": "2206.00137",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2023"
+  },
+  {
+    "id": "aaai-2023-26233",
+    "title": "Symphony in the Latent Space: Provably Integrating High-Dimensional Techniques with Non-linear Machine Learning Models",
+    "authors": [
+      "Qiong Wu",
+      "Jian Li",
+      "Zhenming Liu",
+      "Yanhua Li",
+      "Mihai Cucuringu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26233",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26233/26005",
+    "doi": "10.1609/aaai.v37i9.26233",
+    "year": 2023,
+    "arxiv_id": "2212.00852",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2023"
+  },
+  {
+    "id": "aaai-2024-27767",
+    "title": "MASTER: Market-Guided Stock Transformer for Stock Price Forecasting",
+    "authors": [
+      "Tong Li",
+      "Zhaoyang Liu",
+      "Yanyan Shen",
+      "Xue Wang",
+      "Haokun Chen",
+      "Sen Huang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/27767",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/27767/27575",
+    "doi": "10.1609/aaai.v38i1.27767",
+    "year": 2024,
+    "arxiv_id": "2312.15235",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29069",
+    "title": "Provably Powerful Graph Neural Networks for Directed Multigraphs",
+    "authors": [
+      "Béni Egressy",
+      "Luc Von Niederhäusern",
+      "Jovan Blanuša",
+      "Erik Altman",
+      "Roger Wattenhofer",
+      "Kubilay Atasu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29069",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29069/30025",
+    "doi": "10.1609/aaai.v38i10.29069",
+    "year": 2024,
+    "arxiv_id": "2306.11586",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29305",
+    "title": "ECHO-GL: Earnings Calls-Driven Heterogeneous Graph Learning for Stock Movement Prediction",
+    "authors": [
+      "Mengpu Liu",
+      "Mengying Zhu",
+      "Xiuyuan Wang",
+      "Guofang Ma",
+      "Jianwei Yin",
+      "Xiaolin Zheng"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29305",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29305/30462",
+    "doi": "10.1609/aaai.v38i12.29305",
+    "year": 2024,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29381",
+    "title": "MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction",
+    "authors": [
+      "Hao Qian",
+      "Hongting Zhou",
+      "Qian Zhao",
+      "Hao Chen",
+      "Hongxiang Yao",
+      "Jingwei Wang",
+      "Ziqi Liu",
+      "Fei Yu",
+      "Zhiqiang Zhang",
+      "Jun Zhou"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29381",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29381/30608",
+    "doi": "10.1609/aaai.v38i13.29381",
+    "year": 2024,
+    "arxiv_id": "2402.06633",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29384",
+    "title": "EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading",
+    "authors": [
+      "Molei Qin",
+      "Shuo Sun",
+      "Wentao Zhang",
+      "Haochong Xia",
+      "Xinrun Wang",
+      "Bo An"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29384",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29384/30614",
+    "doi": "10.1609/aaai.v38i13.29384",
+    "year": 2024,
+    "arxiv_id": "2309.12891",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29531",
+    "title": "Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context",
+    "authors": [
+      "Haochong Xia",
+      "Shuo Sun",
+      "Xinrun Wang",
+      "Bo An"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29531",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29531/30883",
+    "doi": "10.1609/aaai.v38i14.29531",
+    "year": 2024,
+    "arxiv_id": "2309.07708",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29589",
+    "title": "Risk-Conditioned Reinforcement Learning: A Generalized Approach for Adapting to Varying Risk Measures",
+    "authors": [
+      "Gwangpyo Yoo",
+      "Jinwoo Park",
+      "Honguk Woo"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29589",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29589/30992",
+    "doi": "10.1609/aaai.v38i15.29589",
+    "year": 2024,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29643",
+    "title": "From GARCH to Neural Network for Volatility Forecast",
+    "authors": [
+      "Pengfei Zhao",
+      "Haoren Zhu",
+      "Wilfred Siu Hung NG",
+      "Dik Lun Lee"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29643",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29643/31092",
+    "doi": "10.1609/aaai.v38i15.29643",
+    "year": 2024,
+    "arxiv_id": "2402.06642",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29661",
+    "title": "Adaptive Meta-Learning Probabilistic Inference Framework for Long Sequence Prediction",
+    "authors": [
+      "Jianping Zhu",
+      "Xin Guo",
+      "Yang Chen",
+      "Yao Yang",
+      "Wenbo Li",
+      "Bo Jin",
+      "Fei Wu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29661",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29661/31127",
+    "doi": "10.1609/aaai.v38i15.29661",
+    "year": 2024,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-28681",
+    "title": "StockMixer: A Simple Yet Strong MLP-Based Architecture for Stock Price Forecasting",
+    "authors": [
+      "Jinyong Fan",
+      "Yanyan Shen"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28681",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28681/29322",
+    "doi": "10.1609/aaai.v38i8.28681",
+    "year": 2024,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-28770",
+    "title": "CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph",
+    "authors": [
+      "Hongjie Xia",
+      "Huijie Ao",
+      "Long Li",
+      "Yu Liu",
+      "Sen Liu",
+      "Guangnan Ye",
+      "Hongfeng Chai"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28770",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28770/29478",
+    "doi": "10.1609/aaai.v38i8.28770",
+    "year": 2024,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2025-31993",
+    "title": "FactorGCL: A Hypergraph-Based Factor Model with Temporal Residual Contrastive Learning for Stock Returns Prediction",
+    "authors": [
+      "Yitong Duan",
+      "Weiran Wang",
+      "Jian Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/31993",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/31993/34148",
+    "doi": "10.1609/aaai.v39i1.31993",
+    "year": 2025,
+    "arxiv_id": "2502.05218",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-32026",
+    "title": "SCALM: Detecting Bad Practices in Smart Contracts Through LLMs",
+    "authors": [
+      "Zongwei Li",
+      "Xiaoqi Li",
+      "Wenkai Li",
+      "Xin Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/32026",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32026/34181",
+    "doi": "10.1609/aaai.v39i1.32026",
+    "year": 2025,
+    "arxiv_id": "2502.04347",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33220",
+    "title": "Langevin Multiplicative Weights Update with Applications in Polynomial Portfolio Management",
+    "authors": [
+      "Yi Feng",
+      "Xiao Wang",
+      "Tian Xie"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33220",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33220/35375",
+    "doi": "10.1609/aaai.v39i11.33220",
+    "year": 2025,
+    "arxiv_id": "2502.19210",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33225",
+    "title": "DCC: Differentiable Cardinality Constraints for Partial Index Tracking",
+    "authors": [
+      "Wooyeon Jo",
+      "Hyunsouk Cho"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33225",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33225/35380",
+    "doi": "10.1609/aaai.v39i11.33225",
+    "year": 2025,
+    "arxiv_id": "2412.17175",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33250",
+    "title": "DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction",
+    "authors": [
+      "Weijun Chen",
+      "Yanze Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33250",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33250/35405",
+    "doi": "10.1609/aaai.v39i11.33250",
+    "year": 2025,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33365",
+    "title": "AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors",
+    "authors": [
+      "Hao Shi",
+      "Weili Song",
+      "Xinting Zhang",
+      "Jiahe Shi",
+      "Cuicui Luo",
+      "Xiang Ao",
+      "Hamid Arian",
+      "Luis Angel Seco"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33365",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33365/35520",
+    "doi": "10.1609/aaai.v39i12.33365",
+    "year": 2025,
+    "arxiv_id": "2406.18394",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33433",
+    "title": "Dynamic Graph Learning with Static Relations for Credit Risk Assessment",
+    "authors": [
+      "Qi Yuan",
+      "Yang Liu",
+      "Yateng Tang",
+      "Xinhuan Chen",
+      "Xuehao Zheng",
+      "Qing He",
+      "Xiang Ao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33433",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33433/35588",
+    "doi": "10.1609/aaai.v39i12.33433",
+    "year": 2025,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33664",
+    "title": "MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation",
+    "authors": [
+      "Guokai Sun",
+      "Yuan Zhuang",
+      "Shuo Zhang",
+      "Xiaoyu Feng",
+      "Zhenguang Liu",
+      "Liguo Zhang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33664",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33664/35819",
+    "doi": "10.1609/aaai.v39i14.33664",
+    "year": 2025,
+    "arxiv_id": "2502.16955",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33760",
+    "title": "Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors",
+    "authors": [
+      "Jinhyeok Choi",
+      "Heehyeon Kim",
+      "Joyce Jiyoung Whang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33760",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33760/35915",
+    "doi": "10.1609/aaai.v39i15.33760",
+    "year": 2025,
+    "arxiv_id": "2412.18370",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33806",
+    "title": "Linking Industry Sectors and Financial Statements: A Hybrid Approach for Company Classification",
+    "authors": [
+      "Guy Stephane Waffo Dzuyo",
+      "Gaël Guibon",
+      "Christophe Cerisara",
+      "Luis Belmar-Letelier"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33806",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33806/35961",
+    "doi": "10.1609/aaai.v39i16.33806",
+    "year": 2025,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34045",
+    "title": "Logic-Q: Improving Deep Reinforcement Learning-based Quantitative Trading via Program Sketch-based Tuning",
+    "authors": [
+      "Zhiming Li",
+      "Junzhe Jiang",
+      "Yushi Cao",
+      "Aixin Cui",
+      "Bozhi Wu",
+      "Bo Li",
+      "Yang Liu",
+      "Danny Dongning Sun"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34045",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34045/36200",
+    "doi": "10.1609/aaai.v39i17.34045",
+    "year": 2025,
+    "arxiv_id": "2310.05551",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-35492",
+    "title": "Adaptive Market Making with Inventory Constraints via Online Learning",
+    "authors": [
+      "Shan Xue",
+      "Ye Du",
+      "Liang Xu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35492",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35492/37647",
+    "doi": "10.1609/aaai.v39i20.35492",
+    "year": 2025,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34734",
+    "title": "RETQA: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector",
+    "authors": [
+      "Zhensheng Wang",
+      "Wenmian Yang",
+      "Kun Zhou",
+      "Yiquan Zhang",
+      "Weijia Jia"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34734",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34734/36889",
+    "doi": "10.1609/aaai.v39i24.34734",
+    "year": 2025,
+    "arxiv_id": "2412.10104",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2026-37009",
+    "title": "Controllable Financial Market Generation with Diffusion Guided Meta Agent",
+    "authors": [
+      "Yu-Hao Huang",
+      "Chang Xu",
+      "Yang Liu",
+      "Weiqing Liu",
+      "Wu-Jun Li",
+      "Jiang Bian"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37009",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37009/40971",
+    "doi": "10.1609/aaai.v40i1.37009",
+    "year": 2026,
+    "arxiv_id": "2408.12991",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-37014",
+    "title": "FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation",
+    "authors": [
+      "Song Jin",
+      "Shuqi Li",
+      "Shukun Zhang",
+      "Rui Yan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37014",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37014/40976",
+    "doi": "10.1609/aaai.v40i1.37014",
+    "year": 2026,
+    "arxiv_id": "2511.07322",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-37021",
+    "title": "BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks",
+    "authors": [
+      "Uisang Lee",
+      "Changhoon Chung",
+      "Junmo Lee",
+      "Soo-Mook Moon"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37021",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37021/40983",
+    "doi": "10.1609/aaai.v40i1.37021",
+    "year": 2026,
+    "arxiv_id": "2512.09385",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-38499",
+    "title": "Beyond Single Transactions: D-EMAML---Dual-Edge Motif Neural Networks for Enhanced Anti-Money Laundering Detection",
+    "authors": [
+      "Dongmei Han",
+      "Min Min",
+      "Yuchen Wang",
+      "Guoming Xu",
+      "Xiaofeng Zhou"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38499",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38499/42461",
+    "doi": "10.1609/aaai.v40i17.38499",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-38588",
+    "title": "Targeting Borderline Fraudsters: Multi-View Hypergraph Fraud Detection with LLM-Guided Contrastive Learning",
+    "authors": [
+      "Rui Ou",
+      "Kun Zhu",
+      "Nana Zhang",
+      "Jiangtong Li",
+      "Chaochao Chen",
+      "Yuhua Xu",
+      "Changjun Jiang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38588",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38588/42550",
+    "doi": "10.1609/aaai.v40i18.38588",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-37069",
+    "title": "Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Alpha Factor Mining",
+    "authors": [
+      "Yu Shi",
+      "Yitong Duan",
+      "Jian Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37069",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37069/41031",
+    "doi": "10.1609/aaai.v40i2.37069",
+    "year": 2026,
+    "arxiv_id": "2505.11122",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-37075",
+    "title": "TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation in Legal and Financial Domains",
+    "authors": [
+      "Yidan Sun",
+      "Mengying Zhu",
+      "Feiyue Chen",
+      "Yangyang Wu",
+      "Xiaolei Dan",
+      "Mengyuan Yang",
+      "Xiaolin Zheng",
+      "Shenglin Ben"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37075",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37075/41037",
+    "doi": "10.1609/aaai.v40i2.37075",
+    "year": 2026,
+    "arxiv_id": "2511.09854",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-38822",
+    "title": "Inferring Heterogeneous Private Valuations from Offline Market Data via Entropic Risk-Sensitive Utility Maximization",
+    "authors": [
+      "Xingyu Qian",
+      "Haoran Yu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38822",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38822/42784",
+    "doi": "10.1609/aaai.v40i21.38822",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-38981",
+    "title": "Two Heads Are Better than One: Distilling Large Language Model Features into Small Models with Feature Decomposition and Mixture",
+    "authors": [
+      "Tianhao Fu",
+      "Xinxin Xu",
+      "Weichen Xu",
+      "Jue Chen",
+      "Ruilong Ren",
+      "Bowen Deng",
+      "Xinyu Zhao",
+      "Jian Cao",
+      "Xixin Cao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38981",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38981/42943",
+    "doi": "10.1609/aaai.v40i23.38981",
+    "year": 2026,
+    "arxiv_id": "2511.07110",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39015",
+    "title": "HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches",
+    "authors": [
+      "Jiejun Tan",
+      "Zhicheng Dou",
+      "Yan Yu",
+      "Jiehan Cheng",
+      "Lifeng Liu",
+      "Jian Xie",
+      "Jirong Wen"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39015",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39015/42977",
+    "doi": "10.1609/aaai.v40i23.39015",
+    "year": 2026,
+    "arxiv_id": "2508.08088",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39095",
+    "title": "MARS: A Meta-Adaptive Reinforcement Learning Framework for Risk-Aware Multi-Agent Portfolio Management",
+    "authors": [
+      "Jiayi Chen",
+      "Jing Li",
+      "Guiling Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39095",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39095/43057",
+    "doi": "10.1609/aaai.v40i24.39095",
+    "year": 2026,
+    "arxiv_id": "2508.01173",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39536",
+    "title": "IGT4ETH: An Isotropic Pre-trained Graph Transformer for Ethereum Account Classification",
+    "authors": [
+      "Ao Liu",
+      "Yanmei Zhang",
+      "Youwei Wang",
+      "Qiang Duan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39536",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39536/43497",
+    "doi": "10.1609/aaai.v40i28.39536",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39730",
+    "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "authors": [
+      "Yu Shi",
+      "Zongliang Fu",
+      "Shuo Chen",
+      "Bohan Zhao",
+      "Wei Xu",
+      "Changshui Zhang",
+      "Jian Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39730",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39730/43691",
+    "doi": "10.1609/aaai.v40i30.39730",
+    "year": 2026,
+    "arxiv_id": "2508.02739",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39785",
+    "title": "FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation",
+    "authors": [
+      "Zichen Tang",
+      "Haihong E",
+      "Rongjin Li",
+      "Jiacheng Liu",
+      "Linwei Jia",
+      "Zhuodi Hao",
+      "Zhongjun Yang",
+      "Yuanze Li",
+      "Haolin Tian",
+      "Xinyi Hu",
+      "Peizhi Zhao",
+      "Yuan Liu",
+      "Zhengyu Wang",
+      "Xianghe Wang",
+      "Yiling Huang",
+      "Xueyuan Lin",
+      "Ruofei Bai",
+      "Zijian Xie",
+      "Qian Huang",
+      "Ruining Cao",
+      "Haocheng Gao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39785",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39785/43746",
+    "doi": "10.1609/aaai.v40i30.39785",
+    "year": 2026,
+    "arxiv_id": "2512.24903",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40027",
+    "title": "MetaTrader: Learning to Generalize RL Trading Policies Beyond Offline Data",
+    "authors": [
+      "Haochen Yuan",
+      "Minting Pan",
+      "Yunbo Wang",
+      "Siyu Gao",
+      "Xiaokang Yang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40027",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40027/43988",
+    "doi": "10.1609/aaai.v40i33.40027",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40152",
+    "title": "Physics-Informed Koopman Neural Estimation of the Heston Model from High-Frequency Observations",
+    "authors": [
+      "Qiuming Zhu",
+      "Haoran Kou",
+      "Linyi Qian",
+      "Chunqi Shi",
+      "Xianyi Wu",
+      "Ziwei Zhou"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40152",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40152/44113",
+    "doi": "10.1609/aaai.v40i34.40152",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40166",
+    "title": "ArchetypeTrader: Reinforcement Learning for Selecting and Refining Learnable Strategic Archetypes in Quantitative Trading",
+    "authors": [
+      "Chuqiao Zong",
+      "Molei Qin",
+      "Haochong Xia",
+      "Bo An"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40166",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40166/44127",
+    "doi": "10.1609/aaai.v40i34.40166",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40222",
+    "title": "HiveMind: Contribution-Guided Online Prompt Optimization of LLM Multi-Agent Systems",
+    "authors": [
+      "Yihan Xia",
+      "Taotao Wang",
+      "Shengli Zhang",
+      "Zhangyuhua Weng",
+      "Bin Cao",
+      "Soung Chang Liew"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40222",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40222/44183",
+    "doi": "10.1609/aaai.v40i35.40222",
+    "year": 2026,
+    "arxiv_id": "2512.06432",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40303",
+    "title": "CLER: Improving Multimodal Financial Reasoning by Cross-MLLM Error Reflection",
+    "authors": [
+      "Shuangyan Deng",
+      "Zhongsheng Wang",
+      "Rui Mao",
+      "Ciprian Doru Giurcăneanu",
+      "Jiamou Liu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40303",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40303/44264",
+    "doi": "10.1609/aaai.v40i36.40303",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40358",
+    "title": "FinMathBench: A Formula-Driven Benchmark for Evaluating LLMs’ Math Reasoning Capabilities in Finance",
+    "authors": [
+      "Yi He",
+      "Ping Wang",
+      "Shiqiang Xiong",
+      "Chao Chen",
+      "Haixiang Hu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40358",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40358/44319",
+    "doi": "10.1609/aaai.v40i37.40358",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40456",
+    "title": "Query-Efficient Domain Knowledge Stealing Against Large Language Models",
+    "authors": [
+      "Zhengao Li",
+      "Xiaopeng Yuan",
+      "Bolin Shen",
+      "Kien Le",
+      "Haohan Wang",
+      "Xugui Zhou",
+      "Shangqian Gao",
+      "Yushun Dong"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40456",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40456/44417",
+    "doi": "10.1609/aaai.v40i38.40456",
+    "year": 2026,
+    "arxiv_id": null,
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40722",
+    "title": "RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior",
+    "authors": [
+      "Junyao Yang",
+      "Jianwei Wang",
+      "Huiping Zhuang",
+      "Cen Chen",
+      "Ziqian Zeng"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40722",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40722/44683",
+    "doi": "10.1609/aaai.v40i40.40722",
+    "year": 2026,
+    "arxiv_id": "2508.03140",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40739",
+    "title": "Interpreting Fedspeak with Confidence: A LLM-Based Uncertainty-Aware Framework Guided by Monetary Policy Transmission Paths",
+    "authors": [
+      "Rui Yao",
+      "Qi Chai",
+      "Jinhai Yao",
+      "Siyuan Li",
+      "Junhao Chen",
+      "Qi Zhang",
+      "Hao Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40739",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40739/44700",
+    "doi": "10.1609/aaai.v40i40.40739",
+    "year": 2026,
+    "arxiv_id": "2508.08001",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40993",
+    "title": "Causal Inference Under Threshold Manipulation: Bayesian Mixture Modeling and Heterogeneous Treatment Effects",
+    "authors": [
+      "Kohsuke Kubota",
+      "Shonosuke Sugasawa"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40993",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40993/44954",
+    "doi": "10.1609/aaai.v40i43.40993",
+    "year": 2026,
+    "arxiv_id": "2509.19814",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2019-3924",
+    "title": "One-Class Adversarial Nets for Fraud Detection",
+    "authors": [
+      "Panpan Zheng",
+      "Shuhan Yuan",
+      "Xintao Wu",
+      "Jun Li",
+      "Aidong Lu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3924",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3924/3802",
+    "doi": "10.1609/aaai.v33i01.33011286",
+    "year": 2019,
+    "arxiv_id": "1803.01798",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2019"
+  },
+  {
+    "id": "aaai-2020-5442",
+    "title": "Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning",
+    "authors": [
+      "Liang Tong",
+      "Aron Laszka",
+      "Chao Yan",
+      "Ning Zhang",
+      "Yevgeniy Vorobeychik"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5442",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5442/5298",
+    "doi": "10.1609/aaai.v34i01.5442",
+    "year": 2020,
+    "arxiv_id": "1906.08805",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5766",
+    "title": "Towards Better Forecasting by Fusing Near and Distant Future Visions",
+    "authors": [
+      "Jiezhu Cheng",
+      "Kaizhu Huang",
+      "Zibin Zheng"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5766",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5766/5622",
+    "doi": "10.1609/aaai.v34i04.5766",
+    "year": 2020,
+    "arxiv_id": "1912.05122",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2020-5996",
+    "title": "Synthesizing Action Sequences for Modifying Model Decisions",
+    "authors": [
+      "Goutham Ramakrishnan",
+      "Yun Chan Lee",
+      "Aws Albarghouthi"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5996",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5996/5852",
+    "doi": "10.1609/aaai.v34i04.5996",
+    "year": 2020,
+    "arxiv_id": "1910.00057",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2020"
+  },
+  {
+    "id": "aaai-2021-16851",
+    "title": "Counterfactual Explanations for Oblique Decision Trees:Exact, Efficient Algorithms",
+    "authors": [
+      "Miguel  Á. Carreira-Perpiñán",
+      "Suryabhan Singh Hada"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16851",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16851/16658",
+    "doi": "10.1609/aaai.v35i8.16851",
+    "year": 2021,
+    "arxiv_id": "2103.01096",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-17115",
+    "title": "Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting",
+    "authors": [
+      "Boris  N. Oreshkin",
+      "Dmitri Carpov",
+      "Nicolas Chapados",
+      "Yoshua Bengio"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17115",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/17115/16922",
+    "doi": "10.1609/aaai.v35i10.17115",
+    "year": 2021,
+    "arxiv_id": "2002.02887",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2021-17359",
+    "title": "Is the Most Accurate AI the Best Teammate? Optimizing AI for Teamwork",
+    "authors": [
+      "Gagan Bansal",
+      "Besmira Nushi",
+      "Ece Kamar",
+      "Eric Horvitz",
+      "Daniel S. Weld"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17359",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/17359/17166",
+    "doi": "10.1609/aaai.v35i13.17359",
+    "year": 2021,
+    "arxiv_id": "2004.13102",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2021"
+  },
+  {
+    "id": "aaai-2022-21192",
+    "title": "On the Fairness of Causal Algorithmic Recourse",
+    "authors": [
+      "Julius von Kügelgen",
+      "Amir-Hossein Karimi",
+      "Umang Bhatt",
+      "Isabel Valera",
+      "Adrian Weller",
+      "Bernhard Schölkopf"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21192",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21192/20941",
+    "doi": "10.1609/aaai.v36i9.21192",
+    "year": 2022,
+    "arxiv_id": "2010.06529",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2022-21199",
+    "title": "Online Search with Best-Price and Query-Based Predictions",
+    "authors": [
+      "Spyros Angelopoulos",
+      "Shahin Kamali",
+      "Dehou Zhang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21199",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21199/20948",
+    "doi": "10.1609/aaai.v36i9.21199",
+    "year": 2022,
+    "arxiv_id": "2112.01592",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2022"
+  },
+  {
+    "id": "aaai-2023-25854",
+    "title": "NHITS: Neural Hierarchical Interpolation for Time Series Forecasting",
+    "authors": [
+      "Cristian Challu",
+      "Kin G. Olivares",
+      "Boris N. Oreshkin",
+      "Federico Garza Ramirez",
+      "Max Mergenthaler Canseco",
+      "Artur Dubrawski"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25854",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25854/25626",
+    "doi": "10.1609/aaai.v37i6.25854",
+    "year": 2023,
+    "arxiv_id": "2201.12886",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2023"
+  },
+  {
+    "id": "aaai-2023-26317",
+    "title": "Are Transformers Effective for Time Series Forecasting?",
+    "authors": [
+      "Ailing Zeng",
+      "Muxi Chen",
+      "Lei Zhang",
+      "Qiang Xu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26317",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26317/26089",
+    "doi": "10.1609/aaai.v37i9.26317",
+    "year": 2023,
+    "arxiv_id": "2205.13504",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2023"
+  },
+  {
+    "id": "aaai-2024-28773",
+    "title": "Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum",
+    "authors": [
+      "Fan Xu",
+      "Nan Wang",
+      "Hao Wu",
+      "Xuezhi Wen",
+      "Xibin Zhao",
+      "Hai Wan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28773",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28773/29483",
+    "doi": "10.1609/aaai.v38i8.28773",
+    "year": 2024,
+    "arxiv_id": "2312.06441",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-28795",
+    "title": "GMP-AR: Granularity Message Passing and Adaptive Reconciliation for Temporal Hierarchy Forecasting",
+    "authors": [
+      "Fan Zhou",
+      "Chen Pan",
+      "Lintao Ma",
+      "Yu Liu",
+      "Siqiao Xue",
+      "James Zhang",
+      "Jun Zhou",
+      "Hongyuan Mei",
+      "Weitao Lin",
+      "Zi Zhuang",
+      "Wenxin Ning",
+      "Yunhua Hu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28795",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28795/29523",
+    "doi": "10.1609/aaai.v38i8.28795",
+    "year": 2024,
+    "arxiv_id": "2406.12242",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-28991",
+    "title": "MSGNet: Learning Multi-Scale Inter-series Correlations for Multivariate Time Series Forecasting",
+    "authors": [
+      "Wanlin Cai",
+      "Yuxuan Liang",
+      "Xianggen Liu",
+      "Jianshuai Feng",
+      "Yuankai Wu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28991",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28991/29883",
+    "doi": "10.1609/aaai.v38i10.28991",
+    "year": 2024,
+    "arxiv_id": "2401.00423",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29051",
+    "title": "Time-Aware Knowledge Representations of Dynamic Objects with Multidimensional Persistence",
+    "authors": [
+      "Baris Coskunuzer",
+      "Ignacio Segovia-Dominguez",
+      "Yuzhou Chen",
+      "Yulia R. Gel"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29051",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29051/29991",
+    "doi": "10.1609/aaai.v38i10.29051",
+    "year": 2024,
+    "arxiv_id": "2401.13157",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29205",
+    "title": "SHAP@k: Efficient and Probably Approximately Correct (PAC) Identification of Top-K Features",
+    "authors": [
+      "Sanjay Kariyappa",
+      "Leonidas Tsepenekas",
+      "Freddy Lécué",
+      "Daniele Magazzeni"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29205",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29205/30274",
+    "doi": "10.1609/aaai.v38i12.29205",
+    "year": 2024,
+    "arxiv_id": "2307.04850",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29210",
+    "title": "When Model Meets New Normals: Test-Time Adaptation for Unsupervised Time-Series Anomaly Detection",
+    "authors": [
+      "Dongmin Kim",
+      "Sunghyun Park",
+      "Jaegul Choo"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29210",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29210/30283",
+    "doi": "10.1609/aaai.v38i12.29210",
+    "year": 2024,
+    "arxiv_id": "2312.11976",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29239",
+    "title": "Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs",
+    "authors": [
+      "Dongjin Lee",
+      "Juho Lee",
+      "Kijung Shin"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29239",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29239/30339",
+    "doi": "10.1609/aaai.v38i12.29239",
+    "year": 2024,
+    "arxiv_id": "2308.10779",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29337",
+    "title": "U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting",
+    "authors": [
+      "Xiang Ma",
+      "Xuemei Li",
+      "Lexin Fang",
+      "Tianlong Zhao",
+      "Caiming Zhang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29337",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29337/30523",
+    "doi": "10.1609/aaai.v38i13.29337",
+    "year": 2024,
+    "arxiv_id": "2401.02236",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29522",
+    "title": "SafeAR: Safe Algorithmic Recourse by Risk-Aware Policies",
+    "authors": [
+      "Haochen Wu",
+      "Shubham Sharma",
+      "Sunandita Patra",
+      "Sriram Gopalakrishnan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29522",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29522/30867",
+    "doi": "10.1609/aaai.v38i14.29522",
+    "year": 2024,
+    "arxiv_id": "2308.12367",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2024-29628",
+    "title": "Gaussian Process Neural Additive Models",
+    "authors": [
+      "Wei Zhang",
+      "Brian Barr",
+      "John Paisley"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29628",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29628/31066",
+    "doi": "10.1609/aaai.v38i15.29628",
+    "year": 2024,
+    "arxiv_id": "2402.12518",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2024"
+  },
+  {
+    "id": "aaai-2025-33267",
+    "title": "Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting",
+    "authors": [
+      "Jingru Fei",
+      "Kun Yi",
+      "Wei Fan",
+      "Qi Zhang",
+      "Zhendong Niu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33267",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33267/35422",
+    "doi": "10.1609/aaai.v39i11.33267",
+    "year": 2025,
+    "arxiv_id": "2501.17216",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33384",
+    "title": "ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data",
+    "authors": [
+      "Chengsen Wang",
+      "Qi Qi",
+      "Jingyu Wang",
+      "Haifeng Sun",
+      "Zirui Zhuang",
+      "Jinming Wu",
+      "Lei Zhang",
+      "Jianxin Liao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33384",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33384/35539",
+    "doi": "10.1609/aaai.v39i12.33384",
+    "year": 2025,
+    "arxiv_id": "2412.11376",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33626",
+    "title": "A Practical Approach to Causal Inference over Time",
+    "authors": [
+      "Martina Cinquini",
+      "Isacco Beretta",
+      "Salvatore Ruggieri",
+      "Isabel Valera"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33626",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33626/35781",
+    "doi": "10.1609/aaai.v39i14.33626",
+    "year": 2025,
+    "arxiv_id": "2410.10502",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33717",
+    "title": "Disentangling Long-Short Term State Under Unknown Interventions for Online Time Series Forecasting",
+    "authors": [
+      "Ruichu Cai",
+      "Haiqin Huang",
+      "Zhifan Jiang",
+      "Zijian Li",
+      "Changze Zhou",
+      "Yuequn Liu",
+      "Yuming Liu",
+      "Zhifeng Hao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33717",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33717/35872",
+    "doi": "10.1609/aaai.v39i15.33717",
+    "year": 2025,
+    "arxiv_id": "2502.12603",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33747",
+    "title": "Sequence Complementor: Complementing Transformers for Time Series Forecasting with Learnable Sequences",
+    "authors": [
+      "Xiwen Chen",
+      "Peijie Qiu",
+      "Wenhui Zhu",
+      "Huayu Li",
+      "Hao Wang",
+      "Aristeidis Sotiras",
+      "Yalin Wang",
+      "Abolfazl Razi"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33747",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33747/35902",
+    "doi": "10.1609/aaai.v39i15.33747",
+    "year": 2025,
+    "arxiv_id": "2501.02735",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33838",
+    "title": "Auto-Regressive Moving Diffusion Models for Time Series Forecasting",
+    "authors": [
+      "Jiaxin Gao",
+      "Qinglong Cao",
+      "Yuntian Chen"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33838",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33838/35993",
+    "doi": "10.1609/aaai.v39i16.33838",
+    "year": 2025,
+    "arxiv_id": "2412.09328",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33926",
+    "title": "TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts",
+    "authors": [
+      "Yu-Hao Huang",
+      "Chang Xu",
+      "Yueying Wu",
+      "Wu-Jun Li",
+      "Jiang Bian"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33926",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33926/36081",
+    "doi": "10.1609/aaai.v39i17.33926",
+    "year": 2025,
+    "arxiv_id": "2501.05403",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33965",
+    "title": "Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation",
+    "authors": [
+      "HyunGi Kim",
+      "Siwon Kim",
+      "Jisoo Mok",
+      "Sungroh Yoon"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33965",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33965/36120",
+    "doi": "10.1609/aaai.v39i17.33965",
+    "year": 2025,
+    "arxiv_id": "2501.04970",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-33989",
+    "title": "TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents",
+    "authors": [
+      "Geon Lee",
+      "Wenchao Yu",
+      "Kijung Shin",
+      "Wei Cheng",
+      "Haifeng Chen"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33989",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33989/36144",
+    "doi": "10.1609/aaai.v39i17.33989",
+    "year": 2025,
+    "arxiv_id": "2502.11418",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34067",
+    "title": "TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment",
+    "authors": [
+      "Chenxi Liu",
+      "Qianxiong Xu",
+      "Hao Miao",
+      "Sun Yang",
+      "Lingzheng Zhang",
+      "Cheng Long",
+      "Ziyue Li",
+      "Rui Zhao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34067",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34067/36222",
+    "doi": "10.1609/aaai.v39i18.34067",
+    "year": 2025,
+    "arxiv_id": "2406.01638",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34082",
+    "title": "CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning",
+    "authors": [
+      "Peiyuan Liu",
+      "Hang Guo",
+      "Tao Dai",
+      "Naiqi Li",
+      "Jigang Bao",
+      "Xudong Ren",
+      "Yong Jiang",
+      "Shu-Tao Xia"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34082",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34082/36237",
+    "doi": "10.1609/aaai.v39i18.34082",
+    "year": 2025,
+    "arxiv_id": "2403.07300",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34164",
+    "title": "Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting",
+    "authors": [
+      "Reza Nematirad",
+      "Anil Pahwa",
+      "Balasubramaniam Natarajan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34164",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34164/36319",
+    "doi": "10.1609/aaai.v39i18.34164",
+    "year": 2025,
+    "arxiv_id": "2504.00118",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34211",
+    "title": "Enhancing Masked Time-Series Modeling via Dropping Patches",
+    "authors": [
+      "Tianyu Qiu",
+      "Yi Xie",
+      "Hao Niu",
+      "Yun Xiong",
+      "Xiaofeng Gao"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34211",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34211/36366",
+    "doi": "10.1609/aaai.v39i19.34211",
+    "year": 2025,
+    "arxiv_id": "2412.15315",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34224",
+    "title": "Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine",
+    "authors": [
+      "Luis Roque",
+      "Vítor Cerqueira",
+      "Carlos Soares",
+      "Luís Torgo"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34224",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34224/36379",
+    "doi": "10.1609/aaai.v39i19.34224",
+    "year": 2025,
+    "arxiv_id": "2412.14435",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34270",
+    "title": "xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition",
+    "authors": [
+      "Artyom Stitsyuk",
+      "Jaesik Choi"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34270",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34270/36425",
+    "doi": "10.1609/aaai.v39i19.34270",
+    "year": 2025,
+    "arxiv_id": "2412.17323",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-34286",
+    "title": "Hierarchical Classification Auxiliary Network for Time Series Forecasting",
+    "authors": [
+      "Yanru Sun",
+      "Zongxia Xie",
+      "Dongyue Chen",
+      "Emadeldeen Eldele",
+      "Qinghua Hu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34286",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34286/36441",
+    "doi": "10.1609/aaai.v39i19.34286",
+    "year": 2025,
+    "arxiv_id": "2405.18975",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-35424",
+    "title": "Text2Data: Low-Resource Data Generation with Textual Control",
+    "authors": [
+      "Shiyu Wang",
+      "Yihao Feng",
+      "Tian Lan",
+      "Ning Yu",
+      "Yu Bai",
+      "Ran Xu",
+      "Huan Wang",
+      "Caiming Xiong",
+      "Silvio Savarese"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35424",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35424/37579",
+    "doi": "10.1609/aaai.v39i20.35424",
+    "year": 2025,
+    "arxiv_id": "2402.10941",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-35438",
+    "title": "FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting",
+    "authors": [
+      "Yulong Wang",
+      "Yushuo Liu",
+      "Xiaoyi Duan",
+      "Kai Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35438",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35438/37593",
+    "doi": "10.1609/aaai.v39i20.35438",
+    "year": 2025,
+    "arxiv_id": "2505.04158",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2025-35468",
+    "title": "MCGAN: Enhancing GAN Training with Regression-Based Generator Loss",
+    "authors": [
+      "Baoren Xiao",
+      "Hao Ni",
+      "Weixin Yang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35468",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35468/37623",
+    "doi": "10.1609/aaai.v39i20.35468",
+    "year": 2025,
+    "arxiv_id": "2405.17191",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2025"
+  },
+  {
+    "id": "aaai-2026-38542",
+    "title": "APT: Affine Prototype-Timestamp for Time Series Forecasting Under Distribution Shift",
+    "authors": [
+      "Yujie Li",
+      "Zezhi Shao",
+      "Chengqing Yu",
+      "Yisong Fu",
+      "Tao Sun",
+      "Yongjun Xu",
+      "Fei Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38542",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38542/42504",
+    "doi": "10.1609/aaai.v40i18.38542",
+    "year": 2026,
+    "arxiv_id": "2511.12945",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39196",
+    "title": "T3Time: Tri-Modal Time Series Forecasting via Adaptive Multi-Head Alignment and Residual Fusion",
+    "authors": [
+      "Abdul Monaf Chowdhury",
+      "Rabeya Akter",
+      "Safaeid Hossain Arib"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39196",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39196/43157",
+    "doi": "10.1609/aaai.v40i25.39196",
+    "year": 2026,
+    "arxiv_id": "2508.04251",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39218",
+    "title": "TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding",
+    "authors": [
+      "Kuiye Ding",
+      "Fanda Fan",
+      "Chunyi Hou",
+      "Zheya Wang",
+      "Lei Wang",
+      "Zhengxin Yang",
+      "Jianfeng Zhan"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39218",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39218/43179",
+    "doi": "10.1609/aaai.v40i25.39218",
+    "year": 2026,
+    "arxiv_id": "2509.19406",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39330",
+    "title": "A Theoretical Analysis of Detecting Large Model-Generated Time Series",
+    "authors": [
+      "Junji Hou",
+      "Junzhou Zhao",
+      "Shuo Zhang",
+      "Pinghui Wang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39330",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39330/43291",
+    "doi": "10.1609/aaai.v40i26.39330",
+    "year": 2026,
+    "arxiv_id": "2511.07104",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39414",
+    "title": "GLANCE: Global Actions in a Nutshell for Counterfactual Explainability",
+    "authors": [
+      "Loukas Kavouras",
+      "Eleni Psaroudaki",
+      "Konstantinos Tsopelas",
+      "Dimitrios Rontogiannis",
+      "Nikolaos Theologitis",
+      "Dimitris Sacharidis",
+      "Giorgos Giannopoulos",
+      "Dimitrios Tomaras",
+      "Kleopatra Markou",
+      "Dimitrios Gunopulos",
+      "Dimitris Fotakis",
+      "Ioannis Emiris"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39414",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39414/43375",
+    "doi": "10.1609/aaai.v40i27.39414",
+    "year": 2026,
+    "arxiv_id": "2405.18921",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39426",
+    "title": "Time Series Forecasting via Direct Per-Step Probability Distribution Modeling",
+    "authors": [
+      "Linghao Kong",
+      "Xiaopeng Hong"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39426",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39426/43387",
+    "doi": "10.1609/aaai.v40i27.39426",
+    "year": 2026,
+    "arxiv_id": "2511.23260",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39509",
+    "title": "DeepBooTS: Dual-Stream Residual Boosting for Drift-Resilient Time-Series Forecasting",
+    "authors": [
+      "Daojun Liang",
+      "Jing Chen",
+      "Xiao Wang",
+      "Yinglong Wang",
+      "Shuo Li"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39509",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39509/43470",
+    "doi": "10.1609/aaai.v40i28.39509",
+    "year": 2026,
+    "arxiv_id": "2511.06893",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39596",
+    "title": "Supervised Dynamic Dimension Reduction with Deep Neural Network",
+    "authors": [
+      "Zhanye Luo",
+      "Yuefeng Han",
+      "Xiufan Yu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39596",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39596/43557",
+    "doi": "10.1609/aaai.v40i29.39596",
+    "year": 2026,
+    "arxiv_id": "2508.03546",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39601",
+    "title": "OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting",
+    "authors": [
+      "Sisuo Lyu",
+      "Siru Zhong",
+      "Weilin Ruan",
+      "Qingxiang Liu",
+      "Qingsong Wen",
+      "Hui Xiong",
+      "Yuxuan Liang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39601",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39601/43562",
+    "doi": "10.1609/aaai.v40i29.39601",
+    "year": 2026,
+    "arxiv_id": "2508.01727",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39723",
+    "title": "TSGDiff: Rethinking Synthetic Time Series Generation from a Pure Graph Perspective",
+    "authors": [
+      "Lifeng Shen",
+      "Xuyang Li",
+      "Lele Long"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39723",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39723/43684",
+    "doi": "10.1609/aaai.v40i30.39723",
+    "year": 2026,
+    "arxiv_id": "2511.12174",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39826",
+    "title": "IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?",
+    "authors": [
+      "Hua Wang",
+      "Jinghao Lu",
+      "Fan Zhang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39826",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39826/43787",
+    "doi": "10.1609/aaai.v40i31.39826",
+    "year": 2026,
+    "arxiv_id": "2512.05442",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39832",
+    "title": "RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting",
+    "authors": [
+      "Jieting Wang",
+      "Xiaolei Shang",
+      "Feijiang Li",
+      "Furong Peng"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39832",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39832/43793",
+    "doi": "10.1609/aaai.v40i31.39832",
+    "year": 2026,
+    "arxiv_id": "2511.10130",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39855",
+    "title": "CometNet: Contextual Motif-guided Long-term Time Series Forecasting",
+    "authors": [
+      "Weixu Wang",
+      "Xiaobo Zhou",
+      "Xin Qiao",
+      "Lei Wang",
+      "Tie Qiu"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39855",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39855/43816",
+    "doi": "10.1609/aaai.v40i31.39855",
+    "year": 2026,
+    "arxiv_id": "2511.08049",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-40049",
+    "title": "MDMLP-EIA: Multi-domain Dynamic MLPs with Energy Invariant Attention for Time Series Forecasting",
+    "authors": [
+      "Hu Zhang",
+      "Zhien Dai",
+      "Zhaohui Tang",
+      "Yongfang Xie"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40049",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40049/44010",
+    "doi": "10.1609/aaai.v40i33.40049",
+    "year": 2026,
+    "arxiv_id": "2511.09924",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  },
+  {
+    "id": "aaai-2026-39585",
+    "title": "Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing",
+    "authors": [
+      "Junkai Lu",
+      "Peng Chen",
+      "Chenjuan Guo",
+      "Yang Shu",
+      "Meng Wang",
+      "Bin Yang"
+    ],
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39585",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39585/43546",
+    "doi": "10.1609/aaai.v40i29.39585",
+    "year": 2026,
+    "arxiv_id": "2511.08229",
+    "discovery_source": "https://huggingface.co/datasets/ai-conferences/AAAI2026"
+  }
+]

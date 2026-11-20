@@ -1,0 +1,87 @@
+{
+  "id": "aaai-2022-21192",
+  "title": "On the Fairness of Causal Algorithmic Recourse",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/21192",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 127499,
+  "passages": [
+    {
+      "match": "Credit card",
+      "offset": 2734,
+      "excerpt": " density prior work on equalising the average group-wise distance from Credit card Credit card the decision boundary—explicitly account for causal relation- 0.20 denied (Y=-1) approved (Y=1) ships between features, thereby capturing downstream effects 0.15 "
+    },
+    {
+      "match": "credit card",
+      "offset": 4887,
+      "excerpt": "he true and predicted label (whether an individual is approved for a credit card) are determined by Algorithmic fairness is concerned with uncovering and cor- sign(X). This scenario would be considered fair from the recting for potentially discriminatory behavior of automated perspective of prediction, but the cost of recourse"
+    },
+    {
+      "match": "credit card",
+      "offset": 5976,
+      "excerpt": " nicity), and a binary classifier trained to predict a decision (e.g., whether they were approved for a credit card), most Lakkaraju 2021). For a given classifier and a negatively- approaches to algorithmic fairness seek to quantify the level classified individual, algorithmic recourse aims to identify of unfairness according to a pre-defined (statistical or cau"
+    },
+    {
+      "match": "credit card",
+      "offset": 10240,
+      "excerpt": "ion be- nary classifier h(X) = sign(X) which perfectly predicts tween fair prediction and fair recourse, and show that whether the individual is approved for a credit card (the true they are complementary notions which do not imply each label Y ) (Barocas, Selbst, and Raghavan 2020). While this other (Prop. 3.4); scenario satisfies several predictive fairness criteria (e.g., de- • we establish sufficient conditions that allow for mographic parity, equalised odds, calibration), th"
+    },
+    {
+      "match": "credit card",
+      "offset": 10752,
+      "excerpt": "alised odds, calibration), the required individually-fair causal recourse (Prop. 3.6); increase in income for negatively-classified individuals to be approved for a credit card (i.e., the effort required to achieve • we evaluate different fair recourse metrics for several recourse) is much larger for the higher variance group. If classifiers (§ 4.1), verify our main results, and demonstrate individuals from one protected group need to work harder that non-causal metrics misrep"
+    },
+    {
+      "match": "credit card",
+      "offset": 13253,
+      "excerpt": "ation binary classifier with Y ∈ Y = {±1} denoting the ground may have downstream effects (Mahajan, Tan, and Sharma truth label (e.g., whether her credit card was approved). We 2019; Karimi, Schölkopf, and Valera 2021; Karimi et al. observe a dataset D = {vi }N i=1 of i.i.d. observations of the 2020c; Mothilal, Sharma, and Tan 2020), cf. also (Barocas, random variable V = (X, A) with vi := (xi , ai ).3 Selbst, and Raghavan 2020; Wachter, Mittelstadt, and Rus- sell 2017; "
+    },
+    {
+      "match": "credit cards",
+      "offset": 59908,
+      "excerpt": "ectly fair recourse, we would have to use a con- recourse cost to the counterfactual twins of 24.32 and a max- stant classifier, i.e., either approve all credit cards, or none, imum difference (∆ind ) of 61.53. The corresponding indi- irrespective of income. Essentially, changing h does not ad- vidual/factual observation for which this maximum is ob- dress the root of the problem, namely the discrepancy in the tained is summarised along with its seven"
+    },
+    {
+      "match": "credit cards",
+      "offset": 62937,
+      "excerpt": " deployer. For example, a bank might need to modify particular way of setting the triple (p, t, s). To avoid changing their classifier so as to offer credit cards to some individuals the predictions sgn(X), we only consider t ≤ 0 and s ≤ −2t. who would not otherwise receive them. 7 E.g., for interventions with minimum quantum size and a fixe"
+    },
+    {
+      "match": "credit-card",
+      "offset": 65550,
+      "excerpt": "Post-intervention distribution (b) Comparison of different societal interventions Figure 4: (a) Distribution after applying a societal intervention to the credit-card example from Fig. 1. We randomly select a proportion p = 1 of individuals from the disadvantaged group (blue, A = 0) to receive a subsidy s = 1.5 if UX is below the threshold t = −0.75. As a result, the distribution of negatively-classified individuals (X < 0) shifts towards the boundary which makes it more similar to those in A = 1, thus resultin"
+    },
+    {
+      "match": "credit card",
+      "offset": 69004,
+      "excerpt": "n in Fig. 5 in Appendix B.1. Effectively, our societal interven- Societal interventions to overcome (algorithmic) discrimi- tion does not change the outcome of credit card approval but nation constitute a complex topic which not only applies to ensures that the effort required (additional income needed) fair recourse but also to other notions of fairness. It deserves for rejected individuals from two groups is the same. Instead further study well beyond the sc"
+    },
+    {
+      "match": "credit card",
+      "offset": 69798,
+      "excerpt": " intervention on all individuals in a subgroup. For level unfairness metric (Defn. 3.2) may provide a useful way example, when considering who is approved for a credit card, to inform whom to target with societal interventions as it can an individual might not be able to pay their statements on be used to identify individuals for whom the counterfactual time and this could imply costs to them, to the bank, or to difference in recourse cost is particularly high. "
+    },
+    {
+      "match": "credit card",
+      "offset": 110889,
+      "excerpt": " X Figure 5: Plots for additional societal interventions ik = (p, t, s) in the context of the credit card approval example. We consider budgets of p = 0.25 (left column), p = 0.5 (middle column), and p = 0.75 (right column). In the top row, we show the difference across groups in the average distance to the decision boundary for negatively classified individuals (recourse difference), the proportion of negatively-classified individuals in the disadvan"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Julius von Kügelgen",
+      "Amir-Hossein Karimi",
+      "Umang Bhatt",
+      "Isabel Valera",
+      "Adrian Weller",
+      "Bernhard Schölkopf"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2010.06529",
+    "version": "arxiv_author_version"
+  }
+}

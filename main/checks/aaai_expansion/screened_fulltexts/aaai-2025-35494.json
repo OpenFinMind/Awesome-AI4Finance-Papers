@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2025-35494",
+  "title": "Probabilistic Forecasting of Irregularly Sampled Time Series with Missing Values via Conditional Normalizing Flows",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35494",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 111975,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Vijaya Krishna Yalavarthi",
+      "Randolf Scholz",
+      "Stefan Born",
+      "Lars Schmidt-Thieme"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2402.06293",
+    "version": "arxiv_author_version"
+  }
+}

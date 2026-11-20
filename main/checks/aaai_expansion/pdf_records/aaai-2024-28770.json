@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2024-28770",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-28770__CI_STHPAN_Pre_trained_Attention_Network_for_Stock_Selection_with_Channel_Independent_Spatio_Temporal_Hypergraph.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 2052434,
+  "sha256": "6c3e4b5e1da9e44478890ff7110f89adda3f17d333ceb62b261e694a1712b930",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28770/29478",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28770/29478",
+  "downloaded_at_utc": "2026-11-10T02:15:50.956208+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Hongjie Xia",
+      "Huijie Ao",
+      "Long Li",
+      "Yu Liu",
+      "Sen Liu",
+      "Guangnan Ye",
+      "Hongfeng Chai"
+    ],
+    "identity_verified": true
+  }
+}

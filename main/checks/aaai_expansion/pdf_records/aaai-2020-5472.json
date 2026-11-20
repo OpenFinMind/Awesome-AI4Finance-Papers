@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2020-5472",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5472__Shoreline_Data_Driven_Threshold_Estimation_of_Online_Reserves_of_Cryptocurrency_Trading_Platforms.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 800712,
+  "sha256": "e42cd38081810e78fa321b93648a86c177b16cd2263fa80fb28295f8eb2aea24",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5472/5328",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5472/5328",
+  "downloaded_at_utc": "2026-11-10T02:15:37.489388+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xitong Zhang",
+      "He Zhu",
+      "Jiayu Zhou"
+    ],
+    "identity_verified": true
+  }
+}

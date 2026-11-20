@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-11-10",
+    "venue": "AAAI",
+    "track": "main",
+    "years": [
+      2017,
+      2026
+    ],
+    "added_papers": 160,
+    "audit": "checks/aaai_expansion/README.md"
+  },
+  {
+    "date": "2026-11-20",
+    "venue": "KDD",
+    "track": "main",
+    "publication_track": "Research Track",
+    "years": [
+      2017,
+      2026
+    ],
+    "added_papers": 134,
+    "audit": "checks/track_screening/kdd/README.md"
+  }
+]

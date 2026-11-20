@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2026-39015",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-39015__HierSearch_A_Hierarchical_Enterprise_Deep_Search_Framework_Integrating_Local_and_Web_Searches.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 552368,
+  "sha256": "5999226fb820760b80d1745d44ac95de6ab4dce450c058de1fd30faef35fe23a",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39015/42977",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39015/42977",
+  "downloaded_at_utc": "2026-11-10T02:15:58.267845+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jiejun Tan",
+      "Zhicheng Dou",
+      "Yan Yu",
+      "Jiehan Cheng",
+      "Lifeng Liu",
+      "Jian Xie",
+      "Jirong Wen"
+    ],
+    "identity_verified": true
+  }
+}

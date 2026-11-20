@@ -1,0 +1,497 @@
+[
+  {
+    "id": "aaai-2019-3924",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/1803.01798",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2020-5409",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2020-5442",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/1906.08805",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2020-5568",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2020-5766",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/1912.05122",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2020-5996",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/1910.00057",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2021-16145",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-16595",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-16694",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-16834",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-16851",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2103.01096",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2021-16926",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-17023",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-17101",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-17115",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2002.02887",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2021-17308",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2021-17359",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2004.13102",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2021-17451",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2022-20568",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2022-21192",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2010.06529",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2022-21199",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2112.01592",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2023-25844",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2023-25854",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2201.12886",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2023-25969",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2023-26045",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2023-26085",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2023-26154",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2023-26317",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2205.13504",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2023-26379",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2024-27768",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2024-28773",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2312.06441",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-28795",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2406.12242",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-28991",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2401.00423",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-29051",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2401.13157",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-29205",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2307.04850",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-29210",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2312.11976",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-29239",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2308.10779",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-29337",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2401.02236",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-29401",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2024-29443",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2024-29522",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2308.12367",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2024-29628",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2402.12518",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33267",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2501.17216",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33384",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2412.11376",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33506",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2025-33626",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2410.10502",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33717",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2502.12603",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33739",
+    "decision": "pending_subset_verification",
+    "reason": "M4 frequency/subset is not explicit in available evidence"
+  },
+  {
+    "id": "aaai-2025-33747",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2501.02735",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33838",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2412.09328",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33908",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2025-33926",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2501.05403",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33965",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2501.04970",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-33989",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2502.11418",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-34067",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2406.01638",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-34082",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2403.07300",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-34164",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2504.00118",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-34211",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2412.15315",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-34224",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2412.14435",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-34270",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2412.17323",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-34286",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2405.18975",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-35424",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2402.10941",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-35438",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2505.04158",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2025-35456",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2025-35468",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2405.17191",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-38542",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.12945",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-38722",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-38792",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-39196",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2508.04251",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39218",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2509.19406",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39230",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-39330",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.07104",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39414",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2405.18921",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39426",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.23260",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39442",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-39509",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.06893",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39577",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-39596",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2508.03546",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39601",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2508.01727",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39630",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-39723",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.12174",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39731",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-39826",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2512.05442",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39832",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.10130",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39855",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.08049",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39930",
+    "decision": "not_admitted_from_reviewed_evidence",
+    "reason": "Reviewed matches are background, references, nonfinancial meanings, or do not establish an actual financial experiment."
+  },
+  {
+    "id": "aaai-2026-40049",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.09924",
+    "evidence_pdf_version": "arxiv_author_version"
+  },
+  {
+    "id": "aaai-2026-39585",
+    "decision": "include_application",
+    "evidence_url": "https://arxiv.org/pdf/2511.08229",
+    "evidence_pdf_version": "arxiv_author_version"
+  }
+]

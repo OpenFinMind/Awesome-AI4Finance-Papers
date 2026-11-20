@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2024-27772",
+  "title": "Root Cause Analysis in Microservice Using Neural Granger Causal Discovery",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/27772",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 48700,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Cheng-Ming Lin",
+      "Ching Chang",
+      "Wei-Yao Wang",
+      "Kuang-Da Wang",
+      "Wen-Chih Peng"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2402.01140",
+    "version": "arxiv_author_version"
+  }
+}

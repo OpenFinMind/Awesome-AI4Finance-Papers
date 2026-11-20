@@ -1,0 +1,59 @@
+{
+  "2023.emnlp-main.111": {
+    "id": "2023.emnlp-main.111",
+    "title": "Augmenting Zero-Shot Dense Retrievers with Plug-in Mixture-of-Memories",
+    "paper_url": "https://aclanthology.org/2023.emnlp-main.111/",
+    "track": "main",
+    "paper_length": "long",
+    "evidence_type": "publisher_content_boundary_inspection",
+    "source_url": "https://aclanthology.org/2023.emnlp-main.111.pdf",
+    "pdf_sha256": "11cf7ca2a1e37ec36a048458c0bf3c7c393853ed03e5ee515182a1c7b683b77f",
+    "inspection": {
+      "first_backmatter_page": 10,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 438,
+      "sixth_content_page_excerpt": "Table 1: NDCG@10 on the BEIR benchmark. We also include an averaged score on datasets used by Contriever for a fair comparison. The best result each task is marked bold. An ∗ denotes unfair comparison, as NQ is used in training for GTR. †: GenQ generated pseudo labels to train an independent model for each task. ‡: Larger models Parameters# TREC-COVID BioASQ NFCorpus NQ HotpotQA FiQA-2018 Signal-1M TREC-NEWS Robust04 ArguAna Touché-2020 Quora DBPedia-entity SCIDOCS Fever Climate-Fever SciFact CQADupStack Contriever Sub Avg Avg BM25 DPR ANCE T5-ANCE coCondenser GenQ† ColBERT Contriever GTRbase∗ — 0.656 0.465 0.325 0.329 0.603 0.236 0.330 0.398 0.408 0.414 0.367 0.789 0.313 0.158 0.753 0.213 0.665 0.299 0.437 0.428 110M 0.575 0.232 0.210 0.398 0.371 0.274 0.238 0.366 0.344 0.414 0.208 0.842 0.236 0.107 0.589 0.176 0.475 0.281 0.368 0.352 110M 0.654 0.306 0.237 0.446 0.456 0.295 0.249 0.382 0.392 0.415 0.240 0.852 0.281 0.122 0.669 0.198 0.507 0.296 0.408 0.391 110M*2 0.653 0.322 0.275 0.452 0.487 0.294 0.246 0.379 0.412 0.415 0.312 0.836 0.290 0.115 0.655 0.194 0.566 0.283 0.416 0.399 110M 0.715 0.318 0.307 0.494 0.566 0.285 0.274 0.389 0.399 0.411 0.190 0.863 0.356 0.140 0.678 0.184 0.600 0.330 0.438 0.417 66M*18 0.619 0.398 0.319 0.358 0.534 0.308 0.281 0.396 0.362 0.493 0.182 0.830 0.328 0.143 0.669 0.175 0.644 0.347 0.425 0.410 110M 0.677 0.474 0.305 0.524 0.593 0.317 0.274 0.393 0.391 0.233 0.202 0.854 0.392 0.145 0.771 0.184 0.671 0.350 0.445 0.431 110M 0.596 — 0.328 0.498 0.638 0.329 — — — 0.446 0.230 0.865 0.413 0.165 0.758 0.237 0.677 0.345 0.466 — 110M 0.539 0.271 0.308 0.495 0.535 0.349 0.261 0.337 0.437 0.511 0.205 0.881 0.347 0.149 0.660 0.241 0.600 0.357 0.442 0.416 combined with other techniques. We initiate MoMA on two dense retrieval models. The primitive MoMA (T5-ANCE) is built on the original T5 model checkpoint and optimized iteratively with ANCE-style (Xiong et al., 2020) hard negatives. By comparing it with T5-ANCE, we can clearly observe the performance gain brought by MoMA. To demonstrate it can integrate techniques from other models to achieve higher performances, we initiate MoMA on a better pretrained model. Following coCondenser (Gao and Callan, 2022), we continuously trained the original T5 model on the MARCO document corpus using a sentencelevel contrastive loss, combined with the original masked language modeling loss. We then pe"
+    },
+    "review_reason": "Page 6 contains BEIR results and analysis, followed by further main sections. The reference parser matched the inline sentence \"Appendix A.4\" split across lines on page 5; actual Limitations starts on page 10.",
+    "review_date": "2026-11-10",
+    "origin": "Publisher PDF independently checked during reconciliation with Awesome-Papers; no redownload."
+  },
+  "2026.emnlp-main.2572": {
+    "id": "2026.emnlp-main.2572",
+    "title": "Multimodal Collaborative Debate for Zero-Shot Time Series Reasoning",
+    "paper_url": "https://aclanthology.org/2026.emnlp-main.2572/",
+    "track": "main",
+    "paper_length": "long",
+    "evidence_type": "publisher_content_boundary_inspection",
+    "source_url": "https://aclanthology.org/2026.emnlp-main.2572.pdf",
+    "pdf_sha256": "126423ea3d9ebe850aa66c3864e9936479f23dba86e0c099fbd6fc44cfd487a9",
+    "inspection": {
+      "first_backmatter_page": 9,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 533,
+      "sixth_content_page_excerpt": "patterns plausibly persist under k. This discourages naive extrapolation (“the trend continues because it has continued”) and promotes conditional predictions grounded in domain plausibility. Finally, the synthesizer produces â and is explicitly not a vote counter. It evaluates reviewers’ reasoning quality from their VCC records uj via: an approach check for adherence to the analysis procedure implied by k and temporal scope; reviewer scoring on a fixed rubric (each criterion 0–20) covering task understanding, evidence usage, verification discipline, conflict handling, and calibration; and decision synthesis that prioritizes answers supported by verified evidence and correct methodology. If all reviewers exhibit approach errors (ΛAPPROACH_ERROR ), the synthesizer re-verifies the most decision-critical claims and derives an answer directly. All prompts are provided in §G. 4 Experiments To verify the effectiveness of TS-Debate, we conduct extensive experiments on a diverse set of TSR tasks spanning classification, regression, and question answering (QA). Additionally, we perform ablation and sensitivity analyses. 4.1 Setup Benchmarks and Tasks As presented in Table 4, we evaluate on three public benchmarks totaling 20 tasks that jointly cover context-grounded multimodal reasoning, sensor classification, and multitask time-series QA. MTBench (Chen et al., 2025) is a multimodal benchmark coupling time series with rich textual context. It comprises 9 tasks across finance and weather, including trend classification, forecasting and indicator prediction, correlation classification, and multiple-choice QA. Inputs use either a short-window or long-window setting (e.g., different granularity regimes), which stresses temporal reasoning under varying horizons. TimerBed (Liu et al., 2025b) focuses on classification from diverse sensor domains; we evaluate on 6 datasets spanning 2-7 classes and sequence lengths up to 4K, emphasizing pattern recognition under domain shift. TSQA (Kong et al., 2025) is a multi-task benchmark spanning anomaly detection, classification, forecasting, imputation, and open-ended QA, providing a broad testbed for timeseries reasoning. Evaluation Metrics For classification and MCQA tasks, we report accuracy (and weighted F1 when applicable). For regression tasks, we report MAE with MSE or MAPE as a secondary metric. For open-ended QA, we report an"
+    },
+    "review_reason": "Page 6 contains the TS-Debate synthesis method and section 4 Experiments. A figure label Limitations on page 1 is not the actual Limitations section on page 9.",
+    "review_date": "2026-11-10",
+    "origin": "Publisher PDF independently checked during reconciliation with Awesome-Papers; no redownload."
+  },
+  "2025.findings-emnlp.972": {
+    "id": "2025.findings-emnlp.972",
+    "title": "Large Language Model Agents in Finance: A Survey Bridging Research, Practice, and Real-World Deployment",
+    "paper_url": "https://aclanthology.org/2025.findings-emnlp.972/",
+    "track": "findings",
+    "paper_length": "long",
+    "evidence_type": "publisher_content_boundary_inspection",
+    "source_url": "https://aclanthology.org/2025.findings-emnlp.972.pdf",
+    "pdf_sha256": "a8a4683887d72ffbd9732168efc70d9e97d50f02b0e45d934c05ab62bdf311fe",
+    "inspection": {
+      "first_backmatter_page": 10,
+      "inspected_content_page": 6,
+      "sixth_content_page_words": 757,
+      "sixth_content_page_excerpt": "Table 3: Overview of Representative LLM-Based Models for Financial Agents. The table summarizes key characteristics, including related subtasks, model architecture (including backbone, parameters, and deployment cost), training details, involved dataset and benchmarks, and key observations of techniques in finance. Model Subtasks Architectures Training Details Dataset & Benchmarks Key Observations ECT-BPS (Mukherjee et al., 2022) TS Backbone: FinBERT-based SummaRuNNer, T5, Cost: 1 P100 GPU Two-stage separate training with Adam ECTSum corpus BloombergGPT (Wu et al., 2023) NER, SA Trained from scratch on 569B tokens ConvFinQA, FiQA-SA, FPB, Headline FinMA (Xie et al., 2023) TS, NER, EC, SA, TSF, QA Fine-tuned with multi-task and multi-modal instructions FIT (combining FPB, Headline, FinQA, Bigdata22, etc) Innovations: Fine-tuning LLaMA for finance. Performance: F1: 0.88 / 0.87 on FPB and FiQA-SA, Acc: 0.87 on FPB, MCC: 0.04 on BigData22. FinGPT (Yang et al., 2023a) TS, EC, SA, TSF, SE, FD, DRP FD, DRP Backbone: BLOOM with Unigram tokenizer, Parameters: 50.6B, Cost: 512 A100 GPUs Backbone: LLaMA, Parameters: 7 / 30B, Cost: 8 A100 / 128 A100 GPUs Backbone: ChatGLM, LLaMA, Cost: $300 per training Backbone: Flan-T5-Base, Parameters: 220M, Cost: 2 A40 GPU Backbone: LLaMA2-chat, Parameters: 7B, Cost: 4 A800 GPUs Backbone: LLaMA, Parameters: 65B Innovations: Extract-then-paraphrase approach, new benchmark dataset ECTSum. Performance: ROUGE-1/2/L: 0.467/0.307/0.514, BERTScore: 0.764, Num-Prec.: 0.916. Innovations: Domain-specific yet general-purpose LLM. Performance: ConvFinQA (EM): 0.43, FiQA SA (F1): 0.75, FPB (F1): 0.51, Headline (F1): 0.82. LoRA and RL on stock prices Twitter, SEC Filings, Earnings Calls, Yahoo Finance Innovations: Full-stack open-source FinLLM framework with RL using stock price feedback. Fine-tune pretrained foundation models with the profile Finbench-CD, Finbench-LD LoRA instruction tuning on 75K samples Credit scoring datasets LoRA finetuning and Linear Rope Scaling FPB, FOMC, etc. Two-stage training, continued pre-training Self-build Innovations: Profile tuning for risk prediction. Performance: Average F1-score 49.17 across all FinBench datasets. Innovations: Credit and Risk Assessment LLM. Performance: Credit Scoring (F1=0.545), Fraud Detection (Mcc=0.172), Financial Distress (Mcc=0.031). Innovations: Small diverse instruction dataset. Perfo"
+    },
+    "review_reason": "Page 6 contains Table 3 and the Financial QA discussion. Limitations on page 3 is a table column label; the actual Limitations section starts on page 10.",
+    "review_date": "2026-11-10",
+    "origin": "Publisher PDF independently checked during reconciliation with Awesome-Papers; no redownload."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-40722",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-40722__RCP_Merging_Merging_Long_Chain_of_Thought_Models_with_Domain_Specific_Models_by_Considering_Reasoning_Capability_as_Prior.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 2503752,
+  "sha256": "68d691b7b17b51008695b131ced21b116f6ff860d0b58b33290b70da4d79a82a",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40722/44683",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40722/44683",
+  "downloaded_at_utc": "2026-11-10T02:16:02.189350+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Junyao Yang",
+      "Jianwei Wang",
+      "Huiping Zhuang",
+      "Cen Chen",
+      "Ziqian Zeng"
+    ],
+    "identity_verified": true
+  }
+}

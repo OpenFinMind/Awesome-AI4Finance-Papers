@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2023-25820",
+  "title": "Simulating Network Paths with Recurrent Buffering Units",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25820",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 92278,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Divyam Anshumaan",
+      "Sriram Balasubramanian",
+      "Shubham Tiwari",
+      "Nagarajan Natarajan",
+      "Sundararajan Sellamanickam"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2202.13870",
+    "version": "arxiv_author_version"
+  }
+}

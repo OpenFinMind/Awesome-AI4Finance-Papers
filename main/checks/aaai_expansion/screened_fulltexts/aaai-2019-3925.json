@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2019-3925",
+  "title": "DeepDPM: Dynamic Population Mapping via Deep Neural Network",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3925",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 57288,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zefang Zong",
+      "Jie Feng",
+      "Kechun Liu",
+      "Hongzhi Shi",
+      "Yong Li"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1811.02644",
+    "version": "arxiv_author_version"
+  }
+}

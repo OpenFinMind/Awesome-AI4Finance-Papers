@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2020-5371",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5371__Spatio_Temporal_Attention_Based_Neural_Network_for_Credit_Card_Fraud_Detection.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1691257,
+  "sha256": "2c4d621076a69a01b0d26ecf0d37ec49622857c1bf0586735dc83ef8218a7357",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5371/5227",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5371/5227",
+  "downloaded_at_utc": "2026-11-10T02:15:36.412758+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Dawei Cheng",
+      "Sheng Xiang",
+      "Chencheng Shang",
+      "Yiyi Zhang",
+      "Fangzhou Yang",
+      "Liqing Zhang"
+    ],
+    "identity_verified": true
+  }
+}

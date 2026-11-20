@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2026-37014",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-37014__FinRpt_Dataset_Evaluation_System_and_LLM_based_Multi_agent_Framework_for_Equity_Research_Report_Generation.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 2100978,
+  "sha256": "d87bfe7f7d1e9fb1d813a4cff4222d06d73380013b62dd54969e4e8899bc18fd",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37014/40976",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37014/40976",
+  "downloaded_at_utc": "2026-11-10T02:15:56.137121+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Song Jin",
+      "Shuqi Li",
+      "Shukun Zhang",
+      "Rui Yan"
+    ],
+    "identity_verified": true
+  }
+}

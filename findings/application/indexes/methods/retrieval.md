@@ -1,0 +1,25 @@
+# Retrieval & RAG / 检索与RAG
+
+17 Findings long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|
+| 2026 | EMNLP | [Activation-Space Anchored Access Control for Multi-Class Permission Reasoning in Large Language Models](../finance_notes/2026.findings-emnlp.908.md) | application | [Paper](https://aclanthology.org/2026.findings-emnlp.908/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.908.pdf) |
+| 2026 | EMNLP | [AEL: Evolving Agent Harness in Open-Ended Environments](../finance_notes/2026.findings-emnlp.1316.md) | application | [Paper](https://aclanthology.org/2026.findings-emnlp.1316/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.1316.pdf) |
+| 2026 | EMNLP | [BizSage: A Self-Evolving Multi-Agent Framework for Business Research with Efficient Knowledge Retrieval](../finance_notes/2026.findings-emnlp.354.md) | application | [Paper](https://aclanthology.org/2026.findings-emnlp.354/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.354.pdf) |
+| 2026 | EMNLP | [KnowMT-Bench: Benchmarking Knowledge-Intensive Long-Form Question Answering in Multi-Turn Dialogues](../finance_notes/2026.findings-emnlp.845.md) | application | [Paper](https://aclanthology.org/2026.findings-emnlp.845/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.845.pdf) |
+| 2026 | EMNLP | [RELOOP: Recursive Retrieval with Multi-Hop Reasoner and Planners for Heterogeneous QA](../finance_notes/2026.findings-emnlp.1736.md) | application | [Paper](https://aclanthology.org/2026.findings-emnlp.1736/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.1736.pdf) |
+| 2026 | EMNLP | [Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition Beyond RAG](../finance_notes/2026.findings-emnlp.438.md) | application | [Paper](https://aclanthology.org/2026.findings-emnlp.438/) · [PDF](../../pdfs/EMNLP/2026/2026.findings-emnlp.438.pdf) |
+| 2025 | ACL | [Task-Oriented Automatic Fact-Checking with Frame-Semantics](../finance_notes/2025.findings-acl.711.md) | application | [Paper](https://aclanthology.org/2025.findings-acl.711/) · [PDF](../../pdfs/ACL/2025/2025.findings-acl.711.pdf) |
+| 2025 | ACL | [TreeRAG: Unleashing the Power of Hierarchical Storage for Enhanced Knowledge Retrieval in Long Documents](../finance_notes/2025.findings-acl.20.md) | application | [Paper](https://aclanthology.org/2025.findings-acl.20/) · [PDF](../../pdfs/ACL/2025/2025.findings-acl.20.pdf) |
+| 2025 | EMNLP | [Embedding-Free RAG](../finance_notes/2025.findings-emnlp.1360.md) | application | [Paper](https://aclanthology.org/2025.findings-emnlp.1360/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.1360.pdf) |
+| 2025 | EMNLP | [Federated Retrieval-Augmented Generation: A Systematic Mapping Study](../finance_notes/2025.findings-emnlp.388.md) | application | [Paper](https://aclanthology.org/2025.findings-emnlp.388/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.388.pdf) |
+| 2025 | EMNLP | [OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Question Answering](../finance_notes/2025.findings-emnlp.890.md) | application | [Paper](https://aclanthology.org/2025.findings-emnlp.890/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.890.pdf) |
+| 2025 | EMNLP | [Select to Know: An Internal-External Knowledge Self-Selection Framework for Domain-Specific Question Answering](../finance_notes/2025.findings-emnlp.565.md) | application | [Paper](https://aclanthology.org/2025.findings-emnlp.565/) · [PDF](../../pdfs/EMNLP/2025/2025.findings-emnlp.565.pdf) |
+| 2024 | ACL | [DBQR-QA: A Question Answering Dataset on a Hybrid of Database Querying and Reasoning](../finance_notes/2024.findings-acl.900.md) | application | [Paper](https://aclanthology.org/2024.findings-acl.900/) · [PDF](../../pdfs/ACL/2024/2024.findings-acl.900.pdf) |
+| 2024 | EMNLP | [Numbers Matter! Bringing Quantity-awareness to Retrieval Systems](../finance_notes/2024.findings-emnlp.707.md) | application | [Paper](https://aclanthology.org/2024.findings-emnlp.707/) · [PDF](../../pdfs/EMNLP/2024/2024.findings-emnlp.707.pdf) |
+| 2024 | EMNLP | [RAG-Studio: Towards In-Domain Adaptation of Retrieval Augmented Generation Through Self-Alignment](../finance_notes/2024.findings-emnlp.41.md) | application | [Paper](https://aclanthology.org/2024.findings-emnlp.41/) · [PDF](../../pdfs/EMNLP/2024/2024.findings-emnlp.41.pdf) |
+| 2023 | EMNLP | [On Task-personalized Multimodal Few-shot Learning for Visually-rich Document Entity Retrieval](../finance_notes/2023.findings-emnlp.604.md) | application | [Paper](https://aclanthology.org/2023.findings-emnlp.604/) · [PDF](../../pdfs/EMNLP/2023/2023.findings-emnlp.604.pdf) |
+| 2023 | EMNLP | [PersonaLM: Language Model Personalization via Domain-distributed Span Aggregated K-Nearest N-gram Retrieval Augmentation](../finance_notes/2023.findings-emnlp.757.md) | application | [Paper](https://aclanthology.org/2023.findings-emnlp.757/) · [PDF](../../pdfs/EMNLP/2023/2023.findings-emnlp.757.pdf) |

@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2021-17328",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-17328__Fairness_in_Forecasting_and_Learning_Linear_Dynamical_Systems.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1741403,
+  "sha256": "1e3c5f29906d2e5f9a0b5354b4674cd446bea79e7102b73ca4687f7e23fdeac5",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/17328/17135",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/17328/17135",
+  "downloaded_at_utc": "2026-11-10T02:15:42.610891+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Quan Zhou",
+      "Jakub Marecek"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2025-35406",
+  "title": "CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35406",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 107980,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Haoxin Wang",
+      "Yipeng Mo",
+      "Kunlan Xiang",
+      "Nan Yin",
+      "Honghe Dai",
+      "Bixiong Li",
+      "Songhai Fan",
+      "Site Mo"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2312.06220",
+    "version": "arxiv_author_version"
+  }
+}

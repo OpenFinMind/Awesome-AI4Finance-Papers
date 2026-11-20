@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2025-33879",
+  "title": "Geolocation Representation from Large Language Models Are Generic Enhancers for Spatio-Temporal Learning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33879",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 121882,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Junlin He",
+      "Tong Nie",
+      "Wei Ma"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2408.12116",
+    "version": "arxiv_author_version"
+  }
+}

@@ -1,0 +1,8 @@
+# Numerical Reasoning and Calculation Evaluation / 数值推理与计算评测
+
+0 Findings long papers.
+
+[Home](../../README.md) · [Topics](../ai_for_finance.md) · [CSV](../../finance_catalog.csv)
+
+| Year | Venue | Paper | Scope | Resources |
+|---|---|---|---|---|

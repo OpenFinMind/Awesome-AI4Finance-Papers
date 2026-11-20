@@ -1,0 +1,38 @@
+{
+  "id": "aaai-2024-28795",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2024/aaai-2024-28795__GMP_AR_Granularity_Message_Passing_and_Adaptive_Reconciliation_for_Temporal_Hierarchy_Forecasting.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/28795/29523",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 14,
+  "bytes": 1232634,
+  "sha256": "59160ed5d4b6b7f381d4e43c58e7a65f215e249074b2136a8f6e9b021832476e",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2406.12242",
+  "final_url": "https://arxiv.org/pdf/2406.12242",
+  "downloaded_at_utc": "2026-11-10T02:32:40.259344+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Fan Zhou",
+      "Chen Pan",
+      "Lintao Ma",
+      "Yu Liu",
+      "Siqiao Xue",
+      "James Zhang",
+      "Jun Zhou",
+      "Hongyuan Mei",
+      "Weitao Lin",
+      "Zi Zhuang",
+      "Wenxin Ning",
+      "Yunhua Hu"
+    ],
+    "identity_verified": true
+  }
+}

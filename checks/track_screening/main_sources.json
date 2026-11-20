@@ -1,0 +1,8 @@
+{
+  "file": "main/sources/initial_main_universe.json.gz",
+  "uncompressed_sha256": "9da2cbce8b23b326b25dccd059c57104c5a8c0d5b83161846f8842a4c2f1073e",
+  "records": 85756,
+  "source_repository": "https://github.com/uwFengyuan/paper_writing",
+  "source_revision": "84a8da4a1543221063f74a0367253c4fbe40540c",
+  "source_snapshot_date": "2026-11-02"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2019-3994",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2019/aaai-2019-3994__The_Pure_Price_of_Anarchy_of_Pool_Block_Withholding_Attacks_in_Bitcoin_Mining.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 557910,
+  "sha256": "5ba09ff4f286a6ab1d13747896b6ab04698376d9a9d037a8ac176ff42bba2c1a",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3994/3872",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/3994/3872",
+  "downloaded_at_utc": "2026-11-10T02:15:34.587423+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Colleen Alkalay-Houlihan",
+      "Nisarg Shah"
+    ],
+    "identity_verified": true
+  }
+}

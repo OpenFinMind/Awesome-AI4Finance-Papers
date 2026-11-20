@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2021-16724",
+  "title": "Finding and Certifying (Near-)Optimal Strategies in Black-Box Extensive-Form Games",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/16724",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 79296,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Brian Hu Zhang",
+      "Tuomas Sandholm"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2009.07384",
+    "version": "arxiv_author_version"
+  }
+}

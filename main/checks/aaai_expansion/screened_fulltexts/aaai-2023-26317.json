@@ -1,0 +1,100 @@
+{
+  "id": "aaai-2023-26317",
+  "title": "Are Transformers Effective for Time Series Forecasting?",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26317",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 111797,
+  "passages": [
+    {
+      "match": "stock price",
+      "offset": 20072,
+      "excerpt": " tional encodings associated with input tokens. Considering into the input sequence. Moreover, temporal embeddings the raw numerical data in time series (e.g., stock prices or with a temporal convolution layer [16] or learnable times- electricity values), there are hardly any point-wise semantic tamps [28] are introduced. correlations between them. In time series modeling, we are Self-attention schemes: Transformers rely on the self- "
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 28508,
+      "excerpt": "on shift in the dataset, NLin- surprisingly outperforms all Transformer-based methods on ear first subtracts the input by the last value of the se- Exchange-Rate (around 45%). This is mainly caused by the quence. Then, the input goes through a linear layer, wrong prediction of trends in Transformer-based solutions, and the subtracted part is added back before making which may overfit toward sudden change noises in the train- the"
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 29497,
+      "excerpt": " 4 Datasets ETTh1&ETTh2 ETTm1 &ETTm2 Traffic Electricity Exchange-Rate Weather ILI Variates 7 7 862 321 8 21 7 Timesteps 17,420 69,680 17,544 26,304 7,588 "
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 39025,
+      "excerpt": "LTSF-Linear: Elec- Generally speaking, a powerful TSF model with a strong tricity (Sequence 1951, Variate 36), Exchange-Rate (Se- temporal relation extraction capability should be able to quence 676, Variate 3), and ETTh2 ( Sequence 1241, Vari- achieve better results with larger look-back window sizes. ate 2), where these datasets have"
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 40281,
+      "excerpt": "y predict a proper trend on aperi- the MSE results on two datasets. Similar to the observations odic data such as Exchange-Rate. These phenomena further from previous studies [27, 30], existing Transformer-based indicate the inadequacy of existing Transformer-based solu- models’ performance deteriorates or stays stable when tions for the LTSF"
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 44449,
+      "excerpt": " 200 250 300 (a) Electricity (b) Exchange-Rate (c) ETTh2 Figure 3. Illustration of the long-term forecasting output (Y-axis) of five models with an input length L=96 and output length T =192 (X-axis) on Electricity, Exchange-Rate, and ETTh2, respectively. Additionally, we provide more quantitative results in th"
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 44713,
+      "excerpt": " (c) ETTh2 Figure 3. Illustration of the long-term forecasting output (Y-axis) of five models with an input length L=96 and output length T =192 (X-axis) on Electricity, Exchange-Rate, and ETTh2, respectively. Additionally, we provide more quantitative results in the 96 time steps. From the experimental results, the perfor- Appendix, and our conclusion holds in almost all cases. "
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 59524,
+      "excerpt": "t sequence with the second half. Interestingly, com- wo/Pos.-Temp. 0.672 0.811 1.133 1.300 pared with the original setting (Ori.) on the Exchange Rate, All 0.719 0.696 0.777 0.864 the performance of all Transformer-based methods does not wo/Pos. 1.035 1.186 1.307 1.472 Informer "
+    },
+    {
+      "match": "financial data",
+      "offset": 60717,
+      "excerpt": "nt positional and temporal embeddings preserve 96 and forecasting lengths {96, 192, 336, 720}. quite limited temporal relations and are prone to overfit on noisy financial data, while the LTSF-Linear can model the Rather than using a single time step in each token, FED- order naturally and avoid overfitting with fewer parameters. former and Autoformer input a sequence of timestamps to For the ETTh1 dataset, FEDformer and Autoformer in- embed the temporal inf"
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 61524,
+      "excerpt": ". However, without timestamp embed- dataset has more clear temporal patterns (e.g., periodicity) dings, the performance of Autoformer declines rapidly be- than the Exchange Rate. Therefore, the average drops of cause of the loss of global temporal information. Instead, the two Transformers are 73.28% and 56.91% under the thanks to the frequency-enhanced module proposed in FED- Shuf. setting, where it loses the whole order information. former to introduce tempo"
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 70578,
+      "excerpt": "plications, statistical approaches (e.g., autoregressive inte- of 321 clients from 2012 to 2014. grated moving average (ARIMA) [1], exponential smooth- • Exchange-Rate [15]5 collects the daily exchange rates ing [12], and structural models [14]) for time series fore- of 8 countries from 1990 to 2016. casting have been used from the 1970s onward. Generally speaking, the parametric models used in statistical methods • Weather6 includes 21 indicators of weather, such as air require significa"
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 81270,
+      "excerpt": "ar Most of their performance fluctuates or gets worse as the input lengths increase. To be specific, the results of Because LTSF-Linear is a set of linear models, the Exchange-Rate do not show improved results with a long weights of linear layers can directly reveal how LTSF- look-back window (from Figure 6(m) and (n)), and we at- Linear works. The weight visualization of LTSF-Linear can 10 Methods Linear NLinear"
+    },
+    {
+      "match": "Stock price",
+      "offset": 85671,
+      "excerpt": "r every forecasting time step [1] Adebiyi A Ariyo, Adewumi O Adewumi, and in the look-back window at the start of training. Charles K Ayo. Stock price prediction using the arima How the model works: Figure 7(c) visualize the model. In 2014 UKSim-AMSS 16th International Con- weights of the trend and the remaining layers on the ference on Computer Modelling and Simulation, pages Exchange-Rate dataset. Due to the lack of periodicity and "
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 85966,
+      "excerpt": " model. In 2014 UKSim-AMSS 16th International Con- weights of the trend and the remaining layers on the ference on Computer Modelling and Simulation, pages Exchange-Rate dataset. Due to the lack of periodicity and 106–112. IEEE, 2014. 1, 2, 9 seasonality in financial data, it is hard to observe clear pat- [2] Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua terns, but the trend layer reveals greater weights of informa- "
+    },
+    {
+      "match": "Exchange-Rate",
+      "offset": 103571,
+      "excerpt": "(b8) Trend In-96, Out-96 In-96, Out-192 In-96, Out-336 In-96, Out-720 Exchange-Rate (c1) Remainder (c2) Trend (c3) Remainder (c4) Trend (c5) Remainder (c6) Trend (c7) Remainder (c8) Trend In-96, Out-96 In-96, Out-192 In-96, Out-336 In-96, Out-720 Tr"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Ailing Zeng",
+      "Muxi Chen",
+      "Lei Zhang",
+      "Qiang Xu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2205.13504",
+    "version": "arxiv_author_version"
+  }
+}

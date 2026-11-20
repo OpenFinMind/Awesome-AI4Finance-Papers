@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2020-5462",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5462__Reinforcement_Learning_Based_Portfolio_Management_with_Augmented_Asset_Movement_Prediction_States.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 1785279,
+  "sha256": "34f2e1b12d237c97200f60b9a64d4c3528ae1d7e1b6ad9586bc63a59995dbf8c",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5462/5318",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5462/5318",
+  "downloaded_at_utc": "2026-11-10T02:15:37.612416+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yunan Ye",
+      "Hengzhi Pei",
+      "Boxin Wang",
+      "Pin-Yu Chen",
+      "Yada Zhu",
+      "Bo Li"
+    ],
+    "identity_verified": true
+  }
+}

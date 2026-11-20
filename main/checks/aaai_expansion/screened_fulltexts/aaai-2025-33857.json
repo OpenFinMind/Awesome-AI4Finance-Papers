@@ -1,0 +1,22 @@
+{
+  "id": "aaai-2025-33857",
+  "title": "Deep Representation Learning for Forecasting Recursive and Multi-Relational Events in Temporal Networks",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33857",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 146132,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Tony Gracious",
+      "Ambedkar Dukkipati"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2404.17943",
+    "version": "arxiv_author_version"
+  }
+}

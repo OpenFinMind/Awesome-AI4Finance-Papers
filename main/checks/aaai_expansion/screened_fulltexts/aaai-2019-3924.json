@@ -1,0 +1,56 @@
+{
+  "id": "aaai-2019-3924",
+  "title": "One-Class Adversarial Nets for Fraud Detection",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3924",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 80118,
+  "passages": [
+    {
+      "match": "credit card",
+      "offset": 46750,
+      "excerpt": " in both input settings. It means the discriminator of complemen- We further evaluate our model on a credit card transaction dataset tary GAN can be used as a one-class classifier for vandal detection. in Section 6.5. Although it is not a sequence dataset, it can still be We can further observe that"
+    },
+    {
+      "match": "credit card",
+      "offset": 62136,
+      "excerpt": "ated 8 Table 4: Fraud detection results (mean±std.) on precision, recall, F1 and accuracy of credit card fraud detection Input Algorithm Precision Recall F1 Accuracy OCNN 0.8029 ± 0.1497 0.9075 ± 0.0596 0.8383 ± 0.0660 0.8132 ± 0.1082 OCGP 0"
+    },
+    {
+      "match": "Credit Card",
+      "offset": 65450,
+      "excerpt": "d complementary benign users, the discriminator can detect vandals which have larger distances to real benign users than that of complementary benign users. 6.5 Case Study on Credit Card Fraud Detection We further evaluate our model on a credit card fraud detection dataset 2 . The dataset records credit card transactions in two days and has 492 frauds out of 284,807 transactions. Each transaction contains 28 features. We adopt 700 genuine transactions as a training dataset and 490 fraud and 490 genuine transactions as a testing da"
+    },
+    {
+      "match": "credit card",
+      "offset": 66142,
+      "excerpt": "set PCA, OCAN is able to detect frauds by using raw features as inputs. Meanwhile, we also evaluate the performance of OCAN in the hidden feature space. Because the transaction in credit card dataset is not a sequence data, we adopt the regular autoencoder model instead 7 CONCLUSION of LSTM-autoencoder to obtain the transaction representations. In In this paper, we have developed OCAN that consists of LSTM- our experiments, the dimension "
+    },
+    {
+      "match": "credit card",
+      "offset": 66660,
+      "excerpt": "riments, the dimension of transaction representation is 50. Autoencoder and complementary GAN for fraud detection when Table 4 shows the classification results of credit card fraud detec- only benign users are observed during the training phase. During tion. Overall, the performance of OCAN and baselines are similar training, OCAN adopts LSTM-Autoencoder to learn benign user to the results of vandal detection shown in Table 1. OCAN achieves representations, and then uses the benign"
+    },
+    {
+      "match": "creditcard",
+      "offset": 68252,
+      "excerpt": "s to demonstrate the advantages of complementary GAN over regular 2 https://www.kaggle.com/dalpozz/creditcardfraud GAN. We conducted experiments over two real world datasets and 9 showed OCAN outperforms the state-of-the-art one-class classifi- [24] Christian Ledig, Luc"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Panpan Zheng",
+      "Shuhan Yuan",
+      "Xintao Wu",
+      "Jun Li",
+      "Aidong Lu"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1803.01798",
+    "version": "arxiv_author_version"
+  }
+}

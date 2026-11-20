@@ -1,0 +1,264 @@
+{
+  "2021.findings-acl.308": {
+    "primary_topic_id": "financial_safety",
+    "primary_subtopic_id": "financial_regulation",
+    "topic_ids": [
+      "financial_safety",
+      "financial_understanding"
+    ],
+    "subtopic_ids": [
+      "financial_regulation",
+      "information_extraction"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained abstract and full-text evidence: healthcare-billing policy compliance, fraud and waste prevention.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": "financial_regulation",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In challenging economic times, obtaining value for money by ensuring financial integrity and fairer distribution of services are among the top priorities for social and health-care systems globally. However, healthcare billing policies are complex and identifying non-compliance is often narrow-scope, manual and expensive. Maintaining ‘integrity’ is a challenge ensuring that scarce resources get to those in need and are not lost to fraud and waste. Our approach fuses recent advances in dependency parsing with a policy ontology to convert the content of regulatory healthcare policy into human-friendly policy rules, that are amenable to machineexecution, with human oversight. We describe the ontology-guided transformation of textual patterns into a semantically-meaningful knowledge graph of rules, outline our experiments and evaluate results against policy rules obtained from professional investigators. The aim is to make a policy-compliance ‘landscape’ visible to healthcare programs - helping them identify Fraud, Waste or Abuse.",
+        "matched": "Retained abstract and full-text evidence: healthcare-billing policy compliance, fraud and waste prevention."
+      },
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In challenging economic times, obtaining value for money by ensuring financial integrity and fairer distribution of services are among the top priorities for social and health-care systems globally. However, healthcare billing policies are complex and identifying non-compliance is often narrow-scope, manual and expensive. Maintaining ‘integrity’ is a challenge ensuring that scarce resources get to those in need and are not lost to fraud and waste. Our approach fuses recent advances in dependency parsing with a policy ontology to convert the content of regulatory healthcare policy into human-friendly policy rules, that are amenable to machineexecution, with human oversight. We describe the ontology-guided transformation of textual patterns into a semantically-meaningful knowledge graph of rules, outline our experiments and evaluate results against policy rules obtained from professional investigators. The aim is to make a policy-compliance ‘landscape’ visible to healthcare programs - helping them identify Fraud, Waste or Abuse.",
+        "matched": "Retained abstract and full-text evidence: healthcare-billing policy compliance, fraud and waste prevention."
+      }
+    ],
+    "method_evidence": []
+  },
+  "2025.findings-acl.962": {
+    "primary_topic_id": "financial_sentiment",
+    "primary_subtopic_id": "news_sentiment",
+    "topic_ids": [
+      "financial_sentiment"
+    ],
+    "subtopic_ids": [
+      "news_sentiment"
+    ],
+    "method_ids": [
+      "llm",
+      "generative",
+      "representation"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence: generated data evaluated on FiQA-SA, Financial PhraseBank and Headlines.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_sentiment",
+        "subtopic_id": "news_sentiment",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Recent smaller language models such Phi-3.5 and Phi-4 rely on synthetic data generated using larger Language models. Questions remain about leveraging synthetic data for other use cases, such as adapting LLMs to specific domains. A key limitation of synthetic data is low diversity, which negatively impacts its downstream applicability for improving other models. To address this, we propose MetaSynth, a method for generating synthetic data that enhances diversity through meta-prompting, where a language model orchestrates multiple “expert” LLM agents to collaboratively generate data. Using only 25 million tokens of synthetic data generated with MetaSynth, we successfully adapt a well-trained LLM (Mistral-7B) to two specialized domains–Finance and Biomedicine–without compromising the capabilities of the resulting model in general tasks. In addition, we evaluate the diversity of our synthetic data using seven automated metrics, and find that it approaches the diversity of LLM pre-training corpora.Continually pre-training Mistral-7B with MetaSynth notably outperforms the base LLM, showing improvements of up to 4.08% in Finance and 13.75% in Biomedicine. The same model shows degraded performance when trained on data generated using a template-based prompt, even when the template includes prior generations and varying In-Context exemplars of real data. Our findings suggest that a few million tokens of diverse synthetic data without mixing any real data, is sufficient for effective domain adaptation when using MetaSynth.",
+        "matched": "Retained evidence: generated data evaluated on FiQA-SA, Financial PhraseBank and Headlines."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language models",
+        "excerpt": "Recent smaller language models such Phi-3.5 and Phi-4 rely on synthetic data generated using larger Language models. Questions rem"
+      },
+      {
+        "method_id": "generative",
+        "source": "title",
+        "matched": "Synthetic Data",
+        "excerpt": "MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation"
+      },
+      {
+        "method_id": "representation",
+        "source": "abstract",
+        "matched": "pre-training",
+        "excerpt": "omated metrics, and find that it approaches the diversity of LLM pre-training corpora.Continually pre-training Mistral-7B with MetaSynth notably outperforms the base LLM, showin"
+      }
+    ]
+  },
+  "2025.findings-emnlp.699": {
+    "primary_topic_id": "financial_qa",
+    "primary_subtopic_id": "knowledge_qa",
+    "topic_ids": [
+      "financial_qa"
+    ],
+    "subtopic_ids": [
+      "knowledge_qa"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence: generic model selection evaluated on financial Q&A, not a finance-specific foundation model.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": "knowledge_qa",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Large language models (LLMs) excel in general tasks but struggle with domain-specific ones, requiring fine-tuning with specific data. With many open-source LLMs available, selecting the best model for fine-tuning downstream tasks is challenging, primarily focusing on how to quickly identify the optimal LLM. We introduce a Data and Model Compression Framework (DaMoC) that addresses this challenge by: 1) Data Level: A systematic categorization of data filtering methodologies for LLMs is first established, classifying them into three distinct paradigms: (1) distribution-aware methods, (2) quality-aware methods, and (3) hybrid approaches considering both dimensions. Further, we enhance the density of key tokens in the text achieving token compression. Subsequently, we use an LLM to iterative rewrite the text to optimize its expression. 2) Model Level: We use layer similarity scores to assess each layer’s importance and remove those with lower importance. Then, we introduce a sparse merging paradigm to preserve as much of the original model’s capability as possible. Extensive experiments on four datasets, medical Q&A, financial Q&A, general Q&A, and reading comprehension, show that we can select the optimal LLM while saving approximately 20-fold in training time.",
+        "matched": "Retained evidence: generic model selection evaluated on financial Q&A, not a finance-specific foundation model."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Model",
+        "excerpt": "DaMoC: Efficiently Selecting the Optimal Large Language Model for Fine-tuning Domain Tasks Based on Data and Model Compression"
+      }
+    ]
+  },
+  "2026.findings-acl.1119": {
+    "primary_topic_id": "financial_ir",
+    "primary_subtopic_id": "retrieval",
+    "topic_ids": [
+      "financial_ir",
+      "pricing"
+    ],
+    "subtopic_ids": [
+      "retrieval",
+      "pricing_calibration",
+      "table_retrieval"
+    ],
+    "method_ids": [
+      "uncertainty_robustness",
+      "representation"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained full-text evidence: financial sentence similarity under controlled numerical perturbations.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_ir",
+        "subtopic_id": "retrieval",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Numerical precision is critical in financial NLP, yet embedding-based semantic similarity metrics exhibit numerical blindness—failing to distinguish contradictory values within similar contexts. We introduce NASH (Numerically Aware Scoring Hueristic), a model-agnostic metric that decouples numerical verification from textual semantic evaluation through a three-stage pipeline: (1) modal separation via numeric masking, (2) dual-channel similarity estimation through masked-text similarity and context-aware numeric alignment, and (3) IDF-weighted aggregation. NASH functions as a drop-in enhancement to existing embedding-based metrics. Validated on our proposed NumFinE financial numerical evaluation benchmark and established semantic similarity datasets (STS-B, Financial-STS), NASH achieves substantial improvements in numerical sensitivity (up to +159.6% on listwise ranking) while preserving general semantic performance, establishing a reliable standard for numeracy-aware evaluation.",
+        "matched": "Retained full-text evidence: financial sentence similarity under controlled numerical perturbations."
+      },
+      {
+        "topic_id": "pricing",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Numerical precision is critical in financial NLP, yet embedding-based semantic similarity metrics exhibit numerical blindness—failing to distinguish contradictory values within similar contexts. We introduce NASH (Numerically Aware Scoring Hueristic), a model-agnostic metric that decouples numerical verification from textual semantic evaluation through a three-stage pipeline: (1) modal separation via numeric masking, (2) dual-channel similarity estimation through masked-text similarity and context-aware numeric alignment, and (3) IDF-weighted aggregation. NASH functions as a drop-in enhancement to existing embedding-based metrics. Validated on our proposed NumFinE financial numerical evaluation benchmark and established semantic similarity datasets (STS-B, Financial-STS), NASH achieves substantial improvements in numerical sensitivity (up to +159.6% on listwise ranking) while preserving general semantic performance, establishing a reliable standard for numeracy-aware evaluation.",
+        "matched": "Retained full-text evidence: financial sentence similarity under controlled numerical perturbations."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "title",
+        "matched": "Robust",
+        "excerpt": "NASH: Numerically Aware Scoring Heuristic for Robust Semantic Similarity"
+      },
+      {
+        "method_id": "representation",
+        "source": "abstract",
+        "matched": "embedding",
+        "excerpt": "Numerical precision is critical in financial NLP, yet embedding-based semantic similarity metrics exhibit numerical blindness—failing to distinguish contradictory "
+      }
+    ]
+  },
+  "2026.findings-acl.1675": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "understanding_evaluation",
+    "topic_ids": [
+      "financial_evaluation",
+      "financial_understanding",
+      "financial_safety",
+      "valuation_prediction"
+    ],
+    "subtopic_ids": [
+      "report_understanding",
+      "task_benchmarks",
+      "understanding_evaluation",
+      "document_understanding"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "understanding_evaluation",
+        "source": "retained_financial_evidence",
+        "excerpt": "st}@kensho.com Abstract [...] the certified free cash for fiscal year 2023 is $32,813,163. Professionals in academia, law, and finance audit their documents because inconsistencies can result in monetary, reputational, and scientific costs. Language models (LMs) have the potential to dramatically speed up this auditing process. To understand their abilities, we  | earch Question How effectively do current language models find inconsistencies within documents? Introduction Documents such as financial statements and scientific articles are audited for accuracy. Automated inconsistency detection could reduce the burden of auditing and improve document quality (YesNoError, 2024; Zhang and Abernethy, 2025; Wang et al., 2025; Xi e | ments), containing 375 test and 125 development problems. Each problem is a document with an inconsistency manually inserted by a financial expert. For each inconsistency the model identifies, it is expected to respond with evidence spans from the document that demonstrate the inconsistency and a natural language description of what makes those spans inconsistent. Th",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "st}@kensho.com Abstract [...] the certified free cash for fiscal year 2023 is $32,813,163. Professionals in academia, law, and finance audit their documents because inconsistencies can result in monetary, reputational, and scientific costs. Language models (LMs) have the potential to dramatically speed up this auditing process. To understand their abilities, we  | earch Question How effectively do current language models find inconsistencies within documents? Introduction Documents such as financial statements and scientific articles are audited for accuracy. Automated inconsistency detection could reduce the burden of auditing and improve document quality (YesNoError, 2024; Zhang and Abernethy, 2025; Wang et al., 2025; Xi e | ments), containing 375 test and 125 development problems. Each problem is a document with an inconsistency manually inserted by a financial expert. For each inconsistency the model identifies, it is expected to respond with evidence spans from the document that demonstrate the inconsistency and a natural language description of what makes those spans inconsistent. Th",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "st}@kensho.com Abstract [...] the certified free cash for fiscal year 2023 is $32,813,163. Professionals in academia, law, and finance audit their documents because inconsistencies can result in monetary, reputational, and scientific costs. Language models (LMs) have the potential to dramatically speed up this auditing process. To understand their abilities, we  | earch Question How effectively do current language models find inconsistencies within documents? Introduction Documents such as financial statements and scientific articles are audited for accuracy. Automated inconsistency detection could reduce the burden of auditing and improve document quality (YesNoError, 2024; Zhang and Abernethy, 2025; Wang et al., 2025; Xi e | ments), containing 375 test and 125 development problems. Each problem is a document with an inconsistency manually inserted by a financial expert. For each inconsistency the model identifies, it is expected to respond with evidence spans from the document that demonstrate the inconsistency and a natural language description of what makes those spans inconsistent. Th",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "valuation_prediction",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "st}@kensho.com Abstract [...] the certified free cash for fiscal year 2023 is $32,813,163. Professionals in academia, law, and finance audit their documents because inconsistencies can result in monetary, reputational, and scientific costs. Language models (LMs) have the potential to dramatically speed up this auditing process. To understand their abilities, we  | earch Question How effectively do current language models find inconsistencies within documents? Introduction Documents such as financial statements and scientific articles are audited for accuracy. Automated inconsistency detection could reduce the burden of auditing and improve document quality (YesNoError, 2024; Zhang and Abernethy, 2025; Wang et al., 2025; Xi e | ments), containing 375 test and 125 development problems. Each problem is a document with an inconsistency manually inserted by a financial expert. For each inconsistency the model identifies, it is expected to respond with evidence spans from the document that demonstrate the inconsistency and a natural language description of what makes those spans inconsistent. Th",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "Language models",
+        "excerpt": "cies can result in monetary, reputational, and scientific costs. Language models (LMs) have the potential to dramatically speed up this auditing process. To understand their abilit"
+      }
+    ]
+  },
+  "2026.findings-emnlp.2304": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "introduce BhashaBench V1, a large-scale, bilingual, exam-based benchmark covering four India-centric domains, Agriculture, Legal, Finance, and Ayurveda. BhashaBench V1 contains 74,166 meticulously curated questionanswer pairs, with 52,494 in English and 21,672 in Hindi, sourced from authentic government and domain-specific exams. It is organized around a quadrant o | urced from authentic government and domain-specific exams. It is organized around a quadrant of four domains: Agriculture, Legal, Finance, and Ayurveda, comprising 90+ subdomains and covering 500+ topics, enabling fine-grained evaluation. Evaluation of 29+ LLMs reveals significant domain and language specific performance gaps, with especially large disparities in l |  English content compared to Hindi across all domains. Subdomain-level analysis shows that areas such as Cyber Law, International Finance perform relatively well, while Panchakarma, Seed Science, and Human Rights remain notably weak. BhashaBench V1 provides a large-scale, exam-sourced dataset for evaluating large language models across these four Indian knowledge d",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language models",
+        "excerpt": "The rapid advancement of large language models (LLMs) has intensified the need for domain and culture specific evaluation. Existing benchmarks are"
+      }
+    ]
+  }
+}

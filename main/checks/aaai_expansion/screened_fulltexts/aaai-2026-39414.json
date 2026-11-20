@@ -1,0 +1,43 @@
+{
+  "id": "aaai-2026-39414",
+  "title": "GLANCE: Global Actions in a Nutshell for Counterfactual Explainability",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39414",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 164339,
+  "passages": [
+    {
+      "match": "German Credit",
+      "offset": 34506,
+      "excerpt": " ± 0.24 100.0 ± 0.0 2.73 ± 0.49 Group-CF 97.8 ± 4.4 1.85 ± 0.13 97.6 ± 2.94 9.34 ± 3.85 100.0 ± 0.0 5.78 ± 4.11 German Credit GLOBE-CE 95.12 ± 2.04 2.11 ± 0.18 57.09 ± 20.03 2.27 ± 0.33 77.05 ± 11.26 2.52 ± 0.33 dGLOBE-CE 97.36 ± 0.82 2.49 ± 0.27 69.89 ± 15.35 2.47 ± 0.23 86.96 ± 9.79 2.66 ± 0.77 GLANCE 95.31 ± 3.15 1.25 ± 0.33 100.0 ± 0.0"
+    },
+    {
+      "match": "German Credit",
+      "offset": 35840,
+      "excerpt": "11.24 ± 1.37 100.0 ± 0.0 1.55 ± 0.54 98.94 ± 0.66 19.99 ± 1.91 Datasets We use four established benchmark datasets from previous research: COMPAS [1], German Credit [12], Default Credit [36], and HELOC [4]. Addi- tionally, we introduce the Adult dataset [2] for further evaluation. Details on the datasets and their preprocessing can be found in Appendix D. Models We trained three different model types: XGBoost (XGB), Logis- tic Regression (LR), and Deep Neural Network (DNN). Hyperparameters and training accur"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Loukas Kavouras",
+      "Eleni Psaroudaki",
+      "Konstantinos Tsopelas",
+      "Dimitrios Rontogiannis",
+      "Nikolaos Theologitis",
+      "Dimitris Sacharidis",
+      "Giorgos Giannopoulos",
+      "Dimitrios Tomaras",
+      "Kleopatra Markou",
+      "Dimitrios Gunopulos",
+      "Dimitris Fotakis",
+      "Ioannis Emiris"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2405.18921",
+    "version": "arxiv_author_version"
+  }
+}

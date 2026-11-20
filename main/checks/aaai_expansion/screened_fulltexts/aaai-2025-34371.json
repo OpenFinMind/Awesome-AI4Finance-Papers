@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2025-34371",
+  "title": "Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34371",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 109580,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Tianyi Yin",
+      "Jingwei Wang",
+      "Yunlong Ma",
+      "Han Wang",
+      "Chenze Wang",
+      "Yukai Zhao",
+      "Min Liu",
+      "Weiming Shen"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.12226",
+    "version": "arxiv_author_version"
+  }
+}

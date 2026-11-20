@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2025-33267",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33267__Amplifier_Bringing_Attention_to_Neglected_Low_Energy_Components_in_Time_Series_Forecasting.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33267/35422",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 13,
+  "bytes": 2529302,
+  "sha256": "c9b9c12d14b27c8a2b4d976ef865a21870e06c198afeaa0b8dd3d110cdd6ed91",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2501.17216",
+  "final_url": "https://arxiv.org/pdf/2501.17216",
+  "downloaded_at_utc": "2026-11-10T02:32:41.323838+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Jingru Fei",
+      "Kun Yi",
+      "Wei Fan",
+      "Qi Zhang",
+      "Zhendong Niu"
+    ],
+    "identity_verified": true
+  }
+}

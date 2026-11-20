@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2022-20717",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-20717__Lifelong_Hyper_Policy_Optimization_with_Multiple_Importance_Sampling_Regularization.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 525259,
+  "sha256": "6ffe69ea58ec3feabafc2083de97bbddf3029779dd0f621c8edfd23b6238b183",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20717/20476",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/20717/20476",
+  "downloaded_at_utc": "2026-11-10T02:15:46.002219+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Pierre Liotet",
+      "Francesco Vidaich",
+      "Alberto Maria Metelli",
+      "Marcello Restelli"
+    ],
+    "identity_verified": true
+  }
+}

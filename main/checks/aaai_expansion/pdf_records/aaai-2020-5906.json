@@ -1,0 +1,28 @@
+{
+  "id": "aaai-2020-5906",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2020/aaai-2020-5906__FlowScope_Spotting_Money_Laundering_Based_on_Graphs.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 670353,
+  "sha256": "c0b453ae594745e8e588ff338eba4ac86c203658e072e85fc43fc160efadb8ac",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762",
+  "downloaded_at_utc": "2026-11-10T02:15:38.712603+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Xiangfeng Li",
+      "Shenghua Liu",
+      "Zifeng Li",
+      "Xiaotian Han",
+      "Chuan Shi",
+      "Bryan Hooi",
+      "He Huang",
+      "Xueqi Cheng"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,2788 @@
+{
+  "D18-1476": {
+    "primary_topic_id": "financial_understanding",
+    "primary_subtopic_id": "document_understanding",
+    "topic_ids": [
+      "financial_understanding"
+    ],
+    "subtopic_ids": [
+      "document_understanding"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_abstract_review",
+    "reason": "Mapped existing reviewed financial context to the new task boundaries; not a fresh full-text review.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": "document_understanding",
+        "source": "retained_financial_evidence",
+        "excerpt": "We demonstrate its capabilities on an information extraction task from invoices and show that it significantly outperforms approaches based on sequential text or document images.",
+        "matched": "Mapped existing reviewed financial context to the new task boundaries; not a fresh full-text review."
+      }
+    ],
+    "method_evidence": []
+  },
+  "D18-1233": {
+    "primary_topic_id": "financial_qa",
+    "primary_subtopic_id": "conversational_qa",
+    "topic_ids": [
+      "financial_qa"
+    ],
+    "subtopic_ids": [
+      "conversational_qa"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence: conversational rule reading answers a UK National Insurance eligibility/payment question.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": "conversational_qa",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Most work in machine reading focuses on question answering problems where the answer is directly expressed in the text to read. However, many real-world question answering problems require the reading of text not because it contains the literal answer, but because it contains a recipe to derive an answer together with the reader’s background knowledge. One example is the task of interpreting regulations to answer “Can I...?” or “Do I have to...?” questions such as “I am working in Canada. Do I have to carry on paying UK National Insurance?” after reading a UK government website about this topic. This task requires both the interpretation of rules and the application of background knowledge. It is further complicated due to the fact that, in practice, most questions are underspecified, and a human assistant will regularly have to ask clarification questions such as “How long have you been working abroad?” when the answer cannot be directly derived from the question and text. In this paper, we formalise this task and develop a crowd-sourcing strategy to collect 37k task instances based on real-world rules and crowd-generated questions and scenarios. We analyse the challenges of this task and assess its difficulty by evaluating the performance of rule-based and machine-learning baselines. We observe promising results when no background knowledge is necessary, and substantial room for improvement whenever background knowledge is needed.",
+        "matched": "Retained evidence: conversational rule reading answers a UK National Insurance eligibility/payment question."
+      }
+    ],
+    "method_evidence": []
+  },
+  "kdd-2018-8b3a8efc4094": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "causal",
+      "fairness_recourse"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment passage: causal discrimination removal on German Credit ranked decisions.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Predictive models learned from historical data are widely used to help companies and organizations make decisions. However, they may digitally unfairly treat unwanted groups, raising concerns about fairness and discrimination. In this paper, we study the fairness-aware ranking problem which aims to discover discrimination in ranked datasets and reconstruct the fair ranking. Existing methods in fairness-aware ranking are mainly based on statistical parity that cannot measure the true discriminatory effect since discrimination is causal. On the other hand, existing methods in causal-based anti-discrimination learning focus on classification problems and cannot be directly applied to handle the ranked data. To address these limitations, we propose to map the rank position to a continuous score variable that represents the qualification of the candidates. Then, we build a causal graph that consists of both the discrete profile attributes and the continuous score. The path-specific effect technique is extended to the mixed-variable causal graph to identify both direct and indirect discrimination. The relationship between the path-specific effects for the ranked data and those for the binary decision is theoretically analyzed. Finally, algorithms for discovering and removing discrimination from a ranked dataset are developed. Experiments using the real-world dataset show the effectiveness of our approaches.",
+        "matched": "Retained experiment passage: causal discrimination removal on German Credit ranked decisions."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Predictive models learned from historical data are widely used to help companies and organizations make decisions. However, they may digitally unfairly treat unwanted groups, raising concerns about fairness and discrimination. In this paper, we study the fairness-aware ranking problem which aims to discover discrimination in ranked datasets and reconstruct the fair ranking. Existing methods in fairness-aware ranking are mainly based on statistical parity that cannot measure the true discriminatory effect since discrimination is causal. On the other hand, existing methods in causal-based anti-discrimination learning focus on classification problems and cannot be directly applied to handle the ranked data. To address these limitations, we propose to map the rank position to a continuous score variable that represents the qualification of the candidates. Then, we build a causal graph that consists of both the discrete profile attributes and the continuous score. The path-specific effect technique is extended to the mixed-variable causal graph to identify both direct and indirect discrimination. The relationship between the path-specific effects for the ranked data and those for the binary decision is theoretically analyzed. Finally, algorithms for discovering and removing discrimination from a ranked dataset are developed. Experiments using the real-world dataset show the effectiveness of our approaches.",
+        "matched": "Retained experiment passage: causal discrimination removal on German Credit ranked decisions."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "causal",
+        "source": "title",
+        "matched": "Causal",
+        "excerpt": "On Discrimination Discovery and Removal in Ranked Data using Causal Graph"
+      },
+      {
+        "method_id": "fairness_recourse",
+        "source": "abstract",
+        "matched": "fairness",
+        "excerpt": "digitally unfairly treat unwanted groups, raising concerns about fairness and discrimination. In this paper, we study the fairness-aware ranking problem which aims to discov"
+      }
+    ]
+  },
+  "neurips-2018-11572": {
+    "primary_topic_id": "pricing",
+    "primary_subtopic_id": "pricing_calibration",
+    "topic_ids": [
+      "pricing"
+    ],
+    "subtopic_ids": [
+      "pricing_calibration"
+    ],
+    "method_ids": [
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained financial evidence: numerical cubature is evaluated on a high-dimensional financial integral.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "pricing",
+        "subtopic_id": "pricing_calibration",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "This paper focusses on the formulation of numerical integration as an inferential task. To date, research effort has largely focussed on the development of Bayesian cubature, whose distributional output provides uncertainty quantification for the integral. However, the point estimators associated to Bayesian cubature can be inaccurate and acutely sensitive to the prior when the domain is high-dimensional. To address these drawbacks we introduce Bayes-Sard cubature, a probabilistic framework that combines the flexibility of Bayesian cubature with the robustness of classical cubatures which are well-established. This is achieved by considering a Gaussian process model for the integrand whose mean is a parametric regression model, with an improper prior on each regression coefficient. The features in the regression model consist of test functions which are guaranteed to be exactly integrated, with remaining degrees of freedom afforded to the non-parametric part. The asymptotic convergence of the Bayes-Sard cubature method is established and the theoretical results are numerically verified. In particular, we report two orders of magnitude reduction in error compared to Bayesian cubature in the context of a high-dimensional financial integral.",
+        "matched": "Retained financial evidence: numerical cubature is evaluated on a high-dimensional financial integral."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "uncertainty",
+        "excerpt": "pment of Bayesian cubature, whose distributional output provides uncertainty quantification for the integral. However, the point estimators associated to Bayesian cubature can "
+      }
+    ]
+  },
+  "neurips-2020-17513": {
+    "primary_topic_id": "portfolio",
+    "primary_subtopic_id": "portfolio_objectives",
+    "topic_ids": [
+      "portfolio"
+    ],
+    "subtopic_ids": [
+      "portfolio_objectives"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_abstract_review",
+    "reason": "Mapped existing reviewed financial context to the new task boundaries; not a fresh full-text review.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "portfolio",
+        "subtopic_id": "portfolio_objectives",
+        "source": "retained_financial_evidence",
+        "excerpt": "Our results shed light on the abundance of low quality funds prior to the Great Recession of 2008, and the domination of the industry by more skilled funds after the financial crisis.",
+        "matched": "Mapped existing reviewed financial context to the new task boundaries; not a fresh full-text review."
+      }
+    ],
+    "method_evidence": []
+  },
+  "aaai-2021-17328": {
+    "primary_topic_id": "time_series",
+    "primary_subtopic_id": "ts_forecasting",
+    "topic_ids": [
+      "time_series",
+      "insurance",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "ts_forecasting",
+      "insurance_claims",
+      "model_safety"
+    ],
+    "method_ids": [
+      "fairness_recourse",
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Abstract and retained evidence: fair linear-dynamical-system forecasting with an insurance-motivated dataset.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "time_series",
+        "subtopic_id": "ts_forecasting",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In machine learning, training data often capture the behaviour of multiple subgroups of some underlying human population. When the amounts of training data for the subgroups are not controlled carefully, under-representation bias arises. We introduce two natural notions of subgroup fairness and instantaneous fairness to address such under-representation bias in time-series forecasting problems. In particular, we consider the subgroup-fair and instant-fair learning of a linear dynamical system (LDS) from multiple trajectories of varying lengths and the associated forecasting problems. We provide globally convergent methods for the learning problems using hierarchies of convexifications of non-commutative polynomial optimisation problems. Our empirical results on a biased data set motivated by insurance applications and the well-known COMPAS data set demonstrate both the beneficial impact of fairness considerations on statistical performance and the encouraging effects of exploiting sparsity on run time.",
+        "matched": "Abstract and retained evidence: fair linear-dynamical-system forecasting with an insurance-motivated dataset."
+      },
+      {
+        "topic_id": "insurance",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In machine learning, training data often capture the behaviour of multiple subgroups of some underlying human population. When the amounts of training data for the subgroups are not controlled carefully, under-representation bias arises. We introduce two natural notions of subgroup fairness and instantaneous fairness to address such under-representation bias in time-series forecasting problems. In particular, we consider the subgroup-fair and instant-fair learning of a linear dynamical system (LDS) from multiple trajectories of varying lengths and the associated forecasting problems. We provide globally convergent methods for the learning problems using hierarchies of convexifications of non-commutative polynomial optimisation problems. Our empirical results on a biased data set motivated by insurance applications and the well-known COMPAS data set demonstrate both the beneficial impact of fairness considerations on statistical performance and the encouraging effects of exploiting sparsity on run time.",
+        "matched": "Abstract and retained evidence: fair linear-dynamical-system forecasting with an insurance-motivated dataset."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In machine learning, training data often capture the behaviour of multiple subgroups of some underlying human population. When the amounts of training data for the subgroups are not controlled carefully, under-representation bias arises. We introduce two natural notions of subgroup fairness and instantaneous fairness to address such under-representation bias in time-series forecasting problems. In particular, we consider the subgroup-fair and instant-fair learning of a linear dynamical system (LDS) from multiple trajectories of varying lengths and the associated forecasting problems. We provide globally convergent methods for the learning problems using hierarchies of convexifications of non-commutative polynomial optimisation problems. Our empirical results on a biased data set motivated by insurance applications and the well-known COMPAS data set demonstrate both the beneficial impact of fairness considerations on statistical performance and the encouraging effects of exploiting sparsity on run time.",
+        "matched": "Abstract and retained evidence: fair linear-dynamical-system forecasting with an insurance-motivated dataset."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "fairness_recourse",
+        "source": "title",
+        "matched": "Fairness",
+        "excerpt": "Fairness in Forecasting and Learning Linear Dynamical Systems"
+      },
+      {
+        "method_id": "optimization",
+        "source": "abstract",
+        "matched": "convex",
+        "excerpt": "onvergent methods for the learning problems using hierarchies of convexifications of non-commutative polynomial optimisation problems. Our empirical results on a biased da"
+      }
+    ]
+  },
+  "2021.acl-long.161": {
+    "primary_topic_id": "financial_understanding",
+    "primary_subtopic_id": "financial_text_classification",
+    "topic_ids": [
+      "financial_understanding",
+      "financial_sentiment",
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "financial_text_classification",
+      "news_sentiment"
+    ],
+    "method_ids": [
+      "llm",
+      "representation"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence distinguishes ten-domain text classification including finance from the separate ChnSentiCorp sentiment dataset.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": "financial_text_classification",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Recent pretraining models in Chinese neglect two important aspects specific to the Chinese language: glyph and pinyin, which carry significant syntax and semantic information for language understanding. In this work, we propose ChineseBERT, which incorporates both the glyph and pinyin information of Chinese characters into language model pretraining. The glyph embedding is obtained based on different fonts of a Chinese character, being able to capture character semantics from the visual features, and the pinyin embedding characterizes the pronunciation of Chinese characters, which handles the highly prevalent heteronym phenomenon in Chinese (the same character has different pronunciations with different meanings). Pretrained on large-scale unlabeled Chinese corpus, the proposed ChineseBERT model yields significant performance boost over baseline models with fewer training steps. The proposed model achieves new SOTA performances on a wide range of Chinese NLP tasks, including machine reading comprehension, natural language inference, text classification, sentence pair matching, and competitive performances in named entity recognition and word segmentation.",
+        "matched": "Retained evidence distinguishes ten-domain text classification including finance from the separate ChnSentiCorp sentiment dataset."
+      },
+      {
+        "topic_id": "financial_sentiment",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Recent pretraining models in Chinese neglect two important aspects specific to the Chinese language: glyph and pinyin, which carry significant syntax and semantic information for language understanding. In this work, we propose ChineseBERT, which incorporates both the glyph and pinyin information of Chinese characters into language model pretraining. The glyph embedding is obtained based on different fonts of a Chinese character, being able to capture character semantics from the visual features, and the pinyin embedding characterizes the pronunciation of Chinese characters, which handles the highly prevalent heteronym phenomenon in Chinese (the same character has different pronunciations with different meanings). Pretrained on large-scale unlabeled Chinese corpus, the proposed ChineseBERT model yields significant performance boost over baseline models with fewer training steps. The proposed model achieves new SOTA performances on a wide range of Chinese NLP tasks, including machine reading comprehension, natural language inference, text classification, sentence pair matching, and competitive performances in named entity recognition and word segmentation.",
+        "matched": "Retained evidence distinguishes ten-domain text classification including finance from the separate ChnSentiCorp sentiment dataset."
+      },
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Recent pretraining models in Chinese neglect two important aspects specific to the Chinese language: glyph and pinyin, which carry significant syntax and semantic information for language understanding. In this work, we propose ChineseBERT, which incorporates both the glyph and pinyin information of Chinese characters into language model pretraining. The glyph embedding is obtained based on different fonts of a Chinese character, being able to capture character semantics from the visual features, and the pinyin embedding characterizes the pronunciation of Chinese characters, which handles the highly prevalent heteronym phenomenon in Chinese (the same character has different pronunciations with different meanings). Pretrained on large-scale unlabeled Chinese corpus, the proposed ChineseBERT model yields significant performance boost over baseline models with fewer training steps. The proposed model achieves new SOTA performances on a wide range of Chinese NLP tasks, including machine reading comprehension, natural language inference, text classification, sentence pair matching, and competitive performances in named entity recognition and word segmentation.",
+        "matched": "Retained evidence distinguishes ten-domain text classification including finance from the separate ChnSentiCorp sentiment dataset."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language model",
+        "excerpt": "both the glyph and pinyin information of Chinese characters into language model pretraining. The glyph embedding is obtained based on different fonts of a Chinese character, being"
+      },
+      {
+        "method_id": "representation",
+        "source": "title",
+        "matched": "Pretraining",
+        "excerpt": "ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information"
+      }
+    ]
+  },
+  "icml-2021-10013": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "market_risk",
+    "topic_ids": [
+      "financial_risk",
+      "insurance"
+    ],
+    "subtopic_ids": [
+      "market_risk",
+      "insurance_claims"
+    ],
+    "method_ids": [
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained abstract describes multivariate extreme-risk support, including portfolio monitoring and insurance.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "market_risk",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Understanding the complex structure of multivariate extremes is a major challenge in various fields from portfolio monitoring and environmental risk management to insurance. In the framework of multivariate Extreme Value Theory, a common characterization of extremes' dependence structure is the angular measure. It is a suitable measure to work in extreme regions as it provides meaningful insights concerning the subregions where extremes tend to concentrate their mass. The present paper develops a novel optimization-based approach to assess the dependence structure of extremes. This support identification scheme rewrites as estimating clusters of features which best capture the support  of extremes. The dimension reduction technique we provide is applied to statistical learning tasks such as feature clustering and anomaly detection. Numerical experiments provide strong empirical evidence of the relevance of our approach.",
+        "matched": "Retained abstract describes multivariate extreme-risk support, including portfolio monitoring and insurance."
+      },
+      {
+        "topic_id": "insurance",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Understanding the complex structure of multivariate extremes is a major challenge in various fields from portfolio monitoring and environmental risk management to insurance. In the framework of multivariate Extreme Value Theory, a common characterization of extremes' dependence structure is the angular measure. It is a suitable measure to work in extreme regions as it provides meaningful insights concerning the subregions where extremes tend to concentrate their mass. The present paper develops a novel optimization-based approach to assess the dependence structure of extremes. This support identification scheme rewrites as estimating clusters of features which best capture the support  of extremes. The dimension reduction technique we provide is applied to statistical learning tasks such as feature clustering and anomaly detection. Numerical experiments provide strong empirical evidence of the relevance of our approach.",
+        "matched": "Retained abstract describes multivariate extreme-risk support, including portfolio monitoring and insurance."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "optimization",
+        "source": "abstract",
+        "matched": "optimization",
+        "excerpt": "nd to concentrate their mass. The present paper develops a novel optimization-based approach to assess the dependence structure of extremes. This support identification scheme r"
+      }
+    ]
+  },
+  "kdd-2021-59184cd048b0": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "generative",
+      "causal",
+      "fairness_recourse",
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment passage explicitly includes Home_Credit counterfactual explanations.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Counterfactuals, serving as one of the emerging type of model interpretations, have recently received attention from both researchers and practitioners. Counterfactual explanations formalize the exploration of \"what-if'' scenarios, and are an instance of example-based reasoning using a set of hypothetical data samples. Counterfactuals essentially show how the model decision alters with input perturbations. Existing methods for generating counterfactuals are mainly algorithm-based, which are time-inefficient and assume the same counterfactual universe for different queries. To address these limitations, we propose a Model-based Counterfactual Synthesizer (MCS) framework for interpreting machine learning models. We first analyze the model-based counterfactual process and construct a base synthesizer using a conditional generative adversarial net (CGAN). To better approximate the counterfactual universe for those rare queries, we novelly employ the umbrella sampling technique to conduct the MCS framework training. Besides, we also enhance the MCS framework by incorporating the causal dependence among attributes with model inductive bias, and validate its design correctness from the causality identification perspective. Experimental results on several datasets demonstrate the effectiveness as well as efficiency of our proposed MCS framework, and verify the advantages compared with other alternatives.",
+        "matched": "Retained experiment passage explicitly includes Home_Credit counterfactual explanations."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Counterfactuals, serving as one of the emerging type of model interpretations, have recently received attention from both researchers and practitioners. Counterfactual explanations formalize the exploration of \"what-if'' scenarios, and are an instance of example-based reasoning using a set of hypothetical data samples. Counterfactuals essentially show how the model decision alters with input perturbations. Existing methods for generating counterfactuals are mainly algorithm-based, which are time-inefficient and assume the same counterfactual universe for different queries. To address these limitations, we propose a Model-based Counterfactual Synthesizer (MCS) framework for interpreting machine learning models. We first analyze the model-based counterfactual process and construct a base synthesizer using a conditional generative adversarial net (CGAN). To better approximate the counterfactual universe for those rare queries, we novelly employ the umbrella sampling technique to conduct the MCS framework training. Besides, we also enhance the MCS framework by incorporating the causal dependence among attributes with model inductive bias, and validate its design correctness from the causality identification perspective. Experimental results on several datasets demonstrate the effectiveness as well as efficiency of our proposed MCS framework, and verify the advantages compared with other alternatives.",
+        "matched": "Retained experiment passage explicitly includes Home_Credit counterfactual explanations."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "generative",
+        "source": "abstract",
+        "matched": "generative",
+        "excerpt": "ual process and construct a base synthesizer using a conditional generative adversarial net (CGAN). To better approximate the counterfactual universe for those rare queries, w"
+      },
+      {
+        "method_id": "causal",
+        "source": "abstract",
+        "matched": "causal",
+        "excerpt": " Besides, we also enhance the MCS framework by incorporating the causal dependence among attributes with model inductive bias, and validate its design correctness from the"
+      },
+      {
+        "method_id": "fairness_recourse",
+        "source": "abstract",
+        "matched": "Counterfactual explanation",
+        "excerpt": "ntly received attention from both researchers and practitioners. Counterfactual explanations formalize the exploration of \"what-if'' scenarios, and are an instance of example-based reasoning "
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "adversarial",
+        "excerpt": " and construct a base synthesizer using a conditional generative adversarial net (CGAN). To better approximate the counterfactual universe for those rare queries, we novelly em"
+      }
+    ]
+  },
+  "kdd-2021-5b63d167a9b0": {
+    "primary_topic_id": "portfolio",
+    "primary_subtopic_id": "selection",
+    "topic_ids": [
+      "portfolio"
+    ],
+    "subtopic_ids": [
+      "selection"
+    ],
+    "method_ids": [
+      "generative",
+      "causal"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence: generic time-series analysis is used to construct an investment portfolio.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "portfolio",
+        "subtopic_id": "selection",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "The increased availability of multivariate time-series asks for the development of suitable methods able to holistically analyse them. To this aim, we propose a novel flexible method for data-mining, forecasting and causal patterns detection that leverages the coupling of Hidden Markov Models and Gaussian Graphical Models. Given a multivariate non-stationary time-series, the proposed method simultaneously clusters time points while understanding probabilistic relationships among variables. The clustering divides the time points into stationary sub-groups whose underlying distribution can be inferred through a graphical model. Such coupling can be further exploited to build a time-varying regression model which allows to both make predictions and obtain insights on the presence of causal patterns. We extensively validate the proposed approach on synthetic data showing that it has better performance than the state of the art on clustering, graphical models inference and prediction. Finally, to demonstrate the applicability of our approach in real-world scenarios, we exploit its characteristics to build a profitable investment portfolio. Results show that we are able to improve the state of the art, by going from a -%20 profit to a noticeable 80%.",
+        "matched": "Retained evidence: generic time-series analysis is used to construct an investment portfolio."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "generative",
+        "source": "abstract",
+        "matched": "synthetic data",
+        "excerpt": "ausal patterns. We extensively validate the proposed approach on synthetic data showing that it has better performance than the state of the art on clustering, graphical models in"
+      },
+      {
+        "method_id": "causal",
+        "source": "abstract",
+        "matched": "causal",
+        "excerpt": "propose a novel flexible method for data-mining, forecasting and causal patterns detection that leverages the coupling of Hidden Markov Models and Gaussian Graphical Model"
+      }
+    ]
+  },
+  "neurips-2021-CtugaUzfYw": {
+    "primary_topic_id": "pricing",
+    "primary_subtopic_id": "option_pricing",
+    "topic_ids": [
+      "pricing"
+    ],
+    "subtopic_ids": [
+      "option_pricing"
+    ],
+    "method_ids": [
+      "causal",
+      "uncertainty_robustness",
+      "representation"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "Mapped existing reviewed financial context to the new task boundaries; not a fresh full-text review.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "pricing",
+        "subtopic_id": "option_pricing",
+        "source": "retained_financial_evidence",
+        "excerpt": "In addition, leveraging our higher order MMDs we construct a family of universal kernels on stochastic processes that allows to solve real-world calibration and optimal stopping problems in quantitative finance (such as the pricing of American options) via classical kernel-based regression methods.",
+        "matched": "Mapped existing reviewed financial context to the new task boundaries; not a fresh full-text review."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "causal",
+        "source": "abstract",
+        "matched": "causal",
+        "excerpt": "al independence to the case of stochastic processes, we design a causal-discovery algorithm to recover the causal graph of structural dependencies among interacting bodies"
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "calibration",
+        "excerpt": " kernels on stochastic processes that allows to solve real-world calibration and optimal stopping problems in quantitative finance (such as the pricing of American options) via"
+      },
+      {
+        "method_id": "representation",
+        "source": "title",
+        "matched": "Embeddings",
+        "excerpt": "Higher Order Kernel Mean Embeddings to Capture Filtrations of Stochastic Processes"
+      }
+    ]
+  },
+  "neurips-2021-4wVlNqBJXg": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "market_risk",
+    "topic_ids": [
+      "financial_risk",
+      "insurance"
+    ],
+    "subtopic_ids": [
+      "market_risk",
+      "insurance_claims"
+    ],
+    "method_ids": [
+      "reinforcement_learning",
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Abstract identifies VaR/CVaR and risk-return tradeoffs; insurance is one motivating industry, not an actuarial task.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "market_risk",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Conditional value-at-risk (CVaR) and value-at-risk (VaR) are popular tail-risk measures in finance and insurance industries as well as in highly reliable, safety-critical uncertain environments where often the underlying probability distributions are heavy-tailed. We use the multi-armed bandit best-arm identification framework and consider the problem of identifying the arm from amongst finitely many that has the smallest CVaR, VaR, or weighted sum of CVaR and mean. The latter captures the risk-return trade-off common in finance. Our main contribution is an optimal $\\delta$-correct algorithm that acts on general arms, including heavy-tailed distributions, and matches the lower bound on the expected number of samples needed, asymptotically (as $ \\delta$ approaches $0$). The algorithm requires solving a non-convex optimization problem in the space of probability measures, that requires delicate analysis. En-route, we develop new non-asymptotic, anytime-valid, empirical-likelihood-based concentration inequalities for tail-risk measures.",
+        "matched": "Abstract identifies VaR/CVaR and risk-return tradeoffs; insurance is one motivating industry, not an actuarial task."
+      },
+      {
+        "topic_id": "insurance",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Conditional value-at-risk (CVaR) and value-at-risk (VaR) are popular tail-risk measures in finance and insurance industries as well as in highly reliable, safety-critical uncertain environments where often the underlying probability distributions are heavy-tailed. We use the multi-armed bandit best-arm identification framework and consider the problem of identifying the arm from amongst finitely many that has the smallest CVaR, VaR, or weighted sum of CVaR and mean. The latter captures the risk-return trade-off common in finance. Our main contribution is an optimal $\\delta$-correct algorithm that acts on general arms, including heavy-tailed distributions, and matches the lower bound on the expected number of samples needed, asymptotically (as $ \\delta$ approaches $0$). The algorithm requires solving a non-convex optimization problem in the space of probability measures, that requires delicate analysis. En-route, we develop new non-asymptotic, anytime-valid, empirical-likelihood-based concentration inequalities for tail-risk measures.",
+        "matched": "Abstract identifies VaR/CVaR and risk-return tradeoffs; insurance is one motivating industry, not an actuarial task."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "reinforcement_learning",
+        "source": "abstract",
+        "matched": "bandit",
+        "excerpt": "obability distributions are heavy-tailed. We use the multi-armed bandit best-arm identification framework and consider the problem of identifying the arm from amongst fini"
+      },
+      {
+        "method_id": "optimization",
+        "source": "abstract",
+        "matched": "convex",
+        "excerpt": " $ \\delta$ approaches $0$). The algorithm requires solving a non-convex optimization problem in the space of probability measures, that requires delicate analysis. En-rout"
+      }
+    ]
+  },
+  "aaai-2022-21305": {
+    "primary_topic_id": "financial_sentiment",
+    "primary_subtopic_id": "news_sentiment",
+    "topic_ids": [
+      "financial_sentiment",
+      "financial_understanding"
+    ],
+    "subtopic_ids": [
+      "news_sentiment"
+    ],
+    "method_ids": [
+      "llm",
+      "representation"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Title and retained evidence identify sentiment classification including a finance-domain benchmark.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_sentiment",
+        "subtopic_id": "news_sentiment",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In recent years, pretrained language models have revolutionized the NLP world, while achieving state of the art performance in various downstream tasks. However, in many cases, these models do not perform well when labeled data is scarce and the model is expected to perform in the zero or few shot setting. Recently, several works have shown that continual pretraining or performing a second phase of pretraining (inter-training) which is better aligned with the downstream task, can lead to improved results, especially in the scarce data setting. Here, we propose to leverage sentiment-carrying discourse markers to generate large-scale weakly-labeled data, which in turn can be used to adapt language models for sentiment analysis. Extensive experimental results show the value of our approach on various benchmark datasets, including the finance domain. Code, models and data are available at https://github.com/ibm/tslm-discourse-markers.",
+        "matched": "Title and retained evidence identify sentiment classification including a finance-domain benchmark."
+      },
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In recent years, pretrained language models have revolutionized the NLP world, while achieving state of the art performance in various downstream tasks. However, in many cases, these models do not perform well when labeled data is scarce and the model is expected to perform in the zero or few shot setting. Recently, several works have shown that continual pretraining or performing a second phase of pretraining (inter-training) which is better aligned with the downstream task, can lead to improved results, especially in the scarce data setting. Here, we propose to leverage sentiment-carrying discourse markers to generate large-scale weakly-labeled data, which in turn can be used to adapt language models for sentiment analysis. Extensive experimental results show the value of our approach on various benchmark datasets, including the finance domain. Code, models and data are available at https://github.com/ibm/tslm-discourse-markers.",
+        "matched": "Title and retained evidence identify sentiment classification including a finance-domain benchmark."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": "Fortunately, Discourse Markers Can Enhance Language Models for Sentiment Analysis"
+      },
+      {
+        "method_id": "representation",
+        "source": "abstract",
+        "matched": "pretraining",
+        "excerpt": " shot setting. Recently, several works have shown that continual pretraining or performing a second phase of pretraining (inter-training) which is better aligned with the downs"
+      }
+    ]
+  },
+  "2022.acl-long.111": {
+    "primary_topic_id": "valuation_prediction",
+    "primary_subtopic_id": "stock_prediction",
+    "topic_ids": [
+      "valuation_prediction"
+    ],
+    "subtopic_ids": [
+      "stock_prediction"
+    ],
+    "method_ids": [
+      "llm",
+      "transformer",
+      "uncertainty_robustness",
+      "tabular"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained full-text evidence includes S&P 500 and Shanghai prediction experiments.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "valuation_prediction",
+        "subtopic_id": "stock_prediction",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "The enrichment of tabular datasets using external sources has gained significant attention in recent years. Existing solutions, however, either ignore external unstructured data completely or devise dataset-specific solutions. In this study we proposed Few-Shot Transformer based Enrichment (FeSTE), a generic and robust framework for the enrichment of tabular datasets using unstructured data. By training over multiple datasets, our approach is able to develop generic models that can be applied to additional datasets with minimal training (i.e., few-shot). Our approach is based on an adaptation of BERT, for which we present a novel fine-tuning approach that reformulates the tuples of the datasets as sentences. Our evaluation, conducted on 17 datasets, shows that FeSTE is able to generate high quality features and significantly outperform existing fine-tuning solutions.",
+        "matched": "Retained full-text evidence includes S&P 500 and Shanghai prediction experiments."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "BERT",
+        "excerpt": "ning (i.e., few-shot). Our approach is based on an adaptation of BERT, for which we present a novel fine-tuning approach that reformulates the tuples of the datasets as "
+      },
+      {
+        "method_id": "transformer",
+        "source": "title",
+        "matched": "Transformer",
+        "excerpt": "Few-Shot Tabular Data Enrichment Using Fine-Tuned Transformer Architectures"
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "robust",
+        "excerpt": "sed Few-Shot Transformer based Enrichment (FeSTE), a generic and robust framework for the enrichment of tabular datasets using unstructured data. By training over multiple"
+      },
+      {
+        "method_id": "tabular",
+        "source": "title",
+        "matched": "Tabular",
+        "excerpt": "Few-Shot Tabular Data Enrichment Using Fine-Tuned Transformer Architectures"
+      }
+    ]
+  },
+  "2022.emnlp-main.216": {
+    "primary_topic_id": "valuation_prediction",
+    "primary_subtopic_id": "fundamental_prediction",
+    "topic_ids": [
+      "valuation_prediction"
+    ],
+    "subtopic_ids": [
+      "fundamental_prediction"
+    ],
+    "method_ids": [
+      "graph_learning",
+      "multimodal"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The application predicts restaurant survival from business evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "valuation_prediction",
+        "subtopic_id": "fundamental_prediction",
+        "source": "retained_financial_evidence",
+        "excerpt": "The bloom of the Internet and the recent breakthroughs in deep learning techniques open a new door to AI for E-commence, with a trend of evolving from using a few financial factors such as liquidity and profitability to using more advanced AI techniques to process complex and multi-modal data.",
+        "matched": "The application predicts restaurant survival from business evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "graph_learning",
+        "source": "abstract",
+        "matched": "graph neural",
+        "excerpt": "t interactions and users’ textual reviews. Moreover, we design a graph neural network to capture the high-order interactions and design a co-attention mechanism to capture the m"
+      },
+      {
+        "method_id": "multimodal",
+        "source": "abstract",
+        "matched": "multi-modal",
+        "excerpt": "lity to using more advanced AI techniques to process complex and multi-modal data. In this paper, we tackle the practical problem of restaurant survival prediction. We argue th"
+      }
+    ]
+  },
+  "2022.emnlp-main.132": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "financial_reasoning_eval",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "financial_reasoning_eval",
+      "understanding_evaluation"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained financial evidence: geographic commonsense probing includes market-display and payment conventions; finance is one application slice.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "financial_reasoning_eval",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Recent work has shown that Pre-trained Language Models (PLMs) store the relational knowledge learned from data and utilize it for performing downstream tasks. However, commonsense knowledge across different regions may vary. For instance, the color of bridal dress is white in American weddings whereas it is red in Chinese weddings. In this paper, we introduce a benchmark dataset, Geo-diverse Commonsense Multilingual Language Models Analysis (GeoMLAMA), for probing the diversity of the relational knowledge in multilingual PLMs. GeoMLAMA contains 3125 prompts in English, Chinese, Hindi, Persian, and Swahili, with a wide coverage of concepts shared by people from American, Chinese, Indian, Iranian and Kenyan cultures. We benchmark 11 standard multilingual PLMs on GeoMLAMA. Interestingly, we find that 1) larger multilingual PLMs variants do not necessarily store geo-diverse concepts better than its smaller variant; 2) multilingual PLMs are not intrinsically biased towards knowledge from the Western countries (the United States); 3) the native language of a country may not be the best language to probe its knowledge and 4) a language may better probe knowledge about a non-native country than its native country.",
+        "matched": "Retained financial evidence: geographic commonsense probing includes market-display and payment conventions; finance is one application slice."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": "AMA: Geo-Diverse Commonsense Probing on Multilingual Pre-Trained Language Models"
+      }
+    ]
+  },
+  "icml-2022-17509": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "evaluation_protocols",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks",
+      "evaluation_protocols"
+    ],
+    "method_ids": [
+      "reinforcement_learning"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "evaluation_protocols",
+        "source": "retained_financial_evidence",
+        "excerpt": "And second, we demonstrate that the preference between algorithms is budget-dependent across a diverse range of decision-making domains such as Robotics, Finance, and Energy Management.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "reinforcement_learning",
+        "source": "title",
+        "matched": "Reinforcement Learning",
+        "excerpt": "Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters"
+      }
+    ]
+  },
+  "kdd-2022-72076b5849e9": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "generative",
+      "fairness_recourse"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment tables include credit-card and bank-full; preserve bank-marketing as a related application.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "We study a variant of classical clustering formulations in the context of algorithmic fairness, known as diversity-aware clustering. In this variant we are given a collection of facility subsets, and a solution must contain at least a specified number of facilities from each subset while simultaneously minimizing the clustering objective (k-median or k-means). We investigate the fixed-parameter tractability of these problems and show several negative hardness and inapproximability results, even when we afford exponential running time with respect to some parameters. Motivated by these results we identify natural parameters of the problem, and present fixed-parameter approximation algorithms with approximation ratios (1 + 2 over e + ∈) and (1 + 8 over e + ∈) for diversity-aware k-median and diversity-aware k-means respectively, and argue that these ratios are essentially tight assuming the gap-exponential time hypothesis. We also present a simple and more practical bicriteria approximation algorithm with better running time bounds. We finally propose efficient and practical heuristics. We evaluate the scalability and effectiveness of our methods in a wide variety of rigorously conducted experiments, on both real and synthetic data.",
+        "matched": "Retained experiment tables include credit-card and bank-full; preserve bank-marketing as a related application."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "We study a variant of classical clustering formulations in the context of algorithmic fairness, known as diversity-aware clustering. In this variant we are given a collection of facility subsets, and a solution must contain at least a specified number of facilities from each subset while simultaneously minimizing the clustering objective (k-median or k-means). We investigate the fixed-parameter tractability of these problems and show several negative hardness and inapproximability results, even when we afford exponential running time with respect to some parameters. Motivated by these results we identify natural parameters of the problem, and present fixed-parameter approximation algorithms with approximation ratios (1 + 2 over e + ∈) and (1 + 8 over e + ∈) for diversity-aware k-median and diversity-aware k-means respectively, and argue that these ratios are essentially tight assuming the gap-exponential time hypothesis. We also present a simple and more practical bicriteria approximation algorithm with better running time bounds. We finally propose efficient and practical heuristics. We evaluate the scalability and effectiveness of our methods in a wide variety of rigorously conducted experiments, on both real and synthetic data.",
+        "matched": "Retained experiment tables include credit-card and bank-full; preserve bank-marketing as a related application."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "generative",
+        "source": "abstract",
+        "matched": "synthetic data",
+        "excerpt": "de variety of rigorously conducted experiments, on both real and synthetic data."
+      },
+      {
+        "method_id": "fairness_recourse",
+        "source": "abstract",
+        "matched": "fairness",
+        "excerpt": " classical clustering formulations in the context of algorithmic fairness, known as diversity-aware clustering. In this variant we are given a collection of facility subsets"
+      }
+    ]
+  },
+  "kdd-2022-809c231108de": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "fairness_recourse"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment passage: fair clustering on the 30000-row UCI CreditCard dataset.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "The widespread use of machine learning algorithms in settings that directly affect human lives has instigated significant interest in designing variants of these algorithms that are provably fair. Recent work in this direction has produced numerous algorithms for the fundamental problem of clustering under many different notions of fairness. Perhaps the most common family of notions currently studied is group fairness, in which proportional group representation is ensured in every cluster. We extend this direction by considering the downstream application of clustering and how group fairness should be ensured for such a setting. Specifically, we consider a common setting in which a decision-maker runs a clustering algorithm, inspects the center of each cluster, and decides an appropriate outcome (label) for its corresponding cluster. In hiring for example, there could be two outcomes, positive (hire) or negative (reject), and each cluster would be assigned one of these two outcomes. To ensure group fairness in such a setting, we would desire proportional group representation in every label but not necessarily in every cluster as is done in group fair clustering. We provide algorithms for such problems and show that in contrast to their NP-hard counterparts in group fair clustering, they permit efficient solutions. We also consider a well-motivated alternative setting where the decision-maker is free to assign labels to the clusters regardless of the centers' positions in the metric space. We show that this setting exhibits interesting transitions from computationally hard to easy according to additional constraints on the problem. Moreover, when the constraint parameters take on natural values we show a randomized algorithm for this setting that always achieves an optimal clustering and satisfies the fairness constraints in expectation. Finally, we run experiments on real world datasets that validate the effectiveness of our algorithms.",
+        "matched": "Retained experiment passage: fair clustering on the 30000-row UCI CreditCard dataset."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "The widespread use of machine learning algorithms in settings that directly affect human lives has instigated significant interest in designing variants of these algorithms that are provably fair. Recent work in this direction has produced numerous algorithms for the fundamental problem of clustering under many different notions of fairness. Perhaps the most common family of notions currently studied is group fairness, in which proportional group representation is ensured in every cluster. We extend this direction by considering the downstream application of clustering and how group fairness should be ensured for such a setting. Specifically, we consider a common setting in which a decision-maker runs a clustering algorithm, inspects the center of each cluster, and decides an appropriate outcome (label) for its corresponding cluster. In hiring for example, there could be two outcomes, positive (hire) or negative (reject), and each cluster would be assigned one of these two outcomes. To ensure group fairness in such a setting, we would desire proportional group representation in every label but not necessarily in every cluster as is done in group fair clustering. We provide algorithms for such problems and show that in contrast to their NP-hard counterparts in group fair clustering, they permit efficient solutions. We also consider a well-motivated alternative setting where the decision-maker is free to assign labels to the clusters regardless of the centers' positions in the metric space. We show that this setting exhibits interesting transitions from computationally hard to easy according to additional constraints on the problem. Moreover, when the constraint parameters take on natural values we show a randomized algorithm for this setting that always achieves an optimal clustering and satisfies the fairness constraints in expectation. Finally, we run experiments on real world datasets that validate the effectiveness of our algorithms.",
+        "matched": "Retained experiment passage: fair clustering on the 30000-row UCI CreditCard dataset."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "fairness_recourse",
+        "source": "abstract",
+        "matched": "fairness",
+        "excerpt": "undamental problem of clustering under many different notions of fairness. Perhaps the most common family of notions currently studied is group fairness, in which proportion"
+      }
+    ]
+  },
+  "neurips-2022-MbBTrAvee-N": {
+    "primary_topic_id": "financial_decision",
+    "primary_subtopic_id": "hedging",
+    "topic_ids": [
+      "financial_decision",
+      "pricing",
+      "financial_understanding",
+      "valuation_prediction"
+    ],
+    "subtopic_ids": [
+      "hedging",
+      "report_understanding"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained financial example is corporate hedging as reward augmentation, not derivative price estimation.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_decision",
+        "subtopic_id": "hedging",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Most people associate the term `hedging' exclusively with financial applications, particularly the use of financial derivatives. We argue that hedging is an activity that human and machine agents should engage in more broadly, even when the agent's value is not necessarily in monetary units. In this paper, we propose a decision-theoretic view of hedging based on augmenting a probabilistic graphical model -- specifically a Bayesian network or an influence diagram -- with a reward. Hedging is therefore posed as a particular kind of graph manipulation, and can be viewed as analogous to control/intervention and information gathering related analysis. Effective hedging occurs when a risk-averse agent finds opportunity to balance uncertain rewards in their current situation. We illustrate the concepts with examples and counter-examples, and conduct experiments to demonstrate the properties and applicability of the proposed computational tools that enable agents to proactively identify potential hedging opportunities in real-world situations.",
+        "matched": "Retained financial example is corporate hedging as reward augmentation, not derivative price estimation."
+      },
+      {
+        "topic_id": "pricing",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Most people associate the term `hedging' exclusively with financial applications, particularly the use of financial derivatives. We argue that hedging is an activity that human and machine agents should engage in more broadly, even when the agent's value is not necessarily in monetary units. In this paper, we propose a decision-theoretic view of hedging based on augmenting a probabilistic graphical model -- specifically a Bayesian network or an influence diagram -- with a reward. Hedging is therefore posed as a particular kind of graph manipulation, and can be viewed as analogous to control/intervention and information gathering related analysis. Effective hedging occurs when a risk-averse agent finds opportunity to balance uncertain rewards in their current situation. We illustrate the concepts with examples and counter-examples, and conduct experiments to demonstrate the properties and applicability of the proposed computational tools that enable agents to proactively identify potential hedging opportunities in real-world situations.",
+        "matched": "Retained financial example is corporate hedging as reward augmentation, not derivative price estimation."
+      },
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Most people associate the term `hedging' exclusively with financial applications, particularly the use of financial derivatives. We argue that hedging is an activity that human and machine agents should engage in more broadly, even when the agent's value is not necessarily in monetary units. In this paper, we propose a decision-theoretic view of hedging based on augmenting a probabilistic graphical model -- specifically a Bayesian network or an influence diagram -- with a reward. Hedging is therefore posed as a particular kind of graph manipulation, and can be viewed as analogous to control/intervention and information gathering related analysis. Effective hedging occurs when a risk-averse agent finds opportunity to balance uncertain rewards in their current situation. We illustrate the concepts with examples and counter-examples, and conduct experiments to demonstrate the properties and applicability of the proposed computational tools that enable agents to proactively identify potential hedging opportunities in real-world situations.",
+        "matched": "Retained financial example is corporate hedging as reward augmentation, not derivative price estimation."
+      },
+      {
+        "topic_id": "valuation_prediction",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Most people associate the term `hedging' exclusively with financial applications, particularly the use of financial derivatives. We argue that hedging is an activity that human and machine agents should engage in more broadly, even when the agent's value is not necessarily in monetary units. In this paper, we propose a decision-theoretic view of hedging based on augmenting a probabilistic graphical model -- specifically a Bayesian network or an influence diagram -- with a reward. Hedging is therefore posed as a particular kind of graph manipulation, and can be viewed as analogous to control/intervention and information gathering related analysis. Effective hedging occurs when a risk-averse agent finds opportunity to balance uncertain rewards in their current situation. We illustrate the concepts with examples and counter-examples, and conduct experiments to demonstrate the properties and applicability of the proposed computational tools that enable agents to proactively identify potential hedging opportunities in real-world situations.",
+        "matched": "Retained financial example is corporate hedging as reward augmentation, not derivative price estimation."
+      }
+    ],
+    "method_evidence": []
+  },
+  "2023.acl-long.563": {
+    "primary_topic_id": "financial_understanding",
+    "primary_subtopic_id": "financial_events",
+    "topic_ids": [
+      "financial_understanding",
+      "financial_sentiment"
+    ],
+    "subtopic_ids": [
+      "financial_events",
+      "information_extraction",
+      "news_sentiment",
+      "document_understanding",
+      "financial_stance"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_evidence_review",
+    "reason": "Title and retained context identify financial multi-event extraction rather than sentiment prediction.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": "financial_events",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Document-level multi-event extraction aims to extract the structural information from a given document automatically. Most recent approaches usually involve two steps: (1) modeling entity interactions; (2) decoding entity interactions into events. However, such approaches ignore a global view of inter-dependency of multiple events. Moreover, an event is decoded by iteratively merging its related entities as arguments, which might suffer from error propagation and is computationally inefficient. In this paper, we propose an alternative approach for document-level multi-event extraction with event proxy nodes and Hausdorff distance minimization. The event proxy nodes, representing pseudo-events, are able to build connections with other event proxy nodes, essentially capturing global information. The Hausdorff distance makes it possible to compare the similarity between the set of predicted events and the set of ground-truth events. By directly minimizing Hausdorff distance, the model is trained towards the global optimum directly, which improves performance and reduces training time. Experimental results show that our model outperforms previous state-of-the-art method in F1-score on two datasets with only a fraction of training time.",
+        "matched": "Title and retained context identify financial multi-event extraction rather than sentiment prediction."
+      },
+      {
+        "topic_id": "financial_sentiment",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Document-level multi-event extraction aims to extract the structural information from a given document automatically. Most recent approaches usually involve two steps: (1) modeling entity interactions; (2) decoding entity interactions into events. However, such approaches ignore a global view of inter-dependency of multiple events. Moreover, an event is decoded by iteratively merging its related entities as arguments, which might suffer from error propagation and is computationally inefficient. In this paper, we propose an alternative approach for document-level multi-event extraction with event proxy nodes and Hausdorff distance minimization. The event proxy nodes, representing pseudo-events, are able to build connections with other event proxy nodes, essentially capturing global information. The Hausdorff distance makes it possible to compare the similarity between the set of predicted events and the set of ground-truth events. By directly minimizing Hausdorff distance, the model is trained towards the global optimum directly, which improves performance and reduces training time. Experimental results show that our model outperforms previous state-of-the-art method in F1-score on two datasets with only a fraction of training time.",
+        "matched": "Title and retained context identify financial multi-event extraction rather than sentiment prediction."
+      }
+    ],
+    "method_evidence": []
+  },
+  "iclr-2023-x-mXzBgCX3a": {
+    "primary_topic_id": "financial_safety",
+    "primary_subtopic_id": "financial_fraud",
+    "topic_ids": [
+      "financial_safety",
+      "financial_services"
+    ],
+    "subtopic_ids": [
+      "financial_fraud",
+      "model_safety"
+    ],
+    "method_ids": [
+      "fairness_recourse",
+      "tabular",
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Targeted PDF review: Section 3 validates account-opening fraud detection, not credit-default prediction.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": "financial_fraud",
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "proxy constraints. Contrary to related work, our approach does not require training extra models, nor keeping the training iterates in memory. We apply our method to a real-world account opening fraud case study, as well as to five public benchmark datasets from the fairness literature (Ding et al., 2021). Moreover, we enable fairness constraint fulfillment at a specific ROC point, finding fair models that fulfill business restrictions on the number of allowed false positives or false negatives. This feature is a must for problems with high class imbalan",
+        "matched": "Targeted PDF review: Section 3 validates account-opening fraud detection, not credit-default prediction."
+      },
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": null,
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "proxy constraints. Contrary to related work, our approach does not require training extra models, nor keeping the training iterates in memory. We apply our method to a real-world account opening fraud case study, as well as to five public benchmark datasets from the fairness literature (Ding et al., 2021). Moreover, we enable fairness constraint fulfillment at a specific ROC point, finding fair models that fulfill business restrictions on the number of allowed false positives or false negatives. This feature is a must for problems with high class imbalan",
+        "matched": "Targeted PDF review: Section 3 validates account-opening fraud detection, not credit-default prediction."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "fairness_recourse",
+        "source": "title",
+        "matched": "Fairness",
+        "excerpt": "FairGBM: Gradient Boosting with Fairness Constraints"
+      },
+      {
+        "method_id": "tabular",
+        "source": "title",
+        "matched": "Gradient Boost",
+        "excerpt": "FairGBM: Gradient Boosting with Fairness Constraints"
+      },
+      {
+        "method_id": "optimization",
+        "source": "abstract",
+        "matched": "convex",
+        "excerpt": "ional fairness metrics are non-differentiable, we propose smooth convex error rate proxies for common fairness criteria, enabling gradient-based optimization using a ``pro"
+      }
+    ]
+  },
+  "kdd-2023-579911069796": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "fairness_recourse",
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment passage explicitly includes Credit and HELOC counterfactual explanations.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "This work presents CounterNet, a novel end-to-end learning framework which integrates Machine Learning (ML) model training and the generation of corresponding counterfactual (CF) explanations into a single end-to-end pipeline. Counterfactual explanations offer a contrastive case, i.e., they attempt to find the smallest modification to the feature values of an instance that changes the prediction of the ML model on that instance to a predefined output. Prior techniques for generating CF explanations suffer from two major limitations: (i) all of them are post-hoc methods designed for use with proprietary ML models --- as a result, their procedure for generating CF explanations is uninformed by the training of the ML model, which leads to misalignment between model predictions and explanations; and (ii) most of them rely on solving separate time-intensive optimization problems to find CF explanations for each input data point (which negatively impacts their runtime). This work makes a novel departure from the prevalent post-hoc paradigm (of generating CF explanations) by presenting CounterNet, an end-to-end learning framework which integrates predictive model training and the generation of counterfactual (CF) explanations into a single pipeline. Unlike post-hoc methods, CounterNet enables the optimization of the CF explanation generation only once together with the predictive model. We adopt a block-wise coordinate descent procedure which helps in effectively training CounterNet's network. Our extensive experiments on multiple real-world datasets show that CounterNet generates high-quality predictions, and consistently achieves 100% CF validity and low proximity scores (thereby achieving a well-balanced cost-invalidity trade-off) for any new input instance, and runs 3X faster than existing state-of-the-art baselines.",
+        "matched": "Retained experiment passage explicitly includes Credit and HELOC counterfactual explanations."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "This work presents CounterNet, a novel end-to-end learning framework which integrates Machine Learning (ML) model training and the generation of corresponding counterfactual (CF) explanations into a single end-to-end pipeline. Counterfactual explanations offer a contrastive case, i.e., they attempt to find the smallest modification to the feature values of an instance that changes the prediction of the ML model on that instance to a predefined output. Prior techniques for generating CF explanations suffer from two major limitations: (i) all of them are post-hoc methods designed for use with proprietary ML models --- as a result, their procedure for generating CF explanations is uninformed by the training of the ML model, which leads to misalignment between model predictions and explanations; and (ii) most of them rely on solving separate time-intensive optimization problems to find CF explanations for each input data point (which negatively impacts their runtime). This work makes a novel departure from the prevalent post-hoc paradigm (of generating CF explanations) by presenting CounterNet, an end-to-end learning framework which integrates predictive model training and the generation of counterfactual (CF) explanations into a single pipeline. Unlike post-hoc methods, CounterNet enables the optimization of the CF explanation generation only once together with the predictive model. We adopt a block-wise coordinate descent procedure which helps in effectively training CounterNet's network. Our extensive experiments on multiple real-world datasets show that CounterNet generates high-quality predictions, and consistently achieves 100% CF validity and low proximity scores (thereby achieving a well-balanced cost-invalidity trade-off) for any new input instance, and runs 3X faster than existing state-of-the-art baselines.",
+        "matched": "Retained experiment passage explicitly includes Credit and HELOC counterfactual explanations."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "fairness_recourse",
+        "source": "title",
+        "matched": "Counterfactual Explanation",
+        "excerpt": "CounterNet: End-to-End Training of Prediction Aware Counterfactual Explanations"
+      },
+      {
+        "method_id": "optimization",
+        "source": "abstract",
+        "matched": "optimization",
+        "excerpt": "s; and (ii) most of them rely on solving separate time-intensive optimization problems to find CF explanations for each input data point (which negatively impacts their runtime)"
+      }
+    ]
+  },
+  "2024.emnlp-main.1216": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "articles where the press First, we compile the subdomains of press release releases is not the main topic of coverage.9 offices for all 500 companies in the S&P 500, other organizations of interest (e.g. OpenAI, SpaceX and 2.1 Dataset Details Theranos) and specific, notable press releases.7 We query our backlinking service for webpages link- We are left with a total of 656,523 news articles and ing to each of these subdomains. We",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs"
+      }
+    ]
+  },
+  "2024.emnlp-main.322": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks",
+      "understanding_evaluation"
+    ],
+    "method_ids": [
+      "llm",
+      "retrieval"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "Long-Context Language Models three real-world scenarios in English and Chinese: With support for increasingly larger context win- (1) Financial Reports, (2) Legal Cases, and (3) Aca- dows, closed-source LLMs have taken the lead demic Papers. Meanwhile, Loong introduces new in the field of long-context modeling. From evaluation tasks from the perspectives of Spotlight 128k to 1000k, GPT-4o (OpenAI, 2023), Claude3- Locating, Comparison, Clustering, and Chain of 200k (Anthropic, 2024a) and Gemini-pro1.5- Reasoning, every test case is newly annotated. Fur- 1000k (Reid et al., 2024) are capable of m",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA"
+      },
+      {
+        "method_id": "retrieval",
+        "source": "abstract",
+        "matched": "Retrieval",
+        "excerpt": "age models still exhibit considerable potential for enhancement. Retrieval augmented generation (RAG) achieves poor performance, demonstrating that Loong can reliably assess "
+      }
+    ]
+  },
+  "2024.emnlp-main.1196": {
+    "primary_topic_id": "financial_qa",
+    "primary_subtopic_id": "knowledge_qa",
+    "topic_ids": [
+      "financial_qa",
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "knowledge_qa",
+      "task_benchmarks",
+      "financial_reasoning_eval",
+      "understanding_evaluation"
+    ],
+    "method_ids": [
+      "llm",
+      "retrieval",
+      "representation"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Official abstract explicitly evaluates financial question answering as one knowledge-ingestion application.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": "knowledge_qa",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Large language models (LLMs) are proficient in capturing factual knowledge across various domains. However, refining their capabilities on previously seen knowledge or integrating new knowledge from external sources remains a significant challenge. In this work, we propose a novel synthetic knowledge ingestion method called , which leverages fine-grained synthesis, interleaved generation, and assemble augmentation strategies to construct high-quality data representations from raw knowledge sources. We then integrate and its variations with three knowledge injection techniques: Retrieval Augmented Generation (RAG), Supervised Fine-tuning (SFT), and Continual Pre-training (CPT) to inject and refine knowledge in language models. Extensive empirical experiments are conducted on various question-answering tasks spanning finance, biomedicine, and open-generation domains to demonstrate that significantly outperforms baseline methods by facilitating effective knowledge injection. We believe that our work is an important step towards enhancing the factual accuracy of LLM outputs by refining knowledge representation and injection capabilities.",
+        "matched": "Official abstract explicitly evaluates financial question answering as one knowledge-ingestion application."
+      },
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Large language models (LLMs) are proficient in capturing factual knowledge across various domains. However, refining their capabilities on previously seen knowledge or integrating new knowledge from external sources remains a significant challenge. In this work, we propose a novel synthetic knowledge ingestion method called , which leverages fine-grained synthesis, interleaved generation, and assemble augmentation strategies to construct high-quality data representations from raw knowledge sources. We then integrate and its variations with three knowledge injection techniques: Retrieval Augmented Generation (RAG), Supervised Fine-tuning (SFT), and Continual Pre-training (CPT) to inject and refine knowledge in language models. Extensive empirical experiments are conducted on various question-answering tasks spanning finance, biomedicine, and open-generation domains to demonstrate that significantly outperforms baseline methods by facilitating effective knowledge injection. We believe that our work is an important step towards enhancing the factual accuracy of LLM outputs by refining knowledge representation and injection capabilities.",
+        "matched": "Official abstract explicitly evaluates financial question answering as one knowledge-ingestion application."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": ": Towards Knowledge Refinement and Injection for Enhancing Large Language Models"
+      },
+      {
+        "method_id": "retrieval",
+        "source": "abstract",
+        "matched": "Retrieval",
+        "excerpt": "te and its variations with three knowledge injection techniques: Retrieval Augmented Generation (RAG), Supervised Fine-tuning (SFT), and Continual Pre-training (CPT) to injec"
+      },
+      {
+        "method_id": "representation",
+        "source": "abstract",
+        "matched": "Pre-training",
+        "excerpt": "ed Generation (RAG), Supervised Fine-tuning (SFT), and Continual Pre-training (CPT) to inject and refine knowledge in language models. Extensive empirical experiments are conduc"
+      }
+    ]
+  },
+  "kdd-2024-9859013a6cee": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_services"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "tabular"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Targeted PDF review: Credit-g classification experiments and financial bank-marketing benchmarks; general tabular method.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "advance research on hybrid tabular models. FT-T (77%) XGB (76%) T-MLP (80%) Credit-g ACKNOWLEDGMENTS This research was partially supported by National Natural Sci- ence Foundation of",
+        "matched": "Targeted PDF review: Credit-g classification experiments and financial bank-marketing benchmarks; general tabular method."
+      },
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": null,
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "advance research on hybrid tabular models. FT-T (77%) XGB (76%) T-MLP (80%) Credit-g ACKNOWLEDGMENTS This research was partially supported by National Natural Sci- ence Foundation of",
+        "matched": "Targeted PDF review: Credit-g classification experiments and financial bank-marketing benchmarks; general tabular method."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "tabular",
+        "source": "title",
+        "matched": "Tabular",
+        "excerpt": "Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs"
+      }
+    ]
+  },
+  "kdd-2024-2c142cac5513": {
+    "primary_topic_id": "financial_services",
+    "primary_subtopic_id": "banking_workflows",
+    "topic_ids": [
+      "financial_services",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "banking_workflows"
+    ],
+    "method_ids": [
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained financial evidence describes bank transaction interaction modeling, without fraud labels.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": "banking_workflows",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Temporal Graph Networks (TGNs) have demonstrated their remarkable performance in modeling temporal interaction graphs. These works can generate temporal node representations by encoding the surrounding neighborhoods for the target node. However, an inherent limitation of existing TGNs is their reliance onfixed, hand-crafted rules for neighborhood encoding, overlooking the necessity for an adaptive and learnable neighborhood that can accommodate both personalization and temporal evolution across different timestamps. In this paper, we aim to enhance existing TGNs by introducing anadaptive neighborhood encoding mechanism. We present SEAN (Selective Encoding for Adaptive Neighborhood), a flexible plug-and-play model that can be seamlessly integrated with existing TGNs, effectively boosting their performance. To achieve this, we decompose the adaptive neighborhood encoding process into two phases: (i) representative neighbor selection, and (ii) temporal-aware neighborhood information aggregation. Specifically, we propose the Representative Neighbor Selector component, which automatically pinpoints the most important neighbors for the target node. It offers a tailored understanding of each node's unique surrounding context, facilitating personalization. Subsequently, we propose a Temporal-aware Aggregator, which synthesizes neighborhood aggregation by selectively determining the utilization of aggregation routes and decaying the outdated information, allowing our model to adaptively leverage both the contextually significant and current information during aggregation. We conduct extensive experiments by integrating SEAN into three representative TGNs, evaluating their performance on four public datasets and one financial benchmark dataset introduced in this paper. The results demonstrate that SEAN consistently leads to performance improvements across all models, achieving SOTA performance and exceptional robustness.",
+        "matched": "Retained financial evidence describes bank transaction interaction modeling, without fraud labels."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Temporal Graph Networks (TGNs) have demonstrated their remarkable performance in modeling temporal interaction graphs. These works can generate temporal node representations by encoding the surrounding neighborhoods for the target node. However, an inherent limitation of existing TGNs is their reliance onfixed, hand-crafted rules for neighborhood encoding, overlooking the necessity for an adaptive and learnable neighborhood that can accommodate both personalization and temporal evolution across different timestamps. In this paper, we aim to enhance existing TGNs by introducing anadaptive neighborhood encoding mechanism. We present SEAN (Selective Encoding for Adaptive Neighborhood), a flexible plug-and-play model that can be seamlessly integrated with existing TGNs, effectively boosting their performance. To achieve this, we decompose the adaptive neighborhood encoding process into two phases: (i) representative neighbor selection, and (ii) temporal-aware neighborhood information aggregation. Specifically, we propose the Representative Neighbor Selector component, which automatically pinpoints the most important neighbors for the target node. It offers a tailored understanding of each node's unique surrounding context, facilitating personalization. Subsequently, we propose a Temporal-aware Aggregator, which synthesizes neighborhood aggregation by selectively determining the utilization of aggregation routes and decaying the outdated information, allowing our model to adaptively leverage both the contextually significant and current information during aggregation. We conduct extensive experiments by integrating SEAN into three representative TGNs, evaluating their performance on four public datasets and one financial benchmark dataset introduced in this paper. The results demonstrate that SEAN consistently leads to performance improvements across all models, achieving SOTA performance and exceptional robustness.",
+        "matched": "Retained financial evidence describes bank transaction interaction modeling, without fraud labels."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "robust",
+        "excerpt": "ts across all models, achieving SOTA performance and exceptional robustness."
+      }
+    ]
+  },
+  "2025.acl-long.1454": {
+    "primary_topic_id": "financial_services",
+    "primary_subtopic_id": "personal_finance",
+    "topic_ids": [
+      "financial_services"
+    ],
+    "subtopic_ids": [
+      "personal_finance"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained financial evidence identifies wealth and economic habits as one response-sampling domain.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": "personal_finance",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Large Language Models (LLMs) are increasingly utilized in autonomous decision-making, where they sample options from vast action spaces. However, the heuristics that guide this sampling process remain under-explored. We study this sampling behavior and show that this underlying heuristics resembles that of human decision-making: comprising a descriptive component (reflecting statistical norm) and a prescriptive component (implicit ideal encoded in the LLM) of a concept. We show that this deviation of a sample from the statistical norm towards a prescriptive component consistently appears in concepts across diverse real-world domains like public health, and economic trends. To further illustrate the theory, we demonstrate that concept prototypes in LLMs are affected by prescriptive norms, similar to the concept of normality in humans. Through case studies and comparison with human studies, we illustrate that in real-world applications, the shift of samples toward an ideal value in LLMs’ outputs can result in significantly biased decision-making, raising ethical concerns.",
+        "matched": "Retained financial evidence identifies wealth and economic habits as one response-sampling domain."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive"
+      }
+    ]
+  },
+  "2025.acl-long.534": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "financial_reasoning_eval",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks",
+      "financial_reasoning_eval",
+      "evaluation_protocols"
+    ],
+    "method_ids": [
+      "llm",
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "financial_reasoning_eval",
+        "source": "retained_financial_evidence",
+        "excerpt": "Empirical studies across five vertical domains-finance, healthcare, manufacturing, information technology, and education-demonstrate that GuessArena effectively distinguishes LLMs in terms of domain knowledge coverage and reasoning chain completeness.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "sArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning"
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "adversarial",
+        "excerpt": "propose GuessArena, an adaptive evaluation framework grounded in adversarial game-based interactions. Inspired by the interactive structure of the Guess Who I Am? game, our fra"
+      }
+    ]
+  },
+  "2025.acl-long.441": {
+    "primary_topic_id": "financial_qa",
+    "primary_subtopic_id": "knowledge_qa",
+    "topic_ids": [
+      "financial_qa",
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "knowledge_qa",
+      "task_benchmarks",
+      "understanding_evaluation"
+    ],
+    "method_ids": [
+      "llm",
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence: question-driven learning includes quantitative-finance and business documents.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": "knowledge_qa",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Large language models (LLMs) excel at answering questions but remain passive learners—absorbing static data without the ability to question and refine knowledge. This paper explores how LLMs can transition to interactive, question-driven learning through student-teacher dialogues. We introduce INTERACT (INTERactive learning for Adaptive Concept Transfer), a framework in which a “student” LLM engages a “teacher” LLM through iterative inquiries to acquire knowledge across 1,347 contexts, including song lyrics, news articles, movie plots, academic papers, and images. Our experiments show that across a wide range of scenarios and LLM architectures, interactive learning consistently enhances performance, achieving up to a 25% improvement, with ‘cold-start’ student models matching static learning baselines in as few as five dialogue turns. Interactive setups can also mitigate the disadvantages of weaker teachers, showcasing the robustness of question-driven learning.",
+        "matched": "Retained evidence: question-driven learning includes quantitative-finance and business documents."
+      },
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Large language models (LLMs) excel at answering questions but remain passive learners—absorbing static data without the ability to question and refine knowledge. This paper explores how LLMs can transition to interactive, question-driven learning through student-teacher dialogues. We introduce INTERACT (INTERactive learning for Adaptive Concept Transfer), a framework in which a “student” LLM engages a “teacher” LLM through iterative inquiries to acquire knowledge across 1,347 contexts, including song lyrics, news articles, movie plots, academic papers, and images. Our experiments show that across a wide range of scenarios and LLM architectures, interactive learning consistently enhances performance, achieving up to a 25% improvement, with ‘cold-start’ student models matching static learning baselines in as few as five dialogue turns. Interactive setups can also mitigate the disadvantages of weaker teachers, showcasing the robustness of question-driven learning.",
+        "matched": "Retained evidence: question-driven learning includes quantitative-finance and business documents."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": "NTERACT: Enabling Interactive, Question-Driven Learning in Large Language Models"
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "robust",
+        "excerpt": "so mitigate the disadvantages of weaker teachers, showcasing the robustness of question-driven learning."
+      }
+    ]
+  },
+  "2025.acl-long.27": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "This paper introduces RuleArena, a novel and challenging benchmark designed to evaluate the ability of large language models (LLMs) to follow complex, real-world rules in reasoning. Covering three practical domains – airline baggage fees, NBA transactions, and tax regulations – RuleArena assesses LLMs’ proficiency in handling intricate natural language instructions that demand long-context understanding, logical reasoning, and accurate mathematical computation. Two key attributes distinguish RuleArena from traditional rule-based reasoning benchmarks: (1) it extends beyond standard first-order logic representations, and (2) it is grounded in authentic, practical scenarios, providing insights into the suitability and reliability of LLMs for real-world applications. Our findings reveal several notable limitations in LLMs: (1) they struggle to identify and apply the appropriate rules, frequently becoming confused by similar but distinct regulations, (2) they cannot consistently perform accurate mathematical computations, even when they correctly identify the relevant rules, and (3) in general, they perform poorly in the benchmark. We also observe a significant performance boost when LLMs are provided with external tools for oracle math and logic operations. These results highlight significant challenges and promising research directions in advancing LLMs’ rule-guided reasoning capabilities in real-life applications. Our codes and data are publicly available on https://github.com/skyriver-2000/rulearena.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios"
+      }
+    ]
+  },
+  "2025.emnlp-main.615": {
+    "primary_topic_id": "financial_qa",
+    "primary_subtopic_id": "numerical_reasoning",
+    "topic_ids": [
+      "financial_qa"
+    ],
+    "subtopic_ids": [
+      "numerical_reasoning"
+    ],
+    "method_ids": [
+      "llm",
+      "generative",
+      "retrieval"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "PAI supplies supervised reasoning for long-context QA; LongFinanceQA is training data.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": "numerical_reasoning",
+        "source": "retained_financial_evidence",
+        "excerpt": "To achieve this, we introduce LongFinanceQA, a synthetic dataset in the financial domain designed to improve long-context reasoning. / Furthermore, we fine-tune LLaMA-3.1-8B-Instruct on LongFinanceQA, achieving a 28.0% gain on Loong’s financial subset.",
+        "matched": "PAI supplies supervised reasoning for long-context QA; LongFinanceQA is training data."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "Language Models",
+        "excerpt": "Recent advances in Large Language Models (LLMs) have enabled them to process increasingly longer sequences, ranging from 2K to 2M tokens and"
+      },
+      {
+        "method_id": "generative",
+        "source": "abstract",
+        "matched": "synthetic data",
+        "excerpt": "xt understanding. To achieve this, we introduce LongFinanceQA, a synthetic dataset in the financial domain designed to improve long-context reasoning. Unlike existing long-context"
+      },
+      {
+        "method_id": "retrieval",
+        "source": "abstract",
+        "matched": "retrieval",
+        "excerpt": "lates human-like reasoning steps, including property extraction, retrieval, and summarization. We evaluate PAI’s reasoning capabilities by assessing GPT-4o-mini w/ PAI on the"
+      }
+    ]
+  },
+  "2025.emnlp-main.480": {
+    "primary_topic_id": "financial_services",
+    "primary_subtopic_id": "personal_finance",
+    "topic_ids": [
+      "financial_services",
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "personal_finance",
+      "task_benchmarks",
+      "understanding_evaluation"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence is financial-advice response alignment, not a finance-wide pretrained model.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": "personal_finance",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Intervening the internal activations of large language models (LLMs) provides an effective inference-time alignment approach to mitigate undesirable behaviors, such as generating erroneous or harmful content, thereby ensuring safe and reliable applications of LLMs. However, previous methods neglect the misalignment discrepancy among varied tokens, resulting in deviant alignment direction and inflexible editing strength. To address these issues, we propose a token-aware editing (TAE) approach to fully utilize token-level alignment information in the activation space, therefore realizing superior post-intervention performance. Specifically, a Mutual Information-guided Graph Aggregation (MIG) module first develops an MI-guided graph to exploit the tokens’ informative interaction for activation enrichment, thus improving alignment probing and facilitating intervention. Subsequently, Misalignment-aware Adaptive Intervention (MAI) comprehensively perceives the token-level misalignment degree from token representation and prediction to guide the adaptive adjustment of editing strength, thereby enhancing final alignment performance. Extensive experiments on three alignment capabilities demonstrate the efficacy of TAE, notably surpassing baseline by 25.8% on the primary metric of truthfulness with minimal cost.",
+        "matched": "Retained evidence is financial-advice response alignment, not a finance-wide pretrained model."
+      },
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Intervening the internal activations of large language models (LLMs) provides an effective inference-time alignment approach to mitigate undesirable behaviors, such as generating erroneous or harmful content, thereby ensuring safe and reliable applications of LLMs. However, previous methods neglect the misalignment discrepancy among varied tokens, resulting in deviant alignment direction and inflexible editing strength. To address these issues, we propose a token-aware editing (TAE) approach to fully utilize token-level alignment information in the activation space, therefore realizing superior post-intervention performance. Specifically, a Mutual Information-guided Graph Aggregation (MIG) module first develops an MI-guided graph to exploit the tokens’ informative interaction for activation enrichment, thus improving alignment probing and facilitating intervention. Subsequently, Misalignment-aware Adaptive Intervention (MAI) comprehensively perceives the token-level misalignment degree from token representation and prediction to guide the adaptive adjustment of editing strength, thereby enhancing final alignment performance. Extensive experiments on three alignment capabilities demonstrate the efficacy of TAE, notably surpassing baseline by 25.8% on the primary metric of truthfulness with minimal cost.",
+        "matched": "Retained evidence is financial-advice response alignment, not a finance-wide pretrained model."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Model",
+        "excerpt": "Token-Aware Editing of Internal Activations for Large Language Model Alignment"
+      }
+    ]
+  },
+  "iclr-2025-ZGqd0cbBvm": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation",
+      "financial_decision"
+    ],
+    "subtopic_ids": [
+      "agent_decisions",
+      "task_benchmarks",
+      "financial_reasoning_eval",
+      "agent_evaluation"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "First, it consists of 100 datasets representing diverse business use cases such as finance and incident management, each accompanied by a carefully curated set of insights planted in the datasets.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "financial_decision",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "First, it consists of 100 datasets representing diverse business use cases such as finance and incident management, each accompanied by a carefully curated set of insights planted in the datasets.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "LLaMA",
+        "excerpt": ". Furthermore, we implement a two-way evaluation mechanism using LLaMA-3 as an effective, open-source evaluator to assess agents’ ability to extract insights. We also pro"
+      }
+    ]
+  },
+  "icml-2025-qGDlzt3dKz": {
+    "primary_topic_id": "financial_qa",
+    "primary_subtopic_id": "multihop_qa",
+    "topic_ids": [
+      "financial_qa",
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "multihop_qa",
+      "task_benchmarks",
+      "understanding_evaluation"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Official abstract: collaboration for financial reasoning over long documents is an application of the generic method.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": "multihop_qa",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "We investigate an emerging setup in which a small, on-device language model (LM) with access to local data collaborates with a frontier, cloud-hosted LM to solve real-world tasks involving financial, medical, and scientific reasoning over long documents. *Can a local-remote collaboration reduce cloud inference costs while preserving quality?*First, we consider a naïve collaboration protocol, coined MINION, where the local and remote models simply chat back and forth. Because only the local model ingests the full context, this protocol reduces cloud costs by 30.4x, but recovers only 87% of the performance of the frontier model.We identify two key limitations of this protocol: the local model struggles to (1) follow the remote model's multi-step instructions and (2) reason over long contexts. Motivated by these observations, we propose MINIONS, a protocol in which the remote model decomposes the task into easier subtasks over shorter chunks of the document, that are executed locally in parallel. MINIONS reduces costs by 5.7× on average while recovering 97.9% of the remote-only performance. Our analysis reveals several key design choices that influence the trade-off between cost and performance in local-remote systems.",
+        "matched": "Official abstract: collaboration for financial reasoning over long documents is an application of the generic method."
+      },
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "We investigate an emerging setup in which a small, on-device language model (LM) with access to local data collaborates with a frontier, cloud-hosted LM to solve real-world tasks involving financial, medical, and scientific reasoning over long documents. *Can a local-remote collaboration reduce cloud inference costs while preserving quality?*First, we consider a naïve collaboration protocol, coined MINION, where the local and remote models simply chat back and forth. Because only the local model ingests the full context, this protocol reduces cloud costs by 30.4x, but recovers only 87% of the performance of the frontier model.We identify two key limitations of this protocol: the local model struggles to (1) follow the remote model's multi-step instructions and (2) reason over long contexts. Motivated by these observations, we propose MINIONS, a protocol in which the remote model decomposes the task into easier subtasks over shorter chunks of the document, that are executed locally in parallel. MINIONS reduces costs by 5.7× on average while recovering 97.9% of the remote-only performance. Our analysis reveals several key design choices that influence the trade-off between cost and performance in local-remote systems.",
+        "matched": "Official abstract: collaboration for financial reasoning over long documents is an application of the generic method."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": "Cost-efficient Collaboration between On-device and Cloud Language Models"
+      }
+    ]
+  },
+  "icml-2025-xZXhFg43EI": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "SWE-Lancer 1. Repository selection. Expensify is a $300 million the possibility of models scraping code diffs or pull request USD public company (NASDAQ: EXFY) with 12 mil- details. Each agent has a single attempt (pass@1), mir- lion users who rely on its software, making it a reliable roring the constraints of typical online SWE freelancing testbed for sourcing commercially valuable software platforms. Models operate with a basic scaffold that lets e",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
+      }
+    ]
+  },
+  "kdd-2025-fa19aecd5d38": {
+    "primary_topic_id": "financial_ir",
+    "primary_subtopic_id": "retrieval",
+    "topic_ids": [
+      "financial_ir"
+    ],
+    "subtopic_ids": [
+      "retrieval"
+    ],
+    "method_ids": [
+      "generative",
+      "retrieval"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Official abstract and retained evidence: interval-filtered vector search includes real stock-price data.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_ir",
+        "subtopic_id": "retrieval",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Approximate nearest neighbor search (ANNS) is widely used to retrieve similar vectors from high-dimensional data.However, many real-world applications require additional interval filtering based on numerical constraints, such as stock price ranges.In this paper, we introduce interval-filtering ANNS (IF-ANNS), a novel yet general retrieval task where both base and query vectors are associated with numerical intervals.The goal is to retrieve nearest neighbors whose intervals are fully contained within the query interval.To efficiently address this problem, we propose Hierarchical Interval Partitioning Navigating Graph (Hi-PNG), a framework that hierarchically partitions the interval space to efficiently locate the search space, eliminating unnecessary computations and achieving significant speedups.We provide a theoretical analysis of the search space, demonstrating the superiority of our approach.Extensive experiments on eight datasets, including commonly used benchmarks and real-world stock price data, show that Hi-PNG outperforms four state-of-the-art graph-based ANNS baselines, achieving up to 15× acceleration while maintaining high precision.These results highlight Hi-PNG's effectiveness in solving the IF-ANNS problem.All codes and data generation are available at https://github.com/PUITAR/Hi-PNG.git.",
+        "matched": "Official abstract and retained evidence: interval-filtered vector search includes real stock-price data."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "generative",
+        "source": "abstract",
+        "matched": "data generation",
+        "excerpt": "PNG's effectiveness in solving the IF-ANNS problem.All codes and data generation are available at https://github.com/PUITAR/Hi-PNG.git."
+      },
+      {
+        "method_id": "retrieval",
+        "source": "abstract",
+        "matched": "retrieval",
+        "excerpt": "introduce interval-filtering ANNS (IF-ANNS), a novel yet general retrieval task where both base and query vectors are associated with numerical intervals.The goal is to retri"
+      }
+    ]
+  },
+  "kdd-2025-304b975993cd": {
+    "primary_topic_id": "financial_safety",
+    "primary_subtopic_id": "financial_fraud",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "financial_fraud"
+    ],
+    "method_ids": [
+      "diffusion_flow",
+      "tabular",
+      "representation"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained ADBench evidence supports a financial-fraud anomaly-detection application; method is generic.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": "financial_fraud",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Anomaly detection in tabular data remains challenging due to complex feature interactions and the scarcity of anomalous examples. Denoising autoencoders rely on fixed-magnitude noise, limiting adaptability to diverse data distributions. Diffusion models introduce scheduled noise and iterative denoising, but lack explicit reconstruction mappings. We propose the Diffusion-Scheduled Denoising Autoencoder (DDAE), a framework that integrates diffusion-based noise scheduling and contrastive learning into the encoding process to improve anomaly detection. We evaluated DDAE on 57 datasets from ADBench. Our method outperforms in semi-supervised settings and achieves competitive results in unsupervised settings, improving PR-AUC by up to 65% (9%) and ROC-AUC by 16% (6%) over state-of-the-art autoencoder (diffusion) model baselines. We observed that higher noise levels benefit unsupervised training, while lower noise with linear scheduling is optimal in semi-supervised settings. These findings underscore the importance of principled noise strategies in tabular anomaly detection.",
+        "matched": "Retained ADBench evidence supports a financial-fraud anomaly-detection application; method is generic."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "diffusion_flow",
+        "source": "title",
+        "matched": "Diffusion",
+        "excerpt": "Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data"
+      },
+      {
+        "method_id": "tabular",
+        "source": "title",
+        "matched": "Tabular",
+        "excerpt": "fusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data"
+      },
+      {
+        "method_id": "representation",
+        "source": "abstract",
+        "matched": "contrastive learning",
+        "excerpt": "a framework that integrates diffusion-based noise scheduling and contrastive learning into the encoding process to improve anomaly detection. We evaluated DDAE on 57 datasets from ADBen"
+      }
+    ]
+  },
+  "kdd-2025-c8fdceeb2bcb": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "graph_learning",
+      "causal",
+      "fairness_recourse"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment passage: counterfactual node-classification evidence on German Credit.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Counterfactual learning is emerging as an important paradigm, rooted in causality, which promises to alleviate common issues of graph neural networks (GNNs), such as fairness and interpretability. However, as in many real-world application domains where conducting randomized controlled trials is impractical, one has to rely on available observational (factual) data to detect counterfactuals. In this paper, we introduce and tackle the problem of searching for counterfactual evidences for the GNN-based node classification task. A counterfactual evidence is a pair of nodes such that, regardless they exhibit great similarity both in the features and in their neighborhood subgraph structures, they are classified differently by the GNN. We develop effective and efficient search algorithms and a novel indexing solution that leverages both node features and structural information to identify counterfactual evidences, and generalizes beyond any specific GNN. Through various downstream applications, we demonstrate the potential of counterfactual evidences to enhance fairness and accuracy of GNNs.",
+        "matched": "Retained experiment passage: counterfactual node-classification evidence on German Credit."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Counterfactual learning is emerging as an important paradigm, rooted in causality, which promises to alleviate common issues of graph neural networks (GNNs), such as fairness and interpretability. However, as in many real-world application domains where conducting randomized controlled trials is impractical, one has to rely on available observational (factual) data to detect counterfactuals. In this paper, we introduce and tackle the problem of searching for counterfactual evidences for the GNN-based node classification task. A counterfactual evidence is a pair of nodes such that, regardless they exhibit great similarity both in the features and in their neighborhood subgraph structures, they are classified differently by the GNN. We develop effective and efficient search algorithms and a novel indexing solution that leverages both node features and structural information to identify counterfactual evidences, and generalizes beyond any specific GNN. Through various downstream applications, we demonstrate the potential of counterfactual evidences to enhance fairness and accuracy of GNNs.",
+        "matched": "Retained experiment passage: counterfactual node-classification evidence on German Credit."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "graph_learning",
+        "source": "abstract",
+        "matched": "graph neural",
+        "excerpt": "ooted in causality, which promises to alleviate common issues of graph neural networks (GNNs), such as fairness and interpretability. However, as in many real-world application "
+      },
+      {
+        "method_id": "causal",
+        "source": "abstract",
+        "matched": "causal",
+        "excerpt": "factual learning is emerging as an important paradigm, rooted in causality, which promises to alleviate common issues of graph neural networks (GNNs), such as fairness and"
+      },
+      {
+        "method_id": "fairness_recourse",
+        "source": "abstract",
+        "matched": "fairness",
+        "excerpt": "alleviate common issues of graph neural networks (GNNs), such as fairness and interpretability. However, as in many real-world application domains where conducting randomize"
+      }
+    ]
+  },
+  "kdd-2025-90107a34a86e": {
+    "primary_topic_id": "financial_safety",
+    "primary_subtopic_id": "financial_fraud",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "financial_fraud"
+    ],
+    "method_ids": [
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained full-text evidence evaluates anomalous financial users on DGraphFin.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": "financial_fraud",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Graph anomaly detection faces significant challenges due to the scarcity of reliable anomaly-labeled datasets, driving the development of unsupervised methods. Graph autoencoders (GAEs) have emerged as a dominant approach by reconstructing graph structures and node features while deriving anomaly scores from reconstruction errors. However, relying solely on reconstruction error for anomaly detection has limitations, as it increases the sensitivity to noise and overfitting. To address these issues, we propose Graph Evidential Learning (GEL), a probabilistic framework that redefines the reconstruction process through evidential learning. By modeling node features and graph topology using evidential distributions, GEL quantifies two types of uncertainty: graph uncertainty and reconstruction uncertainty, incorporating them into the anomaly scoring mechanism. Extensive experiments demonstrate that GEL achieves state-of-the-art performance while maintaining high robustness against noise and structural perturbations.",
+        "matched": "Retained full-text evidence evaluates anomalous financial users on DGraphFin."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "uncertainty",
+        "excerpt": "logy using evidential distributions, GEL quantifies two types of uncertainty: graph uncertainty and reconstruction uncertainty, incorporating them into the anomaly scoring mech"
+      }
+    ]
+  },
+  "neurips-2025-FWWZgavvBe": {
+    "primary_topic_id": "financial_services",
+    "primary_subtopic_id": "financial_inclusion",
+    "topic_ids": [
+      "financial_services"
+    ],
+    "subtopic_ids": [
+      "financial_inclusion"
+    ],
+    "method_ids": [
+      "causal",
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Official abstract evaluates access/coverage effects in the Oregon Health Insurance Experiment, not premium or claim prediction.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": "financial_inclusion",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "We study the estimation of distributional treatment effects in randomized experiments with imperfect compliance. When participants do not adhere to their assigned treatments, we leverage treatment assignment as an instrumental variable to identify the local distributional treatment effect—the difference in outcome distributions between treatment and control groups for the subpopulation of compliers. We propose a regression-adjusted estimator based on a distribution regression framework with Neyman-orthogonal moment conditions, enabling robustness and flexibility with high-dimensional covariates. Our approach accommodates continuous, discrete, and mixed discrete-continuous outcomes, and applies under a broad class of covariate-adaptive randomization schemes, including stratified block designs and simple random sampling. We derive the estimator’s asymptotic distribution and show that it achieves the semiparametric efficiency bound. Simulation results demonstrate favorable finite-sample performance, and we demonstrate the method’s practical relevance in an application to the Oregon Health Insurance Experiment.",
+        "matched": "Official abstract evaluates access/coverage effects in the Oregon Health Insurance Experiment, not premium or claim prediction."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "causal",
+        "source": "title",
+        "matched": "Causal",
+        "excerpt": "Beyond the Average: Distributional Causal Inference under Imperfect Compliance"
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "robust",
+        "excerpt": "ion framework with Neyman-orthogonal moment conditions, enabling robustness and flexibility with high-dimensional covariates. Our approach accommodates continuous, discret"
+      }
+    ]
+  },
+  "neurips-2025-Fcs90Rwm8j": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "agent_evaluation",
+    "topic_ids": [
+      "financial_evaluation",
+      "financial_decision"
+    ],
+    "subtopic_ids": [
+      "trading_strategy",
+      "task_benchmarks",
+      "agent_evaluation"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "agent_evaluation",
+        "source": "retained_financial_evidence",
+        "excerpt": "However, many real-world applications, such as high-frequency trading and real-time competitive gaming, require decisions under strict latency constraints, where faster responses directly translate into higher rewards. / To support our investigation, we introduce two new benchmarks: HFTBench, a high-frequency trading simulation, and StreetFighter, a competitive gaming platform. / Our method achieves the best performance on both benchmarks, improving win rate by up to 80% in Street Fighter and boosting daily yield by up to 26.52% in trading,  underscoring the need for latency-aware evaluation and deployment strategies for LLM-based agents.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "financial_decision",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "However, many real-world applications, such as high-frequency trading and real-time competitive gaming, require decisions under strict latency constraints, where faster responses directly translate into higher rewards. / To support our investigation, we introduce two new benchmarks: HFTBench, a high-frequency trading simulation, and StreetFighter, a competitive gaming platform. / Our method achieves the best performance on both benchmarks, improving win rate by up to 80% in Street Fighter and boosting daily yield by up to 26.52% in trading,  underscoring the need for latency-aware evaluation and deployment strategies for LLM-based agents.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": ": Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs"
+      }
+    ]
+  },
+  "2026.acl-long.249": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "trust_evaluation",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks",
+      "trust_evaluation"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "trust_evaluation",
+        "source": "retained_financial_evidence",
+        "excerpt": "ersonal Relations, Educa- answers from five Indian regions (North, South, tion, Clothing and Adornment, Food Processing East, West, and Central) across 515 questions span- and Consumption, Communication, Finance, Festi- ning 8 domains of everyday life, yielding 1,630 vals and Rituals, and Traffic and Transport Behav- region-specific question-answer pairs. Our find- ior, aligning with recent cultural NLP work (Shi ings reveal that only 39.4% of questions achieve et al., 2024; Chiu et al., 2025). Within each do- consensus across",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLM",
+        "excerpt": "Common to Whom? Regional Cultural Commonsense and LLM Bias in India"
+      }
+    ]
+  },
+  "2026.acl-long.297": {
+    "primary_topic_id": "financial_safety",
+    "primary_subtopic_id": "financial_regulation",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "financial_regulation"
+    ],
+    "method_ids": [
+      "llm",
+      "tabular"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "The contribution is regulation-guided anomaly detection in insurance data.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": "financial_regulation",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In many real-world applications, such as medical insurance, many regulations exist that define how data should comply with certain standards. Auditors typically use these regulations to identify anomalies in tabular data. However, existing tabular anomaly detection methods often focus on detecting anomalies based on data distribution without considering regulatory compliance. In this paper, we introduce a new task, Regulation-guided Tabular Anomaly Detection, which leverages regulations to detect anomalies in tabular data. We also developed three new datasets for this task. To address this task, we present RegValidator, a training-free method that integrates data validation with large language models (LLMs) for detecting anomalies. In this process, the LLMs generate ideas for anomaly detection from a regulation perspective, while the data validation validates these ideas from a data distribution perspective. This process can be framed as a Budgeted Maximum Coverage problem, which can be solved by a constant-factor approximation algorithm with provable guarantees. Empirical results on the new datasets demonstrate that our method outperforms existing baselines. A field experiment in a commercial health insurance company also reveals the practical value of our method. Our code is available at https://github.com/hnu-vis/RegValidator.",
+        "matched": "The contribution is regulation-guided anomaly detection in insurance data."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": "Integrating Data Validation with Large Language Models for Regulation-Guided Tabular Anomaly Detection"
+      },
+      {
+        "method_id": "tabular",
+        "source": "title",
+        "matched": "Tabular",
+        "excerpt": "Data Validation with Large Language Models for Regulation-Guided Tabular Anomaly Detection"
+      }
+    ]
+  },
+  "2026.acl-long.499": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation",
+      "financial_qa",
+      "financial_understanding",
+      "valuation_prediction"
+    ],
+    "subtopic_ids": [
+      "numerical_reasoning",
+      "document_understanding",
+      "enterprise_valuation",
+      "task_benchmarks",
+      "conversational_qa"
+    ],
+    "method_ids": [
+      "llm",
+      "tabular"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "that focus merely on detecting and classifying dataset, with 209 structured tables and 25,105 QA † Corresponding author. pairs from property, real estate finance, and land 10907 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 10907–10928 July 2-7, 2026 ©2026 Association for Computational Linguistics auction domains. To align with text-to-SQL",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "that focus merely on detecting and classifying dataset, with 209 structured tables and 25,105 QA † Corresponding author. pairs from property, real estate finance, and land 10907 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 10907–10928 July 2-7, 2026 ©2026 Association for Computational Linguistics auction domains. To align with text-to-SQL",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "that focus merely on detecting and classifying dataset, with 209 structured tables and 25,105 QA † Corresponding author. pairs from property, real estate finance, and land 10907 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 10907–10928 July 2-7, 2026 ©2026 Association for Computational Linguistics auction domains. To align with text-to-SQL",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "valuation_prediction",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "that focus merely on detecting and classifying dataset, with 209 structured tables and 25,105 QA † Corresponding author. pairs from property, real estate finance, and land 10907 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 10907–10928 July 2-7, 2026 ©2026 Association for Computational Linguistics auction domains. To align with text-to-SQL",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language models",
+        "excerpt": "The advancement of large language models (LLMs) has enhanced tabular question answering (Tabular QA), yet they struggle with open-domain que"
+      },
+      {
+        "method_id": "tabular",
+        "source": "title",
+        "matched": "Tabular",
+        "excerpt": "ODUTQA-MDC: A Task for Open-Domain Underspecified Tabular QA with Multi-turn Dialogue-based Clarification"
+      }
+    ]
+  },
+  "2026.acl-long.1958": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "financial_reasoning_eval",
+      "task_benchmarks",
+      "evaluation_protocols"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "We introduce Professional Reasoning Bench (PRBench), a realistic, open-ended, and difficult benchmark of real-world problems in Finance and Law. / We open-source its 1,100 expert-authored tasks and 19,356 expert-curated criteria, making it the largest public, rubric-based benchmark for both legal and finance domains. / Subsequent evaluation of 20 leading models reveals substantial room for improvement, with top scores of only 0.39 (Finance) and 0.37 (Legal) on our Hard subsets.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": []
+  },
+  "2026.acl-long.213": {
+    "primary_topic_id": "financial_qa",
+    "primary_subtopic_id": "numerical_reasoning",
+    "topic_ids": [
+      "financial_qa"
+    ],
+    "subtopic_ids": [
+      "numerical_reasoning"
+    ],
+    "method_ids": [
+      "reinforcement_learning",
+      "optimization"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "RADO optimizes reasoning via local error audits across high-stakes domains.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": "numerical_reasoning",
+        "source": "retained_financial_evidence",
+        "excerpt": "High-stakes domains such as finance, law, and biomedicine demand both accurate results and rigorous reasoning.",
+        "matched": "RADO optimizes reasoning via local error audits across high-stakes domains."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "reinforcement_learning",
+        "source": "abstract",
+        "matched": "reinforcement learning",
+        "excerpt": "ine demand both accurate results and rigorous reasoning. Current reinforcement learning paradigms primarily rely on outcome-based rewards, often overlooking latent logical fallacies in in"
+      },
+      {
+        "method_id": "optimization",
+        "source": "title",
+        "matched": "Optimization",
+        "excerpt": "RADO: Reasoning Audit-Driven Optimization for Rigorous Reasoning in High-Stakes Domains"
+      }
+    ]
+  },
+  "2026.acl-long.126": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "Node Pruning General-purpose Languages Types Group Code Editing History Finance Evaluation Layer Pruning Code Conversion C++ Python Java Natural Sciences Synthetic Queries Dataset Figure 1: An overview of SCAN framework. realistic queries by mixing content fr",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "SCAN: Structured Capability Assessment and Navigation for LLMs"
+      }
+    ]
+  },
+  "2026.emnlp-main.2120": {
+    "primary_topic_id": "financial_ir",
+    "primary_subtopic_id": "retrieval",
+    "topic_ids": [
+      "financial_ir"
+    ],
+    "subtopic_ids": [
+      "retrieval"
+    ],
+    "method_ids": [
+      "llm",
+      "retrieval"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "HuggingR4 is an iterative retrieval and reasoning method for model selection.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_ir",
+        "subtopic_id": "retrieval",
+        "source": "retained_financial_evidence",
+        "excerpt": "r specific technical requirements (e.g., \"I tions. The standardized format ensures consistent need a lightweight sentiment analysis model op- information representation across all models in our timized for financial text that can run on mobile database. devices\"). 48233 Data Structure. Each single-task user request in metadata) matches the user request. our dataset follows a structured format: 2. Input/Output Compatibility: The model",
+        "matched": "HuggingR4 is an iterative retrieval and reasoning method for model selection."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "LLM",
+        "excerpt": "Building effective LLM agents increasingly requires selecting appropriate AI models as tools from large open repositories "
+      },
+      {
+        "method_id": "retrieval",
+        "source": "abstract",
+        "matched": "retrieval",
+        "excerpt": "selection as an iterative reasoning process rather than one-shot retrieval. By integrating **R**easoning, **R**etrieval, **R**efinement, and **R**eflection, HuggingR^4 progre"
+      }
+    ]
+  },
+  "2026.emnlp-main.468": {
+    "primary_topic_id": "financial_decision",
+    "primary_subtopic_id": "agent_decisions",
+    "topic_ids": [
+      "financial_decision"
+    ],
+    "subtopic_ids": [
+      "agent_decisions"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The work diagnoses and aligns socially embedded utility mechanisms.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_decision",
+        "subtopic_id": "agent_decisions",
+        "source": "retained_financial_evidence",
+        "excerpt": "Multi-agent simulations show that repairing local utility shifts macro outcomes, including stronger financial amplification and more stable labor stratification, which indicates that realistic macro-level simulations require adjustments at the individual level.",
+        "matched": "The work diagnoses and aligns socially embedded utility mechanisms."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "Mechanism Alignment for Socially Embedded Decision Making in LLMs"
+      }
+    ]
+  },
+  "2026.emnlp-main.974": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "We introduce SalesLLM benchmark, a bilingual (ZH/EN) benchmark derived from realistic applications covering Financial Services and Consumer Goods, built from 30,074 scripted configurations and 1,805 curated multi-turn scenarios with controllable difficulty and personas.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLM",
+        "excerpt": "Sell More, Play Less: Benchmarking LLM Realistic Selling Skill"
+      }
+    ]
+  },
+  "2026.emnlp-main.1612": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "trust_evaluation",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "trust_evaluation",
+      "task_benchmarks",
+      "understanding_evaluation"
+    ],
+    "method_ids": [
+      "llm",
+      "fairness_recourse",
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained evidence: accent-bias evaluation includes financial-product explanations in interview settings.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "trust_evaluation",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Audio language models (LMs) are now integrated into high-stakes, decision-oriented settings: hiring pipelines, oral assessments, and language proficiency tests. Prior work in natural language processing has primarily focused on how LMs respond to socially-driven textual variation. With the growing use of LMs that natively process audio, similar robustness and fairness issues arise for speech variation. In our work, we examine how accent variation in English inputs affects audio LMs’ assessments of speakers. We evaluate six audio LMs on speech across five accent groups: American, British, Chinese, Indian, and Nigerian English. We find that several LMs assign lower speech delivery scores to Chinese- and Nigerian-accented speakers, regardless of content quality. At the individual level, delivery scores correlate negatively with acoustic distance from American English across three widely-used models (Spearman ρ = −0.35 to −0.66, all p < .05), suggesting that English speech is scored against an implicit American acoustic norm. Even though models are able to transcribe the speech in our studies, their assessment and perceptions of speakers may result in allocational harm. We release our framework and corpus to support future analyses of bias in audio LMs.",
+        "matched": "Retained evidence: accent-bias evaluation includes financial-product explanations in interview settings."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": "The Cost of Sounding Different: Accent Bias in Audio Language Models"
+      },
+      {
+        "method_id": "fairness_recourse",
+        "source": "abstract",
+        "matched": "fairness",
+        "excerpt": "g use of LMs that natively process audio, similar robustness and fairness issues arise for speech variation. In our work, we examine how accent variation in English inputs a"
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "robust",
+        "excerpt": "With the growing use of LMs that natively process audio, similar robustness and fairness issues arise for speech variation. In our work, we examine how accent variation in"
+      }
+    ]
+  },
+  "2026.emnlp-main.1903": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "evaluation_protocols",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks",
+      "evaluation_protocols"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "evaluation_protocols",
+        "source": "retained_financial_evidence",
+        "excerpt": "s ← 0.35 → Next Node ··· ··· ··· Remember 0.70 Finance 0.82 vs 0.64 Biomedical 0.65 ←0.18→ Understand 0.58 Psychology 0.65 vs 0.44 Root Node(All Samples) Current Node Existing Node Candidate Node",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language models",
+        "excerpt": "nchmark performance is the dominant standard for comparing large language models (LLMs), typically summarized by a single aggregate score, such as accuracy, pass rate, or rubric sc"
+      }
+    ]
+  },
+  "iclr-2026-OenyzvFZPs": {
+    "primary_topic_id": "pricing",
+    "primary_subtopic_id": "pricing_calibration",
+    "topic_ids": [
+      "pricing"
+    ],
+    "subtopic_ids": [
+      "pricing_calibration"
+    ],
+    "method_ids": [
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained financial evidence: neural-operator solution of financial PDE benchmarks, not domain language modeling.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "pricing",
+        "subtopic_id": "pricing_calibration",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Accurately solving partial differential equations (PDEs) on arbitrary geometries and a variety of meshes is an important task in science and engineering applications. In this paper, we propose Adaptive Mamba Neural Operators (AMO), which integrates reproducing kernels for state-space models (SSMs) rather than the kernel integral formulation of SSMs. This is achieved by constructing Takenaka-Malmquist systems for the PDEs. AMO offers new representations that align well with the adaptive Fourier decomposition (AFD) theory and can approximate the solution manifold of PDEs on a wide range of geometries and meshes. In several challenging benchmark PDE problems in the fields of fluid physics, solid physics, and finance on point clouds, structured meshes, regular grids, and irregular domains, AMO consistently outperforms state-of-the-art solvers in terms of relative $L^2$ error. Overall, this work presents a new paradigm for designing explainable neural operator frameworks. The code is available at https://github.com/checlams/AMO.",
+        "matched": "Retained financial evidence: neural-operator solution of financial PDE benchmarks, not domain language modeling."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "optimization",
+        "source": "abstract",
+        "matched": "differential equations",
+        "excerpt": "Accurately solving partial differential equations (PDEs) on arbitrary geometries and a variety of meshes is an important task in science and engineer"
+      }
+    ]
+  },
+  "iclr-2026-eC4ygDs02R": {
+    "primary_topic_id": "financial_understanding",
+    "primary_subtopic_id": "information_extraction",
+    "topic_ids": [
+      "financial_understanding",
+      "financial_qa"
+    ],
+    "subtopic_ids": [
+      "information_extraction",
+      "numerical_reasoning"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Targeted PDF Section 4: the general ACE context-adaptation method uses FiNER financial entity labeling and Formula numerical reasoning as application tasks.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": "information_extraction",
+        "source": "official_abstract_and_targeted_pdf_evidence",
+        "excerpt": "Large language model (LLM) applications such as agents and domain-specific reasoning increasingly rely on *context adaptation*: modifying inputs with instructions, strategies, or evidence, rather than weight updates.  Prior approaches improve usability but often suffer from brevity bias, which drops domain insights for concise summaries, and from context collapse, where iterative rewriting erodes details over time.  We introduce ACE (**A**gentic **C**ontext **E**ngineering), a framework that treats contexts as evolving playbooks that accumulate, refine, and organize strategies through a modular process of generation, reflection, and curation.  ACE prevents collapse with structured, incremental updates that preserve detailed knowledge and scale with long-context models. Across agent and domain-specific benchmarks, ACE optimizes contexts both offline (e.g., system prompts) and online (e.g., agent memory), consistently outperforming strong baselines: +10.6\\% on agents and +8.6\\% on finance, while significantly reducing adaptation latency and rollout cost.  Notably, ACE could adapt effectively without labeled supervision and instead by leveraging natural execution feedback.  On the AppWorld leaderboard, ACE matches the top-ranked production-level agent on the overall average and surpasses it on the harder test-challenge split, despite using a smaller open-source model. These results show that comprehensive, evolving contexts enable scalable, efficient, and self-improving LLM systems with low overhead.",
+        "matched": "Targeted PDF Section 4: the general ACE context-adaptation method uses FiNER financial entity labeling and Formula numerical reasoning as application tasks."
+      },
+      {
+        "topic_id": "financial_qa",
+        "subtopic_id": null,
+        "source": "official_abstract_and_targeted_pdf_evidence",
+        "excerpt": "Large language model (LLM) applications such as agents and domain-specific reasoning increasingly rely on *context adaptation*: modifying inputs with instructions, strategies, or evidence, rather than weight updates.  Prior approaches improve usability but often suffer from brevity bias, which drops domain insights for concise summaries, and from context collapse, where iterative rewriting erodes details over time.  We introduce ACE (**A**gentic **C**ontext **E**ngineering), a framework that treats contexts as evolving playbooks that accumulate, refine, and organize strategies through a modular process of generation, reflection, and curation.  ACE prevents collapse with structured, incremental updates that preserve detailed knowledge and scale with long-context models. Across agent and domain-specific benchmarks, ACE optimizes contexts both offline (e.g., system prompts) and online (e.g., agent memory), consistently outperforming strong baselines: +10.6\\% on agents and +8.6\\% on finance, while significantly reducing adaptation latency and rollout cost.  Notably, ACE could adapt effectively without labeled supervision and instead by leveraging natural execution feedback.  On the AppWorld leaderboard, ACE matches the top-ranked production-level agent on the overall average and surpasses it on the harder test-challenge split, despite using a smaller open-source model. These results show that comprehensive, evolving contexts enable scalable, efficient, and self-improving LLM systems with low overhead.",
+        "matched": "Targeted PDF Section 4: the general ACE context-adaptation method uses FiNER financial entity labeling and Formula numerical reasoning as application tasks."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "Language Models",
+        "excerpt": "gentic Context Engineering: Evolving Contexts for Self-Improving Language Models"
+      }
+    ]
+  },
+  "iclr-2026-sAzUQkP47r": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "evaluation_protocols",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks",
+      "evaluation_protocols"
+    ],
+    "method_ids": [
+      "llm",
+      "uncertainty_robustness",
+      "representation"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "evaluation_protocols",
+        "source": "retained_financial_evidence",
+        "excerpt": "ll-documented facts in pretraining corpora. We begin by selecting existing data sources spanning three broad domains: social sciences (Glassdoor2 , labor economics), industrial settings (Pitchbook(PitchBook Data, 2024), finance), and medicine (NHANES(Centers for Disease Control and Prevention, 2018), public health). 1 https://github.com/alanarenda/openestimate 2 https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor 2 Domain Dataset # marginal # 1 cond",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLMs",
+        "excerpt": "OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty with Real-World Data"
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "title",
+        "matched": "Uncertainty",
+        "excerpt": "OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty with Real-World Data"
+      },
+      {
+        "method_id": "representation",
+        "source": "abstract",
+        "matched": "pretraining",
+        "excerpt": "stimation tasks that require models to synthesize knowledge from pretraining and express predictions as Bayesian priors. We assess these priors for accuracy and calibration. Ac"
+      }
+    ]
+  },
+  "iclr-2026-VwNzKPqBxk": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "financial_reasoning_eval",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "financial_reasoning_eval",
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm",
+      "uncertainty_robustness"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Official abstract introduces a multi-domain professional-knowledge benchmark with Finance MBA rubrics.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "financial_reasoning_eval",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Evaluating progress in large language models (LLMs) is often constrained by the challenge of verifying responses, limiting assessments to tasks like mathematics, programming, and short-form question-answering. However, many real-world applications require evaluating LLMs in processing professional documents, synthesizing information, and generating comprehensive reports in response to user queries. We introduce ProfBench: a set of over 7000 response-criterion pairs as evaluated by human-experts with professional knowledge across Physics PhD, Chemistry PhD, Finance MBA and Consulting MBA.  We build robust and affordable LLM-Judges to evaluate ProfBench rubrics, by mitigating self-enhancement bias and reducing the cost of evaluation by 2-3 orders of magnitude, to make it fair and accessible to the broader community. Our findings reveal that ProfBench poses significant challenges even for state-of-the-art LLMs, with top-performing models like GPT-5-high achieving only 65.9\\% overall performance. Furthermore, we identify notable performance disparities between proprietary and open-weight models and provide insights into the role that extended thinking plays in addressing complex, professional-domain tasks.",
+        "matched": "Official abstract introduces a multi-domain professional-knowledge benchmark with Finance MBA rubrics."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language models",
+        "excerpt": "Evaluating progress in large language models (LLMs) is often constrained by the challenge of verifying responses, limiting assessments to tasks "
+      },
+      {
+        "method_id": "uncertainty_robustness",
+        "source": "abstract",
+        "matched": "robust",
+        "excerpt": "ics PhD, Chemistry PhD, Finance MBA and Consulting MBA. We build robust and affordable LLM-Judges to evaluate ProfBench rubrics, by mitigating self-enhancement bias and re"
+      }
+    ]
+  },
+  "iclr-2026-2026-Oral--710-b9dc3169": {
+    "primary_topic_id": "financial_models",
+    "primary_subtopic_id": "financial_posttraining",
+    "topic_ids": [
+      "financial_models",
+      "financial_services"
+    ],
+    "subtopic_ids": [
+      "financial_posttraining"
+    ],
+    "method_ids": [
+      "llm",
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Targeted PDF review: finance-domain preference optimization trains Finance-Llama-8B; generic method remains Application.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_models",
+        "subtopic_id": "financial_posttraining",
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "et al., 2023), which provides business-oriented pairwise comparisons. For SSPO, we use whole 17k Business Book (nU =17,480) as the unpaired data. We train Mistral-7B-Business and Finance-Llama-8B on these datasets. For more implementation details and hyperparameter settings, please refer to Appendix C.3. Evaluation. We adopt AlpacaEval2.0 (Dubois et al., 2025) and MT-Bench (Zheng et al., 2023), two widely used benchmarks for assessing models’ conversational and instruction-following abilities across diverse topics and domains. We use GPT-4-Turbo (A",
+        "matched": "Targeted PDF review: finance-domain preference optimization trains Finance-Llama-8B; generic method remains Application."
+      },
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": null,
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "et al., 2023), which provides business-oriented pairwise comparisons. For SSPO, we use whole 17k Business Book (nU =17,480) as the unpaired data. We train Mistral-7B-Business and Finance-Llama-8B on these datasets. For more implementation details and hyperparameter settings, please refer to Appendix C.3. Evaluation. We adopt AlpacaEval2.0 (Dubois et al., 2025) and MT-Bench (Zheng et al., 2023), two widely used benchmarks for assessing models’ conversational and instruction-following abilities across diverse topics and domains. We use GPT-4-Turbo (A",
+        "matched": "Targeted PDF review: finance-domain preference optimization trains Finance-Llama-8B; generic method remains Application."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language models",
+        "excerpt": "imization has made outstanding contributions to the alignment of language models with human preferences. Despite these advancements, recent methods still rely heavily on substantia"
+      },
+      {
+        "method_id": "optimization",
+        "source": "title",
+        "matched": "Optimization",
+        "excerpt": "Semi-Supervised Preference Optimization with Limited Feedback"
+      }
+    ]
+  },
+  "icml-2026-20x0qoSG2f": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation",
+      "financial_understanding"
+    ],
+    "subtopic_ids": [
+      "document_understanding",
+      "task_benchmarks",
+      "text_generation"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "official_abstract_review",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "Expert evaluations of spreadsheets for finance prompts suggest that even highly ranked models do not reliably produce spreadsheets aligned with domain-specific best practices.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      },
+      {
+        "topic_id": "financial_understanding",
+        "subtopic_id": null,
+        "source": "retained_financial_evidence",
+        "excerpt": "Expert evaluations of spreadsheets for finance prompts suggest that even highly ranked models do not reliably produce spreadsheets aligned with domain-specific best practices.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "title",
+        "matched": "LLM",
+        "excerpt": "SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks"
+      }
+    ]
+  },
+  "kdd-2026-8423b1242e93": {
+    "primary_topic_id": "financial_risk",
+    "primary_subtopic_id": "credit_default",
+    "topic_ids": [
+      "financial_risk",
+      "financial_services"
+    ],
+    "subtopic_ids": [
+      "credit_default"
+    ],
+    "method_ids": [
+      "llm",
+      "tabular"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Targeted PDF review: Section 4.1 explicitly includes UCI Credit and Bank datasets; retain banking as a related application.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_risk",
+        "subtopic_id": "credit_default",
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "ature errors by randomly replacing or deleting tokens in the mark datasets from the UCI repository2 , covering diverse task types: response text. binary classification (Adult, Bank, and Credit), multi-class classi- (3) Spurious Correlations (SCs): To induce reliance on non-causal fication (Covertype), and regression (Bike Sharing and Air Qual- shortcuts, we first construct a set of spurious attributes A follow- ity). For task model architectures, we employ 3 models: a 2-layer ing [32]. We randomly select one spurious att",
+        "matched": "Targeted PDF review: Section 4.1 explicitly includes UCI Credit and Bank datasets; retain banking as a related application."
+      },
+      {
+        "topic_id": "financial_services",
+        "subtopic_id": null,
+        "source": "local_pdf_targeted_passage",
+        "excerpt": "ature errors by randomly replacing or deleting tokens in the mark datasets from the UCI repository2 , covering diverse task types: response text. binary classification (Adult, Bank, and Credit), multi-class classi- (3) Spurious Correlations (SCs): To induce reliance on non-causal fication (Covertype), and regression (Bike Sharing and Air Qual- shortcuts, we first construct a set of spurious attributes A follow- ity). For task model architectures, we employ 3 models: a 2-layer ing [32]. We randomly select one spurious att",
+        "matched": "Targeted PDF review: Section 4.1 explicitly includes UCI Credit and Bank datasets; retain banking as a related application."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "LLM",
+        "excerpt": "asks across tabular data prediction, recommendation systems, and LLM alignment demonstrate that DeMix significantly outperforms state-of-the-art approaches, achieving a"
+      },
+      {
+        "method_id": "tabular",
+        "source": "abstract",
+        "matched": "tabular",
+        "excerpt": "eneralizes effectively. Empirical evaluations on 11 tasks across tabular data prediction, recommendation systems, and LLM alignment demonstrate that DeMix significantly out"
+      }
+    ]
+  },
+  "kdd-2026-aac8f0309d0d": {
+    "primary_topic_id": "valuation_prediction",
+    "primary_subtopic_id": "enterprise_valuation",
+    "topic_ids": [
+      "valuation_prediction",
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "enterprise_valuation"
+    ],
+    "method_ids": [
+      "fairness_recourse",
+      "optimization"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment passage: NY-Housing price classification and tax constraints, not financial attack detection.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "valuation_prediction",
+        "subtopic_id": "enterprise_valuation",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In the realm of Explainable AI, classification results are often explained via counterfactuals (CFs for short), which are (ideally small) perturbations to an instance that lead to a change of classification label. Such CFs may serve as explanations for the prediction, pinpointing the features that were important. Existing explainability solutions typically aim at minimizing the distance of CFs from the original instance so that they are specific to it; and/or maximizing the diversity of CFs to cover multiple facets of the reasons underlying the prediction. In this paper, we note that in pursuing these aims, state-of-the-art explainability solutions may (and often do) yield counterfactual explanations that do not correspond to realistic instances. This limits their applicability and usefulness in practice. To remedy this, we combine ideas from Explainable AI with ideas from data management. Specifically, we capture realism of CFs via logical constraints that hold with respect to a dataset of examples (e.g. training set); the class of such constraints that we focus on is that of denial constraints, extensively studied in the context of relational databases. Algorithmically, we then combine explainable AI solutions to yield CFs, with ideas from data cleaning that we adapt to this unique setting, to transform CFs into realistic ones. Extensive experiments across four datasets validate that our solutions achieve realism with relatively minor compromise in terms of distance and diversity. They further validate that the dedicated optimizations that we have developed to speed up the search for CFs are indeed highly effective.",
+        "matched": "Retained experiment passage: NY-Housing price classification and tax constraints, not financial attack detection."
+      },
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": null,
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "In the realm of Explainable AI, classification results are often explained via counterfactuals (CFs for short), which are (ideally small) perturbations to an instance that lead to a change of classification label. Such CFs may serve as explanations for the prediction, pinpointing the features that were important. Existing explainability solutions typically aim at minimizing the distance of CFs from the original instance so that they are specific to it; and/or maximizing the diversity of CFs to cover multiple facets of the reasons underlying the prediction. In this paper, we note that in pursuing these aims, state-of-the-art explainability solutions may (and often do) yield counterfactual explanations that do not correspond to realistic instances. This limits their applicability and usefulness in practice. To remedy this, we combine ideas from Explainable AI with ideas from data management. Specifically, we capture realism of CFs via logical constraints that hold with respect to a dataset of examples (e.g. training set); the class of such constraints that we focus on is that of denial constraints, extensively studied in the context of relational databases. Algorithmically, we then combine explainable AI solutions to yield CFs, with ideas from data cleaning that we adapt to this unique setting, to transform CFs into realistic ones. Extensive experiments across four datasets validate that our solutions achieve realism with relatively minor compromise in terms of distance and diversity. They further validate that the dedicated optimizations that we have developed to speed up the search for CFs are indeed highly effective.",
+        "matched": "Retained experiment passage: NY-Housing price classification and tax constraints, not financial attack detection."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "fairness_recourse",
+        "source": "title",
+        "matched": "Counterfactual Explanation",
+        "excerpt": "Realistic Counterfactual Explanations via Denial Constraints"
+      },
+      {
+        "method_id": "optimization",
+        "source": "abstract",
+        "matched": "optimization",
+        "excerpt": "distance and diversity. They further validate that the dedicated optimizations that we have developed to speed up the search for CFs are indeed highly effective."
+      }
+    ]
+  },
+  "kdd-2026-af4c01710446": {
+    "primary_topic_id": "financial_safety",
+    "primary_subtopic_id": "financial_fraud",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "financial_fraud"
+    ],
+    "method_ids": [],
+    "review_status": "contribution_evidence_review",
+    "reason": "Retained experiment passage includes the Creditcard anomaly benchmark; no finance-specific foundation-model claim.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": "financial_fraud",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "Current time series foundation models (TSFMs) primarily focus on learning prevalent and regular patterns within a predefined time or frequency domain to enable supervised downstream tasks (\\eg, forecasting). Consequently, they are often ineffective for inherently unsupervised downstream tasks—such as time series anomaly detection (TSAD), which aims to identify rare, irregular patterns. This limitation arises because such abnormal patterns can closely resemble the regular patterns when presented in the same time/frequency domain. To address this issue, we introduce TimeRadar, an innovative TSFM built in a fractional time–frequency domain to support generalist TSAD across diverse unseen datasets. Our key insight is that rotating a time series into a data-dependent fractional time–frequency representation can adaptively differentiate the normal and abnormal signals across different datasets. To this end, a novel component, namely Fractionally modulated Time-Frequency Reconstruction (FTFRecon), is proposed in TimeRadar to leverage a learnable fractional order to rotate the time series to the most pronounced angle between a continuous time and frequency domain for accurate data reconstruction. This provides adaptive data reconstruction in an optimal time–frequency domain for each data input, enabling effective differentiation of the unbounded abnormal patterns from the regular ones across datasets, including unseen datasets. To allow TimeRadar to model local abnormality that is not captured by the global data reconstruction, we further introduce a Contextual Deviation Learning (CDL) component to model the local deviation of the input relative to its contextual time series data in the rotatable domain. Extensive experiments on eight popular TSAD benchmarks demonstrate that TimeRadar consistently outperforms a variety of conventional and TSFM-based competing methods, delivering average gains of 10.5% and 29.4% in AUC-R and AUC-P, respectively. Our code is available at https://github.com/mala-lab/TimeRadar.",
+        "matched": "Retained experiment passage includes the Creditcard anomaly benchmark; no finance-specific foundation-model claim."
+      }
+    ],
+    "method_evidence": []
+  },
+  "neurips-2026-BXJQ1dWtA8": {
+    "primary_topic_id": "financial_safety",
+    "primary_subtopic_id": "financial_regulation",
+    "topic_ids": [
+      "financial_safety"
+    ],
+    "subtopic_ids": [
+      "financial_regulation"
+    ],
+    "method_ids": [
+      "llm",
+      "generative",
+      "representation"
+    ],
+    "review_status": "contribution_evidence_review",
+    "reason": "Official abstract: runtime verification is evaluated on real insurance-compliance calls.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_safety",
+        "subtopic_id": "financial_regulation",
+        "source": "official_abstract_and_retained_financial_evidence",
+        "excerpt": "AI agents are governed by hundreds of natural language criteria---yet existing verifiers cannot efficiently evaluate an agent's output against a large set of such criteria and report which are satisfied, violated, or inapplicable. We introduce the VFM, a tree-attention verifier that encodes the shared context and target text, and scores $N$ natural language criteria in parallel, returning independent per-criterion ternary verdicts. The VFM is pretrained on CriteriaBank, an open corpus of 357K (context, target, criterion, verdict) tuples spanning over 285K distinct criterion strings. A finetuned VFM-4B reaches 88.3\\% accuracy on a synthetic governance benchmark, surpassing larger generative judges, and on real insurance-compliance calls it is competitive with GPT-5.4 with synthetic finetuning alone. On the DynaBench multi-criterion benchmark, a finetuned VFM-4B reaches $0.85$ F1 on trace-level failure detection versus DynaGuard-4B's $0.72$; the VFM additionally localizes the violated rule as its top-1 prediction in $98.4\\%$ of failing traces, and a top-3 cascade to a 26B Gemma 4 chain-of-thought judge reaches $0.94$ F1. CriteriaBank pretraining improves cross-domain transfer on four additional benchmarks, particularly in the low-data regime. On an H100, VFM-4B evaluates 1000 criteria against a 4K-token context in under 2s at $<$10GB VRAM, making it suitable for runtime verification. We will release CriteriaBank, trained checkpoints, and evaluation code.",
+        "matched": "Official abstract: runtime verification is evaluated on real insurance-compliance calls."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "GPT-5",
+        "excerpt": "s, and on real insurance-compliance calls it is competitive with GPT-5.4 with synthetic finetuning alone. On the DynaBench multi-criterion benchmark, a finetuned VFM-4B r"
+      },
+      {
+        "method_id": "generative",
+        "source": "abstract",
+        "matched": "generative",
+        "excerpt": " accuracy on a synthetic governance benchmark, surpassing larger generative judges, and on real insurance-compliance calls it is competitive with GPT-5.4 with synthetic finetu"
+      },
+      {
+        "method_id": "representation",
+        "source": "abstract",
+        "matched": "pretraining",
+        "excerpt": "B Gemma 4 chain-of-thought judge reaches $0.94$ F1. CriteriaBank pretraining improves cross-domain transfer on four additional benchmarks, particularly in the low-data regime. "
+      }
+    ]
+  },
+  "neurips-2026-M2vIH3TuCs": {
+    "primary_topic_id": "financial_evaluation",
+    "primary_subtopic_id": "task_benchmarks",
+    "topic_ids": [
+      "financial_evaluation"
+    ],
+    "subtopic_ids": [
+      "task_benchmarks"
+    ],
+    "method_ids": [
+      "llm"
+    ],
+    "review_status": "contribution_abstract_review",
+    "reason": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence.",
+    "scope_review_status": "retained_admission_scope",
+    "method_review_status": "inherited_not_reaudited",
+    "topic_evidence": [
+      {
+        "topic_id": "financial_evaluation",
+        "subtopic_id": "task_benchmarks",
+        "source": "retained_financial_evidence",
+        "excerpt": "We conduct the first compute-normalised comparison of five TTS families across five open-ended generation benchmarks spanning medicine, law, finance, general chat, and creative writing — grounded in a unified framework that decomposes the effectiveness of each method's token budget into exploration and exploitation.",
+        "matched": "The title identifies a dataset, benchmark or capability evaluation; financial context is preserved from the admission evidence."
+      }
+    ],
+    "method_evidence": [
+      {
+        "method_id": "llm",
+        "source": "abstract",
+        "matched": "language model",
+        "excerpt": "Test-time scaling (TTS) improves language model outputs by spending additional inference compute — generating multiple candidates, searching over p"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2025-34734",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-34734__RETQA_A_Large_Scale_Open_Domain_Tabular_Question_Answering_Dataset_for_Real_Estate_Sector.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 12394181,
+  "sha256": "ff0a4f52338457c7783ab6c1ccb6b720e83db16809ebe6948636d1f6fbc90e5c",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34734/36889",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34734/36889",
+  "downloaded_at_utc": "2026-11-10T02:15:55.683465+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Zhensheng Wang",
+      "Wenmian Yang",
+      "Kun Zhou",
+      "Yiquan Zhang",
+      "Weijia Jia"
+    ],
+    "identity_verified": true
+  }
+}

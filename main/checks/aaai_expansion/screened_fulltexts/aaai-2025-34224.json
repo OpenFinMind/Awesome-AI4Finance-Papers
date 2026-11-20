@@ -1,0 +1,50 @@
+{
+  "id": "aaai-2025-34224",
+  "title": "Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/34224",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 64521,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 17933,
+      "excerpt": "s for their use in dif- Gated Recurrent Units (GRUs), which are designed to cap- ferent scenarios. ture long-term dependencies in sequential data. Neverthe- In the M4 competition (Makridakis, Spiliotis, and As- less, they can suffer from issues like vanishing gradients, simakopoulos 2018), SMAPE and MASE (Mean Absolute which can impede their ability to model long sequences ef- Scaled Error) were used for evaluation: fectively. Then, Convolutional models were adapted to time series, "
+    },
+    {
+      "match": "M4",
+      "offset": 22867,
+      "excerpt": ") and signifi- with datasets like Tourism (Athanasopoulos et al. 2011), M3 cantly reducing computation time by an order of magnitude. (Makridakis and Hibon 2000), and M4 (Makridakis, Spilio- On the other hand, TiDE is an encoder-decoder model that tis, and Assimakopoulos 2018). These classical datasets are leverages the simplicity and speed of linear models while characterized by a significantly larger number of time series, handling covariates and non-linear dependencies. The TiDE though each s"
+    },
+    {
+      "match": "M4",
+      "offset": 30268,
+      "excerpt": "ntal setup, including the number of time series, number of observations, forecast horizon, and frequency. Sources: Labour (Rangapuram et al. 2021), M3 (Makridakis and Hibon 2000), M4 (Makridakis, Spiliotis, and Assimakopoulos 2018), M5 (Makridakis, Spiliotis, and Assimakopoulos 2022b), Tourism (Athanasopoulos et al. 2011), Traffic (Olivares et al. 2024), Wiki2 (Rangapuram et al. 2021), ETTh1, ETTh2 (Zhou et al. 2021). # time series # observations H Frequency "
+    },
+    {
+      "match": "M4",
+      "offset": 31061,
+      "excerpt": " 756 37004 8 4 Yearly 645 18319 6 1 M4 Monthly 48000 11246411 18 12 Quarterly 24000 2406108 8 4 Yearly 23000 858458 6 1 M5 Daily 30490"
+    },
+    {
+      "match": "M4",
+      "offset": 64028,
+      "excerpt": " results, conclusions and implications. International journal arXiv:2012.07436. of forecasting, 16(4): 451–476. Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2018. The M4 Competition: Results, findings, conclusion and way forward. International Journal of forecasting, 34(4): 802– 808. Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2022a. M5 accuracy competition: Results, findings, and conclu- sions. International Journal of Forecasting. Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2022b. M5 accuracy"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Luis Roque",
+      "Vítor Cerqueira",
+      "Carlos Soares",
+      "Luís Torgo"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2412.14435",
+    "version": "arxiv_author_version"
+  }
+}

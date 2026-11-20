@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-20",
+  "source_records": 3255,
+  "metadata_with_abstract": 3209,
+  "doi_resolved": 3208,
+  "fulltext_candidates": 852,
+  "fulltexts_inspected": 404,
+  "admitted": 134,
+  "core": 43,
+  "application": 91,
+  "admitted_pdfs": 96,
+  "admitted_without_local_pdf": 38,
+  "source_counts_by_year": {
+    "2017": 130,
+    "2018": 181,
+    "2019": 174,
+    "2020": 217,
+    "2021": 239,
+    "2022": 253,
+    "2023": 313,
+    "2024": 411,
+    "2025": 552,
+    "2026": 785
+  }
+}

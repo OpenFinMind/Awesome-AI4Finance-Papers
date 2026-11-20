@@ -1,0 +1,24 @@
+{
+  "id": "aaai-2019-3870",
+  "title": "Adversarial Unsupervised Representation Learning for Activity Time-Series",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/3870",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 74075,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Karan Aggarwal",
+      "Shafiq Joty",
+      "Luis Fernandez-Luque",
+      "Jaideep Srivastava"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/1811.06847",
+    "version": "arxiv_author_version"
+  }
+}

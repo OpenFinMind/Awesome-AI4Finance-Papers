@@ -1,0 +1,35 @@
+{
+  "id": "aaai-2025-33626",
+  "title": "A Practical Approach to Causal Inference over Time",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33626",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 157491,
+  "passages": [
+    {
+      "match": "German Credit",
+      "offset": 108301,
+      "excerpt": " reflected a real-world loan approval scenario. Therefore, we In the ladder of causality (Pearl 2009; Bareinboim et al. selected the following variables from the German Credit 2022), counterfactual statements belong to the last level, dataset11 : Expertise (E), Responsibility (R), Loan Amount distinct from the interventional level, and a mature causal (L), Loan Duration (D), Income (I), Savings (S) and Credit model should be able to address both. Embracing this per- Score (C). We h"
+    },
+    {
+      "match": "german-credit",
+      "offset": 110954,
+      "excerpt": " 11 follows: https://www.kaggle.com/datasets/uciml/german-credit certain period to change. In our model, we set A0 [3, 6] = Table 3: Observational forecasting. MAE scores in Table 1. 0.5; A0 [4, 6] = −0.3; A0 [5, 6] = −0.5. Furthermore, all Here, we also report the standard deviation in subscript. diagonal entries of A0 are set to 1; • A1 has diagonal values that are all 0.95 except for the"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Martina Cinquini",
+      "Isacco Beretta",
+      "Salvatore Ruggieri",
+      "Isabel Valera"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2410.10502",
+    "version": "arxiv_author_version"
+  }
+}

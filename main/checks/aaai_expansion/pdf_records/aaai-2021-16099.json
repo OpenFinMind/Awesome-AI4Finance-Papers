@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2021-16099",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16099__Deep_Contextual_Clinical_Prediction_with_Reverse_Distillation.pdf",
+  "attempts": [],
+  "pages": 10,
+  "bytes": 448630,
+  "sha256": "a0501e4532e05e386c9d9ee4cba9a9819236c3cda9d3e9ce5b7fa68e55385dee",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16099/15906",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16099/15906",
+  "downloaded_at_utc": "2026-11-10T02:15:40.264931+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Rohan Kodialam",
+      "Rebecca Boiarsky",
+      "Justin Lim",
+      "Aditya Sai",
+      "Neil Dixit",
+      "David Sontag"
+    ],
+    "identity_verified": true
+  }
+}

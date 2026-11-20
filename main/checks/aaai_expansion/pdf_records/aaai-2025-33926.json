@@ -1,0 +1,31 @@
+{
+  "id": "aaai-2025-33926",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-33926__TimeDP_Learning_to_Generate_Multi_Domain_Time_Series_with_Domain_Prompts.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/33926/36081",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 17,
+  "bytes": 1113811,
+  "sha256": "18007a875bcb50e637d1e78cd42c4deb289badf7b9629864baa29820ce55b789",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2501.05403",
+  "final_url": "https://arxiv.org/pdf/2501.05403",
+  "downloaded_at_utc": "2026-11-10T02:32:41.848660+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yu-Hao Huang",
+      "Chang Xu",
+      "Yueying Wu",
+      "Wu-Jun Li",
+      "Jiang Bian"
+    ],
+    "identity_verified": true
+  }
+}

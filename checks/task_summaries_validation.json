@@ -1,0 +1,69 @@
+{
+  "main/core": {
+    "track": "main",
+    "scope": "core",
+    "summary_pages": 18,
+    "populated_summaries": 18,
+    "empty_task_notices": 0,
+    "unique_representative_papers": 63,
+    "representative_paper_appearances": 71,
+    "current_task_membership_verified": true,
+    "bilingual_sources_verified": true,
+    "source_and_rendered_summary_identical": true,
+    "complete_paper_lists_preserved": true,
+    "catalog_and_classification_inputs_preserved": true,
+    "evidence_bound_to_catalog_and_pdf_hashes": true
+  },
+  "main/application": {
+    "track": "main",
+    "scope": "application",
+    "summary_pages": 18,
+    "populated_summaries": 17,
+    "empty_task_notices": 1,
+    "unique_representative_papers": 65,
+    "representative_paper_appearances": 68,
+    "current_task_membership_verified": true,
+    "bilingual_sources_verified": true,
+    "source_and_rendered_summary_identical": true,
+    "complete_paper_lists_preserved": true,
+    "catalog_and_classification_inputs_preserved": true,
+    "evidence_bound_to_catalog_and_pdf_hashes": true
+  },
+  "findings/core": {
+    "track": "findings",
+    "scope": "core",
+    "summary_pages": 18,
+    "populated_summaries": 16,
+    "empty_task_notices": 2,
+    "unique_representative_papers": 49,
+    "representative_paper_appearances": 56,
+    "current_task_membership_verified": true,
+    "bilingual_sources_verified": true,
+    "source_and_rendered_summary_identical": true,
+    "complete_paper_lists_preserved": true,
+    "catalog_and_classification_inputs_preserved": true,
+    "evidence_bound_to_catalog_and_pdf_hashes": true
+  },
+  "findings/application": {
+    "track": "findings",
+    "scope": "application",
+    "summary_pages": 18,
+    "populated_summaries": 16,
+    "empty_task_notices": 2,
+    "unique_representative_papers": 41,
+    "representative_paper_appearances": 48,
+    "current_task_membership_verified": true,
+    "bilingual_sources_verified": true,
+    "source_and_rendered_summary_identical": true,
+    "complete_paper_lists_preserved": true,
+    "catalog_and_classification_inputs_preserved": true,
+    "evidence_bound_to_catalog_and_pdf_hashes": true
+  },
+  "total": {
+    "summary_pages": 72,
+    "populated_summaries": 67,
+    "empty_task_notices": 5,
+    "unique_representative_papers": 218,
+    "representative_paper_appearances": 243
+  }
+}

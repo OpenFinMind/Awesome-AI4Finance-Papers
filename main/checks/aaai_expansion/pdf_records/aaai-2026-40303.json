@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2026-40303",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-40303__CLER_Improving_Multimodal_Financial_Reasoning_by_Cross_MLLM_Error_Reflection.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 843381,
+  "sha256": "e7b90d717361e94bef579150afb7468ddc32e967ec1743c0f6fa625a96f369b1",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40303/44264",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/40303/44264",
+  "downloaded_at_utc": "2026-11-10T02:16:01.355539+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Shuangyan Deng",
+      "Zhongsheng Wang",
+      "Rui Mao",
+      "Ciprian Doru Giurcăneanu",
+      "Jiamou Liu"
+    ],
+    "identity_verified": true
+  }
+}

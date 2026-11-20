@@ -1,0 +1,18 @@
+{
+  "id": "aaai-2024-29681",
+  "title": "STAS: Spatial-Temporal Return Decomposition for Solving Sparse Rewards Problems in Multi-agent Reinforcement Learning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29681",
+  "http_status": 200,
+  "status": "pdf_identity_pending",
+  "identity": {
+    "title_exact": false,
+    "title_similarity": 0.7168,
+    "matched_authors": [
+      "Sirui Chen",
+      "Zhaowei Zhang",
+      "Yaodong Yang",
+      "Yali Du"
+    ],
+    "identity_verified": false
+  }
+}

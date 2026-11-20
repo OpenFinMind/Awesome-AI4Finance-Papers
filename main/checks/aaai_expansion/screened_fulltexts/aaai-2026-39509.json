@@ -1,0 +1,76 @@
+{
+  "id": "aaai-2026-39509",
+  "title": "DeepBooTS: Dual-Stream Residual Boosting for Drift-Resilient Time-Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39509",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 209143,
+  "passages": [
+    {
+      "match": "NN5",
+      "offset": 34655,
+      "excerpt": "sing Further, we evaluate the proposed method on 7 Monash the maximum setting (720 in Crossformer, 144 in Period- TS datasets (Godahewa et al. 2021) (e.g., NN5, M4 and former), we have configured two versions of DeepBooTS: Sunspot, etc.) and 7 diverse metrics (e.g., MAPE, sMAPE, 336 for DeepBooTS* and 96 for DeepBooTS. MASE and Quantile, etc.) to systematically evaluate our As shown in Table 1, DeepBooTS achieves the consis- model. All experiment"
+    },
+    {
+      "match": "NN5",
+      "offset": 36535,
+      "excerpt": "l Mulvariate ILI Oik Weather NN5 Metric MSE MAE RMSP sMAPE MASE Q75 MSE MAE RMSP sMAPE MASE Q75 MSE MAE RMSP sMAPE MASE Q75 DeepBooTS 2.016 0.86 0.367 0.650 0.574 0.955 0.689 0.618 0.773 1.082 0.888 0.628 0.719 0.578 0.541 0.861 0.530 0.559 iTransformer 2.262 0.958 0.415 0.703 "
+    },
+    {
+      "match": "M4",
+      "offset": 37694,
+      "excerpt": " 0.907 2.304 0.67 0.625 0.795 1.126 0.818 0.640 0.967 0.727 0.739 1.081 0.662 0.722 Univariate M4 Hourly Us births Saugeenday DeepBooTS 0.223 0.287 0.230 0.509 0.276 0.311 0.364 0.431 0.248 0.445 0.363 0.361 1.194 0.544 0.808 1.053 1.232 0.674 iTransform"
+    },
+    {
+      "match": "M4",
+      "offset": 80948,
+      "excerpt": "earning applied to document recognition. Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2020. Proceedings of the IEEE, 86(11): 2278–2324. The M4 Competition: 100,000 time series and 61 forecasting methods. International Journal of Forecasting, 36(1): 54– Li, F.; Feng, J.; Yan, H.; Jin, G.; Yang, F.; Sun, F.; Jin, D.; 74. and Li, Y. 2023. Dynamic graph convolutional recurrent net- work for traffic prediction: Benchmark and "
+    },
+    {
+      "match": "M4",
+      "offset": 120498,
+      "excerpt": "s is 23741. (2) Sunspot dataset 6 contains monthly numbers of sunspots, as from the World Data Center, aka SIDC, between 1749 and 2018 with a total observation of 3240 months. (3) M4 dataset (Makridakis, Spiliotis, and Assimakopoulos 2020) is a collection of 100,000 time series used in the fourth Makridakis Prediction Contest. The dataset consists of a time series of annual, quarterly, monthly, and other weekly, daily, and hourly data. In this paper, we utilize the hourly version of the M4 dataset and standardize its length to"
+    },
+    {
+      "match": "M4",
+      "offset": 120810,
+      "excerpt": "diction Contest. The dataset consists of a time series of annual, quarterly, monthly, and other weekly, daily, and hourly data. In this paper, we utilize the hourly version of the M4 dataset and standardize its length to 768. (4) NN5 dataset 7 contains daily time series originated from the observation of daily withdrawals at 111 randomly selected different cash machines at different locations within England. (5) Oikolab Weather dataset 8 contains hundreds of terabytes of weather data, all of them are post-processed data from n"
+    },
+    {
+      "match": "NN5",
+      "offset": 123455,
+      "excerpt": "luportaldashboard.html 5 https://zenodo.org/records/4656058 6 https://www.kaggle.com/datasets/robervalt/sunspots 7 http://www.neural-forecasting-competition.com/downloads/NN5/datasets/download.htm 8 https://docs.oikolab.com 9 https://cran.r-project.org/web/packages/mosaicData 10 https://forecastingdata.org 11 http://jol.telecomitalia.com/jolskil D Implementation Details The model undergoe"
+    },
+    {
+      "match": "M4",
+      "offset": 191016,
+      "excerpt": "t characteristics of the dataset, the output lengths Y1, Y2, Y3 and Y4, are slightly different. Specifically, for Traffic, Electricity, Solar, OiK Weather, Sunspot, Saugeenday and M4, the input length is 96, and the output lengths are 96, 192, 336, and 720, respectively. For ILI dataset, the input length is 36, and the output lengths are 24, 36, 48, and 60, respectively. For NN5 and Rideshare datasets, the input length is 48, and the output lengths are 12, 24, 36, and 48, respectively. It is evident that the proposed method ou"
+    },
+    {
+      "match": "NN5",
+      "offset": 199444,
+      "excerpt": "0.727 RMSP 0.526 0.539 0.545 0.554 0.541 2.35% 0.536 0.554 0.557 0.570 0.554 0.942 0.988 0.964 0.980 0.969 0.614 0.653 0.606 0.669 0.636 0.702 0.750 0.749 0.753 0.739 NN5 MAPE 2.332 2.563 2.426 2.431 2.438 5.28% 2.491 2.640 2.560 2.605 2.574 3.845 3.785 3.848 3.763 3.810 2.700 2.936 2.642 2.760 2.760 2.698 2.893 2.823 3.006 2.855 sMAPE 0.848 0.862 0.863 0.871 0.861 1.82% 0.860 0.877 0.878 0.892 0.877 1.276 1.326 1.296 1.316 1.304 0.954 0.992 0.941 1.014 0.975 1.046 1.092 1.096 1.088 1.081 "
+    },
+    {
+      "match": "M4",
+      "offset": 202226,
+      "excerpt": "3 0.635 MAE 0.245 0.270 0.304 0.328 0.287 26.41% 0.369 0.373 0.401 0.415 0.390 0.412 0.423 0.427 0.431 0.423 0.39 0.421 0.433 0.428 0.418 0.583 0.621 0.589 0.649 0.611 M4 Hourly RMDSPE 0.182 0.215 0.248 0.275 0.230 38.83% 0.354 0.354 0.389 0.405 0.376 0.375 0.394 0.396 0.403 0.392 0.367 0.41 0.418 0.414 0.402 0.576 0.635 0.592 0.651 0.614 MAPE 1.364 1.478 1.688 1.819 1.587 27.43% 2.108 2.109 2.224 2.305 2.187 2.532 2.576 2.510 2.614 2.558 2.344 2.523 2.569 2.531 2.492 3.830 4.019 3.701 4.369 3"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Daojun Liang",
+      "Jing Chen",
+      "Xiao Wang",
+      "Yinglong Wang",
+      "Shuo Li"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2511.06893",
+    "version": "arxiv_author_version"
+  }
+}

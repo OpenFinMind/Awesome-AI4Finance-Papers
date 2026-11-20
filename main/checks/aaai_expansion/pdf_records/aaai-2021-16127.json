@@ -1,0 +1,25 @@
+{
+  "id": "aaai-2021-16127",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2021/aaai-2021-16127__Stock_Selection_via_Spatiotemporal_Hypergraph_Attention_Network_A_Learning_to_Rank_Approach.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 6746221,
+  "sha256": "78eba0ac19426efb1e36d91adbf982d84aaf6f032c0a4e09d6941084bf9d9684",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16127/15934",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/16127/15934",
+  "downloaded_at_utc": "2026-11-10T02:15:41.080350+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Ramit Sawhney",
+      "Shivam Agarwal",
+      "Arnav Wadhwa",
+      "Tyler Derr",
+      "Rajiv Ratn Shah"
+    ],
+    "identity_verified": true
+  }
+}

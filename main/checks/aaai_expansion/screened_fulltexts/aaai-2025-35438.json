@@ -1,0 +1,35 @@
+{
+  "id": "aaai-2025-35438",
+  "title": "FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35438",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 93294,
+  "passages": [
+    {
+      "match": "Exchange Rate",
+      "offset": 46351,
+      "excerpt": "s were conducted on an NVIDIA the four ETT datasets (ETTh1, ETTh2, ETTm1, ETTm2), GeForce RTX 4090 24GB GPU. We adopted a consistent ex- Electricity, Exchange Rate, Traffic, and Weather. perimental setup identical to that of iTransformer (Liu et al. 2024) to ensure a fair comparison. Specifically, the lookback Baselines We select several state-of-the-art multivariate lengt"
+    },
+    {
+      "match": "Exchange Rate",
+      "offset": 80640,
+      "excerpt": "005}. The architecture’s complexity was adjusted of consumption patterns. through variations in hidden layer sizes {128, 256, 512} and 3. Exchange Rate: Featuring daily records of exchange the number of model layers ranging from 1 to 4. For Fil- rates for eight major currencies, this dataset encompasses terTS, the threshold for significant frequency components a time span from 1990 to 2016 and includes eight vari- (quantile) was set to 0.9. The number of band-pass"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yulong Wang",
+      "Yushuo Liu",
+      "Xiaoyi Duan",
+      "Kai Wang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2505.04158",
+    "version": "arxiv_author_version"
+  }
+}

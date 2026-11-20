@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2023-26098",
+  "title": "MHCCL: Masked Hierarchical Cluster-Wise Contrastive Learning for Multivariate Time Series",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26098",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 63400,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Qianwen Meng",
+      "Hangwei Qian",
+      "Yong Liu",
+      "Lizhen Cui",
+      "Yonghui Xu",
+      "Zhiqi Shen"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2212.01141",
+    "version": "arxiv_author_version"
+  }
+}

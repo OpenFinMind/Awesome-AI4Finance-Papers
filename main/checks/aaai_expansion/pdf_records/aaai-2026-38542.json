@@ -1,0 +1,33 @@
+{
+  "id": "aaai-2026-38542",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-38542__APT_Affine_Prototype_Timestamp_for_Time_Series_Forecasting_Under_Distribution_Shift.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/38542/42504",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 24,
+  "bytes": 2428007,
+  "sha256": "60012939e3cdb4d3b662f228ff49ba41ebba810c56ccabc53060c4a935801617",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2511.12945",
+  "final_url": "https://arxiv.org/pdf/2511.12945",
+  "downloaded_at_utc": "2026-11-10T02:32:43.041261+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Yujie Li",
+      "Zezhi Shao",
+      "Chengqing Yu",
+      "Yisong Fu",
+      "Tao Sun",
+      "Yongjun Xu",
+      "Fei Wang"
+    ],
+    "identity_verified": true
+  }
+}

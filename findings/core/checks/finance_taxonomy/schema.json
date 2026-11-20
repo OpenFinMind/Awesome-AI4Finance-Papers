@@ -1,0 +1,885 @@
+{
+  "version": "3.0",
+  "topics": [
+    {
+      "id": "alpha_mining",
+      "label": "Factor Mining / 因子挖掘",
+      "sheet": "Factor Mining",
+      "description": "Discover and select reusable alpha signals or formulas; distinguish predictive alpha from economic pricing factors. / 发现与筛选可复用的收益信号或公式，区别于经济定价因子。",
+      "evaluation_zh": "检查样本外 IC、因子冗余、搜索预算、换手与成本。",
+      "evaluation_en": "Check out-of-sample IC, signal redundancy, search budget, turnover and costs."
+    },
+    {
+      "id": "time_series",
+      "label": "Time Series / 时间序列",
+      "sheet": "Time Series",
+      "description": "Forecast, represent, generate or reconstruct financial sequences; a specific asset-value target belongs to valuation prediction. / 金融序列预测、表征、生成与重建；明确的资产价值目标归估值预测。",
+      "evaluation_zh": "使用严格时间切分，分别报告预测误差、概率校准及合成质量。",
+      "evaluation_en": "Use chronological splits and separate forecast error, probabilistic calibration and synthesis quality."
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing / 定价",
+      "sheet": "Pricing",
+      "description": "Asset pricing mechanisms, risk premia, derivative valuation and calibration; distinguish pricing relationships from predictive price targets. / 资产定价机制、风险溢价、衍生品估价与校准，区别于价格预测。",
+      "evaluation_zh": "核验无套利约束、定价误差、对冲误差及交易假设。",
+      "evaluation_en": "Test no-arbitrage constraints, pricing error, hedging error and trading assumptions."
+    },
+    {
+      "id": "valuation_prediction",
+      "label": "Valuation Prediction / 估值预测",
+      "sheet": "Valuation Prediction",
+      "description": "Predict asset prices, returns, volatility, enterprise value, earnings or revenue. / 预测资产价格、收益、波动率、企业价值、盈利与营收。",
+      "evaluation_zh": "同时核对时间泄漏、预测目标、跨市场泛化和经济效用。",
+      "evaluation_en": "Check temporal leakage, target definitions, cross-market transfer and economic utility."
+    },
+    {
+      "id": "portfolio",
+      "label": "Portfolio / 投资组合",
+      "sheet": "Portfolio",
+      "description": "Select, allocate, rebalance and evaluate portfolios across assets. / 跨资产组合选择、配置、再平衡与评价。",
+      "evaluation_zh": "统一成本与调仓频率，报告收益、回撤、风险及换手。",
+      "evaluation_en": "Match costs and rebalancing frequency; report return, drawdown, risk and turnover."
+    },
+    {
+      "id": "insurance",
+      "label": "Insurance and Actuarial Science / 保险精算",
+      "sheet": "Insurance and Actuarial Science",
+      "description": "Insurance underwriting, claims, reserves, actuarial prediction and insurance business decisions. / 承保、理赔、准备金、精算预测及保险业务决策。",
+      "evaluation_zh": "关注索赔分布、校准、选择偏差、长期风险及业务约束。",
+      "evaluation_en": "Inspect claim distributions, calibration, selection bias, long-term risk and business constraints."
+    },
+    {
+      "id": "financial_sentiment",
+      "label": "Financial Sentiment / 金融情感",
+      "sheet": "Financial Sentiment",
+      "description": "Financial sentiment, stance, tone and emotion as the prediction target; downstream return prediction stays valuation prediction. / 以金融情感、立场、语气与情绪为目标；下游收益预测仍归估值预测。",
+      "evaluation_zh": "检查标注口径、时效性、领域与语言迁移，区分情感准确率和收益效果。",
+      "evaluation_en": "Check annotation policy, temporal drift and domain/language transfer; separate sentiment accuracy from returns."
+    },
+    {
+      "id": "financial_qa",
+      "label": "Financial Question Answering / 金融问答",
+      "sheet": "Financial Question Answering",
+      "description": "Answer financial questions and perform numerical, table or conversational reasoning. / 金融问题回答及数值、表格、对话推理。",
+      "evaluation_zh": "分别检查答案、推理程序、证据引用及跨表跨文档一致性。",
+      "evaluation_en": "Evaluate answers, reasoning programs, evidence attribution and cross-table/document consistency separately."
+    },
+    {
+      "id": "financial_understanding",
+      "label": "Financial Understanding / 金融理解",
+      "sheet": "Financial Understanding",
+      "description": "Extract, interpret, summarize and verify financial language, reports, charts, invoices and accounting records. / 金融文本、财报、图表、票据及会计记录的抽取、解释、摘要与核验。",
+      "evaluation_zh": "关注结构提取、数值忠实性、证据覆盖及版面变化。",
+      "evaluation_en": "Measure structural extraction, numerical faithfulness, evidence coverage and layout shift."
+    },
+    {
+      "id": "financial_decision",
+      "label": "Financial Decision Making / 金融决策",
+      "sheet": "Financial Decision Making",
+      "description": "Trading, execution, market simulation and financial agent decisions; portfolio allocation has its own task. / 交易、执行、市场仿真与金融 Agent 决策；组合配置单列。",
+      "evaluation_zh": "区分离线预测与闭环决策，显式计入交易成本、延迟和市场冲击。",
+      "evaluation_en": "Separate offline prediction from closed-loop decisions; include costs, latency and market impact."
+    },
+    {
+      "id": "sustainable_finance",
+      "label": "Sustainable Finance / 可持续金融",
+      "sheet": "Sustainable Finance",
+      "description": "ESG disclosure, greenwashing, climate-related financial analysis and sustainable investment. / ESG 披露、漂绿、气候金融分析与可持续投资。",
+      "evaluation_zh": "核对披露证据、跨期可比性、行业偏差和实际投资约束。",
+      "evaluation_en": "Check disclosure evidence, temporal comparability, sector bias and investment constraints."
+    },
+    {
+      "id": "financial_services",
+      "label": "Financial Services / 金融服务",
+      "sheet": "Financial Services",
+      "description": "Banking, payments, customer service, marketing and personal/business financial services. / 银行、支付、客户服务、营销及个人与企业金融服务。",
+      "evaluation_zh": "区分公开业务数据与真实部署，检查客户、时间和机构间迁移。",
+      "evaluation_en": "Distinguish public business data from deployment; check transfer across customers, time and institutions."
+    },
+    {
+      "id": "blockchain",
+      "label": "Blockchain / 区块链",
+      "sheet": "Blockchain",
+      "description": "Blockchain transactions, digital assets, smart contracts and DeFi mechanisms. / 链上交易、数字资产、智能合约与 DeFi 机制。",
+      "evaluation_zh": "关注链与协议差异、时间切分、攻击假设及链上成本。",
+      "evaluation_en": "Check chain/protocol differences, chronological splits, attack assumptions and on-chain costs."
+    },
+    {
+      "id": "financial_safety",
+      "label": "Financial Safety / 金融安全",
+      "sheet": "Financial Safety",
+      "description": "Fraud, scams, money laundering, privacy, attacks and regulatory compliance. / 欺诈、诈骗、反洗钱、隐私、攻击与监管合规。",
+      "evaluation_zh": "重视类别不平衡、误报成本、攻击适应性、隐私与合规证据。",
+      "evaluation_en": "Account for imbalance, false-positive costs, adaptive attacks, privacy and compliance evidence."
+    },
+    {
+      "id": "financial_ir",
+      "label": "Financial Retrieval / 金融检索",
+      "sheet": "Financial Retrieval",
+      "description": "Retrieve, embed, rerank and ground financial evidence, including financial RAG. / 金融证据检索、嵌入、重排及 RAG。",
+      "evaluation_zh": "分开报告检索召回、重排质量、引用忠实性和最终回答质量。",
+      "evaluation_en": "Report retrieval recall, reranking, citation faithfulness and answer quality separately."
+    },
+    {
+      "id": "financial_evaluation",
+      "label": "Financial Evaluation / 金融评测",
+      "sheet": "Financial Evaluation",
+      "description": "The main contribution is a financial dataset, benchmark, evaluation environment or capability audit. / 主要贡献为金融数据集、基准、评测环境或能力诊断。",
+      "evaluation_zh": "检查覆盖、污染、标注质量、评测预算与指标外推边界。",
+      "evaluation_en": "Inspect coverage, contamination, annotation quality, evaluation budget and limits of metric extrapolation."
+    },
+    {
+      "id": "financial_models",
+      "label": "Financial Models / 金融模型",
+      "sheet": "Financial Models",
+      "description": "Financial domain pretraining, adaptation and reusable foundation models; generic time-series pretraining stays time series. / 金融领域预训练、适配与可复用基础模型；通用序列预训练仍归时间序列。",
+      "evaluation_zh": "检查预训练数据、时间污染、跨任务迁移、模型规模和计算预算。",
+      "evaluation_en": "Audit pretraining data, temporal contamination, cross-task transfer, model size and compute budget."
+    },
+    {
+      "id": "financial_risk",
+      "label": "Financial Risk / 金融风险",
+      "sheet": "Financial Risk",
+      "description": "Credit scoring, default, market, liquidity and systemic risk; fraud and attacks belong to financial safety. / 信用评分、违约、市场风险、流动性及系统性风险；欺诈与攻击归金融安全。",
+      "evaluation_zh": "关注违约与尾部事件、概率校准、成本敏感性、压力测试及跨期稳定性。",
+      "evaluation_en": "Evaluate default and tail events, calibration, cost sensitivity, stress tests and temporal stability."
+    }
+  ],
+  "subtopics": [
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_discovery",
+      "label": "Factor Discovery and Formula Generation / 因子发现与公式生成",
+      "pattern": "factor.*(?:discover|generat|mining)|alpha.*(?:discover|generat|mining)"
+    },
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_combination",
+      "label": "Factor Combination and Interaction / 因子组合与交互",
+      "pattern": "factor.*(?:combin|interact|synerg)"
+    },
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_selection",
+      "label": "Factor Selection and Deduplication / 因子筛选与去冗余",
+      "pattern": "factor.*(?:select|redundan)|alpha.*(?:select|redundan)"
+    },
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_evaluation",
+      "label": "Factor Validity and Stability / 因子有效性与稳定性",
+      "pattern": "factor.*(?:evaluat|stabil|robust)|alpha.*(?:evaluat|stabil|robust)"
+    },
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_decay",
+      "label": "Factor Decay and Updating / 因子衰减与更新",
+      "pattern": "(?:factor|alpha).*(?:decay|refresh|updat)"
+    },
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_interpretation",
+      "label": "Factor Interpretation and Economic Meaning / 因子解释与经济含义",
+      "pattern": "(?:factor|alpha).*(?:interpretab|explain|economic)"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_forecasting",
+      "label": "General Sequence Forecasting / 通用序列预测",
+      "pattern": "forecast|prediction"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_representation",
+      "label": "Sequence Representation and Pattern Discovery / 序列表示与模式发现",
+      "pattern": "representation|embedding|pattern|pre.?train|foundation|causal|dynamics|stochastic process"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_imputation",
+      "label": "Imputation and Sequence Reconstruction / 缺失值填补与序列重建",
+      "pattern": "imput|missing|reconstruct|irregular"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_generation",
+      "label": "Sequence Generation and Augmentation / 序列生成与数据增强",
+      "pattern": "generat|synthes|augment|simulat"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_anomaly",
+      "label": "Anomaly and Change-Point Detection / 异常检测与变点识别",
+      "pattern": "anomal|outlier|change.point"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_multivariate",
+      "label": "Multivariate Relations and Cross-Frequency Modeling / 多变量关联与跨频率建模",
+      "pattern": "multivariate|cross.frequency|mixed.frequency"
+    },
+    {
+      "parent_id": "pricing",
+      "id": "pricing_models",
+      "label": "Asset Pricing and Risk Premia / 资产定价与风险溢价",
+      "pattern": "asset pricing|risk premi|factor pric|discount factor"
+    },
+    {
+      "parent_id": "pricing",
+      "id": "option_pricing",
+      "label": "Option and Derivative Pricing / 期权及衍生品定价",
+      "pattern": "option|derivative|Black.Scholes|volatility surface|implied volatility"
+    },
+    {
+      "parent_id": "pricing",
+      "id": "fixed_income_pricing",
+      "label": "Interest Rates and Fixed Income / 利率与固定收益定价",
+      "pattern": "interest rate|fixed.income|bond|yield curve"
+    },
+    {
+      "parent_id": "pricing",
+      "id": "credit_pricing",
+      "label": "Credit Instrument Pricing / 信用工具定价",
+      "pattern": "credit.*(?:pric|spread)|credit default swap"
+    },
+    {
+      "parent_id": "pricing",
+      "id": "pricing_calibration",
+      "label": "No-Arbitrage Constraints and Calibration / 无套利约束与模型校准",
+      "pattern": "no.arbitrage|arbitrage.free|calibrat|numerical|PDE"
+    },
+    {
+      "parent_id": "pricing",
+      "id": "price_formation",
+      "label": "Market Microstructure and Price Formation / 市场微观结构与价格形成",
+      "pattern": "price formation|market microstructure|price discovery"
+    },
+    {
+      "parent_id": "valuation_prediction",
+      "id": "stock_prediction",
+      "label": "Stock Price and Return Prediction / 股票价格与收益预测",
+      "pattern": "stock|equity|return predict|return forecast"
+    },
+    {
+      "parent_id": "valuation_prediction",
+      "id": "direction_ranking",
+      "label": "Movement Direction and Asset Ranking / 涨跌方向与资产排序",
+      "pattern": "movement|ranking|direction"
+    },
+    {
+      "parent_id": "valuation_prediction",
+      "id": "volatility_prediction",
+      "label": "Volatility Prediction / 波动率预测",
+      "pattern": "volatility"
+    },
+    {
+      "parent_id": "valuation_prediction",
+      "id": "enterprise_valuation",
+      "label": "Enterprise and Equity Valuation / 企业价值与股权估值",
+      "pattern": "enterprise value|equity valu|valuation|real.estate|house price|housing price"
+    },
+    {
+      "parent_id": "valuation_prediction",
+      "id": "fundamental_prediction",
+      "label": "Earnings, Revenue and Fundamental Prediction / 盈利、营收与基本面预测",
+      "pattern": "earning|revenue|fundamental|sales|survival|crowdfund"
+    },
+    {
+      "parent_id": "valuation_prediction",
+      "id": "fx_crypto",
+      "label": "FX, Commodity and Digital Asset Forecasting / 汇率、商品及数字资产行情预测",
+      "pattern": "exchange.rate|crypto|bitcoin|commodity|commodities|futures"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "selection",
+      "label": "Asset Selection and Weight Allocation / 资产选择与权重配置",
+      "pattern": "select|weight|allocat|optimi"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "portfolio_rebalancing",
+      "label": "Dynamic Allocation and Rebalancing / 动态配置与再平衡",
+      "pattern": "dynamic|rebalanc|online portfolio"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "multiasset_allocation",
+      "label": "Multi-Asset and Cross-Market Allocation / 多资产与跨市场配置",
+      "pattern": "multi.asset|cross.market"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "portfolio_objectives",
+      "label": "Risk-Return and Multi-Objective Optimization / 风险收益及多目标优化",
+      "pattern": "mean.variance|risk.return|multi.objective|Sharpe|investment evaluat"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "portfolio_constraints",
+      "label": "Transaction Costs and Investment Constraints / 交易成本与投资约束",
+      "pattern": "transaction cost|constraint|turnover"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "financial_planning",
+      "label": "Long-Term Wealth and Goal-Based Investing / 长期财富与目标投资",
+      "pattern": "wealth|retire|financial planning|goal.based|long.term"
+    },
+    {
+      "parent_id": "financial_risk",
+      "id": "credit_default",
+      "label": "Credit Risk and Default Prediction / 信用风险与违约预测",
+      "pattern": "credit|default|loan|lending|HELOC|FICO|recourse"
+    },
+    {
+      "parent_id": "financial_risk",
+      "id": "market_risk",
+      "label": "Market Risk and Tail Losses / 市场风险与尾部损失",
+      "pattern": "market risk|tail|value.at.risk|expected shortfall|VaR|CVaR"
+    },
+    {
+      "parent_id": "financial_risk",
+      "id": "liquidity_risk",
+      "label": "Liquidity and Funding Risk / 流动性与融资风险",
+      "pattern": "liquidity|funding risk"
+    },
+    {
+      "parent_id": "financial_risk",
+      "id": "counterparty_risk",
+      "label": "Counterparty and Contagion Risk / 交易对手与传染风险",
+      "pattern": "counterparty|contagion|exposure network"
+    },
+    {
+      "parent_id": "financial_risk",
+      "id": "systemic_risk",
+      "label": "Systemic Risk and Financial Stability / 系统性风险与金融稳定",
+      "pattern": "systemic|financial stability|financial crisis"
+    },
+    {
+      "parent_id": "financial_risk",
+      "id": "stress_testing",
+      "label": "Stress Testing and Scenario Analysis / 压力测试与情景分析",
+      "pattern": "stress test|scenario analys"
+    },
+    {
+      "parent_id": "financial_risk",
+      "id": "operational_risk",
+      "label": "Operational Risk and Loss Prediction / 操作风险与损失预测",
+      "pattern": "operational risk|loss predict"
+    },
+    {
+      "parent_id": "insurance",
+      "id": "insurance_pricing",
+      "label": "Insurance Pricing and Premium Setting / 保险定价与保费厘定",
+      "pattern": "premium|insurance pric|ratemaking|underwrit"
+    },
+    {
+      "parent_id": "insurance",
+      "id": "insurance_claims",
+      "label": "Claim Frequency and Loss Severity / 索赔频率与损失严重度",
+      "pattern": "claim|severity|insurance loss"
+    },
+    {
+      "parent_id": "insurance",
+      "id": "insurance_reserves",
+      "label": "Reserves and Payout Prediction / 准备金与赔付预测",
+      "pattern": "reserv|payout|loss develop"
+    },
+    {
+      "parent_id": "insurance",
+      "id": "mortality_longevity",
+      "label": "Mortality, Longevity and Survival / 死亡率、长寿与生存分析",
+      "pattern": "mortal|longev|survival|life insurance"
+    },
+    {
+      "parent_id": "insurance",
+      "id": "reinsurance",
+      "label": "Reinsurance and Risk Sharing / 再保险与风险分担",
+      "pattern": "reinsur|risk shar"
+    },
+    {
+      "parent_id": "insurance",
+      "id": "insurance_solvency",
+      "label": "Catastrophe Risk and Solvency / 巨灾风险与偿付能力",
+      "pattern": "catastroph|solvency|long.term risk|risk.based allocat"
+    },
+    {
+      "parent_id": "financial_sentiment",
+      "id": "news_sentiment",
+      "label": "News and Social Media Sentiment / 新闻与社交媒体情感",
+      "pattern": "news|social|tweet|microblog"
+    },
+    {
+      "parent_id": "financial_sentiment",
+      "id": "investor_sentiment",
+      "label": "Investor Sentiment / 投资者情绪",
+      "pattern": "investor.*(?:sentiment|emotion)|market sentiment"
+    },
+    {
+      "parent_id": "financial_sentiment",
+      "id": "disclosure_tone",
+      "label": "Report and Earnings-Call Tone / 财报及电话会议语调",
+      "pattern": "earning|report|disclosure|call transcript"
+    },
+    {
+      "parent_id": "financial_sentiment",
+      "id": "aspect_sentiment",
+      "label": "Entity- and Aspect-Based Sentiment / 面向实体与方面的情感",
+      "pattern": "aspect|entity|targeted"
+    },
+    {
+      "parent_id": "financial_sentiment",
+      "id": "financial_stance",
+      "label": "Financial Stance and Opinion Detection / 金融立场与观点识别",
+      "pattern": "stance|opinion|hawkish|dovish"
+    },
+    {
+      "parent_id": "financial_sentiment",
+      "id": "sentiment_market_effect",
+      "label": "Sentiment Dynamics and Market Effects / 情绪变化与市场影响",
+      "pattern": "sentiment.*(?:market|return|dynamic)|emotion.*market"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "knowledge_qa",
+      "label": "Financial Factual QA / 金融事实问答",
+      "pattern": "knowledge|factual|professional"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "numerical_reasoning",
+      "label": "Numerical Calculation and Program Reasoning / 数值计算与程序推理",
+      "pattern": "numerical|program|calculat|arithmet|math|reasoning"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "table_text_qa",
+      "label": "Table-and-Text QA / 表格与文本联合问答",
+      "pattern": "tabl|spreadsheet|hybrid"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "multihop_qa",
+      "label": "Multi-Document and Multi-Hop QA / 多文档与多跳问答",
+      "pattern": "multi.hop|multi.document|long.form"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "multimodal_qa",
+      "label": "Chart and Multimodal QA / 图表及多模态问答",
+      "pattern": "multimodal|chart|visual|image"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "conversational_qa",
+      "label": "Conversational Financial QA / 对话式金融问答",
+      "pattern": "convers|dialog|multi.turn"
+    },
+    {
+      "parent_id": "financial_understanding",
+      "id": "information_extraction",
+      "label": "Entity and Relation Extraction / 实体与关系抽取",
+      "pattern": "entity|relation|extract|named.entity"
+    },
+    {
+      "parent_id": "financial_understanding",
+      "id": "financial_events",
+      "label": "Financial Event Detection and Linking / 金融事件识别与关联",
+      "pattern": "event|merger|acquisition"
+    },
+    {
+      "parent_id": "financial_understanding",
+      "id": "financial_text_classification",
+      "label": "Financial Text Classification / 金融文本分类",
+      "pattern": "classif|translation|language task"
+    },
+    {
+      "parent_id": "financial_understanding",
+      "id": "report_understanding",
+      "label": "Report and Disclosure Understanding / 财报与公告理解",
+      "pattern": "report|disclosure|earning|account|tax|claim verif"
+    },
+    {
+      "parent_id": "financial_understanding",
+      "id": "document_understanding",
+      "label": "Table, Chart and Document Understanding / 表格、图表及文档理解",
+      "pattern": "tabl|chart|document|receipt|invoice|OCR|spreadsheet|layout"
+    },
+    {
+      "parent_id": "financial_understanding",
+      "id": "text_generation",
+      "label": "Financial Summarization and Report Generation / 金融摘要与报告生成",
+      "pattern": "summar|generat|narrat"
+    },
+    {
+      "parent_id": "financial_decision",
+      "id": "trading_strategy",
+      "label": "Trading Strategies and Buy/Sell Decisions / 交易策略与买卖决策",
+      "pattern": "trad|investment agent|financial agent|prediction market"
+    },
+    {
+      "parent_id": "financial_decision",
+      "id": "trading_execution",
+      "label": "Order Execution / 订单执行",
+      "pattern": "execution|order execut"
+    },
+    {
+      "parent_id": "financial_decision",
+      "id": "market_making",
+      "label": "Market Making and Quoting / 做市与报价策略",
+      "pattern": "market mak|quot|order book|market impact"
+    },
+    {
+      "parent_id": "financial_decision",
+      "id": "hedging",
+      "label": "Dynamic Hedging / 动态对冲",
+      "pattern": "hedg"
+    },
+    {
+      "parent_id": "financial_decision",
+      "id": "corporate_decisions",
+      "label": "Corporate Financing and Cash Management / 企业融资及现金管理决策",
+      "pattern": "corporate|cash manage|financing|business decision"
+    },
+    {
+      "parent_id": "financial_decision",
+      "id": "agent_decisions",
+      "label": "Financial Agents and Multi-Agent Decisions / 金融智能体与多主体决策",
+      "pattern": "agent|simulat|economic behavior|prediction market"
+    },
+    {
+      "parent_id": "sustainable_finance",
+      "id": "esg_evaluation",
+      "label": "ESG Extraction and Evaluation / ESG 信息抽取与评价",
+      "pattern": "ESG|sustainab"
+    },
+    {
+      "parent_id": "sustainable_finance",
+      "id": "esg_disclosure",
+      "label": "Sustainability Disclosure and Greenwashing / 可持续披露与漂绿识别",
+      "pattern": "disclos|greenwash|report"
+    },
+    {
+      "parent_id": "sustainable_finance",
+      "id": "climate_risk",
+      "label": "Climate and Transition Risk / 气候风险与转型风险",
+      "pattern": "climate|transition risk"
+    },
+    {
+      "parent_id": "sustainable_finance",
+      "id": "green_financing",
+      "label": "Green Credit and Financing / 绿色信贷与绿色融资",
+      "pattern": "green.*(?:credit|financ|bond)"
+    },
+    {
+      "parent_id": "sustainable_finance",
+      "id": "carbon_finance",
+      "label": "Carbon Markets and Finance / 碳市场与碳金融",
+      "pattern": "carbon|emission trad"
+    },
+    {
+      "parent_id": "sustainable_finance",
+      "id": "sustainable_investment",
+      "label": "Responsible Investment and Social Impact / 责任投资与社会影响",
+      "pattern": "invest|social impact|responsib"
+    },
+    {
+      "parent_id": "financial_services",
+      "id": "customer_intents",
+      "label": "Customer Support and Business Consultation / 智能客服与业务咨询",
+      "pattern": "customer service|intent|banking dialog|consult|assistant"
+    },
+    {
+      "parent_id": "financial_services",
+      "id": "product_recommendation",
+      "label": "Financial Product Recommendation and Matching / 金融产品推荐与匹配",
+      "pattern": "recommend|product match"
+    },
+    {
+      "parent_id": "financial_services",
+      "id": "personal_finance",
+      "label": "Personal Financial Planning and Services / 个人财务规划与服务",
+      "pattern": "personal financ|financial advice|financial plan|household"
+    },
+    {
+      "parent_id": "financial_services",
+      "id": "banking_workflows",
+      "label": "Lending, Payment and Banking Workflows / 贷款、支付及银行业务流程",
+      "pattern": "bank|payment|lending|loan|business data"
+    },
+    {
+      "parent_id": "financial_services",
+      "id": "bank_marketing",
+      "label": "Customer Behavior and Relationship Management / 客户行为与关系管理",
+      "pattern": "market|churn|customer behav|subscription"
+    },
+    {
+      "parent_id": "financial_services",
+      "id": "financial_inclusion",
+      "label": "Financial Access and Inclusion / 金融服务可及性与普惠金融",
+      "pattern": "inclusion|accessib|unbanked|microfinance"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "crypto_transactions",
+      "label": "On-Chain Transaction and Account Analysis / 链上交易与账户分析",
+      "pattern": "transaction|account|address|blockchain"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "token_economics",
+      "label": "Digital Assets and Token Economics / 数字资产及代币经济",
+      "pattern": "token|digital asset|cryptocurrenc"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "defi",
+      "label": "DeFi and On-Chain Financial Mechanisms / DeFi 与链上金融机制",
+      "pattern": "DeFi|decentrali.ed finance|liquidity pool|automated market"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "smart_contracts",
+      "label": "Smart Contract Analysis / 智能合约分析",
+      "pattern": "smart contract|Solidity"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "onchain_markets",
+      "label": "Fees, MEV and On-Chain Markets / 交易费、MEV 与链上市场机制",
+      "pattern": "MEV|transaction fee|miner.extract|maximum.extract|front.running"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "blockchain_infrastructure",
+      "label": "Blockchain Financial Infrastructure / 区块链金融基础设施",
+      "pattern": "infrastructure|consensus|settlement|ledger"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "financial_fraud",
+      "label": "Payment, Transaction and Insurance Fraud / 支付、交易及保险欺诈",
+      "pattern": "fraud|scam|banknote|phishing"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "aml",
+      "label": "AML and Illicit Fund Tracing / 反洗钱与非法资金追踪",
+      "pattern": "money launder|illicit|AML"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "identity_abuse",
+      "label": "Identity and Account Abuse / 身份冒用与账户滥用",
+      "pattern": "identity|account.*(?:abuse|takeover)|impersonat"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "financial_attacks",
+      "label": "Financial Network and Smart Contract Attacks / 金融网络及智能合约攻击",
+      "pattern": "attack|vulnerab|exploit|smart contract"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "privacy_security",
+      "label": "Privacy and Sensitive Information Protection / 隐私与敏感信息保护",
+      "pattern": "privacy|sensitive|federated|confidential"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "financial_regulation",
+      "label": "Regulatory Compliance and Violation Detection / 监管合规与违规检测",
+      "pattern": "regulat|complian|audit"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "model_safety",
+      "label": "Financial Model and Agent Safety / 金融模型及智能体安全",
+      "pattern": "adversarial|robustness|bias|fairness|jailbreak|LLM.*safety|model.*safety"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "document_retrieval",
+      "label": "Financial Document and Disclosure Retrieval / 金融文档与公告检索",
+      "pattern": "document|report|filing"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "retrieval",
+      "label": "Financial Semantic Matching and Ranking / 金融语义匹配与排序",
+      "pattern": "retriev|embed|rerank|semantic|match"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "table_retrieval",
+      "label": "Table and Numerical Retrieval / 表格及数值信息检索",
+      "pattern": "tabl|numeric|spreadsheet"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "multimodal_retrieval",
+      "label": "Chart and Multimodal Retrieval / 图表与多模态检索",
+      "pattern": "multimodal|chart|visual|image"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "crosslingual_retrieval",
+      "label": "Cross-Lingual Financial Retrieval / 跨语言金融检索",
+      "pattern": "cross.ling|multiling"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "rag",
+      "label": "Evidence Retrieval and Reranking for Financial RAG / 金融 RAG 的证据检索与重排序",
+      "pattern": "RAG|retrieval.augment|evidence"
+    },
+    {
+      "parent_id": "financial_evaluation",
+      "id": "task_benchmarks",
+      "label": "Financial Datasets and Task Benchmarks / 金融数据集与任务基准",
+      "pattern": "dataset|benchmark|corpus|corpora|bench"
+    },
+    {
+      "parent_id": "financial_evaluation",
+      "id": "financial_reasoning_eval",
+      "label": "Financial Knowledge and Professional Evaluation / 金融知识与专业能力评测",
+      "pattern": "knowledge|professional|exam|business|accounting"
+    },
+    {
+      "parent_id": "financial_evaluation",
+      "id": "numerical_evaluation",
+      "label": "Numerical Reasoning and Calculation Evaluation / 数值推理与计算评测",
+      "pattern": "numeric|math|quantitative reason|calculat"
+    },
+    {
+      "parent_id": "financial_evaluation",
+      "id": "understanding_evaluation",
+      "label": "Financial Understanding and Multimodal Evaluation / 金融理解及多模态评测",
+      "pattern": "understanding|multimodal|document|chart|table|summar|language"
+    },
+    {
+      "parent_id": "financial_evaluation",
+      "id": "agent_evaluation",
+      "label": "Financial Decision and Agent Evaluation / 金融决策与智能体评测",
+      "pattern": "agent|decision|gym|environment|trading"
+    },
+    {
+      "parent_id": "financial_evaluation",
+      "id": "trust_evaluation",
+      "label": "Reliability, Safety and Fairness Evaluation / 可靠性、安全与公平性评测",
+      "pattern": "reliab|safe|fair|bias|robust|hallu|fraud|scam"
+    },
+    {
+      "parent_id": "financial_evaluation",
+      "id": "evaluation_protocols",
+      "label": "Evaluation Protocols and Metrics / 评测协议与指标",
+      "pattern": "protocol|metric|contamin|leakage|evaluat"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "domain_models",
+      "label": "Financial Foundation Models and Domain Pretraining / 金融基础模型与领域预训练",
+      "pattern": "pre.?train|foundation|world model|financial.*model"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "financial_posttraining",
+      "label": "Financial Instruction Tuning and Post-Training / 金融指令微调与后训练",
+      "pattern": "instruct|fine.tun|post.train|adapt|preference"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "financial_representations",
+      "label": "Financial Representation Models / 金融专用表示模型",
+      "pattern": "representation|embed|FinBERT"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "financial_multimodal_models",
+      "label": "Financial Multimodal Models / 金融多模态模型",
+      "pattern": "multimodal|FinTral|vision|image"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "financial_ts_models",
+      "label": "Financial Time-Series Foundation Models / 金融时序基础模型",
+      "pattern": "time.series|candlestick|K.line|market data|time series"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "financial_efficient_models",
+      "label": "Financial Model Adaptation, Compression and Deployment / 金融模型适配、压缩与高效部署",
+      "pattern": "compress|efficient|deploy|distill|quantiz"
+    }
+  ],
+  "methods": [
+    {
+      "id": "llm",
+      "label": "Language Models & LLM / 语言模型与LLM"
+    },
+    {
+      "id": "reinforcement_learning",
+      "label": "Reinforcement Learning / 强化学习"
+    },
+    {
+      "id": "graph_learning",
+      "label": "Graph Learning / 图学习"
+    },
+    {
+      "id": "diffusion_flow",
+      "label": "Diffusion & Flow / 扩散与流模型"
+    },
+    {
+      "id": "generative",
+      "label": "Generative Modeling / 生成建模"
+    },
+    {
+      "id": "transformer",
+      "label": "Transformer / Transformer模型"
+    },
+    {
+      "id": "causal",
+      "label": "Causal Learning / 因果学习"
+    },
+    {
+      "id": "fairness_recourse",
+      "label": "Fairness & Recourse / 公平性与算法追索"
+    },
+    {
+      "id": "uncertainty_robustness",
+      "label": "Uncertainty & Robustness / 不确定性与鲁棒性"
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy & Federated Learning / 隐私与联邦学习"
+    },
+    {
+      "id": "tabular",
+      "label": "Tabular Learning / 表格学习"
+    },
+    {
+      "id": "multimodal",
+      "label": "Multimodal Learning / 多模态学习"
+    },
+    {
+      "id": "retrieval",
+      "label": "Retrieval & RAG / 检索与RAG"
+    },
+    {
+      "id": "optimization",
+      "label": "Optimization & Numerical Methods / 优化与数值方法"
+    },
+    {
+      "id": "representation",
+      "label": "Representation Learning / 表征学习"
+    }
+  ],
+  "notes": [
+    "One primary task per paper; related tasks may overlap.",
+    "Main/Findings and Core/Application are independent storage partitions.",
+    "Contribution review takes precedence over inherited task labels.",
+    "Inherited evidence and method labels do not imply a fresh full-text audit; see per-paper review status."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "aaai-2021-17115",
+  "title": "Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17115",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 121593,
+  "passages": [
+    {
+      "match": "M4",
+      "offset": 3673,
+      "excerpt": "otis, and Assimakopoulos is viable to train a neural network on a source TS dataset and 2018b). For example, the winner of the 2018 M4 competition deploy it on a different target TS dataset without retraining, (Makridakis, Spiliotis, and Assimakopoulos 2018a) was a resulting in performance that is at least as good as that of neural network designed by Smyl (2020). "
+    },
+    {
+      "match": "M4",
+      "offset": 42817,
+      "excerpt": "aset; lower values are better. The bottom three rows represent the zero-shot transfer setup, indicating respectively the core algorithm (DeepAR or N-BEATS) and the source dataset (M4 or FR(ED)). All other model names are explained in Appendix F. † N-BEATS trained on double upsampled monthly data, see Appendix D. ‡ M3/M4 sMAPE definitions differ. ∗ DeepAR trained by us using GluonTS. M4, sMAPE M3, sMAPE‡ TOURISM , MAPE ELECTR / TRAFF, ND FRED , s MAPE Pure ML "
+    },
+    {
+      "match": "M4",
+      "offset": 43045,
+      "excerpt": "ed in Appendix F. † N-BEATS trained on double upsampled monthly data, see Appendix D. ‡ M3/M4 sMAPE definitions differ. ∗ DeepAR trained by us using GluonTS. M4, sMAPE M3, sMAPE‡ TOURISM , MAPE ELECTR / TRAFF, ND FRED , s MAPE Pure ML 12.89 Comb 13.52 ETS 20.88 MatFact 0.16 / 0.20 ETS 14.16 Best STAT 11.99 ForePro 13.19 Theta 20.88 DeepAR 0.07 / 0.17 Naïve 12.79 ProLogistica 11.8"
+    },
+    {
+      "match": "M4",
+      "offset": 43942,
+      "excerpt": " 0.07 / 0.11 11.49 DeepAR∗ 12.25 12.67 19.27 0.09 / 0.19 n/a DeepAR-M4∗ n/a 14.76 24.79 0.15 / 0.36 n/a N-BEATS-M4 n/a 12.44 18.82 0.09 / 0.15 11.60 N-BEATS-FR 11.70 12.69 19.94 † 0.09 / 0.26 n/a (5). We showed that ea"
+    },
+    {
+      "match": "M4",
+      "offset": 46519,
+      "excerpt": "ation from its authors (Alexan- shot transfer from several source datasets, as explained next. drov et al. 2019). N-BEATS is trained following the original Base datasets. M4 (M4 Team 2018), contains 100k TS training setup of Oreshkin et al. (2020). Both N-BEATS and representing demographic, finance, industry, macro and mi- DeepAR are trained with scaling/descaling the architecture cro indicators. Sampling frequencies include yearly, quarterly, input/output by dividing/multiplying all inpu"
+    },
+    {
+      "match": "M4",
+      "offset": 47166,
+      "excerpt": "window computed per target bon 2000) contains 3003 TS from domains and sampling time-series. This does not affect the accuracy of the models frequencies similar to M4. FRED is a dataset introduced in in the usual train/test scenario. In the zero-shot regime, this this paper containing 290k US and international economic operation is intended to prevent catastrophic failure when the TS from 89 sources, a subset of the data published by the scale of the target time-series differs s"
+    },
+    {
+      "match": "M4",
+      "offset": 48192,
+      "excerpt": " to 5 representative entries reported in the literature for that Dhillon 2016) represents the hourly electricity usage of 370 dataset, based on dataset-specific metrics (M4, FRED, M3: customers. TRAFFIC (Dua and Graff 2017; Yu, Rao, and sMAPE; TOURISM: MAPE; ELECTRICITY, TRAFFIC: ND). We Dhillon 2016) tracks hourly occupancy rates of 963 lanes additionally train the popular machine learning TS model in the Bay Area freeways. Additional details for all datasets DeepAR and evaluate it"
+    },
+    {
+      "match": "M4",
+      "offset": 49165,
+      "excerpt": "rained model then forecasts a TS in models tailored to these datasets as well as DeepAR trained a target dataset. The source and the target datasets are dis- on M4 and evaluated in zero-shot regime on other datasets. N- Shared Weights 20.25 Shared Weights 12.55 True True "
+    },
+    {
+      "match": "M4",
+      "offset": 50430,
+      "excerpt": "0 Number of Blocks Number of Blocks Figure 1: Zero-shot forecasting performance of N-BEATS trained on M4 and applied to M3 (left) and TOURISM (right) target datasets with respect to the number of blocks, L. The mean and one standard deviation interval (based on ensemble bootstrap) with (blue) and without (red) weight sharing across blocks are shown. The extended set of results for all datasets, using FRED as a source dataset and a few metrics are pro"
+    },
+    {
+      "match": "M4",
+      "offset": 50971,
+      "excerpt": "Appendix G, further reinforcing our findings. BEATS trained on FRED and applied in the zero-shot regime meta-learning and unique weights1 (unique weights, multiple to M4 outperforms the best statistical model selected for its blocks vs. a single block) is 12.60 to 12.40 (1.6%) and 20.40 performance on M4 and is at par with the competition’s sec- to 18.91 (7.4%). Clearly, the majority of the gain is due to ond entry (boosted trees). On M3 and TOURISM the zero-shot the meta-learning alone. "
+    },
+    {
+      "match": "M4",
+      "offset": 53804,
+      "excerpt": "ts with increasing number of blocks, with and without param- that residual connections generate, on-the-fly, compact task- eter sharing. The architecture was trained on M4 and the specific parameter updates by producing a sequence of input performance was measured on the target datasets M3 and shifts for identical blocks. Sec. 3.1 reinterprets our results TOURISM . The results are presented in Fig. 1. On the two showing that, as a first-order approximation residual con- datasets "
+    },
+    {
+      "match": "M4",
+      "offset": 60477,
+      "excerpt": " Few Shot Learning. CoRR abs/1707.09835. with estimates of the variance of United Kingdom inflation. Econo- M4 Team. 2018. M4 competitor’s guide: prizes and metrica 50(4): 987–1007. rules. URL www.m4.unic.ac.cy/wp-content/uploads/2018/03/M4- Fawaz, H. I.; Forestier, G.; Weber, J.; Idoumghar, L.; and Muller, CompetitorsGuide.pdf. P.-A. 2018. Transfer learning for time series"
+    },
+    {
+      "match": "M4",
+      "offset": 62568,
+      "excerpt": " Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2018a. The Flunkert, V.; Salinas, D.; and Gasthaus, J. 2017. DeepAR: Proba- M4-Competition: Results, findings, conclusion and way forward. bilistic Forecasting with Autoregressive Recurrent Networks. CoRR International Journal of Forecasting 34(4): 802–808. abs/1704.04110. Makridakis, S.; Spiliotis, E.; and Assimakopoulos, V. 2018b. Sta- Gao, J. 20"
+    },
+    {
+      "match": "M4",
+      "offset": 70846,
+      "excerpt": "ng for seasonality. Here m is the periodicity of the data (e.g., 12 C The analysis of additional existing for monthly series). OWA (overall weighted average) is a M4- meta-learning algorithms specific metric used to rank competition entries (M4 Team 2018), where sMAPE and MASE metrics are normalized such Matching networks (Vinyals et al. 2016) are similar to PNs that a seasonally-adjusted naïve forecast obtains OWA = 1.0. with a few adjustments. In the vanilla matchi"
+    },
+    {
+      "match": "M4",
+      "offset": 77030,
+      "excerpt": " Layers Cells Epochs Size function. The intermediate low-dimensional latent space z is optimized and is used to generate the predictor’s task- Yearly (M3, M4, Tourism) 3 40 300 32 adaptive final layer weights θC . LEO’s predictor, Pθ ,w (·) = Quarterly (M3, M4, Tourism) 2 20 100 32 Cθ ◦ E(·) has final layer and the latent space parameters, θ = Monthly (M3, M4, Tourism) 2 40 500 32 (θC , θz ), and no meta-parameter"
+    },
+    {
+      "match": "M4",
+      "offset": 77301,
+      "excerpt": "edictor, Pθ ,w (·) = Quarterly (M3, M4, Tourism) 2 20 100 32 Cθ ◦ E(·) has final layer and the latent space parameters, θ = Monthly (M3, M4, Tourism) 2 40 500 32 (θC , θz ), and no meta-parameters, w = 0. / The initialization Others (M3) 2 40 100 32 M4 (weekly, daily) 3 20 100 32 function It0 , t0 = (wE , wR ), us"
+    },
+    {
+      "match": "M4",
+      "offset": 77558,
+      "excerpt": "eters, w = 0. / The initialization Others (M3) 2 40 100 32 M4 (weekly, daily) 3 20 100 32 function It0 , t0 = (wE , wR ), uses a task encoder and a relation M4 Hourly 2 20 50 32 network with meta-parameters wE and wR . It meta-initializes Electricity (all splits) 2 40 50 64 the latent space para"
+    },
+    {
+      "match": "M4",
+      "offset": 79126,
+      "excerpt": "is used to forecast the same frequency that of the source dataset. split on the target dataset. There are a few exceptions to this rule. First, when transferring from M4 to M3, the Others D.2 DeepAR training setup split of M3 is forecasted with the model trained on Quarterly DeepAR experiments are using the model implementation split of M4. This is because (i) the default horizon length of provided by GluonTS (Alexandrov et al. 2019) version 1.6. M4 Quarterly is 8, same as that"
+    },
+    {
+      "match": "M4",
+      "offset": 79447,
+      "excerpt": "AR experiments are using the model implementation split of M4. This is because (i) the default horizon length of provided by GluonTS (Alexandrov et al. 2019) version 1.6. M4 Quarterly is 8, same as that of M3 Others and (ii) M4 We optimized hyperparameters of DeepAR as the defaults Others is heterogeneous and contains Weekly, Daily, Hourly provided in GluonTS would often lead to apparently sub- data with horizon lengths 13, 14, 48. So M4 Quarterly to optimal performance on ma"
+    },
+    {
+      "match": "M4",
+      "offset": 79743,
+      "excerpt": "e defaults Others is heterogeneous and contains Weekly, Daily, Hourly provided in GluonTS would often lead to apparently sub- data with horizon lengths 13, 14, 48. So M4 Quarterly to optimal performance on many of the datasets. The train- M3 Others transfer provided a more natural basis from an ing parameters for each dataset are described in Table 2. implementation standpoint. Second, the transfer from M4 Weight decay is 0.0, Dropout rate is 0.0 for all experi- to ELE"
+    },
+    {
+      "match": "M4",
+      "offset": 80013,
+      "excerpt": "Others transfer provided a more natural basis from an ing parameters for each dataset are described in Table 2. implementation standpoint. Second, the transfer from M4 Weight decay is 0.0, Dropout rate is 0.0 for all experi- to ELECTRICITY and TRAFFIC dataset is done based on a ments except Electricity dataset where it is 0.1. The de- model trained on M4 Hourly. This is because ELECTRICITY fault scaling was replaced by MaxAbs, which improved and TRAFFIC contain h"
+    },
+    {
+      "match": "M4",
+      "offset": 80236,
+      "excerpt": "pout rate is 0.0 for all experi- to ELECTRICITY and TRAFFIC dataset is done based on a ments except Electricity dataset where it is 0.1. The de- model trained on M4 Hourly. This is because ELECTRICITY fault scaling was replaced by MaxAbs, which improved and TRAFFIC contain hourly time-series with obvious 24- and stabilized results. All other parameters are defaults hour seasonality patterns. It is worth noting that the M4 of gluonts.model.deepar.DeepAREstimator. T"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Boris  N. Oreshkin",
+      "Dmitri Carpov",
+      "Nicolas Chapados",
+      "Yoshua Bengio"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2002.02887",
+    "version": "arxiv_author_version"
+  }
+}

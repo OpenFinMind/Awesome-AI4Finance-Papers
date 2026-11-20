@@ -1,0 +1,49 @@
+{
+  "papers": 1631,
+  "pdfs": 1543,
+  "topics": 18,
+  "subtopics": 111,
+  "methods": 15,
+  "scope": {
+    "main": {
+      "core": 300,
+      "application": 1144
+    },
+    "findings": {
+      "core": 112,
+      "application": 75
+    }
+  },
+  "scope_changes": 10,
+  "scope_changed_ids": [
+    "D18-1476",
+    "neurips-2020-17513",
+    "neurips-2021-CtugaUzfYw",
+    "iclr-2025-ZGqd0cbBvm",
+    "neurips-2025-Fcs90Rwm8j",
+    "2026.acl-long.499",
+    "2026.emnlp-main.974",
+    "iclr-2026-eC4ygDs02R",
+    "icml-2026-20x0qoSG2f",
+    "2026.findings-acl.1675"
+  ],
+  "pending_subcategory_ids": [
+    "kdd-2017-30051c903823",
+    "icml-2018-2132",
+    "icml-2023-23887",
+    "2025.emnlp-main.736",
+    "2026.emnlp-main.2547"
+  ],
+  "all_original_papers_accounted_for": true,
+  "all_non_taxonomy_fields_preserved": true,
+  "admission_and_length_proofs_preserved": true,
+  "explicit_decisions_match_all_catalogs": true,
+  "four_partitions_disjoint": true,
+  "classification_status_counts": {
+    "inherited_evidence_mapping": 1413,
+    "needs_review": 5,
+    "contribution_abstract_review": 54,
+    "contribution_evidence_review": 56,
+    "contribution_title_review": 103
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "aaai-2026-39414",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-39414__GLANCE_Global_Actions_in_a_Nutshell_for_Counterfactual_Explainability.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/39414/43375",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 47,
+  "bytes": 1112442,
+  "sha256": "ea964d1e18ecf8e094ead7f7ce5c07111498b6eb50cad824c0a1c26fb46777f3",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2405.18921",
+  "final_url": "https://arxiv.org/pdf/2405.18921",
+  "downloaded_at_utc": "2026-11-10T02:32:43.532235+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Loukas Kavouras",
+      "Eleni Psaroudaki",
+      "Konstantinos Tsopelas",
+      "Dimitrios Rontogiannis",
+      "Nikolaos Theologitis",
+      "Dimitris Sacharidis",
+      "Giorgos Giannopoulos",
+      "Dimitrios Tomaras",
+      "Kleopatra Markou",
+      "Dimitrios Gunopulos",
+      "Dimitris Fotakis",
+      "Ioannis Emiris"
+    ],
+    "identity_verified": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "aaai-2024-29628",
+  "title": "Gaussian Process Neural Additive Models",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/29628",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 44878,
+  "passages": [
+    {
+      "match": "FICO",
+      "offset": 27174,
+      "excerpt": "0 ms/epoch. 5.1 Datasets We perform experiments on several tabular data sets frequently used for additive regression and classification models. This includes CA Housing2 , FICO3 , for which we follow the processing 2 https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing 3 https://community.fico.com/s/explainable-machine-learning-challenge 8 Model Bike CA House FICO LCD "
+    },
+    {
+      "match": "FICO",
+      "offset": 27498,
+      "excerpt": ".fico.com/s/explainable-machine-learning-challenge 8 Model Bike CA House FICO LCD NAM 54K 83K 262K 32K NBM 65K 64K 68K 63K GP-NAM 801 1201 3901 501 Table 1: Examples of the number of parameters. GP-NAM is a fast, parameter-lite NAM approach with equival"
+    },
+    {
+      "match": "creditcard",
+      "offset": 29052,
+      "excerpt": "rained using stochastic gradient 4 https://archive.physionet.org/mimic2 5 https://physionet.org/content/mimiciii/ 6 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 7 https://www.kaggle.com/c/kddcup2012-track2 8 https://www.microsoft.com/en-us/research/project/mslr 9 https://archive.ics.uci.edu/ml/datasets/yearpredictionmsd 10 https://webscope.sandbox.yahoo.com/catalog.php?datatype=c 11 https://www.kaggle.com/blastchar/telco-customer-churn 12 https://archive.i"
+    },
+    {
+      "match": "FICO",
+      "offset": 29759,
+      "excerpt": " 9 Dataset #Train #Val #Test #Feat Churn 4,507 1,127 1,09 20 FICO 7,321 1,046 2,092 39 LCD 10,000 1,000 1,000 5 GMSC 15,000 1,000 1,000 9 MIMIC-II 17,155 2,451 4,902 17 MIMIC-III 17,502 4,376 5,470 57 Adult 20,838 5,210 6,513 14 "
+    },
+    {
+      "match": "FICO",
+      "offset": 32484,
+      "excerpt": " Therefore, the algorithm is faster than 10 MIMIC-II MIMIC-III Credit GMSC Adult Churn FICO LCD Model AUC↑ AUC↑ AUC↑ AUC↑ AUC↑ AUC↑ AUC↑ AUC↑ Linear 0.8147 0.7753 0.9770 0.8063 0.9013 0.8345 0.7909 0.9459 EBM 0.8514 0.8090 0.9760 0.8655 0.9277 0.8490 0.7985 0.9519 NAM "
+    },
+    {
+      "match": "FICO",
+      "offset": 36304,
+      "excerpt": "o, Microsoft). For nearly all of the remaining 6 problems GP-NAM is close to the best along with several other algorithms. Furthermore, for several problems (Credit, Adult, Churn, FICO, LCD, Microsoft) a basic linear model in the features space performs very competitively, indicating a highly linear problem there. For the data sets with obvious improvement (Bikeshare, CA Housing) or moderate improvement (MIMIC-II, MIMIC-III, GMSC, Yahoo), GP-NAM captures the nonlinearity of the problem as well as other NAM approaches. However, a"
+    },
+    {
+      "match": "FICO",
+      "offset": 38445,
+      "excerpt": "function approximation, and thus are as suitable for the generalized additive modeling problem as deeper neural networks. Using CA House Bike FICO LCD Model RMSE↓ RMSE↓ AUC↑ AUC↑ Linear 0.7354 145.9 0.7909 0.9459 GP-NAM 0.5586 99.6 0.8043 0.9524 XGBoost 0.4428 50.0 0.7925 0.9567 MLP 0.5041 44.2 0.7936 0.9"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Wei Zhang",
+      "Brian Barr",
+      "John Paisley"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2402.12518",
+    "version": "arxiv_author_version"
+  }
+}

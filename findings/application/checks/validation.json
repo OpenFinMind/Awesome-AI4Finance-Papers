@@ -1,0 +1,37 @@
+{
+  "validated_at_utc": "2026-11-20T08:38:22.181868+00:00",
+  "papers": 75,
+  "tracks": {
+    "findings": 75
+  },
+  "scope": {
+    "application": 75
+  },
+  "venues": {
+    "ACL": 34,
+    "EMNLP": 41
+  },
+  "years": {
+    "2021": 9,
+    "2022": 1,
+    "2023": 7,
+    "2024": 16,
+    "2025": 16,
+    "2026": 26
+  },
+  "topics": 18,
+  "paper_notes": 75,
+  "pdfs": 75,
+  "pdf_bytes": 201919236,
+  "missing_pdfs": 0,
+  "local_markdown_links_checked": 2756,
+  "title_abstract_reviews_without_separate_inclusion_excerpt": [],
+  "csv_jsonl_excel_classifications_consistent": true,
+  "topic_memberships_consistent": true,
+  "bibtex_identities_consistent": true,
+  "all_local_links_resolve": true,
+  "all_pdf_hashes_match": true,
+  "separate_track_validated": "findings",
+  "separate_scope_validated": "application",
+  "explicit_short_paper_records": 0
+}

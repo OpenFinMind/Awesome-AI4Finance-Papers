@@ -1,0 +1,27 @@
+{
+  "id": "aaai-2026-38588",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2026/aaai-2026-38588__Targeting_Borderline_Fraudsters_Multi_View_Hypergraph_Fraud_Detection_with_LLM_Guided_Contrastive_Learning.pdf",
+  "attempts": [],
+  "pages": 9,
+  "bytes": 1911076,
+  "sha256": "47192a49fb2d7efa92ab9abff392d61188bd028997ac1c9217fe251d8f1d0511",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38588/42550",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38588/42550",
+  "downloaded_at_utc": "2026-11-10T02:15:56.934101+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Rui Ou",
+      "Kun Zhu",
+      "Nana Zhang",
+      "Jiangtong Li",
+      "Chaochao Chen",
+      "Yuhua Xu",
+      "Changjun Jiang"
+    ],
+    "identity_verified": true
+  }
+}

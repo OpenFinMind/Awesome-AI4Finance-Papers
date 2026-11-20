@@ -1,0 +1,29 @@
+{
+  "id": "aaai-2025-35468",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2025/aaai-2025-35468__MCGAN_Enhancing_GAN_Training_with_Regression_Based_Generator_Loss.pdf",
+  "attempts": [
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/35468/37623",
+      "http_status": 403,
+      "error": "No valid PDF response"
+    }
+  ],
+  "pages": 19,
+  "bytes": 47715303,
+  "sha256": "279ea9784d90d7a0e7e319b51f08c8d604e02e37b4899a71a16b2cd5c5c45de5",
+  "pdf_version": "arxiv_author_version",
+  "requested_url": "https://arxiv.org/pdf/2405.17191",
+  "final_url": "https://arxiv.org/pdf/2405.17191",
+  "downloaded_at_utc": "2026-11-10T02:32:43.118745+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Baoren Xiao",
+      "Hao Ni",
+      "Weixin Yang"
+    ],
+    "identity_verified": true
+  }
+}

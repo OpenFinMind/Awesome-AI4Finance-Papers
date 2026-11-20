@@ -1,0 +1,34 @@
+{
+  "id": "aaai-2025-35468",
+  "title": "MCGAN: Enhancing GAN Training with Regression-Based Generator Loss",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35468",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 148964,
+  "passages": [
+    {
+      "match": "S&P 500",
+      "offset": 55481,
+      "excerpt": "r, given the flexibility and promising re- series composed of the log return and log volatility data of sults of the MCGAN on different types of data, it can be ef- S&P 500 and DJI spanning from 2005/01/01 to 2020/01/01. fectively applied to generate multi-modality datasets simul- To cover the stylized facts of financial time series like lever- taneously. Acknowledgements Heusel, M.; Ramsauer, H.; Unterthiner, T.; Nessler, B.; and HN and "
+    },
+    {
+      "match": "S&P 500",
+      "offset": 124064,
+      "excerpt": "s on condi- Stocks dataset For stock dataset, we generate both log re- tional timeseries generation . turn and log volatility process of S&P 500 and DJI . The esti- mated cross-corelation matrices are presented in Figure 10, VAR dataset For VAR dataset, the evaluation metrics are we can see that the generated cross-corelation matrices by give in Tables 9, 10 and 11. From these tables, we can see MCGAN are"
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Baoren Xiao",
+      "Hao Ni",
+      "Weixin Yang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2405.17191",
+    "version": "arxiv_author_version"
+  }
+}

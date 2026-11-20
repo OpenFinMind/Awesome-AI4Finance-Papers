@@ -1,0 +1,23 @@
+{
+  "id": "aaai-2024-28661",
+  "title": "A Reinforcement-Learning-Based Multiple-Column Selection Strategy for Column Generation",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/28661",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 75181,
+  "passages": [],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Haofeng Yuan",
+      "Lichang Fang",
+      "Shiji Song"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2312.14213",
+    "version": "arxiv_author_version"
+  }
+}

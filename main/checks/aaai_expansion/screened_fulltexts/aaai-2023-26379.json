@@ -1,0 +1,40 @@
+{
+  "id": "aaai-2023-26379",
+  "title": "Learning from Good Trajectories in Offline Multi-Agent Reinforcement Learning",
+  "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/26379",
+  "http_status": 200,
+  "status": "screened",
+  "fulltext_characters": 102798,
+  "passages": [
+    {
+      "match": "m4",
+      "offset": 89364,
+      "excerpt": " 50%[sr1 , sm r m m 2 , z1 , z2 , z3 ] Quality 50%[m1 , m2 , m3 , m4 , m5 , mr6 , mr7 , mr8 ]+ r r r r r 8m 3.10 10000 50%[mr1 , mr2 , mr3 , mr4 , mr5 , mr6 , mr7 , mm 8 ] 50%["
+    },
+    {
+      "match": "m4",
+      "offset": 90200,
+      "excerpt": "1 , s1 , s2 , s3 , z1 , z2 , z3 , z4 , z5 ] m 50%[m1 , m2 , m3 , m4 , m5 , m6 , m7 , m8 , m9 , mr10 ]+ r r r r r r r r r 10m vs 11m 3.82 10000 50%[mr1 , mr2 , mm m m m m "
+    },
+    {
+      "match": "m4",
+      "offset": 90576,
+      "excerpt": " 3.82 10000 50%[mr1 , mr2 , mm m m m m 3 , m4 , m5 , m6 , m7 , m8 , m9 , m10 ] m m m 2s vs 1sc 100%[sr1 , se2 ] 9.86 10000 3s vs 5z 100%[sr1 , sr2 , se3 ] "
+    }
+  ],
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Qi Tian",
+      "Kun Kuang",
+      "Furui Liu",
+      "Baoxiang Wang"
+    ],
+    "identity_verified": true
+  },
+  "pdf_source": {
+    "url": "https://arxiv.org/pdf/2211.15612",
+    "version": "arxiv_author_version"
+  }
+}

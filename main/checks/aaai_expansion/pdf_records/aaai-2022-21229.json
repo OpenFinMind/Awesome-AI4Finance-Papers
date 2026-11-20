@@ -1,0 +1,26 @@
+{
+  "id": "aaai-2022-21229",
+  "status": "downloaded",
+  "local_path": "pdfs/AAAI/2022/aaai-2022-21229__Optimal_Admission_Control_for_Multiclass_Queues_with_Time_Varying_Arrival_Rates_via_State_Abstraction.pdf",
+  "attempts": [],
+  "pages": 8,
+  "bytes": 936230,
+  "sha256": "1f9499dfb2e4d66604f1b46d0eb37f06f2d7219a42c13daf44bd27968195ce8a",
+  "pdf_version": "publisher_version",
+  "requested_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21229/20978",
+  "final_url": "https://ojs.aaai.org/index.php/AAAI/article/download/21229/20978",
+  "downloaded_at_utc": "2026-11-10T02:15:46.339066+00:00",
+  "identity": {
+    "title_exact": true,
+    "title_similarity": 1.0,
+    "matched_authors": [
+      "Marc Rigter",
+      "Danial Dervovic",
+      "Parisa Hassanzadeh",
+      "Jason Long",
+      "Parisa Zehtabi",
+      "Daniele Magazzeni"
+    ],
+    "identity_verified": true
+  }
+}
